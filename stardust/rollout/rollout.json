@@ -1,0 +1,42 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-13T12:36:11.746Z",
+    "stardustVersion": "0.0.0"
+  },
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.diva-e.com/",
+    "da": {
+      "org": "aemcoder",
+      "site": "a608424f",
+      "ref": "main"
+    },
+    "liveHost": "main--a608424f--aemcoder.aem.live",
+    "previewHost": "main--a608424f--aemcoder.aem.page"
+  },
+  "scope": {
+    "pages": 100,
+    "discovered": 100,
+    "capped": false,
+    "pageCap": null
+  },
+  "lastRun": {
+    "at": "2026-11-14T07:20:44.469Z",
+    "pages": {
+      "total": 100,
+      "verified": 100,
+      "deployed": 0,
+      "pending": 0,
+      "contentPending": 0,
+      "stale": 0,
+      "failed": 0
+    },
+    "blocks": {
+      "total": 18,
+      "converted": 18,
+      "pending": 0
+    },
+    "verifyFailures": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "archetype": "en-imprint",
+  "liveUrl": "https://www.diva-e.com/en/imprint/",
+  "prototype": "stardust/prototypes/en-imprint-proposed.html",
+  "canon": ["stardust/prototypes/canon.css", "stardust/prototypes/canon.js"],
+  "pageCss": "stardust/prototypes/en-imprint.css",
+  "main": ".page",
+  "consent": "built-in (gate dismissOverlays cleared Usercentrics on both captures)",
+  "iterations": { "1440": 1, "360": 1 },
+  "confirmationRounds": [
+    "stardust/replica/gates/en-imprint-1440/ iter1 (--full, first round passed all bars)",
+    "stardust/replica/gates/en-imprint-360/ iter1 (--full, first round passed all bars)"
+  ],
+  "gates": {
+    "1440": {
+      "pixel": "0.66%",
+      "heightDelta": 0,
+      "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (2 advisory: added aria-label on breadcrumb nav)",
+      "visualDiff": "19 advisory: FONT MISMATCH only (GT Planar → Liberation Sans, register R-03, justified)",
+      "clipped": 0,
+      "overflow": "0px (scrollWidth 1440)"
+    },
+    "360": {
+      "pixel": "1.31%",
+      "heightDelta": 0,
+      "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (114 advisory: mega-menu/drawer copy in header, same as landing/article)",
+      "visualDiff": "19 advisory: FONT MISMATCH only (R-03, justified)",
+      "clipped": 0,
+      "overflow": "0px (scrollWidth 360)"
+    }
+  },
+  "capProbe": "PASS at 2560 — 0 of 6 rows failed (stardust/replica/gates/en-imprint-2560/cap-iter.json)",
+  "residuals": [
+    "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw deltas in canon header/footer — GT Planar substitute metrics (R-03); identical counts to the gated landing/article; canon not editable here",
+    "Source mailto link is malformed on live (href \"/en/mailto:info@diva-e.com/\"); build uses \"mailto:info@diva-e.com\" — inconsistency-register candidate (broken link fix, no visual change)",
+    "motion MISSING on build: header langs 'show' class (canon header, same as article archetype)"
+  ],
+  "captureState": [],
+  "motion": {
+    "observed": ["header langs 'show' class (1×)"],
+    "implemented": [],
+    "dead": ["header scroll-morph"],
+    "compare": "stardust/replica/motion/en-imprint-compare.txt — 0 parity, 1 missing (show: canon header), 0 extra"
+  },
+  "fonts": {
+    "body": "Inter self-hosted (canon)",
+    "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)"
+  },
+  "unitsFamilies": "none (no repeated-unit block on this archetype)",
+  "passed": true,
+  "canonCandidates": [
+    ".layout-breadcrumbs (light + dark) — now authored three times (crm .breadcrumbs, mann-hummel, imprint); lift into canon with the source's --current selector (mann-hummel's markup uses a doubled 'layout-layout-breadcrumbs--current' class)",
+    ".simple-text (wrapper/container 10-of-12, top-margin/bottom-margin 64px, row-headline 7-of-10, h2 2.4/3.9/4.7rem, row-paragraph h3 2/2.4/3.4rem) — shared by crm, mann-hummel, imprint and the other static pages (about-us, data-privacy, ai-manifest, management)"
+  ]
+}

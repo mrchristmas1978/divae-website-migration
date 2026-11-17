@@ -1,0 +1,236 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T11:30:29.729Z",
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "widths": [
+      1440
+    ],
+    "selectors": [
+      ".slider-cards-copy .swiper-slide-active",
+      ".slider-cards .story-card.is-active",
+      ".slider-cards-copy__swiper",
+      ".slider-cards__swiper",
+      ".slider-cards-copy .swiper",
+      ".slider-cards__viewport"
+    ],
+    "props": [
+      "height",
+      "padding",
+      "width"
+    ],
+    "allMatches": false,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440
+  ],
+  "selectors": [
+    ".slider-cards-copy .swiper-slide-active",
+    ".slider-cards .story-card.is-active",
+    ".slider-cards-copy__swiper",
+    ".slider-cards__swiper",
+    ".slider-cards-copy .swiper",
+    ".slider-cards__viewport"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/": {
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7139,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7172,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/": {
+      "1440": {
+        ".slider-cards-copy .swiper-slide-active": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 222,
+              "y": 3712,
+              "w": 325,
+              "h": 340
+            },
+            "visible": true,
+            "text": "View More 6 Nov 2026 Lünendonk® Survey …",
+            "props": {
+              "height": "329.062px",
+              "padding": "0px",
+              "width": "313.328px"
+            }
+          }
+        ],
+        ".slider-cards .story-card.is-active": [],
+        ".slider-cards-copy__swiper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": -16,
+              "y": 3630,
+              "w": 1475,
+              "h": 511
+            },
+            "visible": true,
+            "text": "View More 8 Jan 2026 Kyowa Kirin – Reth…",
+            "props": {
+              "height": "460.266px",
+              "padding": "50px 0px",
+              "width": "1460px"
+            }
+          }
+        ],
+        ".slider-cards__swiper": [],
+        ".slider-cards-copy .swiper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": -14,
+              "y": 3680,
+              "w": 1472,
+              "h": 411
+            },
+            "visible": true,
+            "text": "View More 8 Jan 2026 Kyowa Kirin – Reth…",
+            "props": {
+              "height": "360.266px",
+              "padding": "0px 236px",
+              "width": "1460px"
+            }
+          }
+        ],
+        ".slider-cards__viewport": []
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "1440": {
+        ".slider-cards-copy .swiper-slide-active": [],
+        ".slider-cards .story-card.is-active": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 221,
+              "y": 3712,
+              "w": 327,
+              "h": 402
+            },
+            "visible": true,
+            "text": "View More 6 Nov 2026 Lünendonk® Survey …",
+            "props": {
+              "height": "391.469px",
+              "padding": "0px",
+              "width": "313.328px"
+            }
+          }
+        ],
+        ".slider-cards-copy__swiper": [],
+        ".slider-cards__swiper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": -17,
+              "y": 3630,
+              "w": 1476,
+              "h": 542
+            },
+            "visible": true,
+            "text": "View More 8 Jan 2026 Kyowa Kirin – Reth…",
+            "props": {
+              "height": "491.469px",
+              "padding": "50px 0px",
+              "width": "1460px"
+            }
+          }
+        ],
+        ".slider-cards-copy .swiper": [],
+        ".slider-cards__viewport": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": -15,
+              "y": 3680,
+              "w": 1473,
+              "h": 442
+            },
+            "visible": true,
+            "text": "View More 8 Jan 2026 Kyowa Kirin – Reth…",
+            "props": {
+              "height": "391.469px",
+              "padding": "0px 236px",
+              "width": "1460px"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "1440": {
+      ".slider-cards-copy .swiper-slide-active": {
+        "status": "missing-b",
+        "countA": 1,
+        "countB": 0,
+        "pairs": []
+      },
+      ".slider-cards .story-card.is-active": {
+        "status": "missing-a",
+        "countA": 0,
+        "countB": 1,
+        "pairs": []
+      },
+      ".slider-cards-copy__swiper": {
+        "status": "missing-b",
+        "countA": 1,
+        "countB": 0,
+        "pairs": []
+      },
+      ".slider-cards__swiper": {
+        "status": "missing-a",
+        "countA": 0,
+        "countB": 1,
+        "pairs": []
+      },
+      ".slider-cards-copy .swiper": {
+        "status": "missing-b",
+        "countA": 1,
+        "countB": 0,
+        "pairs": []
+      },
+      ".slider-cards__viewport": {
+        "status": "missing-a",
+        "countA": 0,
+        "countB": 1,
+        "pairs": []
+      }
+    }
+  },
+  "rootDeltas": {
+    "1440": {
+      "scrollWidth": 0,
+      "scrollHeight": 33
+    }
+  }
+}

@@ -1,0 +1,4432 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T04:52:34.872Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/services/crm/",
+  "at": "2026-11-14T04:52:10.531Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6295,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 24,
+    "text": "Connect Processes, Data & Customers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 170,
+    "w": 312,
+    "h": 158,
+    "level": 1,
+    "text": "customer relationship management (crm)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__description.richtext > p",
+    "x": 24,
+    "y": 344,
+    "w": 312,
+    "h": 288,
+    "text": "Customer relationships are key to sustainable business success – and the right C"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-wrapper > div.hero__info-container > a.hero__cta.btn",
+    "x": 24,
+    "y": 648,
+    "w": 312,
+    "h": 48,
+    "text": "get expert advice",
+    "href": "/en/services/crm/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 772,
+    "w": 33,
+    "h": 16,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 44,
+    "y": 794,
+    "w": 248,
+    "h": 24,
+    "text": "customer relationship management (crm)",
+    "href": "/en/services/crm/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > h2",
+    "x": 24,
+    "y": 858,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "your crm strategy – aligned with growth"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 964,
+    "w": 312,
+    "h": 120,
+    "text": "A CRM system lays the foundation to manage customer relationships effectively, s"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.image-grid-10__img-container > picture > img",
+    "x": 24,
+    "y": 1164,
+    "w": 312,
+    "h": 186,
+    "text": "your goal and how crm supports it",
+    "file": "0x890"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.cards-block__tagline--center.cards-block__tagline > h2",
+    "x": 24,
+    "y": 1470,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "our crm-services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 1550,
+    "w": 264,
+    "h": 24,
+    "text": "Strategy & Concept Design"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 1590,
+    "w": 264,
+    "h": 137,
+    "text": "Comprehensive assessment of your current system landscape and business objective"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 1808,
+    "w": 264,
+    "h": 48,
+    "text": "System Analysis & Migration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 1872,
+    "w": 264,
+    "h": 98,
+    "text": "In-depth system and data assessment, security evaluation, data health checks, tr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 2049,
+    "w": 264,
+    "h": 48,
+    "text": "Implementation & Customization"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 2113,
+    "w": 264,
+    "h": 98,
+    "text": "Technical configuration, tailored development, interface and quality management,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 2291,
+    "w": 264,
+    "h": 24,
+    "text": "Rollout & User Adoption"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 2331,
+    "w": 264,
+    "h": 98,
+    "text": "Training concepts, establishment of key-user and super-user structures, change c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 2509,
+    "w": 264,
+    "h": 24,
+    "text": "Compliance & Security"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 2549,
+    "w": 264,
+    "h": 98,
+    "text": "Leveraging our extensive experience, we support the technical implementation of "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info-txt.richtext > p > i",
+    "x": 48,
+    "y": 2648,
+    "w": 248,
+    "h": 36,
+    "text": "Please note: We do not provide legal advice."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 2767,
+    "w": 264,
+    "h": 24,
+    "text": "Salesforce Expertise"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 2807,
+    "w": 264,
+    "h": 137,
+    "text": "As an experienced we support you in making optimal use of the platform—from tail"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info-txt.richtext > p > a",
+    "x": 178,
+    "y": 2808,
+    "w": 129,
+    "h": 16,
+    "text": "salesforce partner,",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 25,
+    "y": 2992,
+    "w": 310,
+    "h": 64,
+    "text": "book a consultation now",
+    "href": "/en/services/crm/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider__header > div.teaser-slider__label > h2",
+    "x": 24,
+    "y": 3096,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "our crm customer"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 24,
+    "y": 3149,
+    "w": 312,
+    "h": 197,
+    "text": "mann stehend an heizungsrohren",
+    "file": "500x0"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 105,
+    "y": 3183,
+    "w": 150,
+    "h": 128,
+    "text": "logo viega",
+    "file": "viega_logo"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > h4.teaser-headline",
+    "x": 48,
+    "y": 3369,
+    "w": 264,
+    "h": 34,
+    "level": 4,
+    "text": "viega"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > p.teaser-text",
+    "x": 48,
+    "y": 3411,
+    "w": 264,
+    "h": 96,
+    "text": "Development of the myViega Hub as a central platform for the digital customer ex"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > a.btn.btn--sm",
+    "x": 48,
+    "y": 3535,
+    "w": 113,
+    "h": 42,
+    "text": "learn more",
+    "href": "/en/about-us/customers/viega/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet.swiper-pagination-bullet-active",
+    "x": 161,
+    "y": 3637,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 172,
+    "y": 3637,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 183,
+    "y": 3637,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 194,
+    "y": 3637,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > h2",
+    "x": 24,
+    "y": 3782,
+    "w": 214,
+    "h": 29,
+    "level": 2,
+    "text": "talk to our experts"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 3858,
+    "w": 312,
+    "h": 216,
+    "text": "Ready to take your CRM strategy to the next level? With over 20 years of experie"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.form-block__heading > div > h2.form-block__heading-title",
+    "x": 24,
+    "y": 4186,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "get in touch now!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email_salutation_de_informal_1.hs-email_salutation_de_informal_1 > label#label-email_salutation_de_informal_1-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_r2m21 > span",
+    "x": 24,
+    "y": 4256,
+    "w": 58,
+    "h": 14,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 24,
+    "y": 4279,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 98,
+    "y": 4279,
+    "w": 61,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 174,
+    "y": 4279,
+    "w": 61,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_firstname.hs-firstname > label#label-firstname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_r2m21 > span",
+    "x": 24,
+    "y": 4343,
+    "w": 59,
+    "h": 14,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_lastname.hs-lastname > label#label-lastname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_r2m21 > span",
+    "x": 24,
+    "y": 4423,
+    "w": 57,
+    "h": 14,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email.hs-email > label#label-email-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_r2m21 > span",
+    "x": 24,
+    "y": 4504,
+    "w": 36,
+    "h": 14,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_phone.hs-phone > label#label-phone-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_r2m21 > span",
+    "x": 24,
+    "y": 4584,
+    "w": 36,
+    "h": 14,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_company.hs-company > label#label-company-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_r2m21 > span",
+    "x": 24,
+    "y": 4664,
+    "w": 85,
+    "h": 14,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > label#label-wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_r2m21 > span",
+    "x": 24,
+    "y": 4744,
+    "w": 176,
+    "h": 14,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > div.input > select#wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_r2m21",
+    "x": 24,
+    "y": 4769,
+    "w": 312,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_which_services.hs-which_services > label#label-which_services-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_r2m21 > span",
+    "x": 24,
+    "y": 4858,
+    "w": 77,
+    "h": 14,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.legal-consent-container > div.hs-richtext > p",
+    "x": 24,
+    "y": 4988,
+    "w": 312,
+    "h": 235,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > a",
+    "x": 136,
+    "y": 5157,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "label.hs-form-booleancheckbox-display > span > p",
+    "x": 60,
+    "y": 5237,
+    "w": 270,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-booleancheckbox > label.hs-form-booleancheckbox-display > span",
+    "x": 60,
+    "y": 5282,
+    "w": 276,
+    "h": 32,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > em",
+    "x": 24,
+    "y": 5331,
+    "w": 95,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_submit.hs-submit > div.actions > input.hs-button.primary",
+    "x": 24,
+    "y": 5372,
+    "w": 131,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 5512,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 5512,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 5564,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5665,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5709,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5753,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 5753,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 5753,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5797,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 5797,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5841,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 5841,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 5841,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5885,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 5885,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 5885,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5929,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 5929,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 5929,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 6010,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 6013,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 6057,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 6134,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 6134,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 6134,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 6195,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 12,
+    "textNodes": 90,
+    "controls": 46,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/services/crm",
+  "at": "2026-11-14T04:52:34.670Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6296,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 24,
+    "text": "Connect Processes, Data & Customers"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#customer-relationship-management-crm",
+    "x": 24,
+    "y": 170,
+    "w": 312,
+    "h": 158,
+    "level": 1,
+    "text": "customer relationship management (crm)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-container > div.hero-description > p",
+    "x": 24,
+    "y": 344,
+    "w": 312,
+    "h": 288,
+    "text": "Customer relationships are key to sustainable business success – and the right C"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-actions > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 648,
+    "w": 312,
+    "h": 48,
+    "text": "get expert advice",
+    "href": "/en/services/crm"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 772,
+    "w": 33,
+    "h": 16,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 46,
+    "y": 794,
+    "w": 246,
+    "h": 24,
+    "text": "customer relationship management (crm)",
+    "href": "/en/services/crm"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.section > div.default-content-wrapper > h2#your-crm-strategy--aligned-with-growth",
+    "x": 24,
+    "y": 858,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "your crm strategy – aligned with growth"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.section > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 964,
+    "w": 312,
+    "h": 120,
+    "text": "A CRM system lays the foundation to manage customer relationships effectively, s"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.image-caption-media > picture > img",
+    "x": 24,
+    "y": 1164,
+    "w": 312,
+    "h": 186,
+    "text": "your goal and how crm supports it",
+    "file": "media_1fff54021d99e2f5ce7d2f7c73980b0c7f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > div.cards-tagline > h2#our-crm-services",
+    "x": 24,
+    "y": 1470,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "our crm-services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 1550,
+    "w": 264,
+    "h": 24,
+    "text": "Strategy & Concept Design"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 1590,
+    "w": 264,
+    "h": 137,
+    "text": "Comprehensive assessment of your current system landscape and business objective"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 1807,
+    "w": 264,
+    "h": 48,
+    "text": "System Analysis & Migration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 1871,
+    "w": 264,
+    "h": 98,
+    "text": "In-depth system and data assessment, security evaluation, data health checks, tr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 2049,
+    "w": 264,
+    "h": 48,
+    "text": "Implementation & Customization"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 2113,
+    "w": 264,
+    "h": 98,
+    "text": "Technical configuration, tailored development, interface and quality management,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 2291,
+    "w": 264,
+    "h": 24,
+    "text": "Rollout & User Adoption"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 2331,
+    "w": 264,
+    "h": 98,
+    "text": "Training concepts, establishment of key-user and super-user structures, change c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 2509,
+    "w": 264,
+    "h": 24,
+    "text": "Compliance & Security"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 2549,
+    "w": 264,
+    "h": 98,
+    "text": "Leveraging our extensive experience, we support the technical implementation of "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-txt > p > em",
+    "x": 48,
+    "y": 2648,
+    "w": 248,
+    "h": 36,
+    "text": "Please note: We do not provide legal advice."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 2767,
+    "w": 264,
+    "h": 24,
+    "text": "Salesforce Expertise"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 2807,
+    "w": 264,
+    "h": 137,
+    "text": "As an experienced we support you in making optimal use of the platform—from tail"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-txt > p > a",
+    "x": 178,
+    "y": 2808,
+    "w": 129,
+    "h": 16,
+    "text": "salesforce partner,",
+    "href": "/en/about-us/partner/salesforce"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.button-group-buttons > p.button-wrapper > a.button.primary",
+    "x": 28,
+    "y": 2992,
+    "w": 304,
+    "h": 64,
+    "text": "book a consultation now",
+    "href": "/en/services/crm"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider.block > div.teaser-slider-header > h2#our-crm-customer",
+    "x": 24,
+    "y": 3096,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "our crm customer"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 24,
+    "y": 3148,
+    "w": 312,
+    "h": 197,
+    "text": "mann stehend an heizungsrohren",
+    "file": "media_13450088468b85b3ea565e8e7b7c20bd78"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 105,
+    "y": 3172,
+    "w": 150,
+    "h": 150,
+    "text": "logo viega",
+    "file": "media_13801a60140367b905da112d312a38122c"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-headline > h4#viega",
+    "x": 48,
+    "y": 3369,
+    "w": 264,
+    "h": 34,
+    "level": 4,
+    "text": "viega"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-body > p",
+    "x": 48,
+    "y": 3411,
+    "w": 264,
+    "h": 96,
+    "text": "Development of the myViega Hub as a central platform for the digital customer ex"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-cta > p.link-only > a",
+    "x": 48,
+    "y": 3535,
+    "w": 115,
+    "h": 42,
+    "text": "learn more",
+    "href": "/en/about-us/customers/viega"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet.is-active",
+    "x": 161,
+    "y": 3637,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 172,
+    "y": 3637,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 183,
+    "y": 3637,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 194,
+    "y": 3637,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > h2#talk-to-our-experts",
+    "x": 24,
+    "y": 3782,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "talk to our experts"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 3858,
+    "w": 312,
+    "h": 216,
+    "text": "Ready to take your CRM strategy to the next level? With over 20 years of experie"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.form-block-form > div.form-block-heading > h2#get-in-touch-now",
+    "x": 24,
+    "y": 4186,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "get in touch now!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > span#fb-email_salutation-1-lbl",
+    "x": 24,
+    "y": 4255,
+    "w": 312,
+    "h": 16,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 24,
+    "y": 4279,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 98,
+    "y": 4279,
+    "w": 62,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 176,
+    "y": 4279,
+    "w": 62,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 4342,
+    "w": 312,
+    "h": 16,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 4422,
+    "w": 312,
+    "h": 16,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 4503,
+    "w": 312,
+    "h": 16,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 4583,
+    "w": 312,
+    "h": 16,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 4663,
+    "w": 312,
+    "h": 16,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 4743,
+    "w": 312,
+    "h": 16,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > select#fb-wie_sind_sie_auf_uns_aufmerksam_geworden-7",
+    "x": 24,
+    "y": 4769,
+    "w": 312,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field.hs-form-field-textarea > label.hs-form-label",
+    "x": 24,
+    "y": 4857,
+    "w": 312,
+    "h": 16,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-legal > div.hs-form-richtext > p",
+    "x": 24,
+    "y": 4988,
+    "w": 312,
+    "h": 235,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > a",
+    "x": 136,
+    "y": 5157,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 5237,
+    "w": 268,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 5282,
+    "w": 276,
+    "h": 34,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > em",
+    "x": 24,
+    "y": 5332,
+    "w": 95,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.hs-form > div.hs-form-actions > input.hs-form-submit",
+    "x": 24,
+    "y": 5373,
+    "w": 130,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 5513,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 5513,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 5565,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5666,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5710,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5754,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 5754,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 5754,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5798,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 5798,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5842,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 5842,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 5842,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5886,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 5886,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 5886,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5930,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 5930,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 5930,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 6014,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6058,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 6135,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 6135,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 6135,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 6196,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 12,
+    "textNodes": 90,
+    "controls": 45,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "customer relationship management (crm)",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "your crm strategy – aligned with growth",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "our crm-services",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 13,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "our crm customer",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 4,
+    "text": 1,
+    "image": 2
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 4,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "talk to our experts",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "get in touch now!",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 15,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 15,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"customer relationship management (crm)\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 125,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 169,
+    "w": 164,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 209,
+    "w": 212,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 248,
+    "w": 218,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 288,
+    "w": 111,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 347,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 371,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 395,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 419,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 443,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 467,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 491,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 515,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 539,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 563,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 587,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 611,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 113,
+    "y": 663,
+    "w": 134,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 772,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 44,
+    "y": 798,
+    "w": 248,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 858,
+    "w": 231,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 887,
+    "w": 229,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 967,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 991,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1015,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1039,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1063,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 77,
+    "y": 1470,
+    "w": 205,
+    "h": 28
+   },
+   {
+    "x": 48,
+    "y": 1550,
+    "w": 254,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 1591,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1611,
+    "w": 205,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1631,
+    "w": 261,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1650,
+    "w": 238,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1670,
+    "w": 238,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1689,
+    "w": 222,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1709,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1808,
+    "w": 171,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 1832,
+    "w": 89,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 1873,
+    "w": 176,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1892,
+    "w": 256,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1912,
+    "w": 262,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1931,
+    "w": 263,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1951,
+    "w": 189,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2049,
+    "w": 166,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 2073,
+    "w": 134,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 2114,
+    "w": 218,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2134,
+    "w": 236,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2154,
+    "w": 247,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2173,
+    "w": 211,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2193,
+    "w": 173,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2291,
+    "w": 228,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 2332,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2352,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2372,
+    "w": 191,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2391,
+    "w": 247,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2411,
+    "w": 146,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2509,
+    "w": 213,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 2550,
+    "w": 254,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2570,
+    "w": 169,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2590,
+    "w": 234,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2609,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2629,
+    "w": 123,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2648,
+    "w": 248,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2668,
+    "w": 49,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2767,
+    "w": 192,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 2808,
+    "w": 130,
+    "h": 16
+   },
+   {
+    "x": 178,
+    "y": 2808,
+    "w": 129,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2827,
+    "w": 257,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2847,
+    "w": 229,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2866,
+    "w": 203,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2886,
+    "w": 255,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2906,
+    "w": 264,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2925,
+    "w": 225,
+    "h": 16
+   },
+   {
+    "x": 65,
+    "y": 3012,
+    "w": 230,
+    "h": 23
+   },
+   {
+    "x": 74,
+    "y": 3096,
+    "w": 211,
+    "h": 28
+   },
+   {
+    "x": 48,
+    "y": 3371,
+    "w": 62,
+    "h": 28
+   },
+   {
+    "x": 48,
+    "y": 3414,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 3438,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 3462,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 3486,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 68,
+    "y": 3547,
+    "w": 73,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 3782,
+    "w": 214,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3861,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3885,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3909,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3933,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3957,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3981,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4005,
+    "w": 263,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4029,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4053,
+    "w": 46,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4186,
+    "w": 198,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4256,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 4256,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 4289,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 4289,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 191,
+    "y": 4289,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4343,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4423,
+    "w": 57,
+    "h": 14
+   },
+   {
+    "x": 81,
+    "y": 4423,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4504,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 4504,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4584,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4664,
+    "w": 85,
+    "h": 14
+   },
+   {
+    "x": 109,
+    "y": 4664,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4744,
+    "w": 176,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4858,
+    "w": 77,
+    "h": 14
+   },
+   {
+    "x": 101,
+    "y": 4858,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4989,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5005,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5022,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5039,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5056,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5089,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5106,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5123,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5140,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5157,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 5157,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 5157,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5190,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5207,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5238,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5254,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5238,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5283,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5299,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5331,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5512,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 5512,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5563,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5596,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5665,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5709,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5753,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 5753,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 5753,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5797,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 5797,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5841,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 5841,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 5841,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5885,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 5885,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 5885,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5929,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 5929,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 5929,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6011,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 6014,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6058,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 125,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 169,
+    "w": 162,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 209,
+    "w": 207,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 248,
+    "w": 217,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 288,
+    "w": 110,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 347,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 371,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 395,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 419,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 443,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 467,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 491,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 515,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 539,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 563,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 587,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 611,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 663,
+    "w": 131,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 772,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 46,
+    "y": 798,
+    "w": 246,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 858,
+    "w": 232,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 887,
+    "w": 220,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 967,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 991,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1015,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1039,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1063,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 77,
+    "y": 1470,
+    "w": 206,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 1551,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 1591,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1611,
+    "w": 205,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1630,
+    "w": 261,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1650,
+    "w": 238,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1670,
+    "w": 238,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1689,
+    "w": 222,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1709,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1808,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 1832,
+    "w": 91,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 1872,
+    "w": 176,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1892,
+    "w": 256,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1912,
+    "w": 262,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1931,
+    "w": 263,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1951,
+    "w": 189,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2050,
+    "w": 168,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 2074,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 2114,
+    "w": 218,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2134,
+    "w": 236,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2154,
+    "w": 247,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2173,
+    "w": 211,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2193,
+    "w": 173,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2292,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 2332,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2352,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2372,
+    "w": 191,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2391,
+    "w": 247,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2411,
+    "w": 146,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2510,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 2550,
+    "w": 254,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2570,
+    "w": 169,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2590,
+    "w": 234,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2609,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2629,
+    "w": 123,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2648,
+    "w": 248,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2668,
+    "w": 49,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2768,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 2808,
+    "w": 130,
+    "h": 16
+   },
+   {
+    "x": 178,
+    "y": 2808,
+    "w": 129,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2827,
+    "w": 257,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2847,
+    "w": 229,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2866,
+    "w": 203,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2886,
+    "w": 255,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2905,
+    "w": 264,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2925,
+    "w": 225,
+    "h": 16
+   },
+   {
+    "x": 68,
+    "y": 3013,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 74,
+    "y": 3096,
+    "w": 212,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 3372,
+    "w": 63,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 3414,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 3438,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 3462,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 3486,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 68,
+    "y": 3548,
+    "w": 75,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 3782,
+    "w": 210,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3861,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3885,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3909,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3933,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3957,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3981,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4005,
+    "w": 263,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4029,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4053,
+    "w": 46,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4186,
+    "w": 192,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4256,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 4256,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 4289,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 4289,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 193,
+    "y": 4289,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4343,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4423,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 84,
+    "y": 4423,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4504,
+    "w": 35,
+    "h": 14
+   },
+   {
+    "x": 61,
+    "y": 4504,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4584,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4664,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 114,
+    "y": 4664,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4744,
+    "w": 172,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4858,
+    "w": 79,
+    "h": 14
+   },
+   {
+    "x": 105,
+    "y": 4858,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4989,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5005,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5022,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5039,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5056,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5089,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5106,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5123,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5140,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5157,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 5157,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 5157,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5190,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5207,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5238,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5254,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5238,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5283,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5300,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5332,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5513,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 5513,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5565,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5598,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5666,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5710,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5754,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 5754,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 5754,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5798,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 5798,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5842,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 5842,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 5842,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5886,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 5886,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 5886,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5930,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 5930,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 5930,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6012,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 6015,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6059,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://www.diva-e.com/en/about-us/customers/mann-hummel/
+  modules  3 sections: capped 1241 ×1 · full-bleed ×2
+  contentMaxWidth 1241px (module) · shellMaxWidth fluid · root body
+build  http://localhost:8791/en-about-us-customers-mann-hummel-proposed.html
+  modules  9 sections: capped 1241 ×1, 1040 ×1 · full-bleed ×7
+  contentMaxWidth 1241px (module) · shellMaxWidth fluid · root body > main.page
+rows
+  ✓ content cap: live 1241px = build 1241px (±20, shared module cap)
+  ⚠ sections: live 3 vs build 9 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ⚠ module 1/3: live full-bleed (body > div > div > header.header) → build 1040px (div.hero__container > div.hero__image-wrapper > div.hero__info-title > div.hero__description)
+  ⚠ module 2/3: live 1241px (div.page.storyblok__outline > div.tags-carousel.grid-container > div.grid-column-container > div.tags-carousel__title) → build full-bleed (body > main.page > div.layout-breadcrumbs.layout-breadcrumbs--dark)
+  ✓ module 3/3: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 5 rows failed (evidence stardust/replica/gates/en-about-us-customers-mann-hummel-2560/cap-iter.json)

@@ -1,0 +1,8 @@
+motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)
+motion transition transform: MISSING on build (1 event(s) on live, 300ms)
+motion class show: MISSING on build (trigger class added 1× on live, never on build)
+motion class swiper-slide-active: MISSING on build (trigger class added 84× on live, never on build)
+motion class swiper-slide-next: MISSING on build (trigger class added 84× on live, never on build)
+motion class swiper-slide-prev: MISSING on build (trigger class added 84× on live, never on build)
+motion class swiper-slide-visible: MISSING on build (trigger class added 56× on live, never on build)
+motion summary: 0 parity, 6 missing, 0 extra, 0 advisory (0 out of tolerance, 1 dead or unobserved on live — not required; tolerance 150ms / 8px)

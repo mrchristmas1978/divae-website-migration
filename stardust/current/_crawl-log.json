@@ -1,0 +1,1358 @@
+{
+  "discovery": {
+    "fetchTechnique": "chrome",
+    "count": 100,
+    "concurrency": 3
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": {
+    "url": "https://www.diva-e.com/_nuxt/icons/64x64.5f6b12d0.png",
+    "file": "assets/favicon.png"
+  },
+  "crawl": {
+    "failures": [],
+    "pageTimeoutMs": 60000
+  },
+  "captureGaps": {
+    "roots": [
+      {
+        "root": "/en",
+        "slug": "en",
+        "linked": 91,
+        "uncaptured": [
+          "/en/about-us/customers/carl-zeiss-ag",
+          "/en/about-us/customers/dmtech",
+          "/en/about-us/customers/edeka",
+          "/en/about-us/customers/eon",
+          "/en/about-us/customers/fc-bayern-muenchen",
+          "/en/about-us/customers/schott",
+          "/en/about-us/customers/viega",
+          "/en/about-us/partner/adobe/adobe-experience-cloud",
+          "/en/about-us/partner/akeneo",
+          "/en/about-us/partner/algolia",
+          "/en/about-us/partner/bloomreach",
+          "/en/about-us/partner/commercetools",
+          "/en/about-us/partner/crownpeak/crownpeak-leistungen",
+          "/en/about-us/partner/dotcms",
+          "/en/about-us/partner/google",
+          "/en/about-us/partner/microsoft",
+          "/en/about-us/partner/pimcore",
+          "/en/about-us/partner/salesforce",
+          "/en/about-us/partner/sap",
+          "/en/about-us/partner/scayle",
+          "/en/about-us/partner/spryker",
+          "/en/about-us/partner/stibo-systems",
+          "/en/about-us/partner/storyblok",
+          "/en/about-us/partner/vtex",
+          "/en/insights/downloads/ai-search-guide",
+          "/en/insights/downloads/b2b-tech-evaluierung-guide",
+          "/en/insights/downloads/cybersecurity-guide",
+          "/en/insights/downloads/financial-services-guide",
+          "/en/insights/downloads/luenendonk",
+          "/en/insights/news/adobe-platinum-status",
+          "/en/insights/news/diva-e-conclusion-google-premier-partner-2026",
+          "/en/insights/news/diva-e-conclusion-launches-marketplace-for-productized-digital-services",
+          "/en/insights/news/diva-e-conclusion-migrates-aumovios-digital-platform",
+          "/en/insights/news/diva-e-conclusion-staerkt-sap-kompetenz-im-internationalen-conclusion-netzwerk",
+          "/en/insights/news/diva-e-develops-online-shop-for-weleda",
+          "/en/insights/news/kyowakirin",
+          "/en/insights/news/sirko-schneppe-wird-neuer-ceo-von-diva-e-conclusion",
+          "/en/insights/press/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6",
+          "/en/insights/press/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet",
+          "/en/services/ams/application-management-services",
+          "/en/services/ams/cloud-consulting",
+          "/en/services/ams/cloud-security",
+          "/en/services/ams/cybersecurity",
+          "/en/services/digital-consulting/digital-business-consulting",
+          "/en/services/digital-consulting/strategic-transformation",
+          "/en/services/digital-consulting/technology-architecture-consulting",
+          "/en/services/digital-marketing/audits",
+          "/en/services/digital-marketing/content",
+          "/en/services/digital-marketing/gaio",
+          "/en/services/digital-marketing/omnichannel-marketing",
+          "/en/services/digital-marketing/paid-advertising",
+          "/en/services/digital-marketing/seo",
+          "/en/services/digital-marketing/seo/monitoring-reporting",
+          "/en/services/digital-marketing/seo/tools/oneproseo",
+          "/en/services/dxp/cdp",
+          "/en/services/dxp/cms",
+          "/en/services/dxp/data-analytics-bi",
+          "/en/services/dxp/e-commerce-platform",
+          "/en/services/dxp/karriereportal",
+          "/en/services/dxp/pim",
+          "/en/services/dxp/system-integration",
+          "/en/services/dxp/system-integration/ux-ui-design"
+        ]
+      }
+    ],
+    "detail": "uncaptured first-level targets: en 62"
+  },
+  "dynamicSurface": {
+    "pages": 100,
+    "pagesWithSameSiteData": 26,
+    "pagesWithSearchForm": 1,
+    "pagesHydrated": 100,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/core/zwbhh7MR",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+        "pages": 100,
+        "examples": [
+          "en-loyalty-quiz",
+          "en",
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/{n}/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "query": [
+          "isOutsideRegion"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "pages": 68,
+        "examples": [
+          "en-loyalty-quiz",
+          "en",
+          "en-marketplace"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "api.storyblok.com",
+        "path": "/v2/cdn/stories",
+        "query": [
+          "by_uuids",
+          "cv",
+          "language",
+          "token",
+          "version"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "sameSite": false,
+        "example": "https://api.storyblok.com/v2/cdn/stories",
+        "pages": 64,
+        "examples": [
+          "en-loyalty-quiz",
+          "en",
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/{n}/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "query": [
+          "isOutsideRegion"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "pages": 32,
+        "examples": [
+          "index",
+          "en-security-quiz",
+          "en-about-us"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "_tu",
+          "ae",
+          "apvc",
+          "auid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.ads_data_redaction",
+          "fmt",
+          "frm",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://www.google.com/ccm/collect",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/rmkt/collect/{n}/",
+        "query": [
+          "_tu",
+          "async",
+          "auid",
+          "bg",
+          "cv",
+          "data",
+          "did",
+          "dma",
+          "en",
+          "ept",
+          "fmt",
+          "frm",
+          "fst",
+          "gcd",
+          "gcp",
+          "gdid",
+          "gtm",
+          "guid",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://www.google.com/rmkt/collect/16967774015/",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "forms.hscollectedforms.net",
+        "path": "/collected-forms/v1/config/json",
+        "query": [
+          "portalId",
+          "utk"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://forms.hscollectedforms.net/collected-forms/v1/config/json",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "api.hubapi.com",
+        "path": "/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "query": [
+          "portalId"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "data.diva-e.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_fplc",
+          "_fv",
+          "_nsi",
+          "_p",
+          "_s",
+          "_ss",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "ecid",
+          "en",
+          "ep.consent_conversion_linker",
+          "ep.consent_google_ads",
+          "ep.consent_google_ads_conversion_tracking",
+          "ep.consent_google_ads_remarketing",
+          "ep.consent_google_analytics_4",
+          "ep.consent_hubspot",
+          "ep.consent_linkedin_insight_tag",
+          "ep.consent_microsoft_advertising",
+          "ep.consent_microsoft_conversion_tracking",
+          "evnid",
+          "frm",
+          "gap.sstd",
+          "gcd",
+          "gcs",
+          "gdid",
+          "gtm",
+          "ibt",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "richsstsse",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "sst.gch",
+          "sst.lpc",
+          "sst.navt",
+          "sst.rnd",
+          "sst.sw_exp",
+          "sst.tft",
+          "sst.ude",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "up.user_referral_category",
+          "up.user_referral_dest",
+          "up.user_referral_location",
+          "ur",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "sameSite": true,
+        "example": "https://data.diva-e.com/g/collect",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "forms.hsforms.com",
+        "path": "/embed/v3/form/{n}/{uuid}/json",
+        "query": [
+          "X-HubSpot-Static-App-Info",
+          "hs_static_app",
+          "hs_static_app_version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://forms.hsforms.com/embed/v3/form/3937475/0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a/json",
+        "pages": 25,
+        "examples": [
+          "en",
+          "en-connect",
+          "en-contact"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/ccm/s/collect",
+        "query": [
+          "auid",
+          "fmt",
+          "gtm"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://ad.doubleclick.net/ccm/s/collect",
+        "pages": 5,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-about-us-customers-mann-hummel",
+          "en-insights-edge-ai-foundation"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "consent-api.service.consent.usercentrics.eu",
+        "path": "/consent/uw/{n}",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "sameSite": false,
+        "example": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+        "pages": 4,
+        "examples": [
+          "en-loyalty-quiz",
+          "en",
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "privacy-proxy.usercentrics.eu",
+        "path": "/latest/de.json",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://privacy-proxy.usercentrics.eu/latest/de.json",
+        "pages": 2,
+        "examples": [
+          "index",
+          "en-security-quiz-security-questions"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "q4fk4ehvii-dsn.algolia.net",
+        "path": "/{n}/indexes/*/queries",
+        "query": [
+          "x-algolia-agent",
+          "x-algolia-api-key",
+          "x-algolia-application-id"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://q4fk4ehvii-dsn.algolia.net/1/indexes/*/queries",
+        "pages": 1,
+        "examples": [
+          "en-search"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "hklbqjghol.execute-api.eu-central-1.amazonaws.com",
+        "path": "/_nuxt/builds/meta/{uuid}.json",
+        "query": [],
+        "resourceType": "other",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://hklbqjghol.execute-api.eu-central-1.amazonaws.com/_nuxt/builds/meta/ed6e7a15-bd01-40f5-8177-3bb0879fcf69.json",
+        "pages": 1,
+        "examples": [
+          "en-security-quiz-security-questions"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "googleads.g.doubleclick.net",
+        "path": "/pagead/id",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://googleads.g.doubleclick.net/pagead/id",
+        "pages": 1,
+        "examples": [
+          "en-about-us-customers-baby-walz"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "jnn-pa.googleapis.com",
+        "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json+protobuf",
+        "sameSite": false,
+        "example": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+        "pages": 1,
+        "examples": [
+          "en-about-us-customers-baby-walz"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.youtube.com",
+        "path": "/youtubei/v1/log_event",
+        "query": [
+          "alt"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://www.youtube.com/youtubei/v1/log_event",
+        "pages": 1,
+        "examples": [
+          "en-about-us-customers-baby-walz"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.gstatic.com",
+        "path": "/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "image/svg+xml",
+        "sameSite": false,
+        "example": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+        "pages": 1,
+        "examples": [
+          "en-about-us-customers-baby-walz"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "web.cmp.usercentrics.eu",
+        "pages": 100,
+        "examples": [
+          "en-loyalty-quiz",
+          "en",
+          "index"
+        ]
+      },
+      {
+        "host": "privacy-proxy.usercentrics.eu",
+        "pages": 100,
+        "examples": [
+          "en-loyalty-quiz",
+          "en",
+          "index"
+        ]
+      },
+      {
+        "host": "connect.facebook.net",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "host": "googleads.g.doubleclick.net",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "host": "snap.licdn.com",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "host": "js.hs-scripts.com",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "host": "js.hsadspixel.net",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "host": "js.hscollectedforms.net",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "host": "js.hs-banner.com",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "host": "js.hs-analytics.net",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "pages": 26,
+        "examples": [
+          "en-security-quiz-security-questions",
+          "en-services-total-experience",
+          "en-insights-events"
+        ]
+      },
+      {
+        "host": "js.hsforms.net",
+        "pages": 25,
+        "examples": [
+          "en",
+          "en-connect",
+          "en-contact"
+        ]
+      },
+      {
+        "host": "js-na1.hs-scripts.com",
+        "pages": 17,
+        "examples": [
+          "en-services-total-experience",
+          "en-insights-events",
+          "en-about-us-locations"
+        ]
+      },
+      {
+        "host": "hklbqjghol.execute-api.eu-central-1.amazonaws.com",
+        "pages": 1,
+        "examples": [
+          "en-security-quiz-security-questions"
+        ]
+      },
+      {
+        "host": "www.youtube.com",
+        "pages": 1,
+        "examples": [
+          "en-about-us-customers-baby-walz"
+        ]
+      },
+      {
+        "host": "static.doubleclick.net",
+        "pages": 1,
+        "examples": [
+          "en-about-us-customers-baby-walz"
+        ]
+      },
+      {
+        "host": "www.google.com",
+        "pages": 1,
+        "examples": [
+          "en-about-us-customers-baby-walz"
+        ]
+      }
+    ],
+    "frameworkHints": [
+      {
+        "hint": "nuxt",
+        "pages": 100,
+        "examples": [
+          "en-loyalty-quiz",
+          "en",
+          "index"
+        ]
+      },
+      {
+        "hint": "hubspot-forms",
+        "pages": 25,
+        "examples": [
+          "en",
+          "en-connect",
+          "en-contact"
+        ]
+      }
+    ],
+    "globalState": [
+      {
+        "name": "__NUXT__",
+        "pages": 100,
+        "examples": [
+          "en-loyalty-quiz",
+          "en",
+          "index"
+        ]
+      },
+      {
+        "name": "dataLayer",
+        "pages": 100,
+        "examples": [
+          "en-loyalty-quiz",
+          "en",
+          "index"
+        ]
+      }
+    ],
+    "formTargets": [
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/3937475/0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a",
+        "method": "post",
+        "sameOrigin": false,
+        "search": false,
+        "fieldNames": [
+          "email_salutation_de_informal_1",
+          "firstname",
+          "lastname",
+          "email",
+          "phone",
+          "company",
+          "wie_sind_sie_auf_uns_aufmerksam_geworden",
+          "which_services",
+          "LEGAL_CONSENT.subscription_type_8966186",
+          "LEGAL_CONSENT.subscription_type_4607881"
+        ],
+        "pages": 17,
+        "examples": [
+          "en",
+          "en-contact",
+          "en-about-us"
+        ]
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/3937475/7be38c84-25c4-4518-a4ea-4ad15117dbc4",
+        "method": "post",
+        "sameOrigin": false,
+        "search": false,
+        "fieldNames": [
+          "email_salutation_de_informal_1",
+          "firstname",
+          "lastname",
+          "email",
+          "company"
+        ],
+        "pages": 6,
+        "examples": [
+          "en-newsletter",
+          "en-insights-downloads",
+          "en-about-us-customers-doerrenberg"
+        ]
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/3937475/f867628b-9f28-4383-b5fe-edd19d49cdfd",
+        "method": "post",
+        "sameOrigin": false,
+        "search": false,
+        "fieldNames": [
+          "email_salutation_de_informal_1",
+          "firstname",
+          "lastname",
+          "email",
+          "jobtitle",
+          "company",
+          "0-2/unternehmensgro_e__umsatz_",
+          "LEGAL_CONSENT.subscription_type_8966186",
+          "LEGAL_CONSENT.subscription_type_4607881"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-connect"
+        ]
+      },
+      {
+        "action": "https://www.diva-e.com/en/search/",
+        "method": "get",
+        "sameOrigin": true,
+        "search": true,
+        "fieldNames": [],
+        "pages": 1,
+        "examples": [
+          "en-search"
+        ]
+      },
+      {
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/3937475/858dcd92-0f82-4892-800e-6408357edea7",
+        "method": "post",
+        "sameOrigin": false,
+        "search": false,
+        "fieldNames": [
+          "email_salutation_de_informal_1",
+          "firstname",
+          "lastname",
+          "email",
+          "jobtitle",
+          "company",
+          "0-2/unternehmensgro_e__umsatz_",
+          "LEGAL_CONSENT.subscription_type_8966186",
+          "LEGAL_CONSENT.subscription_type_4607881"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-campaigns-pim-voucher"
+        ]
+      }
+    ]
+  },
+  "visionCheck": [
+    {
+      "slug": "index",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-loyalty-quiz",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-connect",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-marketplace",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-security-quiz",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-newsletter",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-contact",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-imprint",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-data-privacy",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-search",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-partner",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-services-ai",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-services-digital-consulting",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-services-digital-produktpass-audit",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-services-crm",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-services-dxp",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-campaigns-next-gen-crm-pharma",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-security-quiz-security-questions",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-services-ams",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-ai-manifest",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-services-total-experience",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-industries-b2b-manufacturing",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-industries-automotive",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-campaigns-pim-voucher",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-events",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-industries-retail",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-services-digital-marketing",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-locations",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-industries-pharma",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-downloads",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-press",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-industries-pharma-and-healthcare",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-industries-financial-services",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-management",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-news",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-mann-hummel",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-doerrenberg",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-medi",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-baby-walz",
+      "verdict": "suspect",
+      "notes": "blank band before Technology partners (embed not loaded)"
+    },
+    {
+      "slug": "en-about-us-customers-best4tires",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-hd-plus",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-interamt",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-sma",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-wilo",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-lead-to-cash-in-sap",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-fressnapf",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-ai",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-technical-debt",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-cypress-playwright-selenium",
+      "verdict": "suspect",
+      "notes": "source capture 2210px wide instead of 1440 (wide element)"
+    },
+    {
+      "slug": "en-insights-edge-ai-foundation",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-conclusion-connect-recap",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-vwfs",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-crm-auswaehlen-leitfaden",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-cdp-evaluation",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-ifm-ai-product-advisor",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-unitymedia",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-commerce-platform-evaluation",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-5-fragen-plattformentscheidung",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-vendor-lab-day",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-terra-canis",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-ai-product-advisor-smart-search",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-greenwashing-retail",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-spinner",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-pilots",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-human-in-the-loop",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-october",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-september",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-siemens",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-security-anomaly-agent-use-case",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-seat",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-innovation-marketplace",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-geo-ymyl",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-ravensburger",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-tech-evaluation-short-list",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-from-data-silos-to-digital-commerce",
+      "verdict": "suspect",
+      "notes": "layout variant: whitepaper Parts I-V"
+    },
+    {
+      "slug": "en-about-us-customers-postbank",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-projekt-recap-aus-der-praxis",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-sap-joule-und-die-business-data-cloud",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-salesforce-partner-day-recap",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-industry-trends-2026",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-geo-gaio-gaps",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-telefonica",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-agentic-commerce",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-qa-sap-ai",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-insights-edge-ki-in-der-qualitaetssicherung",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    },
+    {
+      "slug": "en-about-us-customers-multivac",
+      "verdict": "ok",
+      "notes": "rendered; header+hero visible"
+    }
+  ],
+  "visionCheckNotes": [
+    "Privacy Settings consent bar (fixed bottom) visible in most captures; not a wall",
+    "sticky header caught mid-page with dark overlay on long pages (en, services-dxp, industries-*)",
+    "Recommended Reads images lazy, missing on several articles"
+  ]
+}

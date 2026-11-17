@@ -1,0 +1,41 @@
+{
+ "pages": 9,
+ "vendors": [
+  {
+   "host": "web.cmp.usercentrics.eu",
+   "pages": 9,
+   "firstParty": false,
+   "role": "consent: Usercentrics",
+   "class": "T",
+   "inCsp": false
+  },
+  {
+   "host": "privacy-proxy.usercentrics.eu",
+   "pages": 9,
+   "firstParty": false,
+   "role": "consent: Usercentrics",
+   "class": "T",
+   "inCsp": false
+  },
+  {
+   "host": "www.diva-e.com",
+   "pages": 9,
+   "firstParty": true,
+   "role": null,
+   "class": null,
+   "inCsp": true
+  }
+ ],
+ "inline": {
+  "dataLayer": 9
+ },
+ "cspHosts": [
+  "*.storyblok.com",
+  "*.diva-e.com",
+  "*.diva-e.com",
+  "diva-e.com",
+  "staffbase.com",
+  "blue.diva-e.com",
+  "staffbase.com"
+ ]
+}

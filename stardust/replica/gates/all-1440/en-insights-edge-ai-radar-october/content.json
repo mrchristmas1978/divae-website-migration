@@ -1,0 +1,5751 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T03:53:47.290Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/insights/edge/ai-radar-october/",
+  "at": "2026-11-14T03:53:23.569Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5743,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 64,
+    "y": 33,
+    "w": 120,
+    "h": 62,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 230,
+    "y": 42,
+    "w": 94,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 324,
+    "y": 42,
+    "w": 127,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 451,
+    "y": 42,
+    "w": 104,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 555,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 653,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 750,
+    "y": 42,
+    "w": 89,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 839,
+    "y": 42,
+    "w": 91,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__icon-search > a",
+    "x": 979,
+    "y": 53,
+    "w": 23,
+    "h": 22,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li > button.header__lang-item",
+    "x": 1030,
+    "y": 51,
+    "w": 28,
+    "h": 26,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li.active > button.header__lang-item",
+    "x": 1058,
+    "y": 51,
+    "w": 29,
+    "h": 26,
+    "text": "en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__contact > a.btn-default.btn--menu",
+    "x": 1115,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__img > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 792,
+    "text": "ai radar",
+    "file": "1920x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span.hero-banner__box-category",
+    "x": 128,
+    "y": 627,
+    "w": 44,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span.hero-banner__box-category",
+    "x": 172,
+    "y": 627,
+    "w": 31,
+    "h": 24,
+    "text": "B2B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span",
+    "x": 204,
+    "y": 627,
+    "w": 100,
+    "h": 24,
+    "text": "1 Oct 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-headline > h1.h3",
+    "x": 104,
+    "y": 675,
+    "w": 1232,
+    "h": 47,
+    "level": 1,
+    "text": "the interface is dying. the invoice isn't."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-subtitle > p",
+    "x": 104,
+    "y": 738,
+    "w": 1232,
+    "h": 30,
+    "text": "AI Radar – October Edition"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box-author-img > picture > img",
+    "x": 104,
+    "y": 804,
+    "w": 32,
+    "h": 32,
+    "text": "jasmin guthmann",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-author > div.hero-banner__box-author-name",
+    "x": 152,
+    "y": 805,
+    "w": 166,
+    "h": 30,
+    "text": "Jasmin Guthmann"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__container > div.list-topics__content > button.list-topics__circle.btn-icon",
+    "x": 64,
+    "y": 956,
+    "w": 80,
+    "h": 80,
+    "text": "button scroll to topics"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > b > i",
+    "x": 216,
+    "y": 1000,
+    "w": 83,
+    "h": 22,
+    "text": "AI Radar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > i",
+    "x": 216,
+    "y": 1000,
+    "w": 1137,
+    "h": 82,
+    "text": "is Jasmin Guthmann’s monthly column on Agentic AI, business transformation, and "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > a",
+    "x": 1063,
+    "y": 1060,
+    "w": 304,
+    "h": 22,
+    "text": "f there is a will, there is a way",
+    "href": "/book/if-there-is-a-will-there-is-a-way"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > i",
+    "x": 216,
+    "y": 1090,
+    "w": 1142,
+    "h": 52,
+    "text": "was published — a no-compromise guide to unlocking potential by focusing on what"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > i",
+    "x": 216,
+    "y": 1180,
+    "w": 319,
+    "h": 22,
+    "text": "In the diva-e Conclusion column"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > b > i",
+    "x": 535,
+    "y": 1180,
+    "w": 88,
+    "h": 22,
+    "text": "AI Radar,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > i",
+    "x": 216,
+    "y": 1180,
+    "w": 1135,
+    "h": 82,
+    "text": "she shares insights from her practical experience, provides context on current d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div.list-topic-item > h3.list-topic-item__title",
+    "x": 216,
+    "y": 1306,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "a new pricing model. no price yet."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 1351,
+    "w": 1160,
+    "h": 60,
+    "text": "A . Mid-size retail, solid platform, long-standing vendor relationship. They wan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 1441,
+    "w": 1160,
+    "h": 30,
+    "text": "Nobody knows. Not the account manager. Not the partner. Not the pricing sheet."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 1501,
+    "w": 1160,
+    "h": 30,
+    "text": ": And once we're upgraded, what does the agentic part cost? Answer: that's bille"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 1561,
+    "w": 1160,
+    "h": 90,
+    "text": "So the client is now looking at a fixed number nobody can quote, plus a variable"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div.list-topic-item > h3.list-topic-item__title",
+    "x": 216,
+    "y": 1691,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "benioff said the quiet part out loud"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 1736,
+    "w": 1160,
+    "h": 150,
+    "text": "Mid-September, 43,000 people in San Francisco. Salesforce CEO Marc Benioff opene"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 1916,
+    "w": 1160,
+    "h": 60,
+    "text": "Read that again. . Salesforce isn't wrong. It's early. And it has done the maths"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#4 > h3.list-topic-item__title",
+    "x": 216,
+    "y": 2016,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "follow the money"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2060,
+    "w": 1160,
+    "h": 90,
+    "text": "Watch what shifted underneath the keynote. Salesforce is moving monetisation tow"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 2166,
+    "w": 1113,
+    "h": 30,
+    "text": "Ask your CFO how enterprise software is bought in your company. Seats."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 2212,
+    "w": 1113,
+    "h": 30,
+    "text": "Ask how usage is measured. Logins."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 2258,
+    "w": 1113,
+    "h": 30,
+    "text": "Ask what an agent is. Something that doesn't log in."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2318,
+    "w": 1160,
+    "h": 90,
+    "text": "Three lines in your budget just lost their unit of measurement. The licence line"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#5 > h3.list-topic-item__title",
+    "x": 216,
+    "y": 2448,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "\"our people won't stop using the ui overnight\""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2493,
+    "w": 1160,
+    "h": 30,
+    "text": "Correct. Nobody is saying they will."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2553,
+    "w": 1160,
+    "h": 60,
+    "text": "In August I wrote about : the architecture can't carry the agent. In September, "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > a",
+    "x": 449,
+    "y": 2557,
+    "w": 143,
+    "h": 22,
+    "text": "pilot purgatory",
+    "href": "/en/insights/edge/ai-radar-pilots/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > a",
+    "x": 216,
+    "y": 2587,
+    "w": 360,
+    "h": 22,
+    "text": "nobody costed what the agent burns",
+    "href": "/en/insights/edge/ai-radar-september/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2643,
+    "w": 1160,
+    "h": 60,
+    "text": "October is the third layer down. Even where the architecture holds and the token"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2733,
+    "w": 1160,
+    "h": 60,
+    "text": "The seat count in your next renewal is a bet that humans remain the primary inte"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#6 > h3.list-topic-item__title",
+    "x": 216,
+    "y": 2833,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "headless used to be a commerce word"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#6 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2878,
+    "w": 1160,
+    "h": 60,
+    "text": "Front end separate from back end. We built that for shops. Now it's an enterpris"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 2954,
+    "w": 1113,
+    "h": 150,
+    "text": ". If Salesforce, SAP and your PIM are all back-ends behind one agent, the thing "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > b",
+    "x": 263,
+    "y": 3124,
+    "w": 487,
+    "h": 22,
+    "text": "Your vendor contracts already have a second unit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 3150,
+    "w": 1113,
+    "h": 90,
+    "text": "You just haven't priced it. The client from the opening didn't refuse usage-base"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > b",
+    "x": 263,
+    "y": 3260,
+    "w": 345,
+    "h": 22,
+    "text": "Your UX budget doesn't go to zero."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 3286,
+    "w": 1113,
+    "h": 60,
+    "text": "It moves. From designing screens to designing what the agent may do and how a hu"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#7 > h3.list-topic-item__title",
+    "x": 216,
+    "y": 3386,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "nobody is clicking"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#7 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 3431,
+    "w": 1160,
+    "h": 90,
+    "text": "The vendor with the most to lose from the end of the interface just announced th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > b",
+    "x": 222,
+    "y": 3555,
+    "w": 968,
+    "h": 22,
+    "text": "On 6 October we take this – and more - apart in a live webinar: Salesforce after"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > span > b",
+    "x": 1190,
+    "y": 3555,
+    "w": 75,
+    "h": 22,
+    "text": "Agentic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > b",
+    "x": 216,
+    "y": 3555,
+    "w": 1155,
+    "h": 52,
+    "text": "Enterprise in Manufacturing."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 216,
+    "y": 3691,
+    "w": 205,
+    "h": 64,
+    "text": "register here",
+    "href": "/event/cba1b958-1846-4b6f-96fa-d78c4a4cf9ef@ac7d59f1-97cf-45a1-b9e9-59bc32ad9f86"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > b",
+    "x": 216,
+    "y": 3815,
+    "w": 955,
+    "h": 22,
+    "text": "Want to know what your own agent layer should look like before the next renewal?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > a",
+    "x": 216,
+    "y": 3815,
+    "w": 1145,
+    "h": 52,
+    "text": "agentic experience foundation (axf).",
+    "href": "/en/services/ai/agentic-experience-foundation/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column.avatar > picture > img",
+    "x": 179,
+    "y": 4135,
+    "w": 176,
+    "h": 176,
+    "text": "jasmin guthmann",
+    "file": "176x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column.avatar > div.author-card__name",
+    "x": 128,
+    "y": 4327,
+    "w": 278,
+    "h": 48,
+    "text": "Jasmin Guthmann"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column.avatar > div.author-card__social > a",
+    "x": 251,
+    "y": 4382,
+    "w": 32,
+    "h": 32,
+    "text": "go to jasmin guthmann linkedin",
+    "href": "/in/jguthmann/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column > div.author-card__bio > p",
+    "x": 521,
+    "y": 4135,
+    "w": 791,
+    "h": 120,
+    "text": "Jasmin is a strategist, storyteller, and executive at the intersection of busine"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column > div.author-card__bio > p",
+    "x": 521,
+    "y": 4255,
+    "w": 791,
+    "h": 120,
+    "text": "As Community Chair and former board member of the MACH Alliance, she has been he"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column > a.author-card__link.btn--link",
+    "x": 521,
+    "y": 4399,
+    "w": 139,
+    "h": 30,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/jasmin-guthmann/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.related-articles__container > div.related-articles__headline > h2",
+    "x": 64,
+    "y": 4661,
+    "w": 1312,
+    "h": 43,
+    "level": 2,
+    "text": "recommended reads"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 67,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "ddp",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 67,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/digital-product-passport-dpp-readiness-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 91,
+    "y": 4997,
+    "w": 44,
+    "h": 24,
+    "text": "B2B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 135,
+    "y": 4997,
+    "w": 44,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 180,
+    "y": 4997,
+    "w": 111,
+    "h": 24,
+    "text": "News & Trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span",
+    "x": 291,
+    "y": 4997,
+    "w": 110,
+    "h": 24,
+    "text": "21 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 67,
+    "y": 5021,
+    "w": 410,
+    "h": 92,
+    "text": "go to are you ready for the digital product passport?",
+    "href": "/en/insights/edge/digital-product-passport-dpp-readiness-audit/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 67,
+    "y": 5041,
+    "w": 410,
+    "h": 52,
+    "level": 3,
+    "text": "are you ready for the digital product passport?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-active > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 67,
+    "y": 5113,
+    "w": 410,
+    "h": 72,
+    "text": "Find out how a Digital Product Passport Audit assesses your product data, proces"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 67,
+    "y": 5205,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__author > div.list-article-card__author-name",
+    "x": 115,
+    "y": 5206,
+    "w": 140,
+    "h": 30,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 517,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "crm team",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 517,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/crm-auswaehlen-leitfaden/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 541,
+    "y": 4997,
+    "w": 31,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span",
+    "x": 572,
+    "y": 4997,
+    "w": 105,
+    "h": 24,
+    "text": "6 Aug 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 517,
+    "y": 5021,
+    "w": 410,
+    "h": 66,
+    "text": "go to choosing the right crm",
+    "href": "/en/insights/edge/crm-auswaehlen-leitfaden/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 517,
+    "y": 5041,
+    "w": 410,
+    "h": 26,
+    "level": 3,
+    "text": "choosing the right crm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 517,
+    "y": 5113,
+    "w": 410,
+    "h": 72,
+    "text": "Learn how to choose the right CRM step by step—from defining your requirements t"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 517,
+    "y": 5205,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__author > div.list-article-card__author-name",
+    "x": 565,
+    "y": 5206,
+    "w": 140,
+    "h": 30,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 966,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "cdp",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 966,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/cdp-evaluation/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 990,
+    "y": 4997,
+    "w": 31,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span",
+    "x": 1022,
+    "y": 4997,
+    "w": 111,
+    "h": 24,
+    "text": "2 Sept 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 966,
+    "y": 5021,
+    "w": 410,
+    "h": 92,
+    "text": "go to how to find the right customer data platform (cdp)",
+    "href": "/en/insights/edge/cdp-evaluation/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 966,
+    "y": 5041,
+    "w": 410,
+    "h": 52,
+    "level": 3,
+    "text": "how to find the right customer data platform (cdp)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 966,
+    "y": 5113,
+    "w": 410,
+    "h": 72,
+    "text": "Which CDP is right for your business? Discover 10 key criteria for choosing a Cu"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 966,
+    "y": 5205,
+    "w": 32,
+    "h": 32,
+    "text": "anne brosch portrait",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__author > div.list-article-card__author-name",
+    "x": 1014,
+    "y": 5206,
+    "w": 96,
+    "h": 30,
+    "text": "Anne Brosch"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 5413,
+    "w": 187,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 5443,
+    "w": 125,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 5473,
+    "w": 190,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 5503,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 5533,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 5563,
+    "w": 62,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 5413,
+    "w": 103,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 5443,
+    "w": 130,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 5473,
+    "w": 85,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 5503,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 5533,
+    "w": 140,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 5563,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 5413,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 5443,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 5473,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 5503,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 175,
+    "y": 5655,
+    "w": 100,
+    "h": 20,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 307,
+    "y": 5655,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 387,
+    "y": 5655,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 524,
+    "y": 5655,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 589,
+    "y": 5655,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__social-media > div.footer__bottom-newsletter.bottom-links > a.btn--link.text-xxsmall",
+    "x": 907,
+    "y": 5655,
+    "w": 214,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1153,
+    "y": 5650,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1201,
+    "y": 5650,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1249,
+    "y": 5650,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 40,
+    "y": 796,
+    "w": 64,
+    "h": 64,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 126,
+    "controls": 51,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.list-article-card__teaser.text-xsmall",
+     "path": "div#swiper-wrapper-3661f9cfc58d3d4b > div.swiper-slide > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+     "text": "which cdp is right for your business? discover 10 key criter",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ai-radar-october",
+  "at": "2026-11-14T03:53:47.070Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5743,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 64,
+    "y": 21,
+    "w": 120,
+    "h": 86,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "label": "open services submenu",
+    "value": "services",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 328,
+    "y": 42,
+    "w": 124,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "label": "open industries submenu",
+    "value": "industries",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 553,
+    "y": 42,
+    "w": 96,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "label": "open about us submenu",
+    "value": "about us",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "label": "open insights submenu",
+    "value": "insights",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 831,
+    "y": 42,
+    "w": 92,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-icon-search.header-icon-search-desktop > p > a",
+    "x": 971,
+    "y": 52,
+    "w": 23,
+    "h": 24,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li > a.header-lang-item",
+    "x": 1022,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li.active > a.header-lang-item",
+    "x": 1052,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-contact > p.button-wrapper > a.btn.btn-fill",
+    "x": 1111,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 792,
+    "text": "ai radar",
+    "file": "media_16eaa9db82ac4adee393c3a5b9ba4e74a7"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 128,
+    "y": 627,
+    "w": 46,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 174,
+    "y": 627,
+    "w": 31,
+    "h": 24,
+    "text": "B2B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 205,
+    "y": 627,
+    "w": 100,
+    "h": 24,
+    "text": "1 Oct 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-title > h1#the-interface-is-dying-the-invoice-isnt",
+    "x": 104,
+    "y": 675,
+    "w": 1232,
+    "h": 47,
+    "level": 1,
+    "text": "the interface is dying. the invoice isn't."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-subtitle > p",
+    "x": 104,
+    "y": 738,
+    "w": 1232,
+    "h": 30,
+    "text": "AI Radar – October Edition"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 104,
+    "y": 804,
+    "w": 32,
+    "h": 32,
+    "text": "jasmin guthmann",
+    "file": "media_18986ef23cea0f5b2cc6afb7ff4789990b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 152,
+    "y": 805,
+    "w": 168,
+    "h": 30,
+    "text": "Jasmin Guthmann"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topics.block > div.topics-content > button.topics-toggle",
+    "x": 64,
+    "y": 956,
+    "w": 80,
+    "h": 80,
+    "text": "button scroll to topics"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > em",
+    "x": 216,
+    "y": 1000,
+    "w": 1137,
+    "h": 142,
+    "text": "is Jasmin Guthmann’s monthly column on Agentic AI, business transformation, and "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > em > a",
+    "x": 216,
+    "y": 1060,
+    "w": 1104,
+    "h": 52,
+    "text": "f there is a will, there is a way",
+    "href": "/book/if-there-is-a-will-there-is-a-way"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > em",
+    "x": 216,
+    "y": 1180,
+    "w": 1135,
+    "h": 82,
+    "text": "In the diva-e Conclusion column she shares insights from her practical experienc"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#a-new-pricing-model-no-price-yet",
+    "x": 216,
+    "y": 1306,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "a new pricing model. no price yet."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 1351,
+    "w": 1160,
+    "h": 60,
+    "text": "A client. Mid-size retail, solid platform, long-standing vendor relationship. Th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 1441,
+    "w": 1160,
+    "h": 30,
+    "text": "Nobody knows. Not the account manager. Not the partner. Not the pricing sheet."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 1501,
+    "w": 1160,
+    "h": 30,
+    "text": ": And once we're upgraded, what does the agentic part cost? Answer: that's bille"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 1561,
+    "w": 1160,
+    "h": 90,
+    "text": "So the client is now looking at a fixed number nobody can quote, plus a variable"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#benioff-said-the-quiet-part-out-loud",
+    "x": 216,
+    "y": 1691,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "benioff said the quiet part out loud"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 1736,
+    "w": 1160,
+    "h": 150,
+    "text": "Mid-September, 43,000 people in San Francisco. Salesforce CEO Marc Benioff opene"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 1916,
+    "w": 1160,
+    "h": 60,
+    "text": "Read that again. . Salesforce isn't wrong. It's early. And it has done the maths"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#follow-the-money",
+    "x": 216,
+    "y": 2016,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "follow the money"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2060,
+    "w": 1160,
+    "h": 90,
+    "text": "Watch what shifted underneath the keynote. Salesforce is moving monetisation tow"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 2166,
+    "w": 1113,
+    "h": 30,
+    "text": "Ask your CFO how enterprise software is bought in your company. Seats."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 2212,
+    "w": 1113,
+    "h": 30,
+    "text": "Ask how usage is measured. Logins."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 2258,
+    "w": 1113,
+    "h": 30,
+    "text": "Ask what an agent is. Something that doesn't log in."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2318,
+    "w": 1160,
+    "h": 90,
+    "text": "Three lines in your budget just lost their unit of measurement. The licence line"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#our-people-wont-stop-using-the-ui-overnight",
+    "x": 216,
+    "y": 2448,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "\"our people won't stop using the ui overnight\""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2493,
+    "w": 1160,
+    "h": 30,
+    "text": "Correct. Nobody is saying they will."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2553,
+    "w": 1160,
+    "h": 60,
+    "text": "In August I wrote about : the architecture can't carry the agent. In September, "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > a",
+    "x": 449,
+    "y": 2557,
+    "w": 143,
+    "h": 22,
+    "text": "pilot purgatory",
+    "href": "/en/insights/edge/ai-radar-pilots/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > a",
+    "x": 216,
+    "y": 2587,
+    "w": 360,
+    "h": 22,
+    "text": "nobody costed what the agent burns",
+    "href": "/en/insights/edge/ai-radar-september/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2643,
+    "w": 1160,
+    "h": 60,
+    "text": "October is the third layer down. Even where the architecture holds and the token"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2733,
+    "w": 1160,
+    "h": 60,
+    "text": "The seat count in your next renewal is a bet that humans remain the primary inte"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#headless-used-to-be-a-commerce-word",
+    "x": 216,
+    "y": 2833,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "headless used to be a commerce word"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2878,
+    "w": 1160,
+    "h": 60,
+    "text": "Front end separate from back end. We built that for shops. Now it's an enterpris"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 2954,
+    "w": 1113,
+    "h": 150,
+    "text": ". If Salesforce, SAP and your PIM are all back-ends behind one agent, the thing "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > strong",
+    "x": 263,
+    "y": 3124,
+    "w": 487,
+    "h": 22,
+    "text": "Your vendor contracts already have a second unit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 3150,
+    "w": 1113,
+    "h": 90,
+    "text": "You just haven't priced it. The client from the opening didn't refuse usage-base"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > p > strong",
+    "x": 263,
+    "y": 3260,
+    "w": 345,
+    "h": 22,
+    "text": "Your UX budget doesn't go to zero."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 3286,
+    "w": 1113,
+    "h": 60,
+    "text": "It moves. From designing screens to designing what the agent may do and how a hu"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#nobody-is-clicking",
+    "x": 216,
+    "y": 3386,
+    "w": 1160,
+    "h": 29,
+    "level": 3,
+    "text": "nobody is clicking"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 3431,
+    "w": 1160,
+    "h": 90,
+    "text": "The vendor with the most to lose from the end of the interface just announced th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > strong",
+    "x": 216,
+    "y": 3555,
+    "w": 1149,
+    "h": 52,
+    "text": "On 6 October we take this – and more - apart in a live webinar: Salesforce after"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-buttons > p.button-wrapper > a.button.primary",
+    "x": 216,
+    "y": 3691,
+    "w": 205,
+    "h": 64,
+    "text": "register here",
+    "href": "/event/cba1b958-1846-4b6f-96fa-d78c4a4cf9ef@ac7d59f1-97cf-45a1-b9e9-59bc32ad9f86"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > strong",
+    "x": 216,
+    "y": 3815,
+    "w": 1145,
+    "h": 52,
+    "text": "Want to know what your own agent layer should look like before the next renewal?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > a",
+    "x": 216,
+    "y": 3815,
+    "w": 1145,
+    "h": 52,
+    "text": "agentic experience foundation (axf).",
+    "href": "/en/services/ai/agentic-experience-foundation/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 181,
+    "y": 4135,
+    "w": 176,
+    "h": 176,
+    "text": "jasmin guthmann",
+    "file": "media_18d338aa0967980d443e88d421ca86c43b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col.author-col-avatar > div.author-name > p",
+    "x": 128,
+    "y": 4327,
+    "w": 282,
+    "h": 48,
+    "text": "Jasmin Guthmann"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-social > p > a",
+    "x": 253,
+    "y": 4382,
+    "w": 32,
+    "h": 32,
+    "text": "go to jasmin guthmann linkedin",
+    "href": "/in/jguthmann/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col > div.author-bio > p",
+    "x": 525,
+    "y": 4135,
+    "w": 787,
+    "h": 120,
+    "text": "Jasmin is a strategist, storyteller, and executive at the intersection of busine"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col > div.author-bio > p",
+    "x": 525,
+    "y": 4255,
+    "w": 787,
+    "h": 120,
+    "text": "As Community Chair and former board member of the MACH Alliance, she has been he"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-link > p.link-only > a",
+    "x": 525,
+    "y": 4403,
+    "w": 136,
+    "h": 22,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/jasmin-guthmann/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.related.block > div.related-title > h2#recommended-reads",
+    "x": 64,
+    "y": 4661,
+    "w": 1312,
+    "h": 43,
+    "level": 2,
+    "text": "recommended reads"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 67,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "ddp",
+    "file": "media_1ed7811a8ed4f520beaa3bf13b9b88d44f"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 67,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/digital-product-passport-dpp-readiness-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 91,
+    "y": 4997,
+    "w": 45,
+    "h": 24,
+    "text": "B2B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 136,
+    "y": 4997,
+    "w": 46,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 182,
+    "y": 4997,
+    "w": 113,
+    "h": 24,
+    "text": "News & Trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 295,
+    "y": 4997,
+    "w": 110,
+    "h": 24,
+    "text": "21 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 67,
+    "y": 5021,
+    "w": 410,
+    "h": 92,
+    "text": "go to are you ready for the digital product passport?",
+    "href": "/en/insights/edge/digital-product-passport-dpp-readiness-audit/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#are-you-ready-for-the-digital-product-passport",
+    "x": 67,
+    "y": 5041,
+    "w": 410,
+    "h": 52,
+    "level": 3,
+    "text": "are you ready for the digital product passport?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 67,
+    "y": 5113,
+    "w": 410,
+    "h": 72,
+    "text": "Find out how a Digital Product Passport Audit assesses your product data, proces"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 67,
+    "y": 5205,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "media_1cdf57a7e671575b49358af48376da270c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 115,
+    "y": 5209,
+    "w": 140,
+    "h": 24,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 517,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "crm team",
+    "file": "media_1f7cf203210b901f6188daf4e324512c36"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 517,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/crm-auswaehlen-leitfaden/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 541,
+    "y": 4997,
+    "w": 32,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 573,
+    "y": 4997,
+    "w": 105,
+    "h": 24,
+    "text": "6 Aug 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 517,
+    "y": 5021,
+    "w": 410,
+    "h": 66,
+    "text": "go to choosing the right crm",
+    "href": "/en/insights/edge/crm-auswaehlen-leitfaden/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#choosing-the-right-crm",
+    "x": 517,
+    "y": 5041,
+    "w": 410,
+    "h": 26,
+    "level": 3,
+    "text": "choosing the right crm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 517,
+    "y": 5113,
+    "w": 410,
+    "h": 72,
+    "text": "Learn how to choose the right CRM step by step—from defining your requirements t"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 517,
+    "y": 5205,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "media_1cdf57a7e671575b49358af48376da270c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 565,
+    "y": 5209,
+    "w": 140,
+    "h": 24,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 966,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "cdp",
+    "file": "media_1ad173482647e824f55cd69892acfe4025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 966,
+    "y": 4752,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/cdp-evaluation/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 990,
+    "y": 4997,
+    "w": 32,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 1022,
+    "y": 4997,
+    "w": 111,
+    "h": 24,
+    "text": "2 Sept 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 966,
+    "y": 5021,
+    "w": 410,
+    "h": 92,
+    "text": "go to how to find the right customer data platform (cdp)",
+    "href": "/en/insights/edge/cdp-evaluation/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#how-to-find-the-right-customer-data-platform-cdp",
+    "x": 966,
+    "y": 5041,
+    "w": 410,
+    "h": 52,
+    "level": 3,
+    "text": "how to find the right customer data platform (cdp)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 966,
+    "y": 5113,
+    "w": 410,
+    "h": 72,
+    "text": "Which CDP is right for your business? Discover 10 key criteria for choosing a Cu"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 966,
+    "y": 5205,
+    "w": 32,
+    "h": 32,
+    "text": "anne brosch portrait",
+    "file": "media_1e6c85d1027ac1e5ab08d3f1312285a748"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 1014,
+    "y": 5209,
+    "w": 96,
+    "h": 24,
+    "text": "Anne Brosch"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 5413,
+    "w": 186,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 5443,
+    "w": 121,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 5473,
+    "w": 185,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 5503,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 5533,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 5563,
+    "w": 59,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 5413,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 5443,
+    "w": 127,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 5473,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 5503,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 5533,
+    "w": 134,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 5563,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 5413,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 5443,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 5473,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 5503,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 307,
+    "y": 5655,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 387,
+    "y": 5655,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 524,
+    "y": 5655,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 589,
+    "y": 5655,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-social-media > div.footer-bottom-newsletter > a.btn-link",
+    "x": 903,
+    "y": 5655,
+    "w": 217,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1153,
+    "y": 5650,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1201,
+    "y": 5650,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1249,
+    "y": 5650,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 111,
+    "controls": 50,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p",
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "which cdp is right for your business? discover 10 key criter",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "which cdp is right for your business? discover 10 key criter",
+     "clipper": "p",
+     "rect": {
+      "l": 966,
+      "t": 5116,
+      "r": 1352,
+      "b": 5134,
+      "w": 386,
+      "h": 18
+     },
+     "clip": {
+      "l": 966,
+      "t": 5113,
+      "r": 1376,
+      "b": 5185,
+      "w": 410,
+      "h": 72
+     },
+     "lines": 4
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "the interface is dying. the invoice isn't.",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 2,
+    "text": 8,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON",
+    "COUNT TEXT"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "a new pricing model. no price yet.",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "benioff said the quiet part out loud",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "follow the money",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "\"our people won't stop using the ui overnight\"",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 4,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "headless used to be a commerce word",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "nobody is clicking",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 8,
+    "image": 1
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "recommended reads",
+   "variable": false,
+   "origin": {
+    "link": 6,
+    "button": 0,
+    "text": 8,
+    "image": 3
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 8,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "are you ready for the digital product passport?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "choosing the right crm",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "how to find the right customer data platform (cdp)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 3
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"the interface is dying. the invoice isn't.\" (origin y 796) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"the interface is dying. the invoice isn't.\": 8 origin → 4 served visible",
+   "band": 1,
+   "origin": 8,
+   "eds": 4,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 2,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 246,
+    "y": 55,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 340,
+    "y": 55,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 571,
+    "y": 55,
+    "w": 65,
+    "h": 18
+   },
+   {
+    "x": 669,
+    "y": 55,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 766,
+    "y": 55,
+    "w": 56,
+    "h": 18
+   },
+   {
+    "x": 855,
+    "y": 55,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 1034,
+    "y": 55,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 1062,
+    "y": 55,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "x": 1132,
+    "y": 55,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 630,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 164,
+    "y": 630,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 172,
+    "y": 630,
+    "w": 31,
+    "h": 18
+   },
+   {
+    "x": 204,
+    "y": 630,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 214,
+    "y": 630,
+    "w": 90,
+    "h": 18
+   },
+   {
+    "x": 104,
+    "y": 675,
+    "w": 732,
+    "h": 45
+   },
+   {
+    "x": 104,
+    "y": 742,
+    "w": 256,
+    "h": 22
+   },
+   {
+    "x": 152,
+    "y": 808,
+    "w": 166,
+    "h": 23
+   },
+   {
+    "x": 216,
+    "y": 1000,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 299,
+    "y": 1000,
+    "w": 1054,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1030,
+    "w": 1114,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1060,
+    "w": 847,
+    "h": 22
+   },
+   {
+    "x": 1063,
+    "y": 1060,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1090,
+    "w": 1142,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1120,
+    "w": 631,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1180,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 535,
+    "y": 1180,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 623,
+    "y": 1180,
+    "w": 688,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1210,
+    "w": 1135,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1240,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1306,
+    "w": 384,
+    "h": 28
+   },
+   {
+    "x": 216,
+    "y": 1355,
+    "w": 20,
+    "h": 22
+   },
+   {
+    "x": 236,
+    "y": 1355,
+    "w": 53,
+    "h": 22
+   },
+   {
+    "x": 289,
+    "y": 1355,
+    "w": 1024,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1385,
+    "w": 752,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1445,
+    "w": 290,
+    "h": 22
+   },
+   {
+    "x": 506,
+    "y": 1445,
+    "w": 794,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1505,
+    "w": 165,
+    "h": 22
+   },
+   {
+    "x": 381,
+    "y": 1505,
+    "w": 981,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1565,
+    "w": 1150,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1595,
+    "w": 676,
+    "h": 22
+   },
+   {
+    "x": 892,
+    "y": 1595,
+    "w": 435,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1625,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1691,
+    "w": 399,
+    "h": 28
+   },
+   {
+    "x": 216,
+    "y": 1740,
+    "w": 1013,
+    "h": 22
+   },
+   {
+    "x": 1229,
+    "y": 1740,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 1298,
+    "y": 1740,
+    "w": 35,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1770,
+    "w": 1112,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1800,
+    "w": 1130,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1830,
+    "w": 1107,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1860,
+    "w": 603,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1920,
+    "w": 158,
+    "h": 22
+   },
+   {
+    "x": 374,
+    "y": 1920,
+    "w": 970,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1950,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 427,
+    "y": 1950,
+    "w": 881,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2016,
+    "w": 198,
+    "h": 28
+   },
+   {
+    "x": 216,
+    "y": 2064,
+    "w": 1146,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2094,
+    "w": 758,
+    "h": 22
+   },
+   {
+    "x": 974,
+    "y": 2094,
+    "w": 52,
+    "h": 22
+   },
+   {
+    "x": 1027,
+    "y": 2094,
+    "w": 336,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2124,
+    "w": 871,
+    "h": 22
+   },
+   {
+    "x": 1087,
+    "y": 2124,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2170,
+    "w": 708,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2216,
+    "w": 351,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2262,
+    "w": 511,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2322,
+    "w": 1159,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2352,
+    "w": 1118,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2382,
+    "w": 357,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2448,
+    "w": 526,
+    "h": 28
+   },
+   {
+    "x": 216,
+    "y": 2497,
+    "w": 350,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2557,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 449,
+    "y": 2557,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 591,
+    "y": 2557,
+    "w": 733,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2587,
+    "w": 360,
+    "h": 22
+   },
+   {
+    "x": 576,
+    "y": 2587,
+    "w": 6,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2647,
+    "w": 1153,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2677,
+    "w": 639,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2737,
+    "w": 1129,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2767,
+    "w": 659,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2833,
+    "w": 429,
+    "h": 28
+   },
+   {
+    "x": 216,
+    "y": 2882,
+    "w": 1134,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2912,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2958,
+    "w": 426,
+    "h": 22
+   },
+   {
+    "x": 689,
+    "y": 2958,
+    "w": 673,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2988,
+    "w": 1102,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3018,
+    "w": 998,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3048,
+    "w": 1046,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3078,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3124,
+    "w": 487,
+    "h": 22
+   },
+   {
+    "x": 750,
+    "y": 3124,
+    "w": 6,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3154,
+    "w": 1105,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3184,
+    "w": 1109,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3214,
+    "w": 691,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3260,
+    "w": 345,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3290,
+    "w": 1099,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3320,
+    "w": 598,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3386,
+    "w": 204,
+    "h": 28
+   },
+   {
+    "x": 216,
+    "y": 3435,
+    "w": 1067,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3465,
+    "w": 1133,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3495,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 222,
+    "y": 3555,
+    "w": 968,
+    "h": 22
+   },
+   {
+    "x": 1190,
+    "y": 3555,
+    "w": 75,
+    "h": 22
+   },
+   {
+    "x": 1265,
+    "y": 3555,
+    "w": 106,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3585,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 256,
+    "y": 3711,
+    "w": 125,
+    "h": 23
+   },
+   {
+    "x": 216,
+    "y": 3815,
+    "w": 955,
+    "h": 22
+   },
+   {
+    "x": 1171,
+    "y": 3815,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3845,
+    "w": 176,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 4330,
+    "w": 278,
+    "h": 40
+   },
+   {
+    "x": 521,
+    "y": 4139,
+    "w": 763,
+    "h": 22
+   },
+   {
+    "x": 521,
+    "y": 4169,
+    "w": 771,
+    "h": 22
+   },
+   {
+    "x": 521,
+    "y": 4199,
+    "w": 686,
+    "h": 22
+   },
+   {
+    "x": 521,
+    "y": 4229,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 521,
+    "y": 4259,
+    "w": 756,
+    "h": 22
+   },
+   {
+    "x": 521,
+    "y": 4289,
+    "w": 677,
+    "h": 22
+   },
+   {
+    "x": 521,
+    "y": 4319,
+    "w": 777,
+    "h": 22
+   },
+   {
+    "x": 521,
+    "y": 4349,
+    "w": 576,
+    "h": 22
+   },
+   {
+    "x": 521,
+    "y": 4402,
+    "w": 139,
+    "h": 23
+   },
+   {
+    "x": 64,
+    "y": 4659,
+    "w": 386,
+    "h": 45
+   },
+   {
+    "x": 91,
+    "y": 5000,
+    "w": 35,
+    "h": 18
+   },
+   {
+    "x": 126,
+    "y": 5000,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 135,
+    "y": 5000,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 171,
+    "y": 5000,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 180,
+    "y": 5000,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 291,
+    "y": 5000,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 301,
+    "y": 5000,
+    "w": 100,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5042,
+    "w": 353,
+    "h": 23
+   },
+   {
+    "x": 67,
+    "y": 5068,
+    "w": 95,
+    "h": 23
+   },
+   {
+    "x": 67,
+    "y": 5116,
+    "w": 354,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5140,
+    "w": 406,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5164,
+    "w": 402,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 5212,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 541,
+    "y": 5000,
+    "w": 31,
+    "h": 18
+   },
+   {
+    "x": 572,
+    "y": 5000,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 582,
+    "y": 5000,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5042,
+    "w": 231,
+    "h": 23
+   },
+   {
+    "x": 517,
+    "y": 5116,
+    "w": 393,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5140,
+    "w": 357,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5164,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 565,
+    "y": 5212,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 990,
+    "y": 5000,
+    "w": 31,
+    "h": 18
+   },
+   {
+    "x": 1022,
+    "y": 5000,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 1032,
+    "y": 5000,
+    "w": 101,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5042,
+    "w": 351,
+    "h": 23
+   },
+   {
+    "x": 966,
+    "y": 5068,
+    "w": 145,
+    "h": 23
+   },
+   {
+    "x": 966,
+    "y": 5116,
+    "w": 386,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5140,
+    "w": 397,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5164,
+    "w": 341,
+    "h": 18
+   },
+   {
+    "x": 1014,
+    "y": 5212,
+    "w": 96,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 5413,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 5443,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 5473,
+    "w": 190,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 5503,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 5533,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 5563,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 5413,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 5443,
+    "w": 130,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 5473,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 5503,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 5533,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 5563,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 5413,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 5443,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 5473,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 5503,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 5656,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 5656,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 5656,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 5656,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 5656,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 907,
+    "y": 5656,
+    "w": 214,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 250,
+    "y": 55,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 344,
+    "y": 55,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 569,
+    "y": 55,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 664,
+    "y": 55,
+    "w": 63,
+    "h": 17
+   },
+   {
+    "x": 759,
+    "y": 55,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 847,
+    "y": 55,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 1026,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1056,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1129,
+    "y": 55,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 128,
+    "y": 630,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 630,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 220,
+    "y": 630,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 104,
+    "y": 676,
+    "w": 729,
+    "h": 43
+   },
+   {
+    "x": 104,
+    "y": 742,
+    "w": 256,
+    "h": 22
+   },
+   {
+    "x": 152,
+    "y": 809,
+    "w": 168,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1000,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 299,
+    "y": 1000,
+    "w": 1054,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1030,
+    "w": 1114,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1060,
+    "w": 847,
+    "h": 22
+   },
+   {
+    "x": 1063,
+    "y": 1060,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1090,
+    "w": 40,
+    "h": 22
+   },
+   {
+    "x": 256,
+    "y": 1090,
+    "w": 1094,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1120,
+    "w": 678,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1180,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 535,
+    "y": 1180,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 623,
+    "y": 1180,
+    "w": 688,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1210,
+    "w": 1135,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1240,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1306,
+    "w": 376,
+    "h": 27
+   },
+   {
+    "x": 216,
+    "y": 1355,
+    "w": 1097,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1385,
+    "w": 752,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1445,
+    "w": 290,
+    "h": 22
+   },
+   {
+    "x": 506,
+    "y": 1445,
+    "w": 788,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1505,
+    "w": 165,
+    "h": 22
+   },
+   {
+    "x": 381,
+    "y": 1505,
+    "w": 975,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1565,
+    "w": 1150,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1595,
+    "w": 676,
+    "h": 22
+   },
+   {
+    "x": 892,
+    "y": 1595,
+    "w": 435,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1625,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1691,
+    "w": 378,
+    "h": 27
+   },
+   {
+    "x": 216,
+    "y": 1740,
+    "w": 1117,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1770,
+    "w": 1112,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1800,
+    "w": 1130,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1830,
+    "w": 1107,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1860,
+    "w": 597,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1920,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 380,
+    "y": 1920,
+    "w": 964,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1950,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 427,
+    "y": 1950,
+    "w": 874,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2016,
+    "w": 195,
+    "h": 27
+   },
+   {
+    "x": 216,
+    "y": 2064,
+    "w": 1146,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2094,
+    "w": 1147,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2124,
+    "w": 877,
+    "h": 22
+   },
+   {
+    "x": 1093,
+    "y": 2124,
+    "w": 101,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2170,
+    "w": 708,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2216,
+    "w": 351,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2262,
+    "w": 505,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2322,
+    "w": 1159,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2352,
+    "w": 1118,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2382,
+    "w": 351,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2448,
+    "w": 508,
+    "h": 27
+   },
+   {
+    "x": 216,
+    "y": 2497,
+    "w": 344,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2557,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 449,
+    "y": 2557,
+    "w": 143,
+    "h": 22
+   },
+   {
+    "x": 591,
+    "y": 2557,
+    "w": 733,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2587,
+    "w": 360,
+    "h": 22
+   },
+   {
+    "x": 576,
+    "y": 2587,
+    "w": 6,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2647,
+    "w": 1153,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2677,
+    "w": 633,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2737,
+    "w": 1129,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2767,
+    "w": 653,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2833,
+    "w": 430,
+    "h": 27
+   },
+   {
+    "x": 216,
+    "y": 2882,
+    "w": 1134,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2912,
+    "w": 370,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2958,
+    "w": 426,
+    "h": 22
+   },
+   {
+    "x": 689,
+    "y": 2958,
+    "w": 673,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2988,
+    "w": 1102,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3018,
+    "w": 998,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3048,
+    "w": 1046,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3078,
+    "w": 305,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3124,
+    "w": 487,
+    "h": 22
+   },
+   {
+    "x": 750,
+    "y": 3124,
+    "w": 6,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3154,
+    "w": 1105,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3184,
+    "w": 1109,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3214,
+    "w": 685,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3260,
+    "w": 345,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3290,
+    "w": 1099,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3320,
+    "w": 592,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3386,
+    "w": 199,
+    "h": 27
+   },
+   {
+    "x": 216,
+    "y": 3435,
+    "w": 1067,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3465,
+    "w": 1133,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3495,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3555,
+    "w": 1149,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3585,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 256,
+    "y": 3712,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3815,
+    "w": 955,
+    "h": 22
+   },
+   {
+    "x": 1171,
+    "y": 3815,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3845,
+    "w": 176,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 4331,
+    "w": 282,
+    "h": 38
+   },
+   {
+    "x": 525,
+    "y": 4139,
+    "w": 763,
+    "h": 22
+   },
+   {
+    "x": 525,
+    "y": 4169,
+    "w": 771,
+    "h": 22
+   },
+   {
+    "x": 525,
+    "y": 4199,
+    "w": 686,
+    "h": 22
+   },
+   {
+    "x": 525,
+    "y": 4229,
+    "w": 263,
+    "h": 22
+   },
+   {
+    "x": 525,
+    "y": 4259,
+    "w": 756,
+    "h": 22
+   },
+   {
+    "x": 525,
+    "y": 4289,
+    "w": 677,
+    "h": 22
+   },
+   {
+    "x": 525,
+    "y": 4319,
+    "w": 777,
+    "h": 22
+   },
+   {
+    "x": 525,
+    "y": 4349,
+    "w": 576,
+    "h": 22
+   },
+   {
+    "x": 525,
+    "y": 4403,
+    "w": 136,
+    "h": 22
+   },
+   {
+    "x": 64,
+    "y": 4660,
+    "w": 395,
+    "h": 43
+   },
+   {
+    "x": 91,
+    "y": 5000,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 136,
+    "y": 5000,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 182,
+    "y": 5000,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 310,
+    "y": 5000,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5043,
+    "w": 346,
+    "h": 22
+   },
+   {
+    "x": 67,
+    "y": 5069,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 67,
+    "y": 5116,
+    "w": 354,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5140,
+    "w": 406,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5164,
+    "w": 402,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 5212,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 541,
+    "y": 5000,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 588,
+    "y": 5000,
+    "w": 90,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5043,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 517,
+    "y": 5116,
+    "w": 393,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5140,
+    "w": 357,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5164,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 565,
+    "y": 5212,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 5000,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 1037,
+    "y": 5000,
+    "w": 96,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5043,
+    "w": 346,
+    "h": 22
+   },
+   {
+    "x": 966,
+    "y": 5069,
+    "w": 141,
+    "h": 22
+   },
+   {
+    "x": 966,
+    "y": 5116,
+    "w": 386,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5140,
+    "w": 397,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5164,
+    "w": 341,
+    "h": 18
+   },
+   {
+    "x": 1014,
+    "y": 5212,
+    "w": 96,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 5413,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 5443,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 5473,
+    "w": 185,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 5503,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 5533,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 5563,
+    "w": 59,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 5413,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 5443,
+    "w": 127,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 5473,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 5503,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 5533,
+    "w": 134,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 5563,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 5413,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 5443,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 5473,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 5503,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 5656,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 5656,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 5656,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 5656,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 5656,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 903,
+    "y": 5656,
+    "w": 217,
+    "h": 16
+   }
+  ]
+ }
+}

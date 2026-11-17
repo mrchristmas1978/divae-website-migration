@@ -1,0 +1,6702 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T04:19:57.852Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/marketplace/",
+  "at": "2026-11-14T04:19:34.469Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5063,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 64,
+    "y": 33,
+    "w": 120,
+    "h": 62,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 230,
+    "y": 42,
+    "w": 94,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 324,
+    "y": 42,
+    "w": 127,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 451,
+    "y": 42,
+    "w": 104,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 555,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 653,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 750,
+    "y": 42,
+    "w": 89,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 839,
+    "y": 42,
+    "w": 91,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__icon-search > a",
+    "x": 979,
+    "y": 53,
+    "w": 23,
+    "h": 22,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li > button.header__lang-item",
+    "x": 1030,
+    "y": 51,
+    "w": 28,
+    "h": 26,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li.active > button.header__lang-item",
+    "x": 1058,
+    "y": 51,
+    "w": 29,
+    "h": 26,
+    "text": "en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__contact > a.btn-default.btn--menu",
+    "x": 1115,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-page-title.grid-container > div.hero-page-title__wrapper > div.hero-page-title__label",
+    "x": 175,
+    "y": 208,
+    "w": 1089,
+    "h": 36,
+    "text": "diva-e Conclusion Marketplace"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-page-title__wrapper > div.hero-page-title__title > h1.hero-page-title__title-text",
+    "x": 175,
+    "y": 260,
+    "w": 1089,
+    "h": 143,
+    "level": 1,
+    "text": "ready-made solutions for real challenges"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 175,
+    "y": 483,
+    "w": 1089,
+    "h": 120,
+    "text": "The diva-e Conclusion Marketplace offers ready-to-use, modularly structured solu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > b",
+    "x": 175,
+    "y": 637,
+    "w": 1032,
+    "h": 22,
+    "text": "This turns potential into concrete value in a short time - without complex proje"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-filter-sidebar > div.product-filter-sidebar__header > span.product-filter-sidebar__title",
+    "x": 207,
+    "y": 747,
+    "w": 246,
+    "h": 31,
+    "text": "Filters"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-filter-sidebar__groups > div.product-filter-sidebar__group > button.product-filter-sidebar__group-header",
+    "x": 207,
+    "y": 799,
+    "w": 246,
+    "h": 64,
+    "text": "service"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-filter-sidebar__groups > div.product-filter-sidebar__group > button.product-filter-sidebar__group-header",
+    "x": 207,
+    "y": 799,
+    "w": 246,
+    "h": 64,
+    "label": "trigger",
+    "value": "service",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 863,
+    "w": 50,
+    "h": 24,
+    "text": "ai"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 903,
+    "w": 246,
+    "h": 48,
+    "text": "application management services"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 967,
+    "w": 132,
+    "h": 24,
+    "text": "consulting"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1007,
+    "w": 163,
+    "h": 24,
+    "text": "cybersecurity"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1047,
+    "w": 246,
+    "h": 48,
+    "text": "digital experience platform"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1111,
+    "w": 189,
+    "h": 24,
+    "text": "digital marketing"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1151,
+    "w": 67,
+    "h": 24,
+    "text": "pim"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-filter-sidebar__groups > div.product-filter-sidebar__group > button.product-filter-sidebar__group-header",
+    "x": 207,
+    "y": 1196,
+    "w": 246,
+    "h": 64,
+    "text": "industry"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-filter-sidebar__groups > div.product-filter-sidebar__group > button.product-filter-sidebar__group-header",
+    "x": 207,
+    "y": 1196,
+    "w": 246,
+    "h": 64,
+    "label": "trigger",
+    "value": "industry",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1260,
+    "w": 192,
+    "h": 24,
+    "text": "across industries"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1300,
+    "w": 138,
+    "h": 24,
+    "text": "automotive"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1340,
+    "w": 70,
+    "h": 24,
+    "text": "b2b"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1380,
+    "w": 200,
+    "h": 24,
+    "text": "financial services"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1420,
+    "w": 84,
+    "h": 24,
+    "text": "retail"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1460,
+    "w": 102,
+    "h": 24,
+    "text": "utilities"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-filter-sidebar__groups > div.product-filter-sidebar__group > button.product-filter-sidebar__group-header",
+    "x": 207,
+    "y": 1505,
+    "w": 246,
+    "h": 64,
+    "text": "technology"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-filter-sidebar__groups > div.product-filter-sidebar__group > button.product-filter-sidebar__group-header",
+    "x": 207,
+    "y": 1505,
+    "w": 246,
+    "h": 64,
+    "label": "trigger",
+    "value": "technology",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1569,
+    "w": 229,
+    "h": 24,
+    "text": "technology-agnostic"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1609,
+    "w": 93,
+    "h": 24,
+    "text": "adobe"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1649,
+    "w": 179,
+    "h": 24,
+    "text": "commercetools"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1689,
+    "w": 99,
+    "h": 24,
+    "text": "google"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1729,
+    "w": 120,
+    "h": 24,
+    "text": "microsoft"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1769,
+    "w": 108,
+    "h": 24,
+    "text": "pimcore"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1809,
+    "w": 130,
+    "h": 24,
+    "text": "salesforce"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1849,
+    "w": 70,
+    "h": 24,
+    "text": "sap"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1889,
+    "w": 94,
+    "h": 24,
+    "text": "scayle"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1929,
+    "w": 104,
+    "h": 24,
+    "text": "spryker"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul.product-filter-sidebar__options > li.product-filter-sidebar__option > button.product-filter-sidebar__check-item",
+    "x": 207,
+    "y": 1969,
+    "w": 121,
+    "h": 24,
+    "text": "storyblok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 573,
+    "y": 815,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/services/audits/accessibility-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 573,
+    "y": 815,
+    "w": 322,
+    "h": 180,
+    "text": "accessibility icons with a magnifying glass and checklist cl",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 573,
+    "y": 1011,
+    "w": 322,
+    "h": 36,
+    "text": "accessibility audit",
+    "href": "/en/services/audits/accessibility-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 573,
+    "y": 1059,
+    "w": 322,
+    "h": 150,
+    "text": "Make your digital offerings sustainably compliant with the BFSG while improving "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 573,
+    "y": 1259,
+    "w": 322,
+    "h": 30,
+    "text": "from €2,500"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 943,
+    "y": 815,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/about-us/partner/adobe/our-adobe-solutions/aem-migration-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 943,
+    "y": 815,
+    "w": 322,
+    "h": 180,
+    "text": "3d illustration of a digital interface with search and chat ",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 943,
+    "y": 1011,
+    "w": 322,
+    "h": 36,
+    "text": "aem migration audit",
+    "href": "/en/about-us/partner/adobe/our-adobe-solutions/aem-migration-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 943,
+    "y": 1059,
+    "w": 322,
+    "h": 180,
+    "text": "AI-powered AEM migration: analysis, assessment and roadmap – in weeks, not month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 943,
+    "y": 1259,
+    "w": 322,
+    "h": 30,
+    "text": "from €2,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 573,
+    "y": 1337,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/about-us/partner/adobe/our-adobe-solutions/aem-search-advisor/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 573,
+    "y": 1337,
+    "w": 322,
+    "h": 180,
+    "text": "digital design showing an abstract representation of a user ",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 573,
+    "y": 1533,
+    "w": 322,
+    "h": 36,
+    "text": "aem search advisor",
+    "href": "/en/about-us/partner/adobe/our-adobe-solutions/aem-search-advisor/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 573,
+    "y": 1581,
+    "w": 322,
+    "h": 180,
+    "text": "Transform your AEM website search into a conversational experience. The AEM Sear"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 573,
+    "y": 1781,
+    "w": 322,
+    "h": 30,
+    "text": "from €4,999"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 943,
+    "y": 1337,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/services/ai/agentic-ai-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 943,
+    "y": 1337,
+    "w": 322,
+    "h": 180,
+    "text": "tbd",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 943,
+    "y": 1533,
+    "w": 322,
+    "h": 36,
+    "text": "agentic ai audit",
+    "href": "/en/services/ai/agentic-ai-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 943,
+    "y": 1581,
+    "w": 322,
+    "h": 150,
+    "text": "Make your company's AI maturity transparent and identify prioritized use cases b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 943,
+    "y": 1781,
+    "w": 322,
+    "h": 30,
+    "text": "€10,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 573,
+    "y": 1859,
+    "w": 322,
+    "h": 480,
+    "text": "",
+    "href": "/en/services/audits/ai-cms-content-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 573,
+    "y": 1859,
+    "w": 322,
+    "h": 180,
+    "text": "ai content audit teaser",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 573,
+    "y": 2055,
+    "w": 322,
+    "h": 72,
+    "text": "ai-powered cms content audit",
+    "href": "/en/services/audits/ai-cms-content-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 573,
+    "y": 2139,
+    "w": 322,
+    "h": 120,
+    "text": "Make sure your content meets your EMPCO, brand and editorial guidelines – automa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 573,
+    "y": 2309,
+    "w": 322,
+    "h": 30,
+    "text": "from €5,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 943,
+    "y": 1859,
+    "w": 322,
+    "h": 480,
+    "text": "",
+    "href": "/en/about-us/partner/sap/ai-jsp-migration-audit-sap-commerce/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 943,
+    "y": 1859,
+    "w": 322,
+    "h": 180,
+    "text": "sap marketplace",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 943,
+    "y": 2055,
+    "w": 322,
+    "h": 72,
+    "text": "ai jsp migration audit for sap commerce",
+    "href": "/en/about-us/partner/sap/ai-jsp-migration-audit-sap-commerce/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 943,
+    "y": 2139,
+    "w": 322,
+    "h": 150,
+    "text": "Assess the effort, risks, and complexity of migrating from JSP/Accelerator to SA"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 943,
+    "y": 2309,
+    "w": 322,
+    "h": 30,
+    "text": "Price on request"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 573,
+    "y": 2387,
+    "w": 322,
+    "h": 450,
+    "text": "",
+    "href": "/en/about-us/partner/sap/ai-lead-to-cash-audit-im-sap-environment/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 573,
+    "y": 2387,
+    "w": 322,
+    "h": 180,
+    "text": "a robot with a magnifying glass analyzes data between a serv",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 573,
+    "y": 2584,
+    "w": 322,
+    "h": 72,
+    "text": "ai lead-to-cash audit im sap environment",
+    "href": "/en/about-us/partner/sap/ai-lead-to-cash-audit-im-sap-environment/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 573,
+    "y": 2668,
+    "w": 322,
+    "h": 120,
+    "text": "Identify AI opportunities in SAP Lead-to-Cash, prioritise use cases by business "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 573,
+    "y": 2808,
+    "w": 322,
+    "h": 30,
+    "text": "€20,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 943,
+    "y": 2387,
+    "w": 322,
+    "h": 450,
+    "text": "",
+    "href": "/en/services/ai/product-advisor/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 943,
+    "y": 2387,
+    "w": 322,
+    "h": 180,
+    "text": "b",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 943,
+    "y": 2584,
+    "w": 322,
+    "h": 36,
+    "text": "ai product advisor",
+    "href": "/en/services/ai/product-advisor/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 943,
+    "y": 2632,
+    "w": 322,
+    "h": 150,
+    "text": "Boost conversions, engagement, and revenue with smart, context-based product rec"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 943,
+    "y": 2808,
+    "w": 322,
+    "h": 30,
+    "text": "from €350 per month"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 573,
+    "y": 2886,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/about-us/partner/storyblok/ai-storyblok-migration-assistant/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 573,
+    "y": 2886,
+    "w": 322,
+    "h": 180,
+    "text": "teaser",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 573,
+    "y": 3082,
+    "w": 322,
+    "h": 72,
+    "text": "ai storyblok migration assistant",
+    "href": "/en/about-us/partner/storyblok/ai-storyblok-migration-assistant/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 573,
+    "y": 3166,
+    "w": 322,
+    "h": 120,
+    "text": "Identify AI opportunities in SAP Lead-to-Cash, prioritise use cases by business "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 573,
+    "y": 3330,
+    "w": 322,
+    "h": 30,
+    "text": "€20,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 943,
+    "y": 2886,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/services/digital-consulting/delivery-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 943,
+    "y": 2886,
+    "w": 322,
+    "h": 180,
+    "text": "illustration of a magnifying glass examining flowcharts and ",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 943,
+    "y": 3082,
+    "w": 322,
+    "h": 36,
+    "text": "delivery audit",
+    "href": "/en/services/digital-consulting/delivery-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 943,
+    "y": 3130,
+    "w": 322,
+    "h": 180,
+    "text": "Optimise your delivery processes for the long term and identify bottlenecks with"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 943,
+    "y": 3330,
+    "w": 322,
+    "h": 30,
+    "text": "€5,500"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 573,
+    "y": 3408,
+    "w": 322,
+    "h": 510,
+    "text": "",
+    "href": "/en/services/digital-produktpass-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 573,
+    "y": 3408,
+    "w": 322,
+    "h": 180,
+    "text": "a futuristic digital network showing data icons, graphs, a m",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 573,
+    "y": 3604,
+    "w": 322,
+    "h": 72,
+    "text": "digital product passport audit",
+    "href": "/en/services/digital-produktpass-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 573,
+    "y": 3688,
+    "w": 322,
+    "h": 180,
+    "text": "Prepare your organization for the Digital Product Passport in a structured way. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 573,
+    "y": 3888,
+    "w": 322,
+    "h": 30,
+    "text": "€3,500"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 943,
+    "y": 3408,
+    "w": 322,
+    "h": 510,
+    "text": "",
+    "href": "/en/services/digital-marketing/gaio/geo-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 943,
+    "y": 3408,
+    "w": 322,
+    "h": 180,
+    "text": "v",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 943,
+    "y": 3604,
+    "w": 322,
+    "h": 36,
+    "text": "geo audit",
+    "href": "/en/services/digital-marketing/gaio/geo-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 943,
+    "y": 3652,
+    "w": 322,
+    "h": 180,
+    "text": "Boost your brand's visibility in AI search systems with data-driven analyses of "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 943,
+    "y": 3888,
+    "w": 322,
+    "h": 30,
+    "text": "from €5,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 573,
+    "y": 3966,
+    "w": 322,
+    "h": 480,
+    "text": "",
+    "href": "/en/services/audits/keycloak-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 573,
+    "y": 3966,
+    "w": 322,
+    "h": 180,
+    "text": "magnifying glass highlighting a document with checkboxes, su",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 573,
+    "y": 4162,
+    "w": 322,
+    "h": 36,
+    "text": "keycloak audit",
+    "href": "/en/services/audits/keycloak-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 573,
+    "y": 4210,
+    "w": 322,
+    "h": 180,
+    "text": "Automatically assess your Keycloak configuration for security and compliance ris"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 573,
+    "y": 4416,
+    "w": 322,
+    "h": 30,
+    "text": "from €2,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.product-list__cards > div.list-product-card > a.list-product-card__card-link",
+    "x": 943,
+    "y": 3966,
+    "w": 322,
+    "h": 480,
+    "text": "",
+    "href": "/en/services/digital-marketing/paid-advertising/performance-marketing-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__img > picture > img",
+    "x": 943,
+    "y": 3966,
+    "w": 322,
+    "h": 180,
+    "text": "digital dashboard with graphs and charts on a 3d display, ac",
+    "file": "600x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > a.list-product-card__link",
+    "x": 943,
+    "y": 4162,
+    "w": 322,
+    "h": 72,
+    "text": "performance marketing audit",
+    "href": "/en/services/digital-marketing/paid-advertising/performance-marketing-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card__info > div.list-product-card__text > span.list-product-card__description",
+    "x": 943,
+    "y": 4246,
+    "w": 322,
+    "h": 150,
+    "text": "Identify budget losses, optimize tracking and campaign structures — and receive "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-product-card > div.list-product-card__info > span.list-product-card__price",
+    "x": 943,
+    "y": 4416,
+    "w": 322,
+    "h": 30,
+    "text": "ab 2.000€"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-pagination__pages > div.list-pagination__page--active.list-pagination__page > button.list-pagination__page-link",
+    "x": 571,
+    "y": 4490,
+    "w": 60,
+    "h": 60,
+    "text": "1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-pagination__pages > div.list-pagination__page > button.list-pagination__page-link",
+    "x": 637,
+    "y": 4488,
+    "w": 64,
+    "h": 64,
+    "text": "2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-pagination.list-pagination--dark > div.list-pagination__nav > button.arrow-right",
+    "x": 1157,
+    "y": 4486,
+    "w": 108,
+    "h": 48,
+    "text": "next →"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-pagination.list-pagination--dark > div.list-pagination__nav > button.arrow-left",
+    "x": 1096,
+    "y": 4541,
+    "w": 169,
+    "h": 48,
+    "text": "← previous"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4733,
+    "w": 187,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4763,
+    "w": 125,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4793,
+    "w": 190,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4823,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4853,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4883,
+    "w": 62,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4733,
+    "w": 103,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4763,
+    "w": 130,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4793,
+    "w": 85,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4823,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4853,
+    "w": 140,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4883,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 4733,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 4763,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 4793,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 4823,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 175,
+    "y": 4975,
+    "w": 100,
+    "h": 20,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 307,
+    "y": 4975,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 387,
+    "y": 4975,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 524,
+    "y": 4975,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 589,
+    "y": 4975,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__social-media > div.footer__bottom-newsletter.bottom-links > a.btn--link.text-xxsmall",
+    "x": 907,
+    "y": 4975,
+    "w": 214,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1153,
+    "y": 4970,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1201,
+    "y": 4970,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1249,
+    "y": 4970,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 40,
+    "y": 796,
+    "w": 64,
+    "h": 64,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 111,
+    "controls": 96,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/marketplace",
+  "at": "2026-11-14T04:19:57.561Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5060,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 64,
+    "y": 21,
+    "w": 120,
+    "h": 86,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "label": "open services submenu",
+    "value": "services",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 328,
+    "y": 42,
+    "w": 124,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "label": "open industries submenu",
+    "value": "industries",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 553,
+    "y": 42,
+    "w": 96,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "label": "open about us submenu",
+    "value": "about us",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "label": "open insights submenu",
+    "value": "insights",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 831,
+    "y": 42,
+    "w": 92,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-icon-search.header-icon-search-desktop > p > a",
+    "x": 971,
+    "y": 52,
+    "w": 23,
+    "h": 24,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li > a.header-lang-item",
+    "x": 1022,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li.active > a.header-lang-item",
+    "x": 1052,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-contact > p.button-wrapper > a.btn.btn-fill",
+    "x": 1111,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-title-wrapper > div.page-title-label > p",
+    "x": 175,
+    "y": 211,
+    "w": 1089,
+    "h": 30,
+    "text": "diva-e Conclusion Marketplace"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-title-wrapper > div.page-title-title > h1#ready-made-solutionsfor-real-challenges",
+    "x": 175,
+    "y": 257,
+    "w": 1089,
+    "h": 143,
+    "level": 1,
+    "text": "ready-made solutions for real challenges"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.section > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 480,
+    "w": 1089,
+    "h": 120,
+    "text": "The diva-e Conclusion Marketplace offers ready-to-use, modularly structured solu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 175,
+    "y": 634,
+    "w": 1032,
+    "h": 22,
+    "text": "This turns potential into concrete value in a short time - without complex proje"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-sidebar > div.product-filter-header > p.product-filter-title",
+    "x": 207,
+    "y": 744,
+    "w": 246,
+    "h": 31,
+    "text": "Filters"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-group > div.product-filter-group-head > p.product-filter-group-label",
+    "x": 207,
+    "y": 816,
+    "w": 246,
+    "h": 24,
+    "text": "Service"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-group > div.product-filter-group-head > button.product-filter-group-header",
+    "x": 207,
+    "y": 796,
+    "w": 246,
+    "h": 64,
+    "text": "toggle service"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-group > div.product-filter-group-head > button.product-filter-group-header",
+    "x": 207,
+    "y": 796,
+    "w": 246,
+    "h": 64,
+    "label": "toggle service",
+    "value": "toggle service",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 900,
+    "w": 214,
+    "h": 72,
+    "text": "Application Management Services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 988,
+    "w": 214,
+    "h": 24,
+    "text": "Consulting"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1028,
+    "w": 214,
+    "h": 24,
+    "text": "Cybersecurity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1068,
+    "w": 214,
+    "h": 48,
+    "text": "Digital Experience Platform"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1132,
+    "w": 214,
+    "h": 24,
+    "text": "Digital Marketing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1172,
+    "w": 214,
+    "h": 24,
+    "text": "PIM"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-group > div.product-filter-group-head > p.product-filter-group-label",
+    "x": 207,
+    "y": 1237,
+    "w": 246,
+    "h": 24,
+    "text": "Industry"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-group > div.product-filter-group-head > button.product-filter-group-header",
+    "x": 207,
+    "y": 1217,
+    "w": 246,
+    "h": 64,
+    "text": "toggle industry"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-group > div.product-filter-group-head > button.product-filter-group-header",
+    "x": 207,
+    "y": 1217,
+    "w": 246,
+    "h": 64,
+    "label": "toggle industry",
+    "value": "toggle industry",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1281,
+    "w": 214,
+    "h": 24,
+    "text": "Across industries"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1321,
+    "w": 214,
+    "h": 24,
+    "text": "Automotive"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1361,
+    "w": 214,
+    "h": 24,
+    "text": "B2B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1401,
+    "w": 214,
+    "h": 24,
+    "text": "Financial Services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1441,
+    "w": 214,
+    "h": 24,
+    "text": "Retail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1481,
+    "w": 214,
+    "h": 24,
+    "text": "Utilities"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-group > div.product-filter-group-head > p.product-filter-group-label",
+    "x": 207,
+    "y": 1546,
+    "w": 246,
+    "h": 24,
+    "text": "Technology"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-group > div.product-filter-group-head > button.product-filter-group-header",
+    "x": 207,
+    "y": 1526,
+    "w": 246,
+    "h": 64,
+    "text": "toggle technology"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-filter-group > div.product-filter-group-head > button.product-filter-group-header",
+    "x": 207,
+    "y": 1526,
+    "w": 246,
+    "h": 64,
+    "label": "toggle technology",
+    "value": "toggle technology",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1590,
+    "w": 214,
+    "h": 24,
+    "text": "Technology-agnostic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1630,
+    "w": 214,
+    "h": 24,
+    "text": "Adobe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1670,
+    "w": 214,
+    "h": 24,
+    "text": "Commercetools"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1710,
+    "w": 214,
+    "h": 24,
+    "text": "Google"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1750,
+    "w": 214,
+    "h": 24,
+    "text": "Microsoft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1790,
+    "w": 214,
+    "h": 24,
+    "text": "Pimcore"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1830,
+    "w": 214,
+    "h": 24,
+    "text": "Salesforce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1870,
+    "w": 214,
+    "h": 24,
+    "text": "SAP"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1910,
+    "w": 214,
+    "h": 24,
+    "text": "Scayle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1950,
+    "w": 214,
+    "h": 24,
+    "text": "Spryker"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.product-filter-options > li.product-filter-option > span.product-filter-check-label",
+    "x": 239,
+    "y": 1990,
+    "w": 214,
+    "h": 24,
+    "text": "Storyblok"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 573,
+    "y": 812,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/services/audits/accessibility-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 573,
+    "y": 812,
+    "w": 322,
+    "h": 180,
+    "text": "accessibility icons with a magnifying glass and checklist cl",
+    "file": "media_186ec4c9ca8853e2f5c52f6b605a7b4b29"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 573,
+    "y": 1008,
+    "w": 322,
+    "h": 36,
+    "text": "accessibility audit",
+    "href": "/en/services/audits/accessibility-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 573,
+    "y": 1056,
+    "w": 322,
+    "h": 150,
+    "text": "Make your digital offerings sustainably compliant with the BFSG while improving "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 573,
+    "y": 1256,
+    "w": 322,
+    "h": 30,
+    "text": "from €2,500"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 943,
+    "y": 812,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/about-us/partner/adobe/our-adobe-solutions/aem-migration-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 943,
+    "y": 812,
+    "w": 322,
+    "h": 180,
+    "text": "3d illustration of a digital interface with search and chat ",
+    "file": "media_10a47ff9cf76cb7e869fa30bb66652753d"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 943,
+    "y": 1008,
+    "w": 322,
+    "h": 36,
+    "text": "aem migration audit",
+    "href": "/en/about-us/partner/adobe/our-adobe-solutions/aem-migration-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 943,
+    "y": 1056,
+    "w": 322,
+    "h": 180,
+    "text": "AI-powered AEM migration: analysis, assessment and roadmap – in weeks, not month"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 943,
+    "y": 1256,
+    "w": 322,
+    "h": 30,
+    "text": "from €2,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 573,
+    "y": 1334,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/about-us/partner/adobe/our-adobe-solutions/aem-search-advisor"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 573,
+    "y": 1334,
+    "w": 322,
+    "h": 180,
+    "text": "digital design showing an abstract representation of a user ",
+    "file": "media_1302c0fe192ce1968f5f1f4d9178b37bd3"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 573,
+    "y": 1530,
+    "w": 322,
+    "h": 36,
+    "text": "aem search advisor",
+    "href": "/en/about-us/partner/adobe/our-adobe-solutions/aem-search-advisor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 573,
+    "y": 1578,
+    "w": 322,
+    "h": 180,
+    "text": "Transform your AEM website search into a conversational experience. The AEM Sear"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 573,
+    "y": 1778,
+    "w": 322,
+    "h": 30,
+    "text": "from €4,999"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 943,
+    "y": 1334,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/services/ai/agentic-ai-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 943,
+    "y": 1334,
+    "w": 322,
+    "h": 180,
+    "text": "tbd",
+    "file": "media_120652d77316f66cff12eea8ebcb368279"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 943,
+    "y": 1530,
+    "w": 322,
+    "h": 36,
+    "text": "agentic ai audit",
+    "href": "/en/services/ai/agentic-ai-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 943,
+    "y": 1578,
+    "w": 322,
+    "h": 150,
+    "text": "Make your company's AI maturity transparent and identify prioritized use cases b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 943,
+    "y": 1778,
+    "w": 322,
+    "h": 30,
+    "text": "€10,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 573,
+    "y": 1856,
+    "w": 322,
+    "h": 480,
+    "text": "",
+    "href": "/en/services/audits/ai-cms-content-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 573,
+    "y": 1856,
+    "w": 322,
+    "h": 180,
+    "text": "ai content audit teaser",
+    "file": "media_1689445f038b27cf568424e40227d60bd1"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 573,
+    "y": 2052,
+    "w": 322,
+    "h": 72,
+    "text": "ai-powered cms content audit",
+    "href": "/en/services/audits/ai-cms-content-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 573,
+    "y": 2136,
+    "w": 322,
+    "h": 120,
+    "text": "Make sure your content meets your EMPCO, brand and editorial guidelines – automa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 573,
+    "y": 2306,
+    "w": 322,
+    "h": 30,
+    "text": "from €5,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 943,
+    "y": 1856,
+    "w": 322,
+    "h": 480,
+    "text": "",
+    "href": "/en/about-us/partner/sap/ai-jsp-migration-audit-sap-commerce"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 943,
+    "y": 1856,
+    "w": 322,
+    "h": 180,
+    "text": "sap marketplace",
+    "file": "media_17df1450d60ccf5a4034aad60fb1f49b64"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 943,
+    "y": 2052,
+    "w": 322,
+    "h": 72,
+    "text": "ai jsp migration audit for sap commerce",
+    "href": "/en/about-us/partner/sap/ai-jsp-migration-audit-sap-commerce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 943,
+    "y": 2136,
+    "w": 322,
+    "h": 150,
+    "text": "Assess the effort, risks, and complexity of migrating from JSP/Accelerator to SA"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 943,
+    "y": 2306,
+    "w": 322,
+    "h": 30,
+    "text": "Price on request"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 573,
+    "y": 2384,
+    "w": 322,
+    "h": 450,
+    "text": "",
+    "href": "/en/about-us/partner/sap/ai-lead-to-cash-audit-im-sap-environment"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 573,
+    "y": 2384,
+    "w": 322,
+    "h": 180,
+    "text": "a robot with a magnifying glass analyzes data between a serv",
+    "file": "media_14e3064c7a5ed287812f86dca3cc8f75dc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 573,
+    "y": 2581,
+    "w": 322,
+    "h": 72,
+    "text": "ai lead-to-cash audit im sap environment",
+    "href": "/en/about-us/partner/sap/ai-lead-to-cash-audit-im-sap-environment"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 573,
+    "y": 2665,
+    "w": 322,
+    "h": 120,
+    "text": "Identify AI opportunities in SAP Lead-to-Cash, prioritise use cases by business "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 573,
+    "y": 2805,
+    "w": 322,
+    "h": 30,
+    "text": "€20,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 943,
+    "y": 2384,
+    "w": 322,
+    "h": 450,
+    "text": "",
+    "href": "/en/services/ai/product-advisor"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 943,
+    "y": 2384,
+    "w": 322,
+    "h": 180,
+    "text": "b",
+    "file": "media_16032e869948bafcd4ac8096604550d9f0"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 943,
+    "y": 2581,
+    "w": 322,
+    "h": 36,
+    "text": "ai product advisor",
+    "href": "/en/services/ai/product-advisor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 943,
+    "y": 2629,
+    "w": 322,
+    "h": 150,
+    "text": "Boost conversions, engagement, and revenue with smart, context-based product rec"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 943,
+    "y": 2805,
+    "w": 322,
+    "h": 30,
+    "text": "from €350 per month"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 573,
+    "y": 2883,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/about-us/partner/storyblok/ai-storyblok-migration-assistant"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 573,
+    "y": 2883,
+    "w": 322,
+    "h": 180,
+    "text": "teaser",
+    "file": "media_1f2eb58a21e9906e927cfadd6e37e7c06c"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 573,
+    "y": 3079,
+    "w": 322,
+    "h": 72,
+    "text": "ai storyblok migration assistant",
+    "href": "/en/about-us/partner/storyblok/ai-storyblok-migration-assistant"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 573,
+    "y": 3163,
+    "w": 322,
+    "h": 120,
+    "text": "Identify AI opportunities in SAP Lead-to-Cash, prioritise use cases by business "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 573,
+    "y": 3327,
+    "w": 322,
+    "h": 30,
+    "text": "€20,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 943,
+    "y": 2883,
+    "w": 322,
+    "h": 474,
+    "text": "",
+    "href": "/en/services/digital-consulting/delivery-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 943,
+    "y": 2883,
+    "w": 322,
+    "h": 180,
+    "text": "illustration of a magnifying glass examining flowcharts and ",
+    "file": "media_1e3e7797ca5cfe4b81c565d5f91d532b39"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 943,
+    "y": 3079,
+    "w": 322,
+    "h": 36,
+    "text": "delivery audit",
+    "href": "/en/services/digital-consulting/delivery-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 943,
+    "y": 3127,
+    "w": 322,
+    "h": 180,
+    "text": "Optimise your delivery processes for the long term and identify bottlenecks with"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 943,
+    "y": 3327,
+    "w": 322,
+    "h": 30,
+    "text": "€5,500"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 573,
+    "y": 3405,
+    "w": 322,
+    "h": 510,
+    "text": "",
+    "href": "/en/services/digital-produktpass-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 573,
+    "y": 3405,
+    "w": 322,
+    "h": 180,
+    "text": "a futuristic digital network showing data icons, graphs, a m",
+    "file": "media_1e71380bf0994ecc30af47dc9f2a2d2ff4"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 573,
+    "y": 3601,
+    "w": 322,
+    "h": 72,
+    "text": "digital product passport audit",
+    "href": "/en/services/digital-produktpass-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 573,
+    "y": 3685,
+    "w": 322,
+    "h": 180,
+    "text": "Prepare your organization for the Digital Product Passport in a structured way. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 573,
+    "y": 3885,
+    "w": 322,
+    "h": 30,
+    "text": "€3,500"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 943,
+    "y": 3405,
+    "w": 322,
+    "h": 510,
+    "text": "",
+    "href": "/en/services/digital-marketing/gaio/geo-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 943,
+    "y": 3405,
+    "w": 322,
+    "h": 180,
+    "text": "v",
+    "file": "media_1e06bf24037ddcc3da7b29d0f8bf3f2c53"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 943,
+    "y": 3601,
+    "w": 322,
+    "h": 36,
+    "text": "geo audit",
+    "href": "/en/services/digital-marketing/gaio/geo-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 943,
+    "y": 3649,
+    "w": 322,
+    "h": 180,
+    "text": "Boost your brand's visibility in AI search systems with data-driven analyses of "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 943,
+    "y": 3885,
+    "w": 322,
+    "h": 30,
+    "text": "from €5,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 573,
+    "y": 3963,
+    "w": 322,
+    "h": 480,
+    "text": "",
+    "href": "/en/services/audits/keycloak-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 573,
+    "y": 3963,
+    "w": 322,
+    "h": 180,
+    "text": "magnifying glass highlighting a document with checkboxes, su",
+    "file": "media_19f894769274ef6d098c673fe4720a1641"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 573,
+    "y": 4159,
+    "w": 322,
+    "h": 36,
+    "text": "keycloak audit",
+    "href": "/en/services/audits/keycloak-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 573,
+    "y": 4207,
+    "w": 322,
+    "h": 180,
+    "text": "Automatically assess your Keycloak configuration for security and compliance ris"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 573,
+    "y": 4413,
+    "w": 322,
+    "h": 30,
+    "text": "from €2,000"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.product-list-cards > div.list-product-card > a.list-product-card-card-link",
+    "x": 943,
+    "y": 3963,
+    "w": 322,
+    "h": 480,
+    "text": "",
+    "href": "/en/services/digital-marketing/paid-advertising/performance-marketing-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-img > picture > img",
+    "x": 943,
+    "y": 3963,
+    "w": 322,
+    "h": 180,
+    "text": "digital dashboard with graphs and charts on a 3d display, ac",
+    "file": "media_16fad4249d22a843a96d6cdf0b4dbe8221"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > p.link-only.list-product-card-title > a",
+    "x": 943,
+    "y": 4159,
+    "w": 322,
+    "h": 72,
+    "text": "performance marketing audit",
+    "href": "/en/services/digital-marketing/paid-advertising/performance-marketing-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-text > div.list-product-card-description > p",
+    "x": 943,
+    "y": 4243,
+    "w": 322,
+    "h": 150,
+    "text": "Identify budget losses, optimize tracking and campaign structures — and receive "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-product-card-info > div.list-product-card-price > p",
+    "x": 943,
+    "y": 4413,
+    "w": 322,
+    "h": 30,
+    "text": "ab 2.000€"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.list-pagination-pages > li.list-pagination-page.list-pagination-page-active > button.page-hit",
+    "x": 571,
+    "y": 4487,
+    "w": 60,
+    "h": 60,
+    "text": "button page 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.list-pagination-pages > li.list-pagination-page > button.page-hit",
+    "x": 637,
+    "y": 4485,
+    "w": 64,
+    "h": 64,
+    "text": "button page 2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-pagination.list-pagination-dark > div.list-pagination-nav > button.arrow-right",
+    "x": 1157,
+    "y": 4483,
+    "w": 108,
+    "h": 48,
+    "text": "next →"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-pagination.list-pagination-dark > div.list-pagination-nav > button.arrow-left",
+    "x": 1093,
+    "y": 4538,
+    "w": 172,
+    "h": 48,
+    "text": "← previous"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4730,
+    "w": 186,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4760,
+    "w": 121,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4790,
+    "w": 185,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4820,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4850,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4880,
+    "w": 59,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4730,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4760,
+    "w": 127,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4790,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4820,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4850,
+    "w": 134,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4880,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 4730,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 4760,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 4790,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 4820,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 307,
+    "y": 4972,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 387,
+    "y": 4972,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 524,
+    "y": 4972,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 589,
+    "y": 4972,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-social-media > div.footer-bottom-newsletter > a.btn-link",
+    "x": 903,
+    "y": 4972,
+    "w": 217,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1153,
+    "y": 4967,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1201,
+    "y": 4967,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1249,
+    "y": 4967,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 111,
+    "controls": 71,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "ready-made solutions for real challenges",
+   "variable": false,
+   "origin": {
+    "link": 28,
+    "button": 32,
+    "text": 31,
+    "image": 14
+   },
+   "eds": {
+    "link": 28,
+    "linkHidden": 0,
+    "button": 7,
+    "buttonHidden": 0,
+    "text": 57,
+    "textHidden": 0,
+    "image": 14,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "EXTRA LINK",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "COUNT TEXT",
+    "CONTROL STATE",
+    "CONTROL STATE",
+    "CONTROL STATE"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"service\" in band \"ready-made solutions for real challenges\" (origin y 799) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "service"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"ai\" in band \"ready-made solutions for real challenges\" (origin y 863) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "ai"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"application management services\" in band \"ready-made solutions for real challenges\" (origin y 903) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "application management services"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"consulting\" in band \"ready-made solutions for real challenges\" (origin y 967) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "consulting"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"cybersecurity\" in band \"ready-made solutions for real challenges\" (origin y 1007) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "cybersecurity"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"digital experience platform\" in band \"ready-made solutions for real challenges\" (origin y 1047) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "digital experience platform"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"digital marketing\" in band \"ready-made solutions for real challenges\" (origin y 1111) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "digital marketing"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"pim\" in band \"ready-made solutions for real challenges\" (origin y 1151) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "pim"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"industry\" in band \"ready-made solutions for real challenges\" (origin y 1196) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "industry"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"across industries\" in band \"ready-made solutions for real challenges\" (origin y 1260) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "across industries"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"automotive\" in band \"ready-made solutions for real challenges\" (origin y 1300) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "automotive"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"b2b\" in band \"ready-made solutions for real challenges\" (origin y 1340) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "b2b"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"financial services\" in band \"ready-made solutions for real challenges\" (origin y 1380) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "financial services"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"retail\" in band \"ready-made solutions for real challenges\" (origin y 1420) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "retail"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"utilities\" in band \"ready-made solutions for real challenges\" (origin y 1460) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "utilities"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"technology\" in band \"ready-made solutions for real challenges\" (origin y 1505) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "technology"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"technology-agnostic\" in band \"ready-made solutions for real challenges\" (origin y 1569) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "technology-agnostic"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"adobe\" in band \"ready-made solutions for real challenges\" (origin y 1609) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "adobe"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"commercetools\" in band \"ready-made solutions for real challenges\" (origin y 1649) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "commercetools"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"google\" in band \"ready-made solutions for real challenges\" (origin y 1689) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "google"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"microsoft\" in band \"ready-made solutions for real challenges\" (origin y 1729) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "microsoft"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"pimcore\" in band \"ready-made solutions for real challenges\" (origin y 1769) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "pimcore"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"salesforce\" in band \"ready-made solutions for real challenges\" (origin y 1809) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "salesforce"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"sap\" in band \"ready-made solutions for real challenges\" (origin y 1849) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "sap"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"scayle\" in band \"ready-made solutions for real challenges\" (origin y 1889) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "scayle"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"spryker\" in band \"ready-made solutions for real challenges\" (origin y 1929) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "spryker"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"storyblok\" in band \"ready-made solutions for real challenges\" (origin y 1969) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "storyblok"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"1\" in band \"ready-made solutions for real challenges\" (origin y 4490) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "1"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"2\" in band \"ready-made solutions for real challenges\" (origin y 4488) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "2"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"ready-made solutions for real challenges\" (origin y 796) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟠",
+   "kind": "CONTROL STATE",
+   "msg": "trigger: origin \"service\" → served \"toggle service\" (band \"ready-made solutions for real challenges\")",
+   "band": 1,
+   "label": "trigger",
+   "origin": "service",
+   "eds": "toggle service"
+  },
+  {
+   "sev": "🟠",
+   "kind": "CONTROL STATE",
+   "msg": "trigger: origin \"industry\" → served \"toggle industry\" (band \"ready-made solutions for real challenges\")",
+   "band": 1,
+   "label": "trigger",
+   "origin": "industry",
+   "eds": "toggle industry"
+  },
+  {
+   "sev": "🟠",
+   "kind": "CONTROL STATE",
+   "msg": "trigger: origin \"technology\" → served \"toggle technology\" (band \"ready-made solutions for real challenges\")",
+   "band": 1,
+   "label": "trigger",
+   "origin": "technology",
+   "eds": "toggle technology"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"toggle service\" served in band \"ready-made solutions for real challenges\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "toggle service"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"toggle industry\" served in band \"ready-made solutions for real challenges\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "toggle industry"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"toggle technology\" served in band \"ready-made solutions for real challenges\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "toggle technology"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×2 \"button page 1\" served in band \"ready-made solutions for real challenges\", no origin link or button",
+   "band": 1,
+   "n": 2,
+   "text": "button page 1"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"ready-made solutions for real challenges\": 31 origin → 57 served visible",
+   "band": 1,
+   "origin": 31,
+   "eds": 57,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 5,
+  "missingButtons": 30,
+  "hiddenButtons": 0,
+  "controlState": 3,
+  "countDeltas": 1,
+  "findings": 38,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 246,
+    "y": 55,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 340,
+    "y": 55,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 571,
+    "y": 55,
+    "w": 65,
+    "h": 18
+   },
+   {
+    "x": 669,
+    "y": 55,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 766,
+    "y": 55,
+    "w": 56,
+    "h": 18
+   },
+   {
+    "x": 855,
+    "y": 55,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 1034,
+    "y": 55,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 1062,
+    "y": 55,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "x": 1132,
+    "y": 55,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 212,
+    "w": 346,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 257,
+    "w": 680,
+    "h": 76
+   },
+   {
+    "x": 175,
+    "y": 329,
+    "w": 572,
+    "h": 76
+   },
+   {
+    "x": 175,
+    "y": 487,
+    "w": 1060,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 517,
+    "w": 1013,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 547,
+    "w": 1000,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 577,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 637,
+    "w": 1032,
+    "h": 22
+   },
+   {
+    "x": 207,
+    "y": 748,
+    "w": 70,
+    "h": 28
+   },
+   {
+    "x": 207,
+    "y": 819,
+    "w": 67,
+    "h": 23
+   },
+   {
+    "x": 239,
+    "y": 864,
+    "w": 18,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 904,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 928,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 968,
+    "w": 100,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1008,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1048,
+    "w": 168,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1072,
+    "w": 78,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1112,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1152,
+    "w": 35,
+    "h": 22
+   },
+   {
+    "x": 207,
+    "y": 1216,
+    "w": 75,
+    "h": 23
+   },
+   {
+    "x": 239,
+    "y": 1261,
+    "w": 160,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1301,
+    "w": 106,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1341,
+    "w": 38,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1381,
+    "w": 168,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1421,
+    "w": 52,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1461,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 207,
+    "y": 1525,
+    "w": 103,
+    "h": 23
+   },
+   {
+    "x": 239,
+    "y": 1570,
+    "w": 197,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1610,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1650,
+    "w": 147,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1690,
+    "w": 67,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1730,
+    "w": 88,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1770,
+    "w": 76,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1810,
+    "w": 98,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1850,
+    "w": 38,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1890,
+    "w": 62,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1930,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1970,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1011,
+    "w": 262,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 1063,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1093,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1123,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1153,
+    "w": 298,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1183,
+    "w": 119,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1263,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1011,
+    "w": 290,
+    "h": 35
+   },
+   {
+    "x": 943,
+    "y": 1063,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1093,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1123,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1153,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1183,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1213,
+    "w": 225,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1263,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1533,
+    "w": 283,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 1585,
+    "w": 278,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1615,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1645,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1675,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1705,
+    "w": 315,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1735,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1785,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1533,
+    "w": 229,
+    "h": 35
+   },
+   {
+    "x": 943,
+    "y": 1585,
+    "w": 321,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1615,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1645,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1675,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1705,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1785,
+    "w": 82,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2055,
+    "w": 237,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 2091,
+    "w": 197,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 2143,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2173,
+    "w": 316,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2203,
+    "w": 318,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2233,
+    "w": 57,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2313,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2055,
+    "w": 316,
+    "h": 35
+   },
+   {
+    "x": 943,
+    "y": 2091,
+    "w": 262,
+    "h": 35
+   },
+   {
+    "x": 943,
+    "y": 2143,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2173,
+    "w": 278,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2203,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2233,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2263,
+    "w": 67,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2313,
+    "w": 163,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2584,
+    "w": 311,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 2620,
+    "w": 281,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 2672,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2702,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2732,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2762,
+    "w": 315,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2812,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2584,
+    "w": 263,
+    "h": 35
+   },
+   {
+    "x": 943,
+    "y": 2636,
+    "w": 318,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2666,
+    "w": 235,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2696,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2726,
+    "w": 302,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2756,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2812,
+    "w": 213,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3082,
+    "w": 314,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 3118,
+    "w": 139,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 3170,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3200,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3230,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3260,
+    "w": 315,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3334,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3082,
+    "w": 199,
+    "h": 35
+   },
+   {
+    "x": 943,
+    "y": 3134,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3164,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3194,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3224,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3254,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3284,
+    "w": 91,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3334,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3604,
+    "w": 210,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 3640,
+    "w": 209,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 3692,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3722,
+    "w": 276,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3752,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3782,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3812,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3842,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3892,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3604,
+    "w": 146,
+    "h": 35
+   },
+   {
+    "x": 943,
+    "y": 3656,
+    "w": 315,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3686,
+    "w": 318,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3716,
+    "w": 278,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3746,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3776,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3806,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3892,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4162,
+    "w": 208,
+    "h": 35
+   },
+   {
+    "x": 573,
+    "y": 4214,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4244,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4274,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4304,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4334,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4364,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4420,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4162,
+    "w": 178,
+    "h": 35
+   },
+   {
+    "x": 943,
+    "y": 4198,
+    "w": 224,
+    "h": 35
+   },
+   {
+    "x": 943,
+    "y": 4250,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4280,
+    "w": 221,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4310,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4340,
+    "w": 222,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4370,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4420,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 597,
+    "y": 4511,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 665,
+    "y": 4511,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 1157,
+    "y": 4489,
+    "w": 108,
+    "h": 40
+   },
+   {
+    "x": 1096,
+    "y": 4544,
+    "w": 169,
+    "h": 40
+   },
+   {
+    "x": 175,
+    "y": 4733,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4763,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4793,
+    "w": 190,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4823,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4853,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4883,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4733,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4763,
+    "w": 130,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4793,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4823,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4853,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4883,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 4733,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 4763,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 4793,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 4823,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4976,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 4976,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 4976,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 4976,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 4976,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 907,
+    "y": 4976,
+    "w": 214,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 250,
+    "y": 55,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 344,
+    "y": 55,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 569,
+    "y": 55,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 664,
+    "y": 55,
+    "w": 63,
+    "h": 17
+   },
+   {
+    "x": 759,
+    "y": 55,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 847,
+    "y": 55,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 1026,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1056,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1129,
+    "y": 55,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 215,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 256,
+    "w": 673,
+    "h": 73
+   },
+   {
+    "x": 175,
+    "y": 328,
+    "w": 556,
+    "h": 73
+   },
+   {
+    "x": 175,
+    "y": 484,
+    "w": 1060,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 514,
+    "w": 1013,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 544,
+    "w": 1000,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 574,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 634,
+    "w": 1032,
+    "h": 22
+   },
+   {
+    "x": 207,
+    "y": 746,
+    "w": 68,
+    "h": 27
+   },
+   {
+    "x": 207,
+    "y": 817,
+    "w": 70,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 861,
+    "w": 19,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 901,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 925,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 949,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 989,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1029,
+    "w": 136,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1069,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1093,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1133,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1173,
+    "w": 37,
+    "h": 22
+   },
+   {
+    "x": 207,
+    "y": 1238,
+    "w": 74,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1282,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1322,
+    "w": 110,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1362,
+    "w": 39,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1402,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1442,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1482,
+    "w": 73,
+    "h": 22
+   },
+   {
+    "x": 207,
+    "y": 1547,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1591,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1631,
+    "w": 63,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1671,
+    "w": 153,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1711,
+    "w": 69,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1751,
+    "w": 92,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1791,
+    "w": 78,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1831,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1871,
+    "w": 39,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1911,
+    "w": 64,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1951,
+    "w": 75,
+    "h": 22
+   },
+   {
+    "x": 239,
+    "y": 1991,
+    "w": 93,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1009,
+    "w": 238,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 1060,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1090,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1120,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1150,
+    "w": 298,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1180,
+    "w": 119,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1260,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1009,
+    "w": 272,
+    "h": 33
+   },
+   {
+    "x": 943,
+    "y": 1060,
+    "w": 265,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1090,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1120,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1150,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1180,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1210,
+    "w": 225,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1260,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1531,
+    "w": 275,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 1582,
+    "w": 278,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1612,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1642,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1672,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1702,
+    "w": 315,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1732,
+    "w": 81,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 1782,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1531,
+    "w": 210,
+    "h": 33
+   },
+   {
+    "x": 943,
+    "y": 1582,
+    "w": 321,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1612,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1642,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1672,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1702,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 1782,
+    "w": 82,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2053,
+    "w": 232,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 2089,
+    "w": 180,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 2140,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2170,
+    "w": 316,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2200,
+    "w": 318,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2230,
+    "w": 57,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2310,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2053,
+    "w": 298,
+    "h": 33
+   },
+   {
+    "x": 943,
+    "y": 2089,
+    "w": 258,
+    "h": 33
+   },
+   {
+    "x": 943,
+    "y": 2140,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2170,
+    "w": 278,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2200,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2230,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2260,
+    "w": 67,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2310,
+    "w": 163,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2582,
+    "w": 294,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 2618,
+    "w": 276,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 2669,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2699,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2729,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2759,
+    "w": 315,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 2809,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2582,
+    "w": 247,
+    "h": 33
+   },
+   {
+    "x": 943,
+    "y": 2633,
+    "w": 318,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2663,
+    "w": 235,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2693,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2723,
+    "w": 302,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2753,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 2809,
+    "w": 213,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3080,
+    "w": 293,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 3116,
+    "w": 122,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 3167,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3197,
+    "w": 273,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3227,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3257,
+    "w": 315,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3331,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3080,
+    "w": 183,
+    "h": 33
+   },
+   {
+    "x": 943,
+    "y": 3131,
+    "w": 217,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3161,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3191,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3221,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3251,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3281,
+    "w": 91,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3331,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3602,
+    "w": 195,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 3638,
+    "w": 193,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 3689,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3719,
+    "w": 276,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3749,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3779,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3809,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3839,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 3889,
+    "w": 72,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3602,
+    "w": 142,
+    "h": 33
+   },
+   {
+    "x": 943,
+    "y": 3653,
+    "w": 315,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3683,
+    "w": 318,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3713,
+    "w": 278,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3743,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3773,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3803,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 3889,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4160,
+    "w": 197,
+    "h": 33
+   },
+   {
+    "x": 573,
+    "y": 4211,
+    "w": 252,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4241,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4271,
+    "w": 304,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4301,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4331,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4361,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 573,
+    "y": 4417,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4160,
+    "w": 312,
+    "h": 33
+   },
+   {
+    "x": 943,
+    "y": 4196,
+    "w": 68,
+    "h": 33
+   },
+   {
+    "x": 943,
+    "y": 4247,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4277,
+    "w": 221,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4307,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4337,
+    "w": 222,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4367,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 943,
+    "y": 4417,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 597,
+    "y": 4508,
+    "w": 9,
+    "h": 17
+   },
+   {
+    "x": 665,
+    "y": 4508,
+    "w": 9,
+    "h": 17
+   },
+   {
+    "x": 1157,
+    "y": 4487,
+    "w": 108,
+    "h": 38
+   },
+   {
+    "x": 1093,
+    "y": 4542,
+    "w": 172,
+    "h": 38
+   },
+   {
+    "x": 175,
+    "y": 4730,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4760,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4790,
+    "w": 185,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4820,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4850,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4880,
+    "w": 59,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4730,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4760,
+    "w": 127,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4790,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4820,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4850,
+    "w": 134,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4880,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 4730,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 4760,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 4790,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 4820,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4973,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 4973,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 4973,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 4973,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 4973,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 903,
+    "y": 4973,
+    "w": 217,
+    "h": 16
+   }
+  ]
+ }
+}

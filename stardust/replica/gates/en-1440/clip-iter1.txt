@@ -1,0 +1,7 @@
+clip-probe http://localhost:8791/en-proposed.html @ 1440px — docH 7264, 126 text nodes, 88 controls (HTTP 200, chrome)
+  🔴 CONTROL CLIPPED        ×6     in div.partners-bar__row.partners-bar__row--top  div.partners-bar__rows > div.partners-bar__row.partners-bar__row--top > div.partners-bar__track > a.partners-bar__item  "go to link"  cut 8–46px
+  🔴 CONTROL CLIPPED        ×6     in div.partners-bar__row.partners-bar__row--bottom  div.partners-bar__rows > div.partners-bar__row.partners-bar__row--bottom > div.partners-bar__track > a.partners-bar__item  "go to link"  cut 8–46px
+  🔴 CONTROL CLIPPED        ×4     in div.slider-cards__viewport  div.slider-cards__viewport > div.slider-cards__track > div.story-card.is-active > a.story-card__link  "go to kyowa kirin – rethinking pharmaceutical sales: from ac"  cut 11–43px
+  🔴 TEXT CLIPPED           ×2     in div.slider-cards__viewport  div.slider-cards__viewport > div.slider-cards__track > div.story-card.is-active > div.story-card__title.h5  "kyowa kirin – rethinking pharmaceutical sales: from account "  cut 5–9px
+Clipped: 18 (text clipped 2, text hidden 0, controls hidden 0, controls clipped 16; advisory: clamped 0, collapsed 0, scroll-hidden 0, horizontal 0)
+json → stardust/replica/gates/en-1440/clip-iter1.json

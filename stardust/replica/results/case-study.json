@@ -1,0 +1,44 @@
+{
+  "archetype": "en-about-us-customers-mann-hummel",
+  "liveUrl": "https://www.diva-e.com/en/about-us/customers/mann-hummel/",
+  "prototype": "stardust/prototypes/en-about-us-customers-mann-hummel-proposed.html",
+  "canon": ["stardust/prototypes/canon.css", "stardust/prototypes/canon.js"],
+  "pageCss": "stardust/prototypes/en-about-us-customers-mann-hummel.css",
+  "pageJs": "stardust/prototypes/en-about-us-customers-mann-hummel.js",
+  "main": ".page",
+  "consent": "built-in (gate dismissOverlays cleared #usercentrics-cmp-ui; no --consent needed)",
+  "modules": ["hero--small dark-blue (perspective image card)", "layout-breadcrumbs--dark", "simple-text (dark-blue band w/ no-heading headline; light)", "mixed-media left/right (Goal/Realisation/Result)", "single-quote dark-blue", "tags-carousel (RTL marquee row + empty second row)"],
+  "iterations": { "1440": 3, "360": 1 },
+  "confirmationRounds": ["final (--full, post-motion, 1440 + 360)"],
+  "gates": {
+    "1440": { "pixel": "1.20%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (0 advisory)", "visualDiff": "7 advisory, all FONT MISMATCH (GT Planar VF -> Liberation Sans substitute, register R-03; justified)", "clipped": 0, "overflow": "0px (scrollWidth 1440)" },
+    "360": { "pixel": "2.14%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (112 advisory: EXTRA header mega-menu text/labels the live mobile header renders lazily — canon, same as landing)", "visualDiff": "6 advisory, all FONT MISMATCH (R-03, justified)", "clipped": 0, "overflow": "0px (scrollWidth 360)" }
+  },
+  "capProbe": "PASS (2560: content cap live 1241 = build 1241)",
+  "residuals": [
+    "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw deltas in canon header/footer — font substitution, identical to the landing archetype residual; canon not edited (shared-file ban)",
+    "tags marquee: live capture sits at a random mid-transition offset; build rests two slides in (the live initial state) — pixel band difference is time-dependent",
+    "substitute compensation: quote ≥768px letter-spacing .035em and tags-carousel title calc(.4px + .0093em) restore live line breaks / shrink-to-fit width under Liberation Sans (drop when licensed GT Planar ships)",
+    "motion: site-wide custom cursor (div.circle: cursor-blur/show/blur--lg, filter 300ms) not implemented — chrome-level, belongs in canon; swiper-slide-visible bookkeeping class not mirrored (no visual); font-variation-settings 250ms on the tags swiper hover not reproduced as a distinct event"
+  ],
+  "captureState": [
+    { "what": "tags-carousel marquee", "restoreAtDelivery": "Swiper autoplay RTL, 4000ms/slide linear, loop (period 5 of 15 slides), starts two slides in (implemented in en-about-us-customers-mann-hummel.js)" }
+  ],
+  "motion": {
+    "observed": ["tags marquee autoplay transform 4000ms linear RTL (swiper-slide-active/prev/next mutations)", "custom cursor circle (transform/filter 300ms, cursor-blur/show/blur--lg classes)", "font-variation-settings 250ms on tags swiper"],
+    "implemented": ["tags marquee autoplay (page js)", "button hover slnt via canon .btn:hover"],
+    "dead": ["header scroll-morph", "hover .tags-carousel__btn (no measured diff)", "hover breadcrumbs .btn (no measured diff)", "hover .mixed-media__media-img (no measured diff)"],
+    "compare": "stardust/replica/motion/en-about-us-customers-mann-hummel.json vs -build.json: 4 parity, 6 missing (cursor circle + swiper bookkeeping, see residuals), 0 out of tolerance"
+  },
+  "fonts": { "body": "Inter (canon, self-hosted)", "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)" },
+  "unitsFamilies": "none declared (units.json is shared; see canonCandidates)",
+  "passed": true,
+  "canonCandidates": [
+    "mixed-media module (left/right, 5/12 media + info, 87% image ratio, info-img below 768) — recurs across case studies",
+    "single-quote--dark-blue + simple-text--dark-blue band + layout-breadcrumbs--dark + hero--small dark-blue — the case-study/detail template family",
+    "tags-carousel RTL marquee: generalise canon.js partners marquee to a [data-marquee] helper with direction + loop period",
+    "body letter-spacing inherits as 0.4px (computed on body), not .02em per element — compensation rules should be expressed as calc(.4px + Xem)",
+    "units.json family suggestion: tags-carousel { origin: '.tags-carousel__btn', build: '.tags-carousel__btn', required: false } (marquee offset is time-dependent)",
+    "site-wide custom cursor circle (div.circle) observed live, not in canon"
+  ]
+}

@@ -1,0 +1,173 @@
+/* author-card — values lifted from the gated prototype
+   (stardust/prototypes/en-insights-edge-ai-radar-october.css § 5) */
+.author-card {
+  margin: 40px 0;
+  padding: 40px var(--pad-x);
+}
+
+.author-card .author-box {
+  display: flex;
+  flex-direction: column;
+  gap: 24px 115px;
+  width: 100%;
+  padding: 24px;
+  border-radius: 32px;
+  background-color: var(--grey);
+}
+
+.author-card .author-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.author-card .author-img img {
+  display: block;
+  width: 112px;
+  height: 112px;
+  border-radius: 50%;
+}
+
+.author-card .author-name p {
+  margin-top: 16px;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  font-variation-settings: "slnt" 0;
+  line-height: 140%;
+  hyphens: auto;
+}
+
+.author-card .author-social {
+  display: flex;
+  gap: 16px;
+  margin-top: 8px;
+}
+
+.author-card .author-social p {
+  display: flex;
+  line-height: 0;
+}
+
+.author-card .author-social a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border: 1px solid var(--blue);
+  border-radius: 50%;
+}
+
+/* the shared linkedin icon is drawn light for the footer; recolour it navy here */
+.author-card .author-social .icon {
+  display: block;
+  width: 16px;
+  height: 16px;
+  background-color: var(--navy);
+  mask: var(--author-icon) center / contain no-repeat;
+}
+
+.author-card .author-social .icon-linkedin {
+  --author-icon: url("/icons/linkedin.svg");
+}
+
+.author-card .author-social .icon img {
+  display: none;
+}
+
+.author-card .author-bio p {
+  font-family: var(--font-body);
+  font-size: 1.4rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+.author-card .author-link {
+  align-self: flex-start;
+  margin-top: 24px;
+}
+
+.author-card .author-link p {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.author-card .author-link a {
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-variation-settings: "slnt" 0;
+  text-decoration: underline;
+  text-decoration-color: var(--blue);
+  text-underline-offset: 1px;
+  text-underline-position: under;
+  transition: var(--ease);
+}
+
+.author-card .author-link a:hover {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+@media (width >= 768px) {
+  .author-card {
+    margin: 64px 0;
+  }
+
+  .author-card .author-bio p {
+    font-size: 1.6rem;
+    line-height: 150%;
+  }
+}
+
+@media (width >= 950px) {
+  .author-card .author-box {
+    flex-direction: row;
+    padding: 64px;
+  }
+}
+
+@media (width >= 1024px) {
+  .author-card .author-bio p {
+    font-size: 2rem;
+  }
+}
+
+@media (width >= 1200px) {
+  .author-card {
+    margin: 80px 0;
+  }
+
+  .author-card .author-col {
+    align-items: center;
+  }
+
+  .author-card .author-col-avatar {
+    flex-shrink: 0;
+    text-align: center;
+  }
+
+  .author-card .author-img img {
+    width: 176px;
+    height: 176px;
+  }
+
+  .author-card .author-name p {
+    font-size: 3.4rem;
+  }
+}
+
+@media (width >= 1600px) {
+  .author-card .author-box {
+    padding: 64px 127px;
+  }
+}
+
+@media (width >= 1800px) {
+  .author-card .author-box {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+    margin: 0 auto;
+  }
+}

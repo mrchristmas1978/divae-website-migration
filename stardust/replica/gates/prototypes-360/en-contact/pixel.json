@@ -1,0 +1,51 @@
+{
+  "a": "stardust/replica/gates/prototypes-360/en-contact/origin.png",
+  "b": "stardust/replica/gates/prototypes-360/en-contact/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 2454,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 14695,
+  "pct": 1.66,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/prototypes-360/en-contact/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": null,
+  "textBoxes": null,
+  "textPixels": null,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 1.4
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 1.5
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.3
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 3.2
+    },
+    {
+      "y0": 2000,
+      "y1": 2454,
+      "pct": 2
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "http://localhost:8791/en-contact-proposed.html"
+  }
+}

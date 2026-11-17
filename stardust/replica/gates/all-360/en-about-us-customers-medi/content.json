@@ -1,0 +1,4503 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T05:26:14.704Z",
+  "width": 360,
+  "variable": [
+   ".tags-carousel__container"
+  ],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/about-us/customers/medi/",
+  "at": "2026-11-14T05:25:49.269Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6656,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Migration of two lifestyle stores to the cloud"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "medi"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-container > picture > img.hero__image",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "firmengebäude medi",
+    "file": "900x0"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 426,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 426,
+    "w": 52,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 161,
+    "y": 426,
+    "w": 61,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 248,
+    "y": 426,
+    "w": 28,
+    "h": 24,
+    "text": "medi",
+    "href": "/en/about-us/customers/medi/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 554,
+    "w": 312,
+    "h": 432,
+    "text": "In 2022, diva-e Conclusion took over the design and implementation of the cloud "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 119,
+    "y": 1106,
+    "w": 122,
+    "h": 17,
+    "text": "1 year until go-live"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 140,
+    "y": 1166,
+    "w": 80,
+    "h": 17,
+    "text": "2 Developer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 99,
+    "y": 1226,
+    "w": 162,
+    "h": 17,
+    "text": "Development of 2 stores"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 99,
+    "y": 1226,
+    "w": 162,
+    "h": 17,
+    "label": "count store",
+    "value": "2",
+    "via": "count"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__row-headline > div.dot-blur--16.label",
+    "x": 24,
+    "y": 1362,
+    "w": 122,
+    "h": 30,
+    "text": "Objective"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 1432,
+    "w": 261,
+    "h": 29,
+    "text": "Smooth store migration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 1509,
+    "w": 312,
+    "h": 432,
+    "text": "The aim of the joint project was to migrate the previous “on premise” store solu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__row-headline > div.dot-blur--16.label",
+    "x": 24,
+    "y": 2005,
+    "w": 179,
+    "h": 30,
+    "text": "Implementation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 2075,
+    "w": 312,
+    "h": 58,
+    "text": "Further developing systems & replacing legacy systems"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 2181,
+    "w": 312,
+    "h": 984,
+    "text": "The establishment of diva-e Conclusion as a service provider and partner began w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__row-headline > div.dot-blur--16.label",
+    "x": 24,
+    "y": 3229,
+    "w": 92,
+    "h": 30,
+    "text": "Result"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 3299,
+    "w": 211,
+    "h": 29,
+    "text": "Successful Go Live"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 3375,
+    "w": 312,
+    "h": 288,
+    "text": "The result of the successful collaboration was reflected in the successful go-li"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-quote > div.no-heading",
+    "x": 24,
+    "y": 3807,
+    "w": 312,
+    "h": 456,
+    "text": "The outstanding collaboration with diva-e Conclusion was evident in their profes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.author",
+    "x": 24,
+    "y": 4295,
+    "w": 312,
+    "h": 24,
+    "text": "Elvir Zekic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.position",
+    "x": 24,
+    "y": 4319,
+    "w": 312,
+    "h": 48,
+    "text": "Team Lead E-Commerce & Online Services medi"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.tags-carousel__title > h2",
+    "x": 24,
+    "y": 4551,
+    "w": 312,
+    "h": 66,
+    "level": 2,
+    "text": "diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": 222,
+    "y": 4652,
+    "w": 247,
+    "h": 74,
+    "text": "adobe experience manager",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/adobe-experience-manager/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": -13,
+    "y": 4662,
+    "w": 226,
+    "h": 73,
+    "text": "adobe commerce cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/adobe-commerce/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.form-block__heading > div > h2.form-block__heading-title",
+    "x": 24,
+    "y": 4833,
+    "w": 312,
+    "h": 115,
+    "level": 2,
+    "text": "interested in more success stories? subscribe to the newsletter now (german only)."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email_salutation_de_informal_1.hs-email_salutation_de_informal_1 > label#label-email_salutation_de_informal_1-7be38c84-25c4-4518-a4ea-4ad15117dbc4_form_7be38c84-25c4-4518-a4ea-4ad15117dbc4_hm4rh > span",
+    "x": 24,
+    "y": 4990,
+    "w": 40,
+    "h": 14,
+    "text": "Anrede"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 24,
+    "y": 5013,
+    "w": 97,
+    "h": 39,
+    "text": "Dear Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 137,
+    "y": 5013,
+    "w": 100,
+    "h": 39,
+    "text": "Dear Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 24,
+    "y": 5068,
+    "w": 101,
+    "h": 39,
+    "text": "Dear Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_firstname.hs-firstname > label#label-firstname-7be38c84-25c4-4518-a4ea-4ad15117dbc4_form_7be38c84-25c4-4518-a4ea-4ad15117dbc4_hm4rh > span",
+    "x": 24,
+    "y": 5131,
+    "w": 60,
+    "h": 14,
+    "text": "First Name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_lastname.hs-lastname > label#label-lastname-7be38c84-25c4-4518-a4ea-4ad15117dbc4_form_7be38c84-25c4-4518-a4ea-4ad15117dbc4_hm4rh > span",
+    "x": 24,
+    "y": 5212,
+    "w": 59,
+    "h": 14,
+    "text": "Last Name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email.hs-email > label#label-email-7be38c84-25c4-4518-a4ea-4ad15117dbc4_form_7be38c84-25c4-4518-a4ea-4ad15117dbc4_hm4rh > span",
+    "x": 24,
+    "y": 5292,
+    "w": 36,
+    "h": 14,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_company.hs-company > label#label-company-7be38c84-25c4-4518-a4ea-4ad15117dbc4_form_7be38c84-25c4-4518-a4ea-4ad15117dbc4_hm4rh > span",
+    "x": 24,
+    "y": 5372,
+    "w": 52,
+    "h": 14,
+    "text": "Company"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.legal-consent-container > div.hs-richtext > p",
+    "x": 24,
+    "y": 5451,
+    "w": 312,
+    "h": 67,
+    "text": "diva-e Digital Value Excellence GmbH will use the information you provide to sen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "label.hs-form-booleancheckbox-display > span > p",
+    "x": 60,
+    "y": 5532,
+    "w": 270,
+    "h": 34,
+    "text": "By submitting this form, I confirm that I have read the Privacy Policy."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "label.hs-form-booleancheckbox-display > span > p",
+    "x": 60,
+    "y": 5578,
+    "w": 270,
+    "h": 34,
+    "text": "Yes, please send me updates and marketing information by email."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.legal-consent-container > div.hs-richtext > p",
+    "x": 24,
+    "y": 5623,
+    "w": 312,
+    "h": 50,
+    "text": "You can find further information on our data protection information and on revoc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > a",
+    "x": 24,
+    "y": 5658,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/de/datenschutz/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > em",
+    "x": 24,
+    "y": 5692,
+    "w": 66,
+    "h": 14,
+    "text": "*Pflichtfeld"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_submit.hs-submit > div.actions > input.hs-button.primary",
+    "x": 24,
+    "y": 5733,
+    "w": 257,
+    "h": 48,
+    "text": "subscribe to our newsletter"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 5873,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 5873,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 5925,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6026,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6070,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6114,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 6114,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 6114,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6158,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 6158,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6202,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 6202,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 6202,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6246,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 6246,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 6246,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6290,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 6290,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 6290,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 6371,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 6374,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 6418,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 6495,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 6495,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 6495,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 6556,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 28,
+    "textNodes": 89,
+    "controls": 52,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div#swiper-wrapper-510f7633698eec7e2 > div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+     "text": "adobe experience manager",
+     "cutMin": 9,
+     "cutMax": 114
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn > span.text",
+     "text": "adobe experience manager",
+     "cutMin": 81,
+     "cutMax": 81
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/medi",
+  "at": "2026-11-14T05:26:14.522Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6620,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Migration of two lifestyle stores to the cloud"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#medi",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "medi"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-image-container > picture > img",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "firmengebäude medi",
+    "file": "media_1c1ccc787100348b1a945a07596e467175"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 426,
+    "w": 31,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 83,
+    "y": 426,
+    "w": 45,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 157,
+    "y": 426,
+    "w": 56,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 241,
+    "y": 426,
+    "w": 25,
+    "h": 24,
+    "text": "medi",
+    "href": "/en/about-us/customers/medi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 554,
+    "w": 312,
+    "h": 432,
+    "text": "In 2022, diva-e Conclusion took over the design and implementation of the cloud "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1090,
+    "w": 312,
+    "h": 48,
+    "text": "1 year until go-live"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1150,
+    "w": 312,
+    "h": 48,
+    "text": "2 Developer"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1210,
+    "w": 312,
+    "h": 48,
+    "text": "Development of 2 stores"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1210,
+    "w": 312,
+    "h": 48,
+    "label": "count store",
+    "value": "2",
+    "via": "count"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h6#objective",
+    "x": 24,
+    "y": 1362,
+    "w": 119,
+    "h": 30,
+    "level": 6,
+    "text": "objective"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1432,
+    "w": 312,
+    "h": 29,
+    "text": "Smooth store migration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1509,
+    "w": 312,
+    "h": 432,
+    "text": "The aim of the joint project was to migrate the previous “on premise” store solu"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h6#implementation",
+    "x": 24,
+    "y": 2005,
+    "w": 174,
+    "h": 30,
+    "level": 6,
+    "text": "implementation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 2075,
+    "w": 312,
+    "h": 58,
+    "text": "Further developing systems & replacing legacy systems"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 2181,
+    "w": 312,
+    "h": 984,
+    "text": "The establishment of diva-e Conclusion as a service provider and partner began w"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h6#result",
+    "x": 24,
+    "y": 3229,
+    "w": 91,
+    "h": 30,
+    "level": 6,
+    "text": "result"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 3299,
+    "w": 312,
+    "h": 29,
+    "text": "Successful Go Live"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 3375,
+    "w": 312,
+    "h": 288,
+    "text": "The result of the successful collaboration was reflected in the successful go-li"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figure.single-quote-container > blockquote.single-quote-text > p",
+    "x": 24,
+    "y": 3807,
+    "w": 312,
+    "h": 432,
+    "text": "The outstanding collaboration with diva-e Conclusion was evident in their profes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-name > p",
+    "x": 24,
+    "y": 4271,
+    "w": 312,
+    "h": 24,
+    "text": "Elvir Zekic"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-position > p",
+    "x": 24,
+    "y": 4295,
+    "w": 312,
+    "h": 48,
+    "text": "Team Lead E-Commerce & Online Services medi"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags-carousel-grid > div.tags-carousel-title > h2#diva-e-conclusion-services-in-the-project",
+    "x": 24,
+    "y": 4527,
+    "w": 312,
+    "h": 66,
+    "level": 2,
+    "text": "diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 281,
+    "y": 4626,
+    "w": 248,
+    "h": 74,
+    "text": "adobe experience manager",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/adobe-experience-manager/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li.is-active > a",
+    "x": 34,
+    "y": 4636,
+    "w": 226,
+    "h": 73,
+    "text": "adobe commerce cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/adobe-commerce/"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": -235,
+    "y": 4646,
+    "w": 248,
+    "h": 74,
+    "text": "adobe experience manager",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/adobe-experience-manager/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.form-block-form > div.form-block-heading > h2#interested-in-more-success-stories-subscribe-to-the-newsletter-now-german-only",
+    "x": 24,
+    "y": 4809,
+    "w": 312,
+    "h": 115,
+    "level": 2,
+    "text": "interested in more success stories? subscribe to the newsletter now (german only)."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > span#fb-email_salutation_de_informal_1-1-lbl",
+    "x": 24,
+    "y": 4965,
+    "w": 312,
+    "h": 16,
+    "text": "Anrede"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 24,
+    "y": 4989,
+    "w": 100,
+    "h": 39,
+    "text": "Dear Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 140,
+    "y": 4989,
+    "w": 103,
+    "h": 39,
+    "text": "Dear Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 24,
+    "y": 5044,
+    "w": 103,
+    "h": 39,
+    "text": "Dear Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 5106,
+    "w": 312,
+    "h": 16,
+    "text": "First Name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 5187,
+    "w": 312,
+    "h": 16,
+    "text": "Last Name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 5267,
+    "w": 312,
+    "h": 16,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 5347,
+    "w": 312,
+    "h": 16,
+    "text": "Company"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-legal > div.hs-form-richtext > p",
+    "x": 24,
+    "y": 5427,
+    "w": 312,
+    "h": 67,
+    "text": "diva-e Digital Value Excellence GmbH will use the information you provide to sen"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 5508,
+    "w": 268,
+    "h": 34,
+    "text": "By submitting this form, I confirm that I have read the Privacy Policy."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 5554,
+    "w": 268,
+    "h": 34,
+    "text": "Yes, please send me updates and marketing information by email."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-legal > div.hs-form-richtext > p",
+    "x": 24,
+    "y": 5599,
+    "w": 312,
+    "h": 50,
+    "text": "You can find further information on our data protection information and on revoc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > a",
+    "x": 24,
+    "y": 5634,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/de/datenschutz/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > em",
+    "x": 24,
+    "y": 5656,
+    "w": 66,
+    "h": 14,
+    "text": "*Pflichtfeld"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.hs-form > div.hs-form-actions > input.hs-form-submit",
+    "x": 24,
+    "y": 5697,
+    "w": 250,
+    "h": 48,
+    "text": "subscribe to our newsletter"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 5837,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 5837,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 5889,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5990,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6034,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6078,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 6078,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 6078,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6122,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 6122,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6166,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 6166,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 6166,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6210,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 6210,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 6210,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6254,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 6254,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 6254,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 6338,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6382,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 6459,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 6459,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 6459,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 6520,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 19,
+    "textNodes": 85,
+    "controls": 47,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "adobe experience manager",
+     "cutMin": 172,
+     "cutMax": 232
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "adobe experience manager",
+     "cutMin": 140,
+     "cutMax": 140
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 172,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "adobe experience manager",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": 285,
+      "t": 4626,
+      "r": 532,
+      "b": 4699,
+      "w": 248,
+      "h": 74
+     },
+     "clip": {
+      "l": 0,
+      "t": 4487,
+      "r": 360,
+      "b": 4761,
+      "w": 360,
+      "h": 274
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 140,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "adobe experience manager",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": 318,
+      "t": 4651,
+      "r": 500,
+      "b": 4674,
+      "w": 182,
+      "h": 23
+     },
+     "clip": {
+      "l": 0,
+      "t": 4487,
+      "r": 360,
+      "b": 4761,
+      "w": 360,
+      "h": 274
+     },
+     "lines": 1
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 232,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "adobe experience manager",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -232,
+      "t": 4646,
+      "r": 16,
+      "b": 4719,
+      "w": 248,
+      "h": 74
+     },
+     "clip": {
+      "l": 0,
+      "t": 4487,
+      "r": 360,
+      "b": 4761,
+      "w": 360,
+      "h": 274
+     }
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "medi",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 1,
+    "text": 16,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "diva-e conclusion services in the project",
+   "variable": true,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 2,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "HIDDEN LINK"
+   ]
+  },
+  {
+   "index": 3,
+   "heading": "interested in more success stories? subscribe to the newsletter now (german only).",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 13,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🔴",
+   "kind": "HIDDEN LINK",
+   "msg": "×2 links clipped away inside the session-variable region of band \"diva-e conclusion services in the project\"",
+   "band": 2,
+   "n": 2,
+   "variable": true
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"medi\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 2,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 2,
+  "structural": 1,
+  "missing": 0,
+  "hidden": 2
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 44,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 56,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 430,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 430,
+    "w": 52,
+    "h": 14
+   },
+   {
+    "x": 161,
+    "y": 430,
+    "w": 61,
+    "h": 14
+   },
+   {
+    "x": 248,
+    "y": 430,
+    "w": 28,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 557,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 581,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 605,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 629,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 677,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 701,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 725,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 749,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 797,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 821,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 869,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 893,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 917,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 941,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 965,
+    "w": 151,
+    "h": 18
+   },
+   {
+    "x": 119,
+    "y": 1105,
+    "w": 122,
+    "h": 17
+   },
+   {
+    "x": 140,
+    "y": 1165,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 99,
+    "y": 1225,
+    "w": 162,
+    "h": 17
+   },
+   {
+    "x": 56,
+    "y": 1365,
+    "w": 90,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1432,
+    "w": 261,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1512,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1536,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1560,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1584,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1608,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1632,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1656,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1680,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1728,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1752,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1776,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1800,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1824,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1848,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1872,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1896,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1920,
+    "w": 143,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2008,
+    "w": 147,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 2075,
+    "w": 307,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2104,
+    "w": 301,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2184,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2208,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2232,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2256,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2280,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2304,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2328,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2352,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2376,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2400,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2424,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2448,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2472,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2496,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2520,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2544,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2568,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2592,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2616,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2640,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2664,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2688,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2712,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2736,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2760,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2784,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2808,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2832,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2856,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2880,
+    "w": 168,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2928,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2952,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2976,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3000,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3024,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3048,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3072,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3096,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3120,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3144,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 3232,
+    "w": 60,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3299,
+    "w": 211,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3378,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3402,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3426,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3450,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3474,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3498,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3522,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3546,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3570,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3594,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3618,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3642,
+    "w": 81,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3807,
+    "w": 282,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3831,
+    "w": 258,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3855,
+    "w": 263,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3879,
+    "w": 307,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3903,
+    "w": 248,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3927,
+    "w": 301,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3951,
+    "w": 241,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3975,
+    "w": 279,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3999,
+    "w": 254,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4023,
+    "w": 234,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4047,
+    "w": 309,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4071,
+    "w": 253,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4095,
+    "w": 280,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4119,
+    "w": 213,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4143,
+    "w": 278,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4167,
+    "w": 299,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4191,
+    "w": 194,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4215,
+    "w": 217,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4239,
+    "w": 199,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4298,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4322,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4346,
+    "w": 109,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4550,
+    "w": 247,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 4583,
+    "w": 306,
+    "h": 35
+   },
+   {
+    "x": 259,
+    "y": 4676,
+    "w": 182,
+    "h": 24
+   },
+   {
+    "x": 24,
+    "y": 4686,
+    "w": 160,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4833,
+    "w": 296,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4862,
+    "w": 278,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4891,
+    "w": 271,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4920,
+    "w": 62,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4990,
+    "w": 40,
+    "h": 14
+   },
+   {
+    "x": 64,
+    "y": 4990,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 5023,
+    "w": 63,
+    "h": 18
+   },
+   {
+    "x": 154,
+    "y": 5023,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 41,
+    "y": 5078,
+    "w": 67,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5131,
+    "w": 60,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5212,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 5212,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5292,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5292,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5372,
+    "w": 52,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5452,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5469,
+    "w": 289,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5486,
+    "w": 296,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5503,
+    "w": 202,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5533,
+    "w": 258,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5550,
+    "w": 136,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5533,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5579,
+    "w": 257,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5596,
+    "w": 121,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5579,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5624,
+    "w": 259,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5641,
+    "w": 278,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5658,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 106,
+    "y": 5658,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5692,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5873,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 5873,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5924,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5957,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 6026,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6070,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6114,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 6114,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 6114,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6158,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 6158,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6202,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 6202,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 6202,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6246,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 6246,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 6246,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6290,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 6290,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 6290,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6372,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 6375,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6419,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 44,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 54,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 430,
+    "w": 31,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 430,
+    "w": 45,
+    "h": 14
+   },
+   {
+    "x": 157,
+    "y": 430,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 241,
+    "y": 430,
+    "w": 25,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 557,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 581,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 605,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 629,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 677,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 701,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 725,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 749,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 797,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 821,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 869,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 893,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 917,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 941,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 965,
+    "w": 151,
+    "h": 18
+   },
+   {
+    "x": 120,
+    "y": 1106,
+    "w": 120,
+    "h": 16
+   },
+   {
+    "x": 140,
+    "y": 1166,
+    "w": 79,
+    "h": 16
+   },
+   {
+    "x": 100,
+    "y": 1226,
+    "w": 159,
+    "h": 16
+   },
+   {
+    "x": 56,
+    "y": 1366,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 1432,
+    "w": 259,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1512,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1536,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1560,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1584,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1608,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1632,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1656,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1680,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1728,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1752,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1776,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1800,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1824,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1848,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1872,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1896,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1920,
+    "w": 143,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2009,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 2075,
+    "w": 307,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2104,
+    "w": 303,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2184,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2208,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2232,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2256,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2280,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2304,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2328,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2352,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2376,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2400,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2424,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2448,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2472,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2496,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2520,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2544,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2568,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2592,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2616,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2640,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2664,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2688,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2712,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2736,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2760,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2784,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2808,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2832,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2856,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2880,
+    "w": 168,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2928,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2952,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2976,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3000,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3024,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3048,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3072,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3096,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3120,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3144,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 3233,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3299,
+    "w": 214,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3378,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3402,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3426,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3450,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3474,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3498,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3522,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3546,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3570,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3594,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3618,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3642,
+    "w": 81,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3808,
+    "w": 272,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3832,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3856,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3880,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3904,
+    "w": 239,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3928,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3952,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3976,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4000,
+    "w": 298,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4024,
+    "w": 234,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4048,
+    "w": 254,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4072,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4096,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4120,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4144,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4168,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4192,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4216,
+    "w": 91,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4274,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4298,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4322,
+    "w": 109,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4527,
+    "w": 250,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 4560,
+    "w": 306,
+    "h": 33
+   },
+   {
+    "x": 318,
+    "y": 4651,
+    "w": 182,
+    "h": 23
+   },
+   {
+    "x": 70,
+    "y": 4661,
+    "w": 160,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4809,
+    "w": 295,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4838,
+    "w": 272,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4867,
+    "w": 263,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4896,
+    "w": 61,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4966,
+    "w": 40,
+    "h": 14
+   },
+   {
+    "x": 66,
+    "y": 4966,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 4999,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 157,
+    "y": 4999,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 41,
+    "y": 5054,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5107,
+    "w": 61,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5188,
+    "w": 60,
+    "h": 14
+   },
+   {
+    "x": 86,
+    "y": 5188,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5268,
+    "w": 35,
+    "h": 14
+   },
+   {
+    "x": 61,
+    "y": 5268,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5348,
+    "w": 53,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5428,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5445,
+    "w": 289,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5462,
+    "w": 296,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5479,
+    "w": 202,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5509,
+    "w": 258,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5526,
+    "w": 136,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5509,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5555,
+    "w": 257,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5572,
+    "w": 121,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5555,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5600,
+    "w": 259,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5617,
+    "w": 278,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5634,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 106,
+    "y": 5634,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5656,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5837,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 5837,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5889,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5922,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5990,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6034,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6078,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 6078,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 6078,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6122,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 6122,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6166,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 6166,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 6166,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6210,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 6210,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 6210,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6254,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 6254,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 6254,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6336,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 6339,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6383,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

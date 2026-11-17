@@ -1,0 +1,374 @@
+{
+  "slug": "en-insights-press",
+  "type": "listing",
+  "renderBranch": "A'",
+  "template": "en-insights-edge",
+  "modules": [
+    "page-title",
+    "related-links"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "page-title",
+    "style",
+    "style",
+    "related-links",
+    "related-links",
+    "related-links",
+    "related-links",
+    "related-links",
+    "style"
+  ],
+  "canonShas": {
+    "header": "850e0cea0dc4",
+    "footer": "eb22b3f55c59",
+    "css": "89712814bf67"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Press: Latest news &amp; newsroom | diva-e Conclusion",
+    "description": "In the diva-e press section you will find press releases, publications and contacts for media inquiries.",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Press: Latest news &amp; newsroom | diva-e Conclusion",
+    "description": "In the diva-e press section you will find press releases, publications and contacts for media inquiries.",
+    "url": "https://www.diva-e.com/en/insights/press/"
+  },
+  "migratedAt": "2026-11-13T16:32:41Z",
+  "designMdSha": "4192de5ef972",
+  "designJsonSha": "9768d88354b7",
+  "sourceCurrentSha": "c630a02c2a67",
+  "sourceProposedSha": "bae3b8c1577d",
+  "fidelityTier": "sibling",
+  "archetypeSource": "en-insights-edge",
+  "archetypeSha": "88da8b32f55e",
+  "variants": [],
+  "gatesPassed": [
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoded verbatim from stardust/current/pages/en-insights-press.html by stardust/.work/rollout/listing/encode.cjs (headings, body, CTAs+hrefs, alt, order; counts.cjs heading/img/link counts equal)"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 12,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/en/services/digital-marketing/audits/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/digital-business-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/technology-architecture-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/strategic-transformation/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/e-commerce-platform/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/karriereportal/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/gaio/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/omnichannel-marketing/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-security/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cybersecurity/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/luenendonk-2026",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/head-of-ai-jasmin-guthmann",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/ifm-ai-search",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/luenendonk-list-2025-diva-e-conclusion-remains-market-leader",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/diva-e-conclusion-optimizes-digital-visibility-of-dak-gesundheit",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/conclusion-expands-to-dach-region-and-appoints-tilman-au-as-managing-director",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/trade-fair-frankfurt-makes-platform-conzoom-solutions-fit-for-the-future",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/conclusion-and-diva-e-join-forces",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/ai-offensive-by-diva-e-technology-and-knowledge-transfer-for-companies",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/enterprise-sales-expert-edmund-frey-supports-go-to-market-at-diva-e",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/verified-information-security-at-diva-e",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/big-data-big-impact-diva-e-is-the-world-s-first-specialized-adobe-realtime-cdp-partner",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/top-rankings-in-the-2023-agency-ranking-digital-service-provider-diva-e-climbs-further-into-the-top-ten",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/top-rankings-in-the-2023-agency-ranking-digital-service-provider-diva-e-climbs-further-into-the-top-ten",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/after-a-successful-fiscal-year-digital-service-provider-diva-e-is-entering-2023-with-confidence",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/finance-expert-klaus-bieling-moves-from-experian-to-digital-service-provider-dive-e",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/new-perspective-for-data-centers-from-diva-e",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/strengthened-competencies-reventure-now-under-the-diva-e-umbrella",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/diva-e-presents-strong-business-figures-for-2021",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/presse/digital-auf-wachstumskurs",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/press/leading-german-digital-service-provider-launches-services-in-the-usa",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/sap/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/salesforce/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/data-privacy/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/data-privacy/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "en/insights/press/index.html",
+  "outputPathDefault": null,
+  "sidecar": "en/insights/press/_meta.json",
+  "driverVersion": "1"
+}

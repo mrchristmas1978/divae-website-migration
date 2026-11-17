@@ -1,0 +1,5396 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T05:17:54.667Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/industries/pharma/",
+  "at": "2026-11-14T05:17:27.398Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8337,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 48,
+    "text": "Efficient. Compliant. Target group-centered."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 194,
+    "w": 312,
+    "h": 198,
+    "level": 1,
+    "text": "digital solutions for pharmaceutical and life science companies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__description.richtext > p",
+    "x": 24,
+    "y": 408,
+    "w": 312,
+    "h": 264,
+    "text": "The pharmaceutical industry is facing major challenges: increasing demands due t"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 748,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 748,
+    "w": 43,
+    "h": 24,
+    "text": "pharma",
+    "href": "/en/industries/pharma/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.cards-block__tagline--left.cards-block__tagline > h2",
+    "x": 24,
+    "y": 852,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "challenges: what moves the industry"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 962,
+    "w": 264,
+    "h": 22,
+    "text": "Diverse target groups"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 999,
+    "w": 264,
+    "h": 39,
+    "text": "Doctors, pharmacists, patients and payers need individual communication."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 1118,
+    "w": 264,
+    "h": 22,
+    "text": "Regulatory requirements"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 1156,
+    "w": 264,
+    "h": 39,
+    "text": "GDPR, GxP, ePI and other guidelines must be reliably complied with."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 1275,
+    "w": 264,
+    "h": 22,
+    "text": "Changed behavior"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 1313,
+    "w": 264,
+    "h": 39,
+    "text": "Patients expect digital services, simple processes and transparency."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 1432,
+    "w": 264,
+    "h": 22,
+    "text": "Omnichannel communication"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 1470,
+    "w": 264,
+    "h": 39,
+    "text": "Field sales, HCP marketing and digital channels must be interlinked."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 1589,
+    "w": 264,
+    "h": 22,
+    "text": "Data-based decisions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 1626,
+    "w": 264,
+    "h": 39,
+    "text": "CRM, analytics and AI are crucial for efficient marketing and better results."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 1801,
+    "w": 138,
+    "h": 29,
+    "text": "Our services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > b",
+    "x": 24,
+    "y": 1881,
+    "w": 304,
+    "h": 114,
+    "text": "With industry know-how, technology expertise and interdisciplinary teams, our di"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 51,
+    "y": 2017,
+    "w": 240,
+    "h": 42,
+    "text": "crm setups based on the salesforce life sciences cloud",
+    "href": "/en/kampagnen/next-gen-crm-pharma/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2078,
+    "w": 285,
+    "h": 48,
+    "text": "Field service and sales solutions with the Salesforce Sales Cloud"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2142,
+    "w": 285,
+    "h": 48,
+    "text": "HCP and patient:in portals via Salesforce Cloud"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2206,
+    "w": 285,
+    "h": 72,
+    "text": "and CMS development with a focus on compliance and"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 51,
+    "y": 2209,
+    "w": 83,
+    "h": 18,
+    "text": "ux-design",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 51,
+    "y": 2257,
+    "w": 148,
+    "h": 18,
+    "text": "digital accessibility",
+    "href": "/en/insights/edge/digitale-barrierefreiheit-ist-nicht-optional/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2294,
+    "w": 285,
+    "h": 48,
+    "text": "- and E-Consent-Plattforms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 51,
+    "y": 2297,
+    "w": 101,
+    "h": 18,
+    "text": "e-commerce",
+    "href": "/en/services/dxp/e-commerce-platform/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2358,
+    "w": 285,
+    "h": 48,
+    "text": "for Rx, OTC und DTC"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 51,
+    "y": 2361,
+    "w": 228,
+    "h": 18,
+    "text": "content- and seo-strategies",
+    "href": "/en/services/digital-marketing/content/content-erstellung/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2422,
+    "w": 285,
+    "h": 48,
+    "text": ", dashboards and"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 51,
+    "y": 2425,
+    "w": 119,
+    "h": 18,
+    "text": "data strategies",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 51,
+    "y": 2425,
+    "w": 273,
+    "h": 42,
+    "text": "ai analyses",
+    "href": "/en/services/ai/ai-consulting/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.cards-block__tagline--left.cards-block__tagline > h2",
+    "x": 24,
+    "y": 2574,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "why diva-e?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 2655,
+    "w": 180,
+    "h": 180,
+    "text": "bullet eye icon",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 2851,
+    "w": 264,
+    "h": 22,
+    "text": "Experience in the industry"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 2953,
+    "w": 180,
+    "h": 180,
+    "text": "doodle ai",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 3149,
+    "w": 264,
+    "h": 22,
+    "text": "Technological expertise"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 3250,
+    "w": 180,
+    "h": 180,
+    "text": "performance icon",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 3446,
+    "w": 264,
+    "h": 22,
+    "text": "Fast results"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 3548,
+    "w": 180,
+    "h": 180,
+    "text": "doodle eines geschlossenes schlosses",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 3744,
+    "w": 264,
+    "h": 22,
+    "text": "Compliance by Design"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 3877,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "important decision: veeva or salesforce?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 3955,
+    "w": 312,
+    "h": 271,
+    "text": "pharma crm evaluierung",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 4246,
+    "w": 312,
+    "h": 312,
+    "text": ". In future, Veeva will run on its own platform. This means: . For many companie"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-txt.richtext > p > a",
+    "x": 24,
+    "y": 4249,
+    "w": 294,
+    "h": 42,
+    "text": "the technical partnership between salesforce and veeva will end in 2025",
+    "href": "/en/insights/edge/pharma-cms-salesforce-life-sciences-cloud-vs-veeva/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 4558,
+    "w": 312,
+    "h": 144,
+    "text": "As a with a proven pharmaceutical focus, we offer a customized “Move from Veeva "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-txt.richtext > p > a",
+    "x": 62,
+    "y": 4585,
+    "w": 207,
+    "h": 18,
+    "text": "salesforce summit partner",
+    "href": "/en/insights/news/diva-e-erreicht-den-salesforce-summit-partner-status/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 4718,
+    "w": 285,
+    "h": 72,
+    "text": "Analysis of your current Veeva landscape (data, processes, integrations)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 4806,
+    "w": 285,
+    "h": 48,
+    "text": "Fit-gap workshop on the life sciences cloud roadmap"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 4870,
+    "w": 285,
+    "h": 72,
+    "text": "Migration blueprint including effort estimation, risk evaluation and migration p"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-link > a.btn-default.btn--sm",
+    "x": 24,
+    "y": 4990,
+    "w": 113,
+    "h": 42,
+    "text": "learn more",
+    "href": "/en/campaigns/next-gen-crm-pharma/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider__header > div.teaser-slider__label > h2",
+    "x": 24,
+    "y": 5132,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "success stories"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 24,
+    "y": 5185,
+    "w": 312,
+    "h": 197,
+    "text": "",
+    "file": "500x0"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > h4.teaser-headline",
+    "x": 48,
+    "y": 5406,
+    "w": 264,
+    "h": 34,
+    "level": 4,
+    "text": "zeiss"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > p.teaser-text",
+    "x": 48,
+    "y": 5447,
+    "w": 264,
+    "h": 96,
+    "text": "Development of the ZEISS VISUSTORE digital B2B platform to enable more self-serv"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > a.btn.btn--sm",
+    "x": 48,
+    "y": 5571,
+    "w": 110,
+    "h": 42,
+    "text": "read more",
+    "href": "/en/about-us/customers/carl-zeiss-ag/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet.swiper-pagination-bullet-active",
+    "x": 156,
+    "y": 5745,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 167,
+    "y": 5745,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 178,
+    "y": 5745,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 189,
+    "y": 5745,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 4"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 200,
+    "y": 5745,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 5"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 5890,
+    "w": 312,
+    "h": 58,
+    "text": "Start your digital transformation now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 5996,
+    "w": 312,
+    "h": 120,
+    "text": "Use modern technologies to make your processes future-proof and expand your comp"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.form-block__heading > div > h2.form-block__heading-title",
+    "x": 24,
+    "y": 6228,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "contact us now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email_salutation_de_informal_1.hs-email_salutation_de_informal_1 > label#label-email_salutation_de_informal_1-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_aatv2 > span",
+    "x": 24,
+    "y": 6298,
+    "w": 58,
+    "h": 14,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 24,
+    "y": 6321,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 98,
+    "y": 6321,
+    "w": 61,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 174,
+    "y": 6321,
+    "w": 61,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_firstname.hs-firstname > label#label-firstname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_aatv2 > span",
+    "x": 24,
+    "y": 6385,
+    "w": 59,
+    "h": 14,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_lastname.hs-lastname > label#label-lastname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_aatv2 > span",
+    "x": 24,
+    "y": 6465,
+    "w": 57,
+    "h": 14,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email.hs-email > label#label-email-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_aatv2 > span",
+    "x": 24,
+    "y": 6545,
+    "w": 36,
+    "h": 14,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_phone.hs-phone > label#label-phone-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_aatv2 > span",
+    "x": 24,
+    "y": 6625,
+    "w": 36,
+    "h": 14,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_company.hs-company > label#label-company-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_aatv2 > span",
+    "x": 24,
+    "y": 6706,
+    "w": 85,
+    "h": 14,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > label#label-wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_aatv2 > span",
+    "x": 24,
+    "y": 6786,
+    "w": 176,
+    "h": 14,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > div.input > select#wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_aatv2",
+    "x": 24,
+    "y": 6811,
+    "w": 312,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_which_services.hs-which_services > label#label-which_services-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_aatv2 > span",
+    "x": 24,
+    "y": 6900,
+    "w": 77,
+    "h": 14,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.legal-consent-container > div.hs-richtext > p",
+    "x": 24,
+    "y": 7029,
+    "w": 312,
+    "h": 235,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > a",
+    "x": 136,
+    "y": 7198,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "label.hs-form-booleancheckbox-display > span > p",
+    "x": 60,
+    "y": 7278,
+    "w": 270,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-booleancheckbox > label.hs-form-booleancheckbox-display > span",
+    "x": 60,
+    "y": 7324,
+    "w": 276,
+    "h": 32,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > em",
+    "x": 24,
+    "y": 7372,
+    "w": 95,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_submit.hs-submit > div.actions > input.hs-button.primary",
+    "x": 24,
+    "y": 7414,
+    "w": 131,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 7554,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 7554,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 7606,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7707,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7751,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7795,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 7795,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 7795,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7839,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 7839,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7883,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 7883,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 7883,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7927,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 7927,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 7927,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7971,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 7971,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 7971,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 8052,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 8055,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 8099,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 8176,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 8176,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 8176,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 8237,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 16,
+    "textNodes": 116,
+    "controls": 55,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/industries/pharma",
+  "at": "2026-11-14T05:17:54.525Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8322,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 48,
+    "text": "Efficient. Compliant. Target group-centered."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#digital-solutions-for-pharmaceutical-and-life-science-companies",
+    "x": 24,
+    "y": 194,
+    "w": 312,
+    "h": 158,
+    "level": 1,
+    "text": "digital solutions for pharmaceutical and life science companies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-container > div.hero-description > p",
+    "x": 24,
+    "y": 368,
+    "w": 312,
+    "h": 264,
+    "text": "The pharmaceutical industry is facing major challenges: increasing demands due t"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 708,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 86,
+    "y": 708,
+    "w": 44,
+    "h": 24,
+    "text": "pharma",
+    "href": "/en/industries/pharma"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > div.cards-tagline > h2#challenges-what-moves-the-industry",
+    "x": 24,
+    "y": 812,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "challenges: what moves the industry"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 922,
+    "w": 264,
+    "h": 22,
+    "text": "Diverse target groups"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 960,
+    "w": 264,
+    "h": 39,
+    "text": "Doctors, pharmacists, patients and payers need individual communication."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 1079,
+    "w": 264,
+    "h": 22,
+    "text": "Regulatory requirements"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 1116,
+    "w": 264,
+    "h": 39,
+    "text": "GDPR, GxP, ePI and other guidelines must be reliably complied with."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 1236,
+    "w": 264,
+    "h": 22,
+    "text": "Changed behavior"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 1273,
+    "w": 264,
+    "h": 39,
+    "text": "Patients expect digital services, simple processes and transparency."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 1392,
+    "w": 264,
+    "h": 22,
+    "text": "Omnichannel communication"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 1430,
+    "w": 264,
+    "h": 39,
+    "text": "Field sales, HCP marketing and digital channels must be interlinked."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 1549,
+    "w": 264,
+    "h": 22,
+    "text": "Data-based decisions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 1587,
+    "w": 264,
+    "h": 39,
+    "text": "CRM, analytics and AI are crucial for efficient marketing and better results."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1762,
+    "w": 312,
+    "h": 29,
+    "text": "Our services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 24,
+    "y": 1842,
+    "w": 304,
+    "h": 114,
+    "text": "With industry know-how, technology expertise and interdisciplinary teams, our di"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 51,
+    "y": 2002,
+    "w": 240,
+    "h": 42,
+    "text": "crm setups based on the salesforce life sciences cloud",
+    "href": "/en/kampagnen/next-gen-crm-pharma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2063,
+    "w": 285,
+    "h": 48,
+    "text": "Field service and sales solutions with the Salesforce Sales Cloud"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2127,
+    "w": 285,
+    "h": 48,
+    "text": "HCP and patient:in portals via Salesforce Cloud"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2191,
+    "w": 285,
+    "h": 72,
+    "text": "and CMS development with a focus on compliance and"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 51,
+    "y": 2194,
+    "w": 83,
+    "h": 18,
+    "text": "ux-design",
+    "href": "/en/services/dxp/system-integration/ux-ui-design"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 51,
+    "y": 2242,
+    "w": 148,
+    "h": 18,
+    "text": "digital accessibility",
+    "href": "/en/insights/edge/digitale-barrierefreiheit-ist-nicht-optional"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2279,
+    "w": 285,
+    "h": 48,
+    "text": "- and E-Consent-Plattforms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 51,
+    "y": 2282,
+    "w": 101,
+    "h": 18,
+    "text": "e-commerce",
+    "href": "/en/services/dxp/e-commerce-platform"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2343,
+    "w": 285,
+    "h": 48,
+    "text": "for Rx, OTC und DTC"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 51,
+    "y": 2346,
+    "w": 228,
+    "h": 18,
+    "text": "content- and seo-strategies",
+    "href": "/en/services/digital-marketing/content/content-erstellung"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2407,
+    "w": 285,
+    "h": 48,
+    "text": ", dashboards and"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 51,
+    "y": 2410,
+    "w": 119,
+    "h": 18,
+    "text": "data strategies",
+    "href": "/en/services/dxp/data-analytics-bi"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 51,
+    "y": 2410,
+    "w": 273,
+    "h": 42,
+    "text": "ai analyses",
+    "href": "/en/services/ai/ai-consulting"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > div.cards-tagline > h2#why-diva-e",
+    "x": 24,
+    "y": 2559,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "why diva-e?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 2639,
+    "w": 180,
+    "h": 180,
+    "text": "bullet eye icon",
+    "file": "media_105dc2a5af46f4876515dbf8201a6697aa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 2835,
+    "w": 264,
+    "h": 22,
+    "text": "Experience in the industry"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 2937,
+    "w": 180,
+    "h": 180,
+    "text": "doodle ai",
+    "file": "media_121645de98010fc86eff6188c4907e76a1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 3133,
+    "w": 264,
+    "h": 22,
+    "text": "Technological expertise"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 3235,
+    "w": 180,
+    "h": 180,
+    "text": "performance icon",
+    "file": "media_16db39ad5a8d6cec24b1df19443968b0a1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 3431,
+    "w": 264,
+    "h": 22,
+    "text": "Fast results"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 3532,
+    "w": 180,
+    "h": 180,
+    "text": "doodle eines geschlossenes schlosses",
+    "file": "media_1cab49055a44b45d797efc928c2d869fcf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 3728,
+    "w": 264,
+    "h": 22,
+    "text": "Compliance by Design"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 3939,
+    "w": 312,
+    "h": 271,
+    "text": "pharma crm evaluierung",
+    "file": "media_1f925fc9e8728a0b81ffb136c6dcb7095d"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#important-decision-veeva-or-salesforce",
+    "x": 24,
+    "y": 3862,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "important decision: veeva or salesforce?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 4231,
+    "w": 312,
+    "h": 312,
+    "text": ". In future, Veeva will run on its own platform. This means: . For many companie"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > p > a",
+    "x": 24,
+    "y": 4234,
+    "w": 294,
+    "h": 42,
+    "text": "the technical partnership between salesforce and veeva will end in 2025",
+    "href": "/en/insights/edge/pharma-cms-salesforce-life-sciences-cloud-vs-veeva"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 4543,
+    "w": 312,
+    "h": 144,
+    "text": "As a with a proven pharmaceutical focus, we offer a customized “Move from Veeva "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > p > a",
+    "x": 62,
+    "y": 4570,
+    "w": 207,
+    "h": 18,
+    "text": "salesforce summit partner",
+    "href": "/en/insights/news/diva-e-erreicht-den-salesforce-summit-partner-status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > ul > li",
+    "x": 51,
+    "y": 4703,
+    "w": 285,
+    "h": 72,
+    "text": "Analysis of your current Veeva landscape (data, processes, integrations)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > ul > li",
+    "x": 51,
+    "y": 4791,
+    "w": 285,
+    "h": 48,
+    "text": "Fit-gap workshop on the life sciences cloud roadmap"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > ul > li",
+    "x": 51,
+    "y": 4855,
+    "w": 285,
+    "h": 72,
+    "text": "Migration blueprint including effort estimation, risk evaluation and migration p"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-link > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 4975,
+    "w": 115,
+    "h": 42,
+    "text": "learn more",
+    "href": "/en/campaigns/next-gen-crm-pharma"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider.block > div.teaser-slider-header > h2#success-stories",
+    "x": 24,
+    "y": 5117,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "success stories"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 24,
+    "y": 5170,
+    "w": 312,
+    "h": 197,
+    "text": "",
+    "file": "media_17a6d23e852d1053478278a905019b4821"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-headline > h4#zeiss",
+    "x": 48,
+    "y": 5390,
+    "w": 264,
+    "h": 34,
+    "level": 4,
+    "text": "zeiss"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-body > p",
+    "x": 48,
+    "y": 5432,
+    "w": 264,
+    "h": 96,
+    "text": "Development of the ZEISS VISUSTORE digital B2B platform to enable more self-serv"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-cta > p.link-only > a",
+    "x": 48,
+    "y": 5556,
+    "w": 112,
+    "h": 42,
+    "text": "read more",
+    "href": "/en/about-us/customers/carl-zeiss-ag"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet.is-active",
+    "x": 156,
+    "y": 5730,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 167,
+    "y": 5730,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 178,
+    "y": 5730,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 189,
+    "y": 5730,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 4"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 200,
+    "y": 5730,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 5"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 5875,
+    "w": 312,
+    "h": 58,
+    "text": "Start your digital transformation now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 5980,
+    "w": 312,
+    "h": 120,
+    "text": "Use modern technologies to make your processes future-proof and expand your comp"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.form-block-form > div.form-block-heading > h2#contact-us-now",
+    "x": 24,
+    "y": 6212,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "contact us now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > span#fb-email_salutation-1-lbl",
+    "x": 24,
+    "y": 6281,
+    "w": 312,
+    "h": 16,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 24,
+    "y": 6305,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 98,
+    "y": 6305,
+    "w": 62,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 176,
+    "y": 6305,
+    "w": 62,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 6368,
+    "w": 312,
+    "h": 16,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 6448,
+    "w": 312,
+    "h": 16,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 6529,
+    "w": 312,
+    "h": 16,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 6609,
+    "w": 312,
+    "h": 16,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 6689,
+    "w": 312,
+    "h": 16,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 6769,
+    "w": 312,
+    "h": 16,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > select#fb-wie_sind_sie_auf_uns_aufmerksam_geworden-7",
+    "x": 24,
+    "y": 6795,
+    "w": 312,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field.hs-form-field-textarea > label.hs-form-label",
+    "x": 24,
+    "y": 6883,
+    "w": 312,
+    "h": 16,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-legal > div.hs-form-richtext > p",
+    "x": 24,
+    "y": 7014,
+    "w": 312,
+    "h": 235,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > a",
+    "x": 136,
+    "y": 7183,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 7263,
+    "w": 268,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 7308,
+    "w": 276,
+    "h": 34,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > em",
+    "x": 24,
+    "y": 7358,
+    "w": 95,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.hs-form > div.hs-form-actions > input.hs-form-submit",
+    "x": 24,
+    "y": 7399,
+    "w": 130,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 7539,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 7539,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 7591,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7692,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7736,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7780,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 7780,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 7780,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7824,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 7824,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7868,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 7868,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 7868,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7912,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 7912,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 7912,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7956,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 7956,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 7956,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 8040,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8084,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 8161,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 8161,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 8161,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 8222,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 16,
+    "textNodes": 116,
+    "controls": 54,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "digital solutions for pharmaceutical and life science companies",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 1,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "challenges: what moves the industry",
+   "variable": false,
+   "origin": {
+    "link": 7,
+    "button": 0,
+    "text": 18,
+    "image": 0
+   },
+   "eds": {
+    "link": 7,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 18,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "why diva-e?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 4
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 4,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "important decision: veeva or salesforce?",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 5,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "success stories",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 5,
+    "text": 3,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 5,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "contact us now",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 15,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 15,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"digital solutions for pharmaceutical and life science companies\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 125,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 149,
+    "w": 76,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 193,
+    "w": 278,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 233,
+    "w": 49,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 272,
+    "w": 262,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 312,
+    "w": 265,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 351,
+    "w": 180,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 411,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 435,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 459,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 483,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 507,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 531,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 555,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 579,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 603,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 627,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 651,
+    "w": 217,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 752,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 752,
+    "w": 43,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 852,
+    "w": 273,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 881,
+    "w": 135,
+    "h": 28
+   },
+   {
+    "x": 48,
+    "y": 962,
+    "w": 181,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 1000,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1020,
+    "w": 264,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1118,
+    "w": 207,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 1157,
+    "w": 247,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1177,
+    "w": 211,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1275,
+    "w": 152,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 1314,
+    "w": 217,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1333,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1432,
+    "w": 242,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 1471,
+    "w": 257,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1490,
+    "w": 199,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1589,
+    "w": 181,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 1627,
+    "w": 246,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1647,
+    "w": 256,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 1801,
+    "w": 138,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1881,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1905,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1929,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1953,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1977,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2017,
+    "w": 201,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2041,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2081,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2105,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2145,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2169,
+    "w": 132,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2209,
+    "w": 83,
+    "h": 18
+   },
+   {
+    "x": 134,
+    "y": 2209,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2233,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2257,
+    "w": 148,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2297,
+    "w": 101,
+    "h": 18
+   },
+   {
+    "x": 152,
+    "y": 2297,
+    "w": 136,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2321,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2361,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 279,
+    "y": 2361,
+    "w": 55,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2385,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2425,
+    "w": 119,
+    "h": 18
+   },
+   {
+    "x": 170,
+    "y": 2425,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 309,
+    "y": 2425,
+    "w": 15,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2449,
+    "w": 68,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2574,
+    "w": 136,
+    "h": 28
+   },
+   {
+    "x": 70,
+    "y": 2851,
+    "w": 220,
+    "h": 21
+   },
+   {
+    "x": 80,
+    "y": 3149,
+    "w": 199,
+    "h": 21
+   },
+   {
+    "x": 131,
+    "y": 3446,
+    "w": 98,
+    "h": 21
+   },
+   {
+    "x": 87,
+    "y": 3744,
+    "w": 186,
+    "h": 21
+   },
+   {
+    "x": 24,
+    "y": 3877,
+    "w": 289,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3906,
+    "w": 159,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4249,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4273,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 318,
+    "y": 4273,
+    "w": 5,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4297,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4321,
+    "w": 172,
+    "h": 18
+   },
+   {
+    "x": 196,
+    "y": 4321,
+    "w": 131,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4345,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4369,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4393,
+    "w": 153,
+    "h": 18
+   },
+   {
+    "x": 177,
+    "y": 4393,
+    "w": 81,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4417,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4441,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4465,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4489,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4513,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4537,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4585,
+    "w": 38,
+    "h": 18
+   },
+   {
+    "x": 62,
+    "y": 4585,
+    "w": 207,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 4585,
+    "w": 52,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4609,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4633,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4657,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4681,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4721,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4745,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4769,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4809,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4833,
+    "w": 189,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4873,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4897,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4921,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 44,
+    "y": 5002,
+    "w": 73,
+    "h": 17
+   },
+   {
+    "x": 94,
+    "y": 5132,
+    "w": 173,
+    "h": 28
+   },
+   {
+    "x": 48,
+    "y": 5408,
+    "w": 66,
+    "h": 28
+   },
+   {
+    "x": 48,
+    "y": 5450,
+    "w": 203,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5474,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5498,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5522,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 68,
+    "y": 5583,
+    "w": 70,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5890,
+    "w": 190,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 5919,
+    "w": 218,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 5999,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6023,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6047,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6071,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6095,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6228,
+    "w": 174,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 6298,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 6298,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 6331,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 6331,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 191,
+    "y": 6331,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6385,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6465,
+    "w": 57,
+    "h": 14
+   },
+   {
+    "x": 81,
+    "y": 6465,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6545,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 6545,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6625,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6706,
+    "w": 85,
+    "h": 14
+   },
+   {
+    "x": 109,
+    "y": 6706,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6786,
+    "w": 176,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6900,
+    "w": 77,
+    "h": 14
+   },
+   {
+    "x": 101,
+    "y": 6900,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7030,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7047,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7064,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7081,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7097,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7131,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7148,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7165,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7181,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7198,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 7198,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 7198,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7232,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7249,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7279,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7296,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 7279,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7325,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7341,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7372,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7554,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 7554,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7605,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7638,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7707,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7751,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7795,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 7795,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 7795,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7839,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 7839,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7883,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 7883,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 7883,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7927,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 7927,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 7927,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7971,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 7971,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 7971,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8053,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 8056,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8100,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 125,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 149,
+    "w": 76,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 193,
+    "w": 264,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 233,
+    "w": 309,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 272,
+    "w": 260,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 312,
+    "w": 181,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 371,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 395,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 419,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 443,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 467,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 491,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 515,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 539,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 563,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 587,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 611,
+    "w": 217,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 713,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 86,
+    "y": 713,
+    "w": 44,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 812,
+    "w": 274,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 841,
+    "w": 128,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 922,
+    "w": 188,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 961,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 980,
+    "w": 264,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1079,
+    "w": 213,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 1117,
+    "w": 247,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1137,
+    "w": 211,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1236,
+    "w": 159,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 1274,
+    "w": 217,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1294,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1392,
+    "w": 251,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 1431,
+    "w": 257,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1451,
+    "w": 199,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1549,
+    "w": 190,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 1588,
+    "w": 246,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1607,
+    "w": 256,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 1762,
+    "w": 139,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1842,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1866,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1890,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1914,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1938,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2002,
+    "w": 201,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2026,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2066,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2090,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2130,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2154,
+    "w": 132,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2194,
+    "w": 83,
+    "h": 18
+   },
+   {
+    "x": 134,
+    "y": 2194,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2218,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2242,
+    "w": 148,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2282,
+    "w": 101,
+    "h": 18
+   },
+   {
+    "x": 152,
+    "y": 2282,
+    "w": 136,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2306,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2346,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 279,
+    "y": 2346,
+    "w": 55,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2370,
+    "w": 106,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2410,
+    "w": 119,
+    "h": 18
+   },
+   {
+    "x": 170,
+    "y": 2410,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 309,
+    "y": 2410,
+    "w": 15,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2434,
+    "w": 68,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2559,
+    "w": 137,
+    "h": 27
+   },
+   {
+    "x": 66,
+    "y": 2835,
+    "w": 227,
+    "h": 20
+   },
+   {
+    "x": 77,
+    "y": 3133,
+    "w": 207,
+    "h": 20
+   },
+   {
+    "x": 130,
+    "y": 3431,
+    "w": 101,
+    "h": 20
+   },
+   {
+    "x": 83,
+    "y": 3728,
+    "w": 194,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 3862,
+    "w": 284,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3891,
+    "w": 159,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4234,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4258,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 318,
+    "y": 4258,
+    "w": 5,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4282,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4306,
+    "w": 172,
+    "h": 18
+   },
+   {
+    "x": 196,
+    "y": 4306,
+    "w": 131,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4330,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4354,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4378,
+    "w": 153,
+    "h": 18
+   },
+   {
+    "x": 177,
+    "y": 4378,
+    "w": 81,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4402,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4426,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4450,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4474,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4498,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4522,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4570,
+    "w": 38,
+    "h": 18
+   },
+   {
+    "x": 62,
+    "y": 4570,
+    "w": 207,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 4570,
+    "w": 52,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4594,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4618,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4642,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4666,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4706,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4730,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4754,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4794,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4818,
+    "w": 189,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4858,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4882,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 4906,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 44,
+    "y": 4988,
+    "w": 75,
+    "h": 16
+   },
+   {
+    "x": 94,
+    "y": 5117,
+    "w": 173,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 5393,
+    "w": 71,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 5435,
+    "w": 203,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5459,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5483,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5507,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 68,
+    "y": 5569,
+    "w": 72,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5875,
+    "w": 179,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 5904,
+    "w": 210,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 5983,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6007,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6031,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6055,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6079,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6212,
+    "w": 170,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 6282,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 6282,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 6315,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 6315,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 193,
+    "y": 6315,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6369,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6449,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 84,
+    "y": 6449,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6530,
+    "w": 35,
+    "h": 14
+   },
+   {
+    "x": 61,
+    "y": 6530,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6610,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6690,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 114,
+    "y": 6690,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6770,
+    "w": 172,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6884,
+    "w": 79,
+    "h": 14
+   },
+   {
+    "x": 105,
+    "y": 6884,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7015,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7031,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7048,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7065,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7082,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7115,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7132,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7149,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7166,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7183,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 7183,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 7183,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7216,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7233,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7264,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7280,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 7264,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7309,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7326,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7358,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7539,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 7539,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7591,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7624,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7692,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7736,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7780,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 7780,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 7780,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7824,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 7824,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7868,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 7868,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 7868,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7912,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 7912,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 7912,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7956,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 7956,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 7956,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8038,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 8041,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8085,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

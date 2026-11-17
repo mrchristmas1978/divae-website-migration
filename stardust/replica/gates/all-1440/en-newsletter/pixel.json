@@ -1,0 +1,56 @@
+{
+  "a": "stardust/replica/gates/all-1440/en-newsletter/origin.png",
+  "b": "stardust/replica/gates/all-1440/en-newsletter/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 2540,
+    "mode": "overlap"
+  },
+  "heightDelta": 47,
+  "differingPixels": 256289,
+  "pct": 7.01,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/en-newsletter/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 14.01,
+  "textBoxes": 66,
+  "textPixels": 326904,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 3.1
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 3.2
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 9.5
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 2
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 17.2
+    },
+    {
+      "y0": 2500,
+      "y1": 2540,
+      "pct": 6.7
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a608424f--aemcoder.aem.page/en/newsletter"
+  }
+}

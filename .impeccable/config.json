@@ -1,0 +1,14 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "createdAt": "2026-11-13T11:49:15.409Z",
+        "reason": "replica of www.diva-e.com: Inter is the source site's own body font (style census _computed-styles.json type.bodyFamily, 1938 text nodes); same-design migration forbids changing it"
+      }
+    ]
+  }
+}

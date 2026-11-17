@@ -1,0 +1,7 @@
+motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)
+motion hover .hs-form-radio label → .hs-form__radio: dead on live — not required (no measured hover diff)
+motion hover input[type=submit] → .hs-form__submit: dead on live — not required (no measured hover diff)
+motion transition font-variation-settings: parity (3 event(s) on live, 4 on build, 250ms)
+motion transition transform: MISSING on build (4 event(s) on live, 300ms)
+motion class show: MISSING on build (trigger class added 1× on live, never on build)
+motion summary: 1 parity, 2 missing, 0 extra, 0 advisory (0 out of tolerance, 3 dead or unobserved on live — not required; tolerance 150ms / 8px)

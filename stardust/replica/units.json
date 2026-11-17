@@ -1,0 +1,50 @@
+{
+ "service-cards": {
+  "origin": ".cards-block--light .card",
+  "build": ".cards-block--light .card, .cards:not(.dark) .card",
+  "n": 4,
+  "required": true,
+  "pages": [
+   "en"
+  ],
+  "templates": [
+   "landing"
+  ]
+ },
+ "cert-cards": {
+  "origin": ".cards-block--dark .card",
+  "build": ".cards-block--dark .card, .cards.dark .card",
+  "n": 2,
+  "required": true,
+  "pages": [
+   "en"
+  ],
+  "templates": [
+   "landing"
+  ]
+ },
+ "project-slide-active": {
+  "origin": ".teaser-slider .swiper-slide-active",
+  "build": ".teaser-slider .teaser-item.is-active",
+  "n": 1,
+  "required": true,
+  "pages": [
+   "en"
+  ],
+  "templates": [
+   "landing"
+  ]
+ },
+ "story-cards": {
+  "origin": ".slider-cards-copy .swiper-slide",
+  "build": ".slider-cards .story-card",
+  "n": 5,
+  "required": false,
+  "pages": [
+   "en"
+  ],
+  "templates": [
+   "landing"
+  ]
+ }
+}

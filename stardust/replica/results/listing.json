@@ -1,0 +1,58 @@
+{
+  "type": "listing",
+  "archetype": "en-insights-edge",
+  "liveUrl": "https://www.diva-e.com/en/insights/edge/",
+  "prototype": "stardust/prototypes/en-insights-edge-proposed.html",
+  "canon": ["stardust/prototypes/canon.css", "stardust/prototypes/canon.js"],
+  "pageCss": "stardust/prototypes/en-insights-edge.css",
+  "pageJs": "stardust/prototypes/en-insights-edge.js",
+  "main": ".page",
+  "consent": "built-in (gate dismissOverlays, Usercentrics)",
+  "iterations": { "1440": 3, "360": 3 },
+  "confirmationRounds": [
+    "1440 iter2 --full: 1.18% Δh0, cd 0🔴/0🟡 (6 advisory), clip 0, overflow 0; iter3 pixel re-run after motion JS: 1.18% Δh0",
+    "360 iter3 --full: 1.65% Δh0, cd 0🔴/0🟡 (236 advisory: canon header drawer extras + font fork, as landing/program), clip 0, overflow 0"
+  ],
+  "gates": {
+    "1440": { "pixel": "1.18%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (6 advisory: third-party iframe title 'archetype', author avatar file renames flagged as ICON DIFF)", "visualDiff": "3 advisory: 2x FONT MISMATCH (GT Planar VF -> Liberation Sans, register R-03, justified); STRETCHED IMAGE ronny-walther 32x35 -> 32x32 (source renders the same file at 32x32, width/height 100%)", "clipped": 0, "overflow": "0px (scrollWidth 1440)" },
+    "360": { "pixel": "1.65%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (236 advisory: canon header drawer + font fork)", "visualDiff": "3 advisory (same as 1440, justified)", "clipped": 0, "overflow": "0px (scrollWidth 360; live itself overflows +20px from .list-pagination max-content width, clipped by canon .page overflow-x:clip in the build)" }
+  },
+  "capProbe": "PASS (2560, 0 of 4 rows failed; section-count structure advisory live 3 vs build 2)",
+  "residuals": [
+    "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw 1-8px from the GT Planar -> Liberation Sans substitution (identical to landing/program canon residual); 360 header drawer item widths differ (canon drawer, same as program)",
+    "R-03 compensation: featured-article title capped at max-width 260px below 768 so the substitute face wraps it onto two lines like GT Planar (otherwise Δh -29px at 360)",
+    "pagination 'next →' uses slnt 30 (italic on substitute); '← previous' slnt -30 has no substitute equivalent and renders upright",
+    "content-diff advisory: author avatar files renamed (<name>-<hash4>-32x), third-party iframe title 'archetype' not carried (not page content)"
+  ],
+  "captureState": [
+    { "what": "article list", "restoreAtDelivery": "static first page of 21 cards + pagination 1 2 3 - 11; filter pills and pagination are a dynamic query surface (Storyblok article list) for the dynamics phase" },
+    { "what": "mobile filter sheet", "restoreAtDelivery": "closed by default below 768 (fixed full-screen sheet, opened by 'Filter by'); inline pills ≥768" }
+  ],
+  "motion": {
+    "observed": [
+      "filter pill click: 'active' class moves + background-color/color/box-shadow transitions 250ms",
+      "card image hover: hover-button__cursor--active ('View more' disc, opacity/transform 200ms)",
+      "header langs 'show' class (canon chrome)",
+      "site-wide custom cursor div.circle 'cursor-hide' (third-party/global cursor)"
+    ],
+    "implemented": [
+      "filter pill active toggle (+ aria-pressed) and mobile 'Filter by' sheet open/close in en-insights-edge.js",
+      "hover-button cursor disc following the pointer with --active class in en-insights-edge.js"
+    ],
+    "dead": [
+      "header scroll-morph (static on both)",
+      "widget sampling on filter click (no track/scroll change)",
+      "global custom cursor 'cursor-hide' (site chrome, not part of the listing module)",
+      "header langs 'show' (canon chrome — see canonCandidates)"
+    ],
+    "compare": "stardust/replica/motion/en-insights-edge-compare.txt (7 parity, 2 missing = cursor-hide global cursor + header langs show, 0 extra)"
+  },
+  "passed": true,
+  "canonCandidates": [
+    ".text-small / .text-xsmall (Inter 300, .02em, 150%; 2rem / 1.6rem) and .dot-blur--12 (12px blurred dot, margin-right 12px) — entry.css utilities used by every listing/article page",
+    "mixed-media (+ --article/--right variant: 6/5-col flex with 24px gap, perspective(100px) rotateY(-1.5deg) translate3d(-28px) image, 74% ratio; 87% inline image below 768) — recurs on article/news/event pages",
+    "article-list + list-article-card + hover-button + filter-buttons/.btn--filter + list-pagination — the shared listing block family for all 9 listing pages (news, press, events, downloads, customers, partner, locations, marketplace)",
+    ".page-edge header offset (padding-top 86px, 128px >=1500) — PageEdge template; other templates may share it",
+    "header langs 'show' class toggle (observed on live at 1440, not implemented by canon.js)"
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "archetypes": {
+    "landing": "en",
+    "article": "en-insights-edge-ai-radar-october",
+    "case-study": "en-about-us-customers-mann-hummel",
+    "program": "en-services-crm",
+    "listing": "en-insights-edge",
+    "static": "en-imprint",
+    "form": "en-contact",
+    "unique": "en-connect"
+  },
+  "units": {
+    "plan": {
+      "status": "done",
+      "kind": "plan",
+      "templates": [
+        "landing",
+        "article",
+        "case-study",
+        "program",
+        "listing",
+        "static",
+        "form",
+        "unique"
+      ],
+      "pages": 100,
+      "startedAt": "2026-11-13T12:35:00.164Z",
+      "endedAt": "2026-11-13T12:35:00.164Z",
+      "verdict": "8 templates, 8 archetypes, 92 siblings"
+    },
+    "render-archetypes": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "landing",
+        "article",
+        "case-study",
+        "program",
+        "listing",
+        "static",
+        "form",
+        "unique"
+      ],
+      "pages": 8,
+      "slugs": [
+        "en",
+        "en-insights-edge-ai-radar-october",
+        "en-about-us-customers-mann-hummel",
+        "en-services-crm",
+        "en-insights-edge",
+        "en-imprint",
+        "en-contact",
+        "en-connect"
+      ],
+      "startedAt": "2026-11-13T12:35:05Z",
+      "endedAt": "2026-11-13T12:35:28.630Z",
+      "verdict": "rendered 8, unchanged 0, refused 0, passthrough 0"
+    },
+    "landing": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "landing"
+      ],
+      "archetype": "en",
+      "pages": 1,
+      "slugs": [
+        "index"
+      ],
+      "after": "C-deliver archetype unit landing",
+      "startedAt": "2026-11-13T14:25:36Z",
+      "endedAt": "2026-11-13T14:50:24Z",
+      "verdict": "rendered 1, unchanged 0, refused 0, passthrough 0"
+    },
+    "article-1": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "article"
+      ],
+      "archetype": "en-insights-edge-ai-radar-october",
+      "pages": 8,
+      "slugs": [
+        "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+        "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+        "en-insights-edge-lead-to-cash-in-sap",
+        "en-insights-edge-tech-reality-check-ai",
+        "en-insights-edge-tech-reality-check-technical-debt",
+        "en-insights-edge-cypress-playwright-selenium",
+        "en-insights-edge-ai-foundation",
+        "en-insights-edge-conclusion-connect-recap"
+      ],
+      "after": "C-deliver archetype unit article",
+      "startedAt": "2026-11-13T14:23:13Z",
+      "endedAt": "2026-11-13T18:44:29.475Z"
+    },
+    "article-2": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "article"
+      ],
+      "archetype": "en-insights-edge-ai-radar-october",
+      "pages": 8,
+      "slugs": [
+        "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+        "en-insights-edge-crm-auswaehlen-leitfaden",
+        "en-insights-edge-cdp-evaluation",
+        "en-insights-edge-ifm-ai-product-advisor",
+        "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+        "en-insights-edge-commerce-platform-evaluation",
+        "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+        "en-insights-edge-5-fragen-plattformentscheidung"
+      ],
+      "after": "C-deliver archetype unit article",
+      "startedAt": "2026-11-13T14:23:13Z",
+      "endedAt": "2026-11-13T18:44:29.475Z"
+    },
+    "article-3": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "article"
+      ],
+      "archetype": "en-insights-edge-ai-radar-october",
+      "pages": 8,
+      "slugs": [
+        "en-insights-edge-vendor-lab-day",
+        "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+        "en-insights-edge-ai-product-advisor-smart-search",
+        "en-insights-edge-greenwashing-retail",
+        "en-insights-edge-ai-radar-pilots",
+        "en-insights-edge-ai-radar-human-in-the-loop",
+        "en-insights-edge-ai-radar-september",
+        "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum"
+      ],
+      "after": "C-deliver archetype unit article",
+      "endedAt": "2026-11-13T18:44:29.475Z"
+    },
+    "article-4": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "article"
+      ],
+      "archetype": "en-insights-edge-ai-radar-october",
+      "pages": 8,
+      "slugs": [
+        "en-insights-edge-security-anomaly-agent-use-case",
+        "en-insights-edge-innovation-marketplace",
+        "en-insights-edge-geo-ymyl",
+        "en-insights-edge-tech-evaluation-short-list",
+        "en-insights-edge-from-data-silos-to-digital-commerce",
+        "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+        "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+        "en-insights-edge-projekt-recap-aus-der-praxis"
+      ],
+      "after": "C-deliver archetype unit article",
+      "endedAt": "2026-11-13T18:44:29.475Z"
+    },
+    "article-5": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "article"
+      ],
+      "archetype": "en-insights-edge-ai-radar-october",
+      "pages": 8,
+      "slugs": [
+        "en-insights-edge-sap-joule-und-die-business-data-cloud",
+        "en-insights-edge-salesforce-partner-day-recap",
+        "en-insights-edge-industry-trends-2026",
+        "en-insights-edge-geo-gaio-gaps",
+        "en-insights-edge-agentic-commerce",
+        "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+        "en-insights-edge-qa-sap-ai",
+        "en-insights-edge-ki-in-der-qualitaetssicherung"
+      ],
+      "after": "C-deliver archetype unit article",
+      "endedAt": "2026-11-13T18:44:29.475Z",
+      "result": "cluster: rendered 40, unchanged 0, refused 0, passthrough 0"
+    },
+    "case-study-1": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "case-study"
+      ],
+      "archetype": "en-about-us-customers-mann-hummel",
+      "pages": 8,
+      "slugs": [
+        "en-about-us-customers-doerrenberg",
+        "en-about-us-customers-medi",
+        "en-about-us-customers-baby-walz",
+        "en-about-us-customers-best4tires",
+        "en-about-us-customers-hd-plus",
+        "en-about-us-customers-interamt",
+        "en-about-us-customers-sma",
+        "en-about-us-customers-wilo"
+      ],
+      "after": "C-deliver archetype unit case-study",
+      "endedAt": "2026-11-13T17:56:23.737Z"
+    },
+    "case-study-2": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "case-study"
+      ],
+      "archetype": "en-about-us-customers-mann-hummel",
+      "pages": 8,
+      "slugs": [
+        "en-about-us-customers-fressnapf",
+        "en-about-us-customers-vwfs",
+        "en-about-us-customers-unitymedia",
+        "en-about-us-customers-terra-canis",
+        "en-about-us-customers-spinner",
+        "en-about-us-customers-siemens",
+        "en-about-us-customers-seat",
+        "en-about-us-customers-ravensburger"
+      ],
+      "after": "C-deliver archetype unit case-study",
+      "endedAt": "2026-11-13T17:56:23.737Z"
+    },
+    "case-study-3": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "case-study"
+      ],
+      "archetype": "en-about-us-customers-mann-hummel",
+      "pages": 3,
+      "slugs": [
+        "en-about-us-customers-postbank",
+        "en-about-us-customers-telefonica",
+        "en-about-us-customers-multivac"
+      ],
+      "after": "C-deliver archetype unit case-study",
+      "endedAt": "2026-11-13T17:56:23.737Z",
+      "result": "cluster: rendered 19, unchanged 0, refused 0, passthrough 0"
+    },
+    "program-1": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "program"
+      ],
+      "archetype": "en-services-crm",
+      "pages": 8,
+      "slugs": [
+        "en-services-ai",
+        "en-services-digital-consulting",
+        "en-services-digital-produktpass-audit",
+        "en-services-dxp",
+        "en-campaigns-next-gen-crm-pharma",
+        "en-services-ams",
+        "en-services-total-experience",
+        "en-industries-b2b-manufacturing"
+      ],
+      "after": "C-deliver archetype unit program",
+      "startedAt": "2026-11-13T13:28:34Z",
+      "endedAt": "2026-11-13T15:35:35Z",
+      "verdict": "program (both units): rendered 12, unchanged 3, refused 0, passthrough 0"
+    },
+    "program-2": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "program"
+      ],
+      "archetype": "en-services-crm",
+      "pages": 7,
+      "slugs": [
+        "en-industries-automotive",
+        "en-campaigns-pim-voucher",
+        "en-industries-retail",
+        "en-services-digital-marketing",
+        "en-industries-pharma",
+        "en-industries-pharma-and-healthcare",
+        "en-industries-financial-services"
+      ],
+      "after": "C-deliver archetype unit program",
+      "startedAt": "2026-11-13T13:28:34Z",
+      "endedAt": "2026-11-13T15:35:35Z",
+      "verdict": "program (both units): rendered 12, unchanged 3, refused 0, passthrough 0"
+    },
+    "listing": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "listing"
+      ],
+      "archetype": "en-insights-edge",
+      "pages": 8,
+      "slugs": [
+        "en-marketplace",
+        "en-about-us-customers",
+        "en-about-us-partner",
+        "en-insights-events",
+        "en-about-us-locations",
+        "en-insights-downloads",
+        "en-insights-press",
+        "en-insights-news"
+      ],
+      "after": "C-deliver archetype unit listing",
+      "endedAt": "2026-11-13T17:56:15.219Z",
+      "result": "rendered 8, unchanged 0, refused 0, passthrough 0"
+    },
+    "static": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "static"
+      ],
+      "archetype": "en-imprint",
+      "pages": 4,
+      "slugs": [
+        "en-about-us",
+        "en-data-privacy",
+        "en-about-us-ai-manifest",
+        "en-about-us-management"
+      ],
+      "after": "C-deliver archetype unit static",
+      "startedAt": "2026-11-13T19:08:59Z",
+      "endedAt": "2026-11-13T19:53:06Z",
+      "result": "rendered 4, unchanged 0, refused 0, passthrough 0"
+    },
+    "form": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "form"
+      ],
+      "archetype": "en-contact",
+      "pages": 5,
+      "slugs": [
+        "en-loyalty-quiz",
+        "en-security-quiz",
+        "en-newsletter",
+        "en-search",
+        "en-security-quiz-security-questions"
+      ],
+      "after": "C-deliver archetype unit form",
+      "endedAt": "2026-11-13T16:14:23.224Z",
+      "result": "rendered 5, unchanged 0, refused 0, passthrough 0"
+    },
+    "report": {
+      "status": "done",
+      "kind": "report",
+      "templates": [
+        "landing",
+        "article",
+        "case-study",
+        "program",
+        "listing",
+        "static",
+        "form",
+        "unique"
+      ],
+      "pages": 100,
+      "startedAt": "2026-11-14T07:01:43Z",
+      "endedAt": "2026-11-14T07:01:43Z",
+      "verdict": "report: 100/100 pages migrated in state.json (migratedPath set); 8 approved-from-prototype + 92 template-applied siblings; all 100 sidecars present"
+    }
+  }
+}

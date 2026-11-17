@@ -1,0 +1,41 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://www.diva-e.com/en/ (live side from cache stardust/replica/gates/en-1440/chrome-live.json, probed 2026-11-13T11:18:25.967Z — delete the file to re-probe)
+  build: http://localhost:8791/en-proposed.html
+
+■ header: 9 delta(s) — 10 paired of 10/10 texts, 2/2 icons
+  PAIR         "Services"  letterSpacing normal → 0.4px; Δx -14px (230→216); Δw +5px (94→99)
+  PAIR         "Marketplace"  Δx -8px (324→316); Δw +2px (127→129)
+  PAIR         "Industries"  letterSpacing normal → 0.4px; Δx -7px (451→444); Δw +5px (104→109)
+  PAIR         "About us"  letterSpacing normal → 0.4px; Δw +4px (98→102)
+  PAIR         "Insights"  letterSpacing normal → 0.4px; Δx +4px (750→754); Δw +4px (89→93)
+  PAIR         "Careers"  Δx +8px (839→847); Δw +2px (91→93)
+  PAIR         "de"  fontWeight 400 → 300; letterSpacing normal → 0.4px; Δx +10px (1030→1040); Δw +2px (28→30)
+  PAIR         "en"  fontWeight 400 → 300; letterSpacing normal → 0.4px; Δx +12px (1058→1070)
+  PAIR         "Contacts"  lineHeight 30px → 24px; Δx +14px (1115→1129)
+
+■ footer: 23 delta(s) — 22 paired of 22/22 texts, 3/3 icons
+  REGION BOX   Δy +67px (6761→6828)
+  PAIR         "Adobe Experience Cloud"  Δy +67px (6809→6876); Δw +6px (187→193)
+  PAIR         "Paid Advertising"  Δy +67px (6839→6906); Δw +3px (125→128)
+  PAIR         "Application Management"  Δy +67px (6869→6936); Δw +4px (190→194)
+  PAIR         "CDP"  Δy +67px (6899→6966)
+  PAIR         "CMS"  Δy +67px (6929→6996)
+  PAIR         "Content"  Δy +67px (6959→7026)
+  PAIR         "Data Analysis"  Δx +2px (609→611); Δy +67px (6809→6876); Δw +3px (103→106)
+  PAIR         "Online Marketing"  Δx +2px (609→611); Δy +67px (6839→6906); Δw +3px (130→133)
+  PAIR         "OneProSeo"  Δx +2px (609→611); Δy +67px (6869→6936); Δw +3px (85→88)
+  PAIR         "PIM"  Δx +2px (609→611); Δy +67px (6899→6966)
+  PAIR         "Monitor Reporting"  Δx +2px (609→611); Δy +67px (6929→6996); Δw +2px (140→142)
+  PAIR         "SAP"  Δx +2px (609→611); Δy +67px (6959→7026)
+  PAIR         "SEO"  Δy +67px (6809→6876)
+  PAIR         "Salesforce"  Δy +67px (6839→6906); Δw +2px (80→82)
+  PAIR         "AI"  Δy +67px (6869→6936)
+  PAIR         "UX"  Δy +67px (6899→6966)
+  PAIR         "diva-e © 2026"  Δy +62px (7051→7113); Δh +10px (20→30)
+  PAIR         "Imprint"  Δx +20px (307→327); Δy +70px (7051→7121)
+  PAIR         "Data protection"  Δx +40px (387→427); Δy +70px (7051→7121)
+  PAIR         "Jobs"  Δx +60px (524→584); Δy +70px (7051→7121)
+  PAIR         "Whistleblower system"  Δx +80px (589→669); Δy +70px (7051→7121)
+  PAIR         "Subscribe to diva-e newsletter!"  Δx -4px (907→903); Δy +68px (7051→7119); Δw +3px (214→217); Δh -4px (20→16); <a> box 214×20 → 217×20
+
+✗ 32 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

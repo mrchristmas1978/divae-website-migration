@@ -1,0 +1,61 @@
+{
+  "a": "stardust/replica/gates/all-360/en-about-us-management/origin.png",
+  "b": "stardust/replica/gates/all-360/en-about-us-management/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 3306,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 17581,
+  "pct": 1.48,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/en-about-us-management/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 6.2,
+  "textBoxes": 64,
+  "textPixels": 214919,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 1.7
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 1.2
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.4
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 1.2
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 0.4
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 4.1
+    },
+    {
+      "y0": 3000,
+      "y1": 3306,
+      "pct": 1.2
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/management"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_provenance": { "writtenBy": "stardust:dynamics", "writtenAt": "2026-11-14T07:30:00Z" },
+  "method": "rows from stardust/dynamic-features.md (B2-verified 2026-11-13); search expectations read from the source /en/search/ (Algolia, whole site) on 2026-11-14 and restricted to the 100-page run scope; martech checks appended from stardust/martech-contract.json",
+  "features": [
+    {
+      "id": "s-search-hosted-search-service", "feature": "site search results (/en/search)", "class": "S", "pages": 1,
+      "disposition": "index-backed", "reproducibility": "self", "status": "done",
+      "verifiedBy": "query-index total 100 = coverage 100; source 'spinner' 2 hits, 1 in scope (/en/about-us/customers/spinner/), the other (/en/insights/edge/speed-vs-stability-in-test-automation/) outside the run's page scope",
+      "environmentLimit": "the source searches body text over its whole site; the EDS index covers the 100 delivered pages (title, description, path), so source counts are compared restricted to the run scope",
+      "checks": [
+        { "type": "search-query", "path": "/en/search", "term": "spinner", "resultSelector": ".search-result", "titleSelector": ".search-result-title", "expectCount": 1, "expectIncludes": "/en/about-us/customers/spinner" },
+        { "type": "search-query", "path": "/en/search", "term": "best4tires", "resultSelector": ".search-result", "titleSelector": ".search-result-title", "expectCount": 1, "expectIncludes": "/en/about-us/customers/best4tires" }
+      ]
+    },
+    {
+      "id": "f-form-backend-hubspot-forms", "feature": "HubSpot contact form (form-block, Forms API v3, portal 3937475)", "class": "F", "pages": 75,
+      "disposition": "embed-passthrough", "reproducibility": "self", "status": "done",
+      "verifiedBy": "native field set rendered; required fields refuse an empty submission",
+      "owner": "a filled test submission posts to the owner's production HubSpot portal and creates a contact; it is left to the owner (one test lead from /en/contact)",
+      "checks": [
+        { "type": "dom-count", "path": "/en/contact", "selector": ".form-block form input[name=\"email\"]", "min": 1 },
+        { "type": "dom-count", "path": "/en/contact", "selector": ".form-block form [required]", "min": 3 }
+      ]
+    },
+    {
+      "id": "listing-article-list", "feature": "insights listing cards (static first page + pagination)", "class": "CR", "pages": 4,
+      "disposition": "static-snapshot", "reproducibility": "self", "status": "done",
+      "verifiedBy": "21 cards on the first page as captured",
+      "checks": [ { "type": "dom-count", "path": "/en/insights/edge", "selector": ".article-list .list-article-card", "min": 21 } ]
+    },
+    {
+      "id": "partners-marquee", "feature": "partner logo marquee (home)", "class": "CR", "pages": 2,
+      "disposition": "rebuild-native", "reproducibility": "self", "status": "done",
+      "verifiedBy": "slides rendered in the marquee track",
+      "checks": [ { "type": "dom-count", "path": "/en", "selector": ".partners-bar .partners-bar-slide", "min": 5 } ]
+    },
+    {
+      "id": "page-errors", "feature": "archetype pages run without uncaught exceptions", "class": "A", "pages": 8,
+      "disposition": "rebuild-native", "reproducibility": "self", "status": "done", "verifiedBy": "no uncaught exceptions",
+      "checks": [ { "type": "no-page-errors", "paths": ["/", "/en", "/en/contact", "/en/connect", "/en/insights/edge", "/en/services/crm", "/en/about-us/customers/mann-hummel", "/en/search"] } ]
+    }
+  ]
+}

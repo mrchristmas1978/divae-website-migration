@@ -1,0 +1,455 @@
+/* slider-cards — diva-e SliderCards "Our stories" rail (canon § 11, landing archetype).
+   Authored elements are styled through their slot wrappers (EW2). */
+.slider-cards {
+  position: relative;
+  margin: 40px 0;
+}
+
+.slider-cards .slider-cards-header {
+  padding: 0 var(--pad-x);
+}
+
+.slider-cards .slider-cards-headline :is(h1, h2, h3, h4, h5, h6) {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+.slider-cards .slider-cards-headline u {
+  padding-bottom: 5px;
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+  text-decoration-color: var(--blue);
+  text-decoration-thickness: 4px;
+  text-underline-offset: 6px;
+}
+
+.slider-cards .slider-cards-swiper {
+  padding: 50px 0 0 24px;
+}
+
+.slider-cards .slider-cards-viewport {
+  overflow-x: clip;
+  padding: 0 112px 0 5px;
+}
+
+.slider-cards .slider-cards-track {
+  --step: calc(100% + 24px);
+
+  display: flex;
+  align-items: flex-start;
+  column-gap: 24px;
+  transform: translateX(calc(-1 * (var(--shift, 0) + 1) * var(--step)));
+  transition: transform 0.3s ease-out;
+}
+
+.slider-cards .story-card {
+  position: relative;
+  flex: 0 0 100%;
+  width: 100%;
+}
+
+.slider-cards .story-card-link {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+}
+
+.slider-cards .story-card-img {
+  position: relative;
+  z-index: 3;
+  pointer-events: none;
+}
+
+.slider-cards .story-card-media {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.slider-cards .story-card-media::before {
+  content: "";
+  display: block;
+  padding-bottom: 56%;
+}
+
+.slider-cards .story-card-media img {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slider-cards .story-card-hover {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+}
+
+.slider-cards .story-card-hover-link {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  pointer-events: auto;
+}
+
+.slider-cards .story-card-cursor {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  width: 170px;
+  height: 170px;
+  margin: -85px 0 0 -85px;
+  opacity: 0;
+  transition: opacity 0.2s ease-out;
+}
+
+.slider-cards .story-card-cursor span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border-radius: 100%;
+  background-color: var(--blue);
+  color: var(--white);
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  font-style: italic;
+  line-height: 100%;
+  text-align: center;
+}
+
+.slider-cards .story-card-cursor span::before {
+  content: "View More";
+}
+
+.slider-cards .story-card-name {
+  position: relative;
+  z-index: 3;
+  margin-top: 16px;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 150%;
+  pointer-events: none;
+}
+
+/* a story without a date (downloads, articles) has no name row in the source */
+.slider-cards .story-card-name:has(> .story-card-date:empty) {
+  display: none;
+}
+
+.slider-cards .story-card-date {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+}
+
+.slider-cards .story-card-date p {
+  font: inherit;
+  letter-spacing: inherit;
+}
+
+.slider-cards .story-card-title {
+  position: relative;
+  z-index: 3;
+  display: block;
+  margin-top: 16px;
+  color: var(--navy);
+  overflow-wrap: break-word;
+  pointer-events: none;
+  transition: var(--ease);
+}
+
+.slider-cards .story-card-title p {
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+}
+
+.slider-cards .story-card:hover .story-card-title {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.slider-cards .story-card:hover .story-card-cursor {
+  opacity: 1;
+}
+
+.slider-cards .slider-cards-nav {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 0 var(--pad-x);
+}
+
+.slider-cards .slider-cards-nav-inner {
+  display: flex;
+  justify-content: center;
+}
+
+.slider-cards .slider-cards-arrow {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  margin-top: 40px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
+.slider-cards .slider-cards-arrow svg {
+  width: 20px;
+  height: auto;
+  pointer-events: none;
+}
+
+.slider-cards .slider-cards-arrow-next svg {
+  transform: rotate(180deg);
+}
+
+.slider-cards .slider-cards-arrow::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: -1;
+  width: 60px;
+  height: 60px;
+  margin: -30px 0 0 -30px;
+  border-radius: 50%;
+  opacity: 0;
+  transition: all 0.5s;
+}
+
+.slider-cards .slider-cards-arrow:hover::before {
+  opacity: 1;
+  background-color: var(--blue);
+  filter: blur(6px);
+}
+
+@media (width >= 768px) {
+  .slider-cards {
+    margin: 64px 0;
+  }
+
+  .slider-cards .slider-cards-headline {
+    width: calc(700% / 12 - 5 * 24px / 12);
+    margin-left: calc(100% / 12 - 11 * 24px / 12 + 24px);
+  }
+
+  .slider-cards .slider-cards-swiper {
+    width: calc(100% + 20px);
+    padding: 50px 0;
+    transform: rotate(-2deg);
+    transform-origin: bottom;
+  }
+
+  .slider-cards .slider-cards-viewport {
+    padding: 0 150px;
+  }
+
+  .slider-cards .story-card-date {
+    display: inline-block;
+  }
+
+  .slider-cards .slider-cards-nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    justify-content: flex-start;
+  }
+
+  .slider-cards .slider-cards-nav-inner {
+    display: flex;
+    justify-content: center;
+    width: calc(500% / 12 - 7 * 24px / 12);
+    margin-left: calc(700% / 12 - 5 * 24px / 12 + 24px);
+  }
+
+  .slider-cards .slider-cards-arrow {
+    margin-top: 0;
+  }
+}
+
+@media (width >= 950px) {
+  .slider-cards .slider-cards-track {
+    --step: calc(50% + 20px);
+
+    column-gap: 40px;
+  }
+
+  .slider-cards .story-card {
+    flex-basis: calc((100% - 40px) / 2);
+    width: calc((100% - 40px) / 2);
+  }
+
+  .slider-cards .slider-cards-arrow {
+    width: 112px;
+  }
+
+  .slider-cards .slider-cards-arrow svg {
+    width: 34px;
+    height: 28px;
+  }
+
+  .slider-cards .slider-cards-arrow::before {
+    width: 80px;
+    height: 80px;
+    margin: -40px 0 0 -40px;
+  }
+}
+
+@media (width >= 1200px) {
+  .slider-cards {
+    margin: 80px 0;
+  }
+
+  .slider-cards .slider-cards-headline :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 3.9rem;
+  }
+
+  .slider-cards .slider-cards-headline u {
+    text-decoration-thickness: 6px;
+    text-underline-offset: 10px;
+  }
+
+  .slider-cards .slider-cards-track {
+    --step: calc((100% - 48px) / 3 + 24px);
+
+    column-gap: 24px;
+  }
+
+  .slider-cards .story-card {
+    flex-basis: calc((100% - 48px) / 3);
+    width: calc((100% - 48px) / 3);
+  }
+}
+
+@media (width >= 1366px) {
+  .slider-cards .slider-cards-viewport {
+    padding: 0 236px;
+  }
+}
+
+@media (width >= 1600px) {
+  .slider-cards .slider-cards-headline :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 4.7rem;
+  }
+
+  .slider-cards .story-card-name,
+  .slider-cards .story-card-date {
+    font-size: 2rem;
+  }
+}
+
+/* INTERIM (foundation request queued in stardust/rollout/foundation-requests.md):
+   the source's Text module (centred dark intro band) is default content in a section
+   styled `text, dark`. Moves to styles/styles.css at C-final; ships here because this
+   block loads on every page that carries the band (landing). */
+main > .section.text {
+  padding: 40px var(--pad-x);
+}
+
+main > .section.text.dark {
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+main > .section.text > .default-content-wrapper {
+  width: 100%;
+  max-width: none;
+  margin: 0 auto;
+  text-align: center;
+}
+
+main > .section.text h2 {
+  margin-top: 10px;
+  margin-bottom: 48px;
+  color: inherit;
+}
+
+main > .section.text p {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* `narrow-heading` variant: the band's heading wraps a little before the 8-column measure.
+   The source's display face (GT Planar, not shipped — the fallback is ~3 % narrower on
+   German copy) breaks "Unser Ziel: Ihr langfristiger / Erfolg" (German home, /) at 866px;
+   the fallback would keep it on one line and shift the page by one heading line. */
+main > .section.text.narrow-heading h2 {
+  max-width: 840px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* the source separates the band's paragraphs with a trailing <br><br> (one empty line),
+   which the delivery pipeline strips */
+main > .section.text p + p {
+  margin-top: 1lh;
+}
+
+/* page-level band spacing around blocks (source CardsBlock spacing on the landing page):
+   `band` = 40 / 64 / 80px above and below (+ `dark` = navy), `band-bottom` = below only */
+main > .section.band {
+  padding: 40px 0;
+}
+
+main > .section.band.dark {
+  background-color: var(--navy);
+}
+
+main > .section.band-bottom {
+  padding-bottom: 40px;
+}
+
+@media (width >= 768px) {
+  main > .section.band {
+    padding: 64px 0;
+  }
+
+  main > .section.band-bottom {
+    padding-bottom: 64px;
+  }
+
+  main > .section.text {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  main > .section.text p {
+    width: calc(600% / 8 - 2 * 24px / 8);
+  }
+}
+
+@media (width >= 950px) {
+  main > .section.text > .default-content-wrapper {
+    width: calc(800% / 12 - 4 * 24px / 12);
+  }
+}
+
+@media (width >= 1200px) {
+  main > .section.text {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  main > .section.band {
+    padding: 80px 0;
+  }
+
+  main > .section.band-bottom {
+    padding-bottom: 80px;
+  }
+}

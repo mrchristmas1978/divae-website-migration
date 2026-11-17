@@ -1,0 +1,388 @@
+/* topics — values lifted from the gated prototype
+   (stardust/prototypes/en-insights-edge-ai-radar-october.css § 4) */
+.topics {
+  margin: 40px 0;
+  padding: 0 var(--pad-x);
+}
+
+.topics .topics-content {
+  display: flex;
+  column-gap: 24px;
+}
+
+.topics .topics-toggle {
+  display: none;
+  position: sticky;
+  top: 86px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  padding: 0;
+  border: 1px solid var(--blue);
+  border-radius: 50%;
+  background: none;
+  cursor: pointer;
+}
+
+.topics .topics-toggle svg {
+  width: 24px;
+  height: 24px;
+}
+
+.topics .topics-items {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding-top: 16px;
+}
+
+.topics .topic {
+  margin: 12px 0 28px;
+  scroll-margin-top: 86px;
+}
+
+.topics .topic-title :is(h2, h3, h4) {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  font-variation-settings: "slnt" 0;
+  line-height: 120%;
+}
+
+.topics .topic-body {
+  margin-top: 16px;
+}
+
+/* Inter ships upright only; the source lets the browser oblique <i>/<em> */
+.topics .topic-body :is(i, em) {
+  font-synthesis-style: auto;
+}
+
+/* the source separates its body paragraphs with authored blank paragraphs (<p><br></p>);
+   the delivery pipeline drops empty paragraphs, so the blank line (1 line = 1.5em at the
+   150% line height) is restored here: paragraph after paragraph, paragraph after a list */
+.topics .topic-body p + p,
+.topics .topic-body :is(ul, ol) + p {
+  margin-top: 1.5em;
+}
+
+.topics .topic-body li p + p {
+  margin-top: 0;
+}
+
+.topics .topic-body a {
+  text-underline-offset: 0;
+}
+
+/* the source leaves <b> at the UA's bolder (300 -> 400), not the foundation's 700 */
+.topics .topic-body :is(b, strong) {
+  font-weight: bolder;
+}
+
+.topics .topic-body :is(ul, ol) {
+  padding-left: 47px;
+  text-align: left;
+}
+
+.topics .topic-body ol {
+  counter-reset: counter;
+  list-style: none;
+}
+
+.topics .topic-body li {
+  position: relative;
+  margin-top: 16px;
+}
+
+.topics .topic-body ul li::before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: -24px;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--blue);
+  transition: var(--ease);
+}
+
+.topics .topic-body ol li {
+  counter-increment: counter;
+}
+
+.topics .topic-body ol li::before {
+  content: counter(counter) ". ";
+  position: absolute;
+  top: 0;
+  left: -24px;
+  display: block;
+  color: var(--blue);
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.topics .topic-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 24px;
+  margin: 56px 0;
+  padding-top: 16px;
+}
+
+@media (width >= 768px) {
+  .topics {
+    margin: 64px 0;
+  }
+
+  .topics .topic {
+    margin: 24px 0 40px;
+  }
+
+  .topics .topic-title :is(h2, h3, h4) {
+    font-size: 2.4rem;
+  }
+}
+
+@media (width >= 950px) {
+  .topics .topics-toggle {
+    width: 80px;
+    height: 80px;
+  }
+
+  .topics .topics-toggle svg {
+    width: 32px;
+    height: 32px;
+  }
+
+  .topics .topic-buttons {
+    padding-top: 24px;
+  }
+}
+
+@media (width >= 1024px) {
+  .topics .topics-toggle {
+    display: flex;
+    top: 128px;
+  }
+}
+
+@media (width >= 1200px) {
+  .topics {
+    margin: 80px 0;
+    padding-bottom: 40px;
+  }
+}
+
+@media (width >= 1280px) {
+  .topics .topic {
+    scroll-margin-top: 126px;
+  }
+}
+
+@media (width >= 1366px) {
+  .topics .topics-content {
+    column-gap: 72px;
+  }
+}
+
+/* >=1600 the source right-aligns a 10-of-12 container and fills 9-of-10 of it */
+@media (width >= 1600px) {
+  .topics .topics-content {
+    width: calc((100% * 10 / 12 - 4px) * 0.9 - 2.4px);
+    margin-left: calc(100% * 2 / 12 + 4px);
+  }
+
+  .topics .topic-title :is(h2, h3, h4) {
+    font-size: 3.4rem;
+  }
+}
+
+/* variant `rows` (article siblings): h2 topic titles at the source's h2 scale, in-body
+   images / tables / quotes (the source's image-grid-10, table-container, single-quote) */
+.topics.rows .topic-title :is(h2, h3, h4) {
+  scroll-margin-top: 86px;
+}
+
+.topics.rows .topic-title h2 {
+  font-size: 2.4rem;
+  line-height: 110%;
+}
+
+/* rows: the source's ButtonGroup paints its top/bottom padding only with its margin flags
+   (variant `button-margins`) */
+.topics.rows .topic-buttons {
+  padding-top: 0;
+}
+
+.topics.rows.button-margins .topic-buttons {
+  padding-top: 16px;
+  padding-bottom: 32px;
+}
+
+/* rows (>=1024, beside the toggle): the source's topic column is a flex item at its automatic
+   minimum size, so a long non-breaking (&nbsp;-joined) run widens the whole column and every
+   line runs longer; on mobile the source column keeps the viewport width */
+@media (width >= 1024px) {
+  .topics.rows .topics-items {
+    min-width: auto;
+  }
+}
+
+/* rows carries the source's blank lines as authored zero-width-space paragraphs: no synthesized gap */
+.topics.rows .topic-body p + p,
+.topics.rows .topic-body :is(ul, ol) + p {
+  margin-top: 0;
+}
+
+/* the source centres the quote's text block inside a 10-of-12 container */
+.topics.rows .topic-body blockquote {
+  width: fit-content;
+  max-width: calc(100% * 10 / 12);
+  margin: 0 auto 64px;
+  padding: 64px 0;
+}
+
+.topics.rows .topic-body blockquote p:first-child {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: 300;
+  font-variation-settings: "slnt" 30;
+  line-height: 120%;
+}
+
+.topics.rows .topic-body blockquote p:not(:first-child) {
+  margin-top: 0;
+  font-size: 1.6rem;
+  line-height: 150%;
+}
+
+.topics.rows .topic-body blockquote p:nth-child(2) {
+  margin-top: 32px;
+  font-weight: 700;
+}
+
+.topics.rows .topic-body p:has(> picture:only-child, > img:only-child) {
+  margin: 80px 0;
+}
+
+.topics.rows .topic-body img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.topics.rows .topic-body table {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+  margin-top: 16px;
+  border: none;
+  border-collapse: separate;
+  border-spacing: 0;
+  -webkit-overflow-scrolling: touch;
+}
+
+.topics.rows .topic-body table tbody {
+  display: table;
+  min-width: 800px;
+  width: 100%;
+}
+
+.topics.rows .topic-body table th {
+  padding: 16px;
+  background-color: var(--blue);
+  color: #fff;
+  font-weight: 500;
+  text-align: left;
+}
+
+.topics.rows .topic-body table th:first-child {
+  border-radius: 8px 0 0 8px;
+}
+
+.topics.rows .topic-body table th:last-child {
+  border-radius: 0 8px 8px 0;
+}
+
+.topics.rows .topic-body table td {
+  padding: 16px;
+  background-color: #fff;
+  font-weight: 500;
+}
+
+.topics.rows .topic-body table tr:nth-child(2n) td {
+  background-color: #eef0fb;
+}
+
+@media (width >= 768px) {
+  .topics.rows .topic-body blockquote p:first-child {
+    font-size: 2.4rem;
+  }
+
+  .topics.rows .topic-body p:has(> picture:only-child, > img:only-child) {
+    margin: 104px 0;
+  }
+}
+
+@media (width >= 950px) {
+  .topics.rows.button-margins .topic-buttons {
+    padding-top: 24px;
+    padding-bottom: 80px;
+  }
+}
+
+@media (width >= 1200px) {
+  .topics.rows .topic-title h2 {
+    font-size: 3.9rem;
+  }
+
+  .topics.rows .topic-body blockquote {
+    margin: 0 auto 80px;
+    padding: 64px 0;
+  }
+
+  .topics.rows .topic-body p:has(> picture:only-child, > img:only-child) {
+    margin: 120px 0;
+  }
+}
+
+@media (width >= 1280px) {
+  .topics.rows .topic-title :is(h2, h3, h4) {
+    scroll-margin-top: 126px;
+  }
+}
+
+@media (width >= 1600px) {
+  .topics.rows .topic-title h2 {
+    font-size: 4.7rem;
+  }
+
+  .topics.rows .topic-body blockquote p:first-child {
+    font-size: 3.4rem;
+  }
+}
+
+/* rows + flush-images: the source's in-body images flagged no-top-margin / no-bottom-margin */
+.topics.rows.flush-images .topic-body p:has(> picture:only-child, > img:only-child) {
+  margin: 0;
+}
+
+/* rows + quote-flush: a quote without the source's top-margin / bottom-margin flags — below
+   1200 the source's in-topic quote rule still pads it (40px, 56px below), above it is flush */
+.topics.rows.quote-flush .topic-body blockquote {
+  margin-top: 0;
+  margin-bottom: 56px;
+  padding: 40px 0;
+}
+
+@media (width >= 1200px) {
+  .topics.rows.quote-flush .topic-body blockquote {
+    margin-bottom: 0;
+    padding: 0;
+  }
+}

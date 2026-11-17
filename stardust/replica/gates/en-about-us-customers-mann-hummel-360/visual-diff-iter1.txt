@@ -1,0 +1,392 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/en-about-us-customers-mann-hummel-360/vdiff-iter1/
+
+build red flags (advisory): 
+  • FONT MISMATCH: heading "MANN+HUMMEL" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Creating consistent customer exp" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Making systems future-proof & sc" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Setting standards" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "diva-e Conclusion services in th" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • IMAGE DID NOT LOAD: highway-bridge-933.jpg rendered 312x271 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 7557,
+  "textLen": 6643,
+  "images": [
+   {
+    "src": "900x0",
+    "natural": "900x675",
+    "rendered": "309x243",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "933x",
+    "natural": "933x661",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "933x",
+    "natural": "933x661",
+    "rendered": "312x271",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "933x",
+    "natural": "933x525",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "933x",
+    "natural": "933x525",
+    "rendered": "312x271",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "933x",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "933x",
+    "natural": "0x0",
+    "rendered": "312x271",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "MANN+HUMMEL",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Creating consistent customer exp",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Making systems future-proof & sc",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Setting standards",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "diva-e Conclusion services in th",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "30px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__description",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__row-paragraph--large",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-txt",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-txt",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__row-paragraph--large",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-txt",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "tags-carousel__title",
+    "width": 312,
+    "left": 24
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 7557,
+  "textLen": 6645,
+  "images": [
+   {
+    "src": "strategic-technology-decisions-with-fore-5246-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "financeguide_en_956x554-6a25-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-600x.png",
+    "natural": "600x338",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "interamt_956x554px-ba20-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en-security-guide_956x554-c39f-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-playbook_956x554px-0c00-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "maschine-funken-900.jpg",
+    "natural": "900x675",
+    "rendered": "309x243",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "industrieanlage-933.jpg",
+    "natural": "933x661",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "industrieanlage-933.jpg",
+    "natural": "933x661",
+    "rendered": "312x271",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mann-hummel-bild-933.jpg",
+    "natural": "933x525",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mann-hummel-bild-933.jpg",
+    "natural": "933x525",
+    "rendered": "312x271",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "highway-bridge-933.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "highway-bridge-933.jpg",
+    "natural": "0x0",
+    "rendered": "312x271",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "MANN+HUMMEL",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Creating consistent customer exp",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Making systems future-proof & sc",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Setting standards",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "diva-e Conclusion services in th",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "30px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__description",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__headline",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__row-paragraph",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-txt",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-txt",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__row-paragraph",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "mixed-media__info-txt",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "single-quote__text-quote",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "tags-carousel__title",
+    "width": 312,
+    "left": 24
+   }
+  ]
+ }
+}

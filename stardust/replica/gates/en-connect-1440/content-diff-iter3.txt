@@ -1,0 +1,22 @@
+
+Content diff @ 1440px (profile "generic", roots: .page, header, footer)
+root ".page"
+  source: 161 text nodes — 7 headings, 0 eyebrows, 5 CTAs, 149 body; 42 img
+  build: 161 text nodes — 7 headings, 0 eyebrows, 5 CTAs, 149 body; 42 img
+  editable texts (outermost h*/p/ul/ol): source 73 / build 73
+  attributes (placeholder/aria-label/title): source 35 / build 36; icons: source 1 / build 1
+root "header"
+  source: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  build: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 65 / build 65; icons: source 3 / build 3
+root "footer"
+  source: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  build: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 30 / build 30; icons: source 4 / build 4
+
+Findings: 2 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 2
+  🟠 FONT FORK [.page]: 6 matched line(s) render a DIFFERENT face: body "*": source GT Planar VF vs build GT Planar VF→sys (-17%); body "*": source GT Planar VF vs build GT Planar VF→sys (-17%); body "*": source GT Planar VF vs build GT Planar VF→sys (-17%); body "*": source GT Planar VF vs build GT Planar VF→sys (-17%); body "Jobtitle": source GT Planar VF vs build GT Planar VF→sys (-11%); body "*": source GT Planar VF vs build GT Planar VF→sys (-17%). A matched line renders a different typeface. A "→sys" on the source side means it named a font it never loaded; confirm the substitution is intended, else load the missing face.
+  🟡 EXTRA ARIA-LABEL [.page]: build <nav> aria-label="Breadcrumb" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).

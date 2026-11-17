@@ -1,0 +1,87 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/vendor-lab-day",
+ "at": "2026-11-14T06:07:28.341Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 2,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 11,
+  "textNodes": 134,
+  "controls": 44,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 2,
+   "clipper": "p",
+   "path": "div.related-slide > article.article-card > div.card-teaser > p",
+   "text": "find out how a digital product passport audit assesses your ",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.card-media",
+   "path": "div.related-slide > article.article-card > div.card-media > a.card-media-link",
+   "text": "link",
+   "cutMin": 248,
+   "cutMax": 248
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.article-meta.has-cats > div.meta-cats > ul > li",
+   "text": "b2b",
+   "cutMin": 25,
+   "cutMax": 25
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.related-slide > article.article-card > div.card-title > a.card-link",
+   "text": "go to customers don’t search for article numbers",
+   "cutMin": 248,
+   "cutMax": 248
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.related-slide > article.article-card > div.card-title > h3#customers-dont-search-for-article-numbers",
+   "text": "customers don’t search for article numbers",
+   "cutMin": 225,
+   "cutMax": 225
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 2,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 4,
+   "offPage": 15,
+   "textNodes": 142,
+   "controls": 45,
+   "total": 0
+  }
+ }
+}

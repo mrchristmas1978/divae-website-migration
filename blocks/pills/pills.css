@@ -1,0 +1,154 @@
+/* pills — diva-e Pills (source Pills + PillsItem) */
+.pills {
+  padding: 0 var(--pad-x);
+}
+
+.pills.dark {
+  background-color: var(--navy);
+}
+
+.pills.top .pills-container {
+  padding-top: 40px;
+}
+
+.pills.bottom .pills-container {
+  padding-bottom: 40px;
+}
+
+.pills .pills-header {
+  width: 100%;
+}
+
+.pills.dark .pills-header {
+  color: var(--ink-light);
+}
+
+.pills.center .pills-header {
+  text-align: center;
+}
+
+.pills .pills-tagline {
+  position: relative;
+  padding-bottom: 40px;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+.pills p.pills-tagline {
+  padding-left: 32px;
+}
+
+.pills p.pills-tagline::before {
+  content: "";
+  position: absolute;
+  top: 0.6em;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: var(--blue);
+  filter: blur(4px);
+  transform: translateY(-50%);
+}
+
+.pills .pills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pills.center .pills-list {
+  justify-content: center;
+}
+
+.pills .pills-item {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.pills .pills-item::before {
+  content: none;
+}
+
+.pills .pill {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 48px;
+  padding: 6px 20px;
+  border-radius: 16px;
+  box-shadow: inset 0 0 0 2px var(--navy);
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-size: 14px;
+  line-height: 120%;
+  text-decoration: none;
+  transition: background-color var(--ease), color var(--ease), box-shadow var(--ease);
+}
+
+.pills.dark .pill {
+  box-shadow: inset 0 0 0 2px var(--white);
+  color: var(--white);
+}
+
+.pills a.pill:hover {
+  background-color: var(--blue);
+  box-shadow: inset 0 0 0 2px var(--blue);
+  color: var(--white);
+}
+
+@media (width >= 768px) {
+  .pills .pills-container {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+    margin: 0 auto;
+  }
+
+  .pills.top .pills-container {
+    padding-top: 64px;
+  }
+
+  .pills.bottom .pills-container {
+    padding-bottom: 64px;
+  }
+
+  .pills .pills-list {
+    gap: 24px;
+  }
+
+  .pills .pills-item {
+    width: auto;
+  }
+
+  .pills .pill {
+    width: auto;
+    height: 46px;
+    min-height: 46px;
+    padding: 4px 20px;
+  }
+}
+
+@media (width >= 950px) {
+  .pills .pill {
+    height: 104px;
+    padding: 0 48px;
+    font-size: 20px;
+  }
+}
+
+@media (width >= 1200px) {
+  .pills.top .pills-container {
+    padding-top: 80px;
+  }
+
+  .pills.bottom .pills-container {
+    padding-bottom: 80px;
+  }
+}

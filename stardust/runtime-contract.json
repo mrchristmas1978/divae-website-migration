@@ -1,0 +1,33 @@
+{
+  "runtime": "vanilla-eds",
+  "blockWrapperClass": "block",
+  "buttonClasses": ".button / .button.primary / .button.secondary / .button.accent, in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "emptySectionCollapse": true,
+  "foundation": {
+    "source": "stardust/prototypes/canon.css sections 1-7 (tokens, fonts, base + type, grid, buttons, header, footer)",
+    "remRoot": "html { font-size: 62.5% } — 1rem = 10px, every canon rem value is unchanged",
+    "tokens": ["--navy", "--ink-light", "--blue", "--white", "--grey", "--grey-text", "--card-light", "--card-dark", "--hairline", "--font-display", "--font-body", "--gutter", "--pad-x", "--radius-card", "--ease", "--max-width", "--nav-height"],
+    "fonts": {
+      "body": "Inter (SIL OFL 1.1), fonts/inter.woff2, @font-face in styles/fonts.css (source's own 90%/22% overrides); first-paint stand-in inter-fallback (local Arial / Liberation Sans, size-adjust 105.56%) in styles/styles.css",
+      "display": "\"GT Planar VF\" first (licensed, never hosted) then Liberation Sans / Arimo / Helvetica / Arial — the metric substitute renders for every visitor without a licensed copy"
+    },
+    "imgReset": "img { max-width: 100%; height: auto } — inline like the source (no display:block); height:auto guards the EDS width/height attributes",
+    "sections": "main > .section and main > .section > div carry no margin/padding/max-width: every block owns its grid (.wrap = 0 var(--pad-x) side padding, .col-10 = 10 of 12 columns) and its module caps (DESIGN.json extensions.breakpoints: module caps only, shellMaxWidth null); .default-content-wrapper is inset by --pad-x and capped at --max-width (1040px)",
+    "chrome": "overlay: --nav-height 0, the header block root (div.header.block) is position: fixed over the first section; the footer needs no reservation",
+    "globalClasses": ".h1-.h5, .h-section, .text-xxsmall, .dot-blur, .slant, .wrap, .col-10, .btn, .btn-fill, .btn-link, .btn-md, .btn-sm, .btn-menu, .cursor-circle",
+    "buttonMapping": "a.button.primary (strong) = .btn.btn-fill paint; a.button.secondary (em) = .btn outline; a.button.accent (strong+em) = .btn-link underline; size modifiers .btn-md / .btn-sm stay block-applied",
+    "classNaming": "stylelint selector-class-pattern is kebab-case: prototype BEM classes are renamed a__b--c -> a-b-c (e.g. btn--fill -> btn-fill, header__logo -> header-logo); a BEM name ending in -container/-wrapper must not keep that suffix (EDS section classes) — header__container -> header-bar, footer__container -> footer-inner, *__nav-container -> *-nav-inner, *-wrapper -> *-list / *-mobile",
+    "cursor": "site-wide custom cursor (live div.circle) mounted by the header block as div.cursor-circle: follows the pointer >= 768px on fine hover pointers, .cursor-blur over a/button, .cursor-hide over iframe/video; rests off-screen at translate(0, 0)",
+    "editMode": "styles.css ships the Experience Workspace snippets (a) CTA repaint from strong/em, (b) card-as-link inner anchor"
+  },
+  "chromeDocuments": {
+    "nav": "/nav (en) and /nav-de (German root page — needs page metadata `nav: /nav-de`)",
+    "footer": "/footer (en) and /footer-de (German root page — needs page metadata `footer: /footer-de`)",
+    "robots": "every chrome document carries a metadata row Robots | noindex",
+    "navModel": "section 1 brand link with :diva-e-logo: icon; section 2 one nested <ul> (cards panel when its items carry images, else columns panel); section 3 :search: link, <ul> of language links, CTA as <strong> link",
+    "footerModel": "top <ul>, newsletter <p><a>, main <ul>, legal <p>copyright + <ul>, social <ul> of :instagram: / :youtube: / :linkedin: icon links"
+  },
+  "breakpoints": "source steps 475 / 550 / 768 / 950 / 1024 / 1200 / 1280 / 1366 / 1440 / 1600; header switches burger -> pill at 1280; DESIGN.json extensions.breakpoints.target is unset, so lint:breakpoints skips"
+}

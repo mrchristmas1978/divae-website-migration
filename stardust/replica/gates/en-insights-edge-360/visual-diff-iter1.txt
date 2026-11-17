@@ -1,0 +1,833 @@
+[live-session] waiting to pace live navigations to www.diva-e.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 719 ms
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/en-insights-edge-360/vdiff-iter1/
+
+build red flags (advisory): 
+  • FONT MISMATCH: heading "Agentic AI for your Business" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "All articles" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • STRETCHED IMAGE: ronny-walther-0681-32x.png natural 32x35 → rendered 32x32. Image aspect ratio differs from its natural ratio — constrain one dimension (e.g. height:auto), or use the source's object-fit when it crops.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": true,
+  "mainHeight": 0,
+  "textLen": 0,
+  "images": [
+   {
+    "src": "933x",
+    "natural": "933x622",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "933x",
+    "natural": "933x622",
+    "rendered": "312x271",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "750x461",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "32x",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "0x0",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "750x",
+    "natural": "750x461",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "32x",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "0x0",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "750x461",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "32x",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "0x0",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "0x0",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "0x0",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "0x0",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "750x461",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "32x",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h2",
+    "text": "Agentic AI for your Business",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "All articles",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": []
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 10516,
+  "textLen": 6451,
+  "images": [
+   {
+    "src": "strategic-technology-decisions-with-fore-5246-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "financeguide_en_956x554-6a25-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-600x.png",
+    "natural": "600x338",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "interamt_956x554px-ba20-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en-security-guide_956x554-c39f-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-playbook_956x554px-0c00-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2194914388-8636-933x.jpg",
+    "natural": "933x622",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2194914388-8636-933x.jpg",
+    "natural": "933x622",
+    "rendered": "312x271",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "agentic-perspectibes-2-8d3c-750x.jpg",
+    "natural": "750x461",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "jasmin-guthmann-dbae-32x.png",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2269888351-fe5b-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1025006372-577b-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "verena-reineke-rugge-8a0e-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1336136316-2-c79e-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2191343131-bc92-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1219591585-4e4e-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2293003575-fe32-750x.jpg",
+    "natural": "750x396",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ronny-walther-0681-32x.png",
+    "natural": "32x35",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "agentic-perspectibes-2-8d3c-750x.jpg",
+    "natural": "750x461",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "jasmin-guthmann-dbae-32x.png",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2278735528-fb16-750x.jpg",
+    "natural": "750x396",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "nadine-lott-a8d3-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "20260917-conclusion-0366-d0bc-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2194914388-8636-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "agentic-perspectibes-2-8d3c-750x.jpg",
+    "natural": "750x461",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "jasmin-guthmann-dbae-32x.png",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2231952003-e4ca-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "anne-brosch-en-893e-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2228240466-df9d-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1738826762-cc9f-750x.jpg",
+    "natural": "750x487",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-607463118-245f-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "jochen-binder-176x176-bc6f-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1139171702-20ac-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sirko-schneppe-176x176-7c82-32x.png",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1409451746-e595-750x.jpg",
+    "natural": "750x500",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "anne-brosch-en-893e-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2183118552-ad6b-750x.jpg",
+    "natural": "750x396",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "agentic-perspectibes-2-8d3c-750x.jpg",
+    "natural": "750x461",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "jasmin-guthmann-dbae-32x.png",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2244825174-dd5b-750x.jpg",
+    "natural": "750x487",
+    "rendered": "312x175",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-176x176-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h2",
+    "text": "Agentic AI for your Business",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "All articles",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "mixed-media__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "article-list__container",
+    "width": 312,
+    "left": 24
+   }
+  ]
+ }
+}

@@ -1,0 +1,6585 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T03:34:26.789Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/",
+  "at": "2026-11-14T03:34:01.730Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6390,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 64,
+    "y": 33,
+    "w": 120,
+    "h": 62,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 230,
+    "y": 42,
+    "w": 94,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 324,
+    "y": 42,
+    "w": 127,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 451,
+    "y": 42,
+    "w": 104,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 555,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 653,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 750,
+    "y": 42,
+    "w": 89,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 839,
+    "y": 42,
+    "w": 91,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__icon-search > a",
+    "x": 979,
+    "y": 53,
+    "w": 23,
+    "h": 22,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li > button.header__lang-item",
+    "x": 1030,
+    "y": 51,
+    "w": 28,
+    "h": 26,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li.active > button.header__lang-item",
+    "x": 1058,
+    "y": 51,
+    "w": 29,
+    "h": 26,
+    "text": "en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__contact > a.btn-default.btn--menu",
+    "x": 1115,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__img > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 792,
+    "text": "qa",
+    "file": "1920x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span.hero-banner__box-category",
+    "x": 128,
+    "y": 627,
+    "w": 113,
+    "h": 24,
+    "text": "Transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span",
+    "x": 241,
+    "y": 627,
+    "w": 103,
+    "h": 24,
+    "text": "8 Oct 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-headline > h1.h3",
+    "x": 104,
+    "y": 675,
+    "w": 1232,
+    "h": 47,
+    "level": 1,
+    "text": "cypress, playwright, or selenium?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-subtitle > p",
+    "x": 104,
+    "y": 738,
+    "w": 1232,
+    "h": 30,
+    "text": "How Teams Make Better Framework Decisions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box-author-img > picture > img",
+    "x": 104,
+    "y": 804,
+    "w": 32,
+    "h": 32,
+    "text": "ronny walther",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-author > div.hero-banner__box-author-name",
+    "x": 152,
+    "y": 805,
+    "w": 138,
+    "h": 30,
+    "text": "Ronny Walther"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__sidebar > div.intro-side-anchor-text__sidebar-anchor > div.dot-blur--16.no-heading",
+    "x": 64,
+    "y": 997,
+    "w": 190,
+    "h": 47,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 64,
+    "y": 1069,
+    "w": 291,
+    "h": 24,
+    "text": "why new frameworks seem so attractive",
+    "href": "/en/insights/edge/cypress-playwright-selenium/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 64,
+    "y": 1115,
+    "w": 404,
+    "h": 24,
+    "text": "framework decisions require more than trend awareness",
+    "href": "/en/insights/edge/cypress-playwright-selenium/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 64,
+    "y": 1161,
+    "w": 299,
+    "h": 24,
+    "text": "why selenium can still be a strong option",
+    "href": "/en/insights/edge/cypress-playwright-selenium/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 64,
+    "y": 1207,
+    "w": 293,
+    "h": 24,
+    "text": "new does not automatically mean better",
+    "href": "/en/insights/edge/cypress-playwright-selenium/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 64,
+    "y": 1253,
+    "w": 243,
+    "h": 24,
+    "text": "when a switch really makes sense",
+    "href": "/en/insights/edge/cypress-playwright-selenium/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 64,
+    "y": 1299,
+    "w": 261,
+    "h": 24,
+    "text": "what teams should evaluate instead",
+    "href": "/en/insights/edge/cypress-playwright-selenium/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 64,
+    "y": 1345,
+    "w": 398,
+    "h": 24,
+    "text": "conclusion: good decisions strengthen product quality",
+    "href": "/en/insights/edge/cypress-playwright-selenium/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+    "x": 549,
+    "y": 956,
+    "w": 827,
+    "h": 90,
+    "text": "Anyone working in test automation will eventually face this question: Cypress, P"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+    "x": 549,
+    "y": 1076,
+    "w": 827,
+    "h": 120,
+    "text": "Still, teams make the decision too quickly. The newest framework appears more mo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+    "x": 549,
+    "y": 1226,
+    "w": 827,
+    "h": 90,
+    "text": "That is exactly where the real issue begins. Because choosing a test automation "
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__container > div.list-topics__content > button.list-topics__circle.btn-icon",
+    "x": 64,
+    "y": 1450,
+    "w": 80,
+    "h": 80,
+    "text": "button scroll to topics"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#1 > h2.list-topic-item__title",
+    "x": 216,
+    "y": 1490,
+    "w": 1855,
+    "h": 43,
+    "level": 2,
+    "text": "why new frameworks seem so attractive"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#1 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 1549,
+    "w": 1855,
+    "h": 60,
+    "text": "Frameworks like Cypress and Playwright have brought a lot of momentum to test au"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#1 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 1639,
+    "w": 1855,
+    "h": 90,
+    "text": "That makes them especially attractive for new projects. Teams can get started fa"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#2 > h2.list-topic-item__title",
+    "x": 216,
+    "y": 1769,
+    "w": 1855,
+    "h": 43,
+    "level": 2,
+    "text": "framework decisions require more than trend awareness"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#2 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 1828,
+    "w": 1855,
+    "h": 30,
+    "text": "In practice, one thing becomes clear very quickly: the quality of test automatio"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > b",
+    "x": 216,
+    "y": 1892,
+    "w": 772,
+    "h": 22,
+    "text": "Whether a solution works in the long run depends on very different questions:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 1934,
+    "w": 1808,
+    "h": 30,
+    "text": "How well does the framework fit the system landscape?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 1980,
+    "w": 1808,
+    "h": 30,
+    "text": "Which skills does the team already have?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 2026,
+    "w": 1808,
+    "h": 30,
+    "text": "How much effort is required for maintenance, further development, and onboarding"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 2072,
+    "w": 1808,
+    "h": 30,
+    "text": "How stable are the tests in day-to-day use?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 2118,
+    "w": 1808,
+    "h": 60,
+    "text": "How well can the framework be integrated into reporting, CI/CD, and existing pro"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#2 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2178,
+    "w": 1855,
+    "h": 30,
+    "text": "If these questions are not answered properly, teams may simply replace one tool "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#3 > h2.list-topic-item__title",
+    "x": 216,
+    "y": 2248,
+    "w": 1855,
+    "h": 43,
+    "level": 2,
+    "text": "why selenium can still be a strong option"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#3 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2307,
+    "w": 1855,
+    "h": 90,
+    "text": "In many discussions, Selenium is dismissed too quickly as “old.” But that view i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#3 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2427,
+    "w": 1855,
+    "h": 90,
+    "text": "Based on our own project experience, we can say this clearly: an established Sel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#3 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2547,
+    "w": 1855,
+    "h": 30,
+    "text": "Setups like this do not emerge by accident. ."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#4 > h2.list-topic-item__title",
+    "x": 216,
+    "y": 2617,
+    "w": 1855,
+    "h": 43,
+    "level": 2,
+    "text": "new does not automatically mean better"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2675,
+    "w": 1855,
+    "h": 60,
+    "text": "Of course, newer frameworks have real advantages. Playwright and Cypress lower t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2765,
+    "w": 1855,
+    "h": 60,
+    "text": "A framework is always just one part of the overall solution. Speed, stability, a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2855,
+    "w": 1855,
+    "h": 30,
+    "text": "Or to put it another way: a test suite does not become better simply because it "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#5 > h2.list-topic-item__title",
+    "x": 216,
+    "y": 2925,
+    "w": 1855,
+    "h": 43,
+    "level": 2,
+    "text": "when a switch really makes sense"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 2984,
+    "w": 1855,
+    "h": 30,
+    "text": "From our perspective, any move to a new framework should be tied to a clear obje"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > b",
+    "x": 216,
+    "y": 3048,
+    "w": 284,
+    "h": 22,
+    "text": "That may be the case when:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 3090,
+    "w": 1808,
+    "h": 30,
+    "text": "maintenance has become disproportionately complex,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 3136,
+    "w": 1808,
+    "h": 30,
+    "text": "onboarding new team members takes too long,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 3182,
+    "w": 1808,
+    "h": 30,
+    "text": "important browser or platform requirements are no longer covered,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 3228,
+    "w": 1808,
+    "h": 30,
+    "text": "debugging and execution have become genuine bottlenecks,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 263,
+    "y": 3274,
+    "w": 1808,
+    "h": 30,
+    "text": "the framework no longer fits the technical direction of the product."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 3334,
+    "w": 1855,
+    "h": 60,
+    "text": "Without that kind of concrete trigger, a switch is often more of a rebranding ex"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div.list-topic-item > h2.list-topic-item__title",
+    "x": 216,
+    "y": 3434,
+    "w": 1855,
+    "h": 43,
+    "level": 2,
+    "text": "what teams should evaluate instead"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 3493,
+    "w": 1855,
+    "h": 30,
+    "text": "Rather than letting tool debates drive the discussion, it is worth taking a more"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 3539,
+    "w": 1808,
+    "h": 60,
+    "text": "Not every product has the same requirements. Complex platforms, established syst"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 3615,
+    "w": 1808,
+    "h": 60,
+    "text": "A framework is only as strong as the team’s ability to use, extend, and operate "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 3691,
+    "w": 1808,
+    "h": 60,
+    "text": "The first automated tests are rarely the main challenge. What matters is how the"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 3767,
+    "w": 1808,
+    "h": 60,
+    "text": "Test automation delivers its full value only when it is properly embedded into d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 263,
+    "y": 3843,
+    "w": 1808,
+    "h": 60,
+    "text": "A framework should not only impress today; it also needs to remain sustainable t"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#6 > h2.list-topic-item__title",
+    "x": 216,
+    "y": 3943,
+    "w": 1855,
+    "h": 43,
+    "level": 2,
+    "text": "conclusion: good decisions strengthen product quality"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#6 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 4002,
+    "w": 1855,
+    "h": 60,
+    "text": "For teams developing digital products, the framework question is never just a to"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#6 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 4092,
+    "w": 1855,
+    "h": 60,
+    "text": "That is why a strategic perspective matters. The right framework is not the one "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#6 > div.list-topic-item__content.richtext > p",
+    "x": 216,
+    "y": 4152,
+    "w": 1855,
+    "h": 120,
+    "text": "Cypress, Playwright, and Selenium all have their place. Each framework can be th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > b",
+    "x": 216,
+    "y": 4306,
+    "w": 1331,
+    "h": 22,
+    "text": "We help your teams choose the right test automation framework and continuously i"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 216,
+    "y": 4412,
+    "w": 196,
+    "h": 64,
+    "text": "get in touch",
+    "href": "/en/services/dxp/system-integration/qa/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column.avatar > picture > img",
+    "x": 155,
+    "y": 4836,
+    "w": 176,
+    "h": 176,
+    "text": "ronny walther",
+    "file": "176x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column.avatar > div.author-card__name",
+    "x": 128,
+    "y": 5028,
+    "w": 231,
+    "h": 48,
+    "text": "Ronny Walther"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__bio > p > span",
+    "x": 474,
+    "y": 4840,
+    "w": 790,
+    "h": 112,
+    "text": "Ronny has been with diva-e Conclusion for ten years and has built extensive expe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column > a.author-card__link.btn--link",
+    "x": 474,
+    "y": 4980,
+    "w": 139,
+    "h": 30,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/ronny-walther/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.related-articles__container > div.related-articles__headline > h2",
+    "x": 64,
+    "y": 5308,
+    "w": 1312,
+    "h": 43,
+    "level": 2,
+    "text": "recommended reads"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 67,
+    "y": 5399,
+    "w": 410,
+    "h": 229,
+    "text": "business meeting",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 67,
+    "y": 5399,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/tech-reality-check-technical-debt/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 91,
+    "y": 5644,
+    "w": 126,
+    "h": 24,
+    "text": "Transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 217,
+    "y": 5644,
+    "w": 111,
+    "h": 24,
+    "text": "News & Trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span",
+    "x": 329,
+    "y": 5644,
+    "w": 113,
+    "h": 24,
+    "text": "29 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 67,
+    "y": 5668,
+    "w": 410,
+    "h": 92,
+    "text": "go to tech reality check 2026 – focus: technical debt",
+    "href": "/en/insights/edge/tech-reality-check-technical-debt/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 67,
+    "y": 5688,
+    "w": 410,
+    "h": 52,
+    "level": 3,
+    "text": "tech reality check 2026 – focus: technical debt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-active > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 67,
+    "y": 5760,
+    "w": 410,
+    "h": 72,
+    "text": "60% see technical debt as a brake on innovation, but only 18% factor it into inv"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 67,
+    "y": 5852,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__author > div.list-article-card__author-name",
+    "x": 115,
+    "y": 5853,
+    "w": 140,
+    "h": 30,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 517,
+    "y": 5399,
+    "w": 410,
+    "h": 229,
+    "text": "tech office",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 517,
+    "y": 5399,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 541,
+    "y": 5644,
+    "w": 126,
+    "h": 24,
+    "text": "Transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span",
+    "x": 683,
+    "y": 5644,
+    "w": 108,
+    "h": 24,
+    "text": "30 Jul 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 517,
+    "y": 5668,
+    "w": 410,
+    "h": 92,
+    "text": "go to how to find the right pim system for your business",
+    "href": "/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 517,
+    "y": 5688,
+    "w": 410,
+    "h": 52,
+    "level": 3,
+    "text": "how to find the right pim system for your business"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 517,
+    "y": 5760,
+    "w": 410,
+    "h": 72,
+    "text": "Whether you're selling through an online shop, marketplace, print catalog, or sa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 517,
+    "y": 5852,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__author > div.list-article-card__author-name",
+    "x": 565,
+    "y": 5853,
+    "w": 140,
+    "h": 30,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 966,
+    "y": 5399,
+    "w": 410,
+    "h": 229,
+    "text": "handshake",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 966,
+    "y": 5399,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/innovation-marketplace/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 1019,
+    "y": 5644,
+    "w": 113,
+    "h": 24,
+    "text": "Transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span",
+    "x": 1133,
+    "y": 5644,
+    "w": 113,
+    "h": 24,
+    "text": "13 Aug 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 966,
+    "y": 5668,
+    "w": 410,
+    "h": 66,
+    "text": "go to the new it project paradigm: less is more",
+    "href": "/en/insights/edge/innovation-marketplace/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 966,
+    "y": 5688,
+    "w": 410,
+    "h": 26,
+    "level": 3,
+    "text": "the new it project paradigm: less is more"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 966,
+    "y": 5760,
+    "w": 410,
+    "h": 72,
+    "text": "How standardization, AI and productized services are transforming digital projec"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 966,
+    "y": 5852,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von sirko schneppe",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__author > div.list-article-card__author-name",
+    "x": 1014,
+    "y": 5853,
+    "w": 118,
+    "h": 30,
+    "text": "Sirko Schneppe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 6060,
+    "w": 187,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 6090,
+    "w": 125,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 6120,
+    "w": 190,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 6150,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 6180,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 6210,
+    "w": 62,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 6060,
+    "w": 103,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 6090,
+    "w": 130,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 6120,
+    "w": 85,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 6150,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 6180,
+    "w": 140,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 6210,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 6060,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 6090,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 6120,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 6150,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 175,
+    "y": 6302,
+    "w": 100,
+    "h": 20,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 307,
+    "y": 6302,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 387,
+    "y": 6302,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 524,
+    "y": 6302,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 589,
+    "y": 6302,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__social-media > div.footer__bottom-newsletter.bottom-links > a.btn--link.text-xxsmall",
+    "x": 907,
+    "y": 6302,
+    "w": 214,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1153,
+    "y": 6297,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1201,
+    "y": 6297,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1249,
+    "y": 6297,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 40,
+    "y": 796,
+    "w": 64,
+    "h": 64,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 23,
+    "offPage": 2,
+    "textNodes": 141,
+    "controls": 53,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 19,
+     "clipper": null,
+     "path": "div.intro-side-anchor-text__column > div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+     "text": "teams make the decision too quickly. the newest framework ap",
+     "cutMin": 40,
+     "cutMax": 631
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 4,
+     "clipper": null,
+     "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p > b",
+     "text": "which framework is the right choice?",
+     "cutMin": 102,
+     "cutMax": 262
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.list-article-card__teaser.text-xsmall",
+     "path": "div#swiper-wrapper-c1021d0f46ef79814 > div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+     "text": "whether you're selling through an online shop, marketplace, ",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/cypress-playwright-selenium",
+  "at": "2026-11-14T03:34:26.529Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6360,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 64,
+    "y": 21,
+    "w": 120,
+    "h": 86,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "label": "open services submenu",
+    "value": "services",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 328,
+    "y": 42,
+    "w": 124,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "label": "open industries submenu",
+    "value": "industries",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 553,
+    "y": 42,
+    "w": 96,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "label": "open about us submenu",
+    "value": "about us",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "label": "open insights submenu",
+    "value": "insights",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 831,
+    "y": 42,
+    "w": 92,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-icon-search.header-icon-search-desktop > p > a",
+    "x": 971,
+    "y": 52,
+    "w": 23,
+    "h": 24,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li > a.header-lang-item",
+    "x": 1022,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li.active > a.header-lang-item",
+    "x": 1052,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-contact > p.button-wrapper > a.btn.btn-fill",
+    "x": 1111,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 792,
+    "text": "qa",
+    "file": "media_14cb9d1233285ece762375c33a7481c4b3"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 128,
+    "y": 627,
+    "w": 111,
+    "h": 24,
+    "text": "Transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 239,
+    "y": 627,
+    "w": 103,
+    "h": 24,
+    "text": "8 Oct 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-title > h1#cypress-playwright-or-selenium",
+    "x": 104,
+    "y": 675,
+    "w": 1232,
+    "h": 47,
+    "level": 1,
+    "text": "cypress, playwright, or selenium?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-subtitle > p",
+    "x": 104,
+    "y": 738,
+    "w": 1232,
+    "h": 30,
+    "text": "How Teams Make Better Framework Decisions"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 104,
+    "y": 804,
+    "w": 32,
+    "h": 32,
+    "text": "ronny walther",
+    "file": "media_1abbd9be1605df2cb5fb75cf813ab18f54"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 152,
+    "y": 805,
+    "w": 137,
+    "h": 30,
+    "text": "Ronny Walther"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 549,
+    "y": 956,
+    "w": 827,
+    "h": 120,
+    "text": "Anyone working in test automation will eventually face this question: Cypress, P"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 549,
+    "y": 1106,
+    "w": 827,
+    "h": 120,
+    "text": "Still, many teams make the decision too quickly. The newest framework appears mo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 549,
+    "y": 1256,
+    "w": 827,
+    "h": 90,
+    "text": "That is exactly where the real issue begins. Because choosing a test automation "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-sidebar > div.intro-side-anchor > p.anchor-title",
+    "x": 64,
+    "y": 997,
+    "w": 183,
+    "h": 47,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 64,
+    "y": 1072,
+    "w": 287,
+    "h": 17,
+    "text": "why new frameworks seem so attractive",
+    "href": "/en/insights/edge/cypress-playwright-selenium"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 64,
+    "y": 1118,
+    "w": 405,
+    "h": 17,
+    "text": "framework decisions require more than trend awareness",
+    "href": "/en/insights/edge/cypress-playwright-selenium"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 64,
+    "y": 1164,
+    "w": 293,
+    "h": 17,
+    "text": "why selenium can still be a strong option",
+    "href": "/en/insights/edge/cypress-playwright-selenium"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 64,
+    "y": 1210,
+    "w": 285,
+    "h": 17,
+    "text": "new does not automatically mean better",
+    "href": "/en/insights/edge/cypress-playwright-selenium"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 64,
+    "y": 1256,
+    "w": 245,
+    "h": 17,
+    "text": "when a switch really makes sense",
+    "href": "/en/insights/edge/cypress-playwright-selenium"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 64,
+    "y": 1302,
+    "w": 258,
+    "h": 17,
+    "text": "what teams should evaluate instead",
+    "href": "/en/insights/edge/cypress-playwright-selenium"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 64,
+    "y": 1348,
+    "w": 387,
+    "h": 17,
+    "text": "conclusion: good decisions strengthen product quality",
+    "href": "/en/insights/edge/cypress-playwright-selenium"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topics.rows > div.topics-content > button.topics-toggle",
+    "x": 64,
+    "y": 1450,
+    "w": 80,
+    "h": 80,
+    "text": "button scroll to topics"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#why-new-frameworks-seem-so-attractive",
+    "x": 216,
+    "y": 1490,
+    "w": 1849,
+    "h": 43,
+    "level": 2,
+    "text": "why new frameworks seem so attractive"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 1549,
+    "w": 1849,
+    "h": 60,
+    "text": "Frameworks like Cypress and Playwright have brought a lot of momentum to test au"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 1639,
+    "w": 1849,
+    "h": 90,
+    "text": "That makes them especially attractive for new projects. Teams can get started fa"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#framework-decisions-require-more-than-trend-awareness",
+    "x": 216,
+    "y": 1769,
+    "w": 1849,
+    "h": 43,
+    "level": 2,
+    "text": "framework decisions require more than trend awareness"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 1828,
+    "w": 1849,
+    "h": 30,
+    "text": "In practice, one thing becomes clear very quickly: the quality of test automatio"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > strong",
+    "x": 216,
+    "y": 1892,
+    "w": 766,
+    "h": 22,
+    "text": "Whether a solution works in the long run depends on very different questions:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 1934,
+    "w": 1802,
+    "h": 30,
+    "text": "How well does the framework fit the system landscape?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 1980,
+    "w": 1802,
+    "h": 30,
+    "text": "Which skills does the team already have?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 2026,
+    "w": 1802,
+    "h": 30,
+    "text": "How much effort is required for maintenance, further development, and onboarding"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 2072,
+    "w": 1802,
+    "h": 30,
+    "text": "How stable are the tests in day-to-day use?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 2118,
+    "w": 1802,
+    "h": 30,
+    "text": "How well can the framework be integrated into reporting, CI/CD, and existing pro"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2148,
+    "w": 1849,
+    "h": 30,
+    "text": "If these questions are not answered properly, teams may simply replace one tool "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#why-selenium-can-still-be-a-strong-option",
+    "x": 216,
+    "y": 2218,
+    "w": 1849,
+    "h": 43,
+    "level": 2,
+    "text": "why selenium can still be a strong option"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2277,
+    "w": 1849,
+    "h": 90,
+    "text": "In many discussions, Selenium is dismissed too quickly as “old.” But that view i"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2397,
+    "w": 1849,
+    "h": 90,
+    "text": "Based on our own project experience, we can say this clearly: an established Sel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2517,
+    "w": 1849,
+    "h": 30,
+    "text": "Setups like this do not emerge by accident. ."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#new-does-not-automatically-mean-better",
+    "x": 216,
+    "y": 2587,
+    "w": 1849,
+    "h": 43,
+    "level": 2,
+    "text": "new does not automatically mean better"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2645,
+    "w": 1849,
+    "h": 60,
+    "text": "Of course, newer frameworks have real advantages. Playwright and Cypress lower t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2735,
+    "w": 1849,
+    "h": 60,
+    "text": "A framework is always just one part of the overall solution. Speed, stability, a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2825,
+    "w": 1849,
+    "h": 30,
+    "text": "Or to put it another way: a test suite does not become better simply because it "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#when-a-switch-really-makes-sense",
+    "x": 216,
+    "y": 2895,
+    "w": 1849,
+    "h": 43,
+    "level": 2,
+    "text": "when a switch really makes sense"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 2954,
+    "w": 1849,
+    "h": 30,
+    "text": "From our perspective, any move to a new framework should be tied to a clear obje"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > strong",
+    "x": 216,
+    "y": 3018,
+    "w": 278,
+    "h": 22,
+    "text": "That may be the case when:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 3060,
+    "w": 1802,
+    "h": 30,
+    "text": "maintenance has become disproportionately complex,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 3106,
+    "w": 1802,
+    "h": 30,
+    "text": "onboarding new team members takes too long,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 3152,
+    "w": 1802,
+    "h": 30,
+    "text": "important browser or platform requirements are no longer covered,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 3198,
+    "w": 1802,
+    "h": 30,
+    "text": "debugging and execution have become genuine bottlenecks,"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 263,
+    "y": 3244,
+    "w": 1802,
+    "h": 30,
+    "text": "the framework no longer fits the technical direction of the product."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 3304,
+    "w": 1849,
+    "h": 60,
+    "text": "Without that kind of concrete trigger, a switch is often more of a rebranding ex"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#what-teams-should-evaluate-instead",
+    "x": 216,
+    "y": 3404,
+    "w": 1849,
+    "h": 43,
+    "level": 2,
+    "text": "what teams should evaluate instead"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 3463,
+    "w": 1849,
+    "h": 30,
+    "text": "Rather than letting tool debates drive the discussion, it is worth taking a more"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 263,
+    "y": 3509,
+    "w": 1802,
+    "h": 60,
+    "text": "Not every product has the same requirements. Complex platforms, established syst"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 263,
+    "y": 3585,
+    "w": 1802,
+    "h": 60,
+    "text": "A framework is only as strong as the team’s ability to use, extend, and operate "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 263,
+    "y": 3661,
+    "w": 1802,
+    "h": 60,
+    "text": "The first automated tests are rarely the main challenge. What matters is how the"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 263,
+    "y": 3737,
+    "w": 1802,
+    "h": 60,
+    "text": "Test automation delivers its full value only when it is properly embedded into d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 263,
+    "y": 3813,
+    "w": 1802,
+    "h": 60,
+    "text": "A framework should not only impress today; it also needs to remain sustainable t"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#conclusion-good-decisions-strengthen-product-quality",
+    "x": 216,
+    "y": 3913,
+    "w": 1849,
+    "h": 43,
+    "level": 2,
+    "text": "conclusion: good decisions strengthen product quality"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 3972,
+    "w": 1849,
+    "h": 60,
+    "text": "For teams developing digital products, the framework question is never just a to"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 4062,
+    "w": 1849,
+    "h": 60,
+    "text": "That is why a strategic perspective matters. The right framework is not the one "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 216,
+    "y": 4122,
+    "w": 1849,
+    "h": 120,
+    "text": "Cypress, Playwright, and Selenium all have their place. Each framework can be th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > strong",
+    "x": 216,
+    "y": 4276,
+    "w": 1331,
+    "h": 22,
+    "text": "We help your teams choose the right test automation framework and continuously i"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-buttons > p.button-wrapper > a.button.primary",
+    "x": 216,
+    "y": 4382,
+    "w": 193,
+    "h": 64,
+    "text": "get in touch",
+    "href": "/en/services/dxp/system-integration/qa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 154,
+    "y": 4806,
+    "w": 176,
+    "h": 176,
+    "text": "ronny walther",
+    "file": "media_134b9c434e81b75c1ae7022b7392c8d4b7"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col.author-col-avatar > div.author-name > p",
+    "x": 128,
+    "y": 4998,
+    "w": 229,
+    "h": 48,
+    "text": "Ronny Walther"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col > div.author-bio > p",
+    "x": 472,
+    "y": 4806,
+    "w": 840,
+    "h": 120,
+    "text": "Ronny has been with diva-e Conclusion for ten years and has built extensive expe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-link > p.link-only > a",
+    "x": 472,
+    "y": 4954,
+    "w": 136,
+    "h": 22,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/ronny-walther"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.related.block > div.related-title > h2#recommended-reads",
+    "x": 64,
+    "y": 5278,
+    "w": 1312,
+    "h": 43,
+    "level": 2,
+    "text": "recommended reads"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 67,
+    "y": 5369,
+    "w": 410,
+    "h": 229,
+    "text": "business meeting",
+    "file": "media_1796e9a6249e714e319735b3591f1c2fb8"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 67,
+    "y": 5369,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/tech-reality-check-technical-debt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 91,
+    "y": 5614,
+    "w": 126,
+    "h": 24,
+    "text": "Transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 217,
+    "y": 5614,
+    "w": 113,
+    "h": 24,
+    "text": "News & Trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 329,
+    "y": 5614,
+    "w": 113,
+    "h": 24,
+    "text": "29 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 67,
+    "y": 5638,
+    "w": 410,
+    "h": 92,
+    "text": "go to tech reality check 2026 – focus: technical debt",
+    "href": "/en/insights/edge/tech-reality-check-technical-debt"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#tech-reality-check-2026--focus-technical-debt",
+    "x": 67,
+    "y": 5658,
+    "w": 410,
+    "h": 52,
+    "level": 3,
+    "text": "tech reality check 2026 – focus: technical debt"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 67,
+    "y": 5730,
+    "w": 410,
+    "h": 72,
+    "text": "60% see technical debt as a brake on innovation, but only 18% factor it into inv"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 67,
+    "y": 5822,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "media_1cdf57a7e671575b49358af48376da270c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 115,
+    "y": 5826,
+    "w": 140,
+    "h": 24,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 517,
+    "y": 5369,
+    "w": 410,
+    "h": 229,
+    "text": "tech office",
+    "file": "media_133cb8727fd42b88c1d824e2979ddcde34"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 517,
+    "y": 5369,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 541,
+    "y": 5614,
+    "w": 126,
+    "h": 24,
+    "text": "Transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 682,
+    "y": 5614,
+    "w": 108,
+    "h": 24,
+    "text": "30 Jul 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 517,
+    "y": 5638,
+    "w": 410,
+    "h": 92,
+    "text": "go to how to find the right pim system for your business",
+    "href": "/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#how-to-find-the-right-pim-system-for-your-business",
+    "x": 517,
+    "y": 5658,
+    "w": 410,
+    "h": 52,
+    "level": 3,
+    "text": "how to find the right pim system for your business"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 517,
+    "y": 5730,
+    "w": 410,
+    "h": 72,
+    "text": "Whether you're selling through an online shop, marketplace, print catalog, or sa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 517,
+    "y": 5822,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "media_1cdf57a7e671575b49358af48376da270c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 565,
+    "y": 5826,
+    "w": 140,
+    "h": 24,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 966,
+    "y": 5369,
+    "w": 410,
+    "h": 229,
+    "text": "handshake",
+    "file": "media_10e52ed03679ae3eb940b8c01b0bf7994f"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 966,
+    "y": 5369,
+    "w": 410,
+    "h": 229,
+    "text": "link",
+    "href": "/en/insights/edge/innovation-marketplace"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 1020,
+    "y": 5614,
+    "w": 111,
+    "h": 24,
+    "text": "Transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 1132,
+    "y": 5614,
+    "w": 113,
+    "h": 24,
+    "text": "13 Aug 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 966,
+    "y": 5638,
+    "w": 410,
+    "h": 66,
+    "text": "go to the new it project paradigm: less is more",
+    "href": "/en/insights/edge/innovation-marketplace"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#the-new-it-project-paradigm-less-is-more",
+    "x": 966,
+    "y": 5658,
+    "w": 410,
+    "h": 26,
+    "level": 3,
+    "text": "the new it project paradigm: less is more"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 966,
+    "y": 5730,
+    "w": 410,
+    "h": 72,
+    "text": "How standardization, AI and productized services are transforming digital projec"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 966,
+    "y": 5822,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von sirko schneppe",
+    "file": "media_16def3c316ec7a3953e098b2d2b65418d2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 1014,
+    "y": 5826,
+    "w": 119,
+    "h": 24,
+    "text": "Sirko Schneppe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 6030,
+    "w": 186,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 6060,
+    "w": 121,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 6090,
+    "w": 185,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 6120,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 6150,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 6180,
+    "w": 59,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 6030,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 6060,
+    "w": 127,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 6090,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 6120,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 6150,
+    "w": 134,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 6180,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 6030,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 6060,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 6090,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 6120,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 307,
+    "y": 6272,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 387,
+    "y": 6272,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 524,
+    "y": 6272,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 589,
+    "y": 6272,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-social-media > div.footer-bottom-newsletter > a.btn-link",
+    "x": 903,
+    "y": 6272,
+    "w": 217,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1153,
+    "y": 6267,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1201,
+    "y": 6267,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1249,
+    "y": 6267,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 1,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 22,
+    "offPage": 1,
+    "textNodes": 128,
+    "controls": 52,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 16,
+     "clipper": "main",
+     "path": "div.intro-side-column > div.intro-side-intro > div.intro-side-paragraph > p",
+     "text": "still, many teams make the decision too quickly. the newest ",
+     "cutMin": 58,
+     "cutMax": 591
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 3,
+     "clipper": "main",
+     "path": "div.topic > div.topic-body > p > strong",
+     "text": "that is real progress — but it is still not enough to justif",
+     "cutMin": 107,
+     "cutMax": 268
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 3,
+     "clipper": "main",
+     "path": "div.topic > div.topic-body > ol > li",
+     "text": "not every product has the same requirements. complex platfor",
+     "cutMin": 34,
+     "cutMax": 625
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 1,
+     "clipper": "p",
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "whether you're selling through an online shop, marketplace, ",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 76,
+     "path": "div.intro-side-column > div.intro-side-intro > div.intro-side-paragraph > p",
+     "text": "still, many teams make the decision too quickly. the newest ",
+     "clipper": "main",
+     "rect": {
+      "l": 549,
+      "t": 1110,
+      "r": 995,
+      "b": 1132,
+      "w": 445,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 4
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 301,
+     "path": "div.intro-side-column > div.intro-side-intro > div.intro-side-paragraph > p",
+     "text": "that is exactly where the real issue begins. because choosin",
+     "clipper": "main",
+     "rect": {
+      "l": 549,
+      "t": 1260,
+      "r": 952,
+      "b": 1282,
+      "w": 403,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 432,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "frameworks like cypress and playwright have brought a lot of",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 1553,
+      "r": 1872,
+      "b": 1575,
+      "w": 1656,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 378,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "that makes them especially attractive for new projects. team",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 1643,
+      "r": 1818,
+      "b": 1665,
+      "w": 1602,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 268,
+     "path": "div.topic > div.topic-body > p > strong",
+     "text": "that is real progress — but it is still not enough to justif",
+     "clipper": "main",
+     "rect": {
+      "l": 1361,
+      "t": 1673,
+      "r": 1708,
+      "b": 1695,
+      "w": 347,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 221,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "if these questions are not answered properly, teams may simp",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 2152,
+      "r": 1661,
+      "b": 2174,
+      "w": 1445,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 58,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "in many discussions, selenium is dismissed too quickly as “o",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 2281,
+      "r": 1409,
+      "b": 2303,
+      "w": 1193,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 3
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 542,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "based on our own project experience, we can say this clearly",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 2401,
+      "r": 1980,
+      "b": 2423,
+      "w": 1764,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 3
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 152,
+     "path": "div.topic > div.topic-body > p > strong",
+     "text": "they are the result of practical requirements, technical exp",
+     "clipper": "main",
+     "rect": {
+      "l": 643,
+      "t": 2521,
+      "r": 1592,
+      "b": 2543,
+      "w": 949,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 189,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "of course, newer frameworks have real advantages. playwright",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 2649,
+      "r": 1629,
+      "b": 2671,
+      "w": 1413,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 581,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "a framework is always just one part of the overall solution.",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 2739,
+      "r": 2021,
+      "b": 2761,
+      "w": 1805,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 426,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "from our perspective, any move to a new framework should be ",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 2958,
+      "r": 1866,
+      "b": 2980,
+      "w": 1650,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 258,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "without that kind of concrete trigger, a switch is often mor",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 3308,
+      "r": 1698,
+      "b": 3330,
+      "w": 1482,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 101,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "rather than letting tool debates drive the discussion, it is",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 3467,
+      "r": 1541,
+      "b": 3489,
+      "w": 1325,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 625,
+     "path": "div.topic > div.topic-body > ol > li",
+     "text": "not every product has the same requirements. complex platfor",
+     "clipper": "main",
+     "rect": {
+      "l": 263,
+      "t": 3543,
+      "r": 2065,
+      "b": 3565,
+      "w": 1802,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 146,
+     "path": "div.topic > div.topic-body > ol > li",
+     "text": "the first automated tests are rarely the main challenge. wha",
+     "clipper": "main",
+     "rect": {
+      "l": 263,
+      "t": 3695,
+      "r": 1586,
+      "b": 3717,
+      "w": 1323,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 34,
+     "path": "div.topic > div.topic-body > ol > li",
+     "text": "test automation delivers its full value only when it is prop",
+     "clipper": "main",
+     "rect": {
+      "l": 263,
+      "t": 3771,
+      "r": 1474,
+      "b": 3793,
+      "w": 1211,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 511,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "for teams developing digital products, the framework questio",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 3976,
+      "r": 1951,
+      "b": 3998,
+      "w": 1735,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 591,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "that is why a strategic perspective matters. the right frame",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 4066,
+      "r": 2031,
+      "b": 4088,
+      "w": 1815,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 321,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "cypress, playwright, and selenium all have their place. each",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 4126,
+      "r": 1761,
+      "b": 4148,
+      "w": 1545,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 269,
+     "path": "div.topics-items > div.topic > div.topic-body > p",
+     "text": "because in the end, what matters is not how modern a framewo",
+     "clipper": "main",
+     "rect": {
+      "l": 1185,
+      "t": 4186,
+      "r": 1709,
+      "b": 4208,
+      "w": 525,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 2
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 107,
+     "path": "div.topic > div.topic-body > p > strong",
+     "text": "we help your teams choose the right test automation framewor",
+     "clipper": "main",
+     "rect": {
+      "l": 216,
+      "t": 4276,
+      "r": 1547,
+      "b": 4298,
+      "w": 1331,
+      "h": 22
+     },
+     "clip": {
+      "l": 0,
+      "t": 0,
+      "r": 1440,
+      "b": 5902,
+      "w": 1440,
+      "h": 5902
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 29,
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "whether you're selling through an online shop, marketplace, ",
+     "clipper": "p",
+     "rect": {
+      "l": 517,
+      "t": 5733,
+      "r": 877,
+      "b": 5751,
+      "w": 360,
+      "h": 18
+     },
+     "clip": {
+      "l": 517,
+      "t": 5730,
+      "r": 927,
+      "b": 5802,
+      "w": 410,
+      "h": 72
+     },
+     "lines": 32
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "cypress, playwright, or selenium?",
+   "variable": false,
+   "origin": {
+    "link": 7,
+    "button": 2,
+    "text": 6,
+    "image": 1
+   },
+   "eds": {
+    "link": 7,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "why new frameworks seem so attractive",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "framework decisions require more than trend awareness",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 8,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 8,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "why selenium can still be a strong option",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "new does not automatically mean better",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "when a switch really makes sense",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 8,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 8,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "what teams should evaluate instead",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "conclusion: good decisions strengthen product quality",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 6,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "recommended reads",
+   "variable": false,
+   "origin": {
+    "link": 6,
+    "button": 0,
+    "text": 7,
+    "image": 3
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 7,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "tech reality check 2026 – focus: technical debt",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "how to find the right pim system for your business",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "the new it project paradigm: less is more",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 3
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"cypress, playwright, or selenium?\" (origin y 796) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 246,
+    "y": 55,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 340,
+    "y": 55,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 571,
+    "y": 55,
+    "w": 65,
+    "h": 18
+   },
+   {
+    "x": 669,
+    "y": 55,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 766,
+    "y": 55,
+    "w": 56,
+    "h": 18
+   },
+   {
+    "x": 855,
+    "y": 55,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 1034,
+    "y": 55,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 1062,
+    "y": 55,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "x": 1132,
+    "y": 55,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 630,
+    "w": 113,
+    "h": 18
+   },
+   {
+    "x": 241,
+    "y": 630,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 251,
+    "y": 630,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 104,
+    "y": 675,
+    "w": 622,
+    "h": 45
+   },
+   {
+    "x": 104,
+    "y": 742,
+    "w": 450,
+    "h": 22
+   },
+   {
+    "x": 152,
+    "y": 808,
+    "w": 138,
+    "h": 23
+   },
+   {
+    "x": 96,
+    "y": 997,
+    "w": 158,
+    "h": 45
+   },
+   {
+    "x": 64,
+    "y": 1072,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 1118,
+    "w": 404,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 1164,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 1210,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 1256,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 1302,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 1348,
+    "w": 398,
+    "h": 18
+   },
+   {
+    "x": 549,
+    "y": 960,
+    "w": 642,
+    "h": 22
+   },
+   {
+    "x": 1192,
+    "y": 960,
+    "w": 350,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 990,
+    "w": 680,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1020,
+    "w": 506,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1080,
+    "w": 45,
+    "h": 22
+   },
+   {
+    "x": 594,
+    "y": 1080,
+    "w": 50,
+    "h": 22
+   },
+   {
+    "x": 644,
+    "y": 1080,
+    "w": 350,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1110,
+    "w": 763,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1140,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1170,
+    "w": 973,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1230,
+    "w": 403,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1260,
+    "w": 1192,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1290,
+    "w": 191,
+    "h": 22
+   },
+   {
+    "x": 741,
+    "y": 1290,
+    "w": 11,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1488,
+    "w": 725,
+    "h": 45
+   },
+   {
+    "x": 216,
+    "y": 1553,
+    "w": 1656,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1583,
+    "w": 863,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1643,
+    "w": 1602,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1673,
+    "w": 893,
+    "h": 22
+   },
+   {
+    "x": 1109,
+    "y": 1673,
+    "w": 163,
+    "h": 22
+   },
+   {
+    "x": 1272,
+    "y": 1673,
+    "w": 83,
+    "h": 22
+   },
+   {
+    "x": 1355,
+    "y": 1673,
+    "w": 347,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1703,
+    "w": 484,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1767,
+    "w": 1007,
+    "h": 45
+   },
+   {
+    "x": 216,
+    "y": 1832,
+    "w": 1194,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1892,
+    "w": 772,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 1938,
+    "w": 549,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 1984,
+    "w": 405,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2030,
+    "w": 826,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2076,
+    "w": 433,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2122,
+    "w": 864,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2182,
+    "w": 1451,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2246,
+    "w": 745,
+    "h": 45
+   },
+   {
+    "x": 216,
+    "y": 2311,
+    "w": 1193,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2341,
+    "w": 1151,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2371,
+    "w": 1288,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2431,
+    "w": 1764,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2461,
+    "w": 1766,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2491,
+    "w": 781,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2551,
+    "w": 427,
+    "h": 22
+   },
+   {
+    "x": 643,
+    "y": 2551,
+    "w": 949,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2615,
+    "w": 730,
+    "h": 45
+   },
+   {
+    "x": 216,
+    "y": 2679,
+    "w": 1413,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2709,
+    "w": 1148,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2769,
+    "w": 1723,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2799,
+    "w": 856,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2859,
+    "w": 1066,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2923,
+    "w": 606,
+    "h": 45
+   },
+   {
+    "x": 216,
+    "y": 2988,
+    "w": 1656,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3048,
+    "w": 284,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3094,
+    "w": 531,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3140,
+    "w": 463,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3186,
+    "w": 655,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3232,
+    "w": 598,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3278,
+    "w": 655,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3338,
+    "w": 1482,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3368,
+    "w": 880,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3432,
+    "w": 650,
+    "h": 45
+   },
+   {
+    "x": 216,
+    "y": 3497,
+    "w": 1331,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3543,
+    "w": 96,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3573,
+    "w": 1808,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3619,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3649,
+    "w": 1075,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3695,
+    "w": 362,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3725,
+    "w": 1329,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3771,
+    "w": 339,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3801,
+    "w": 1217,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3847,
+    "w": 497,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3877,
+    "w": 877,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3941,
+    "w": 991,
+    "h": 45
+   },
+   {
+    "x": 216,
+    "y": 4006,
+    "w": 1735,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4036,
+    "w": 657,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4096,
+    "w": 1815,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4126,
+    "w": 329,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4156,
+    "w": 1545,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4186,
+    "w": 563,
+    "h": 22
+   },
+   {
+    "x": 779,
+    "y": 4186,
+    "w": 408,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4216,
+    "w": 254,
+    "h": 22
+   },
+   {
+    "x": 470,
+    "y": 4216,
+    "w": 709,
+    "h": 22
+   },
+   {
+    "x": 1179,
+    "y": 4216,
+    "w": 519,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4246,
+    "w": 979,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4306,
+    "w": 1331,
+    "h": 22
+   },
+   {
+    "x": 256,
+    "y": 4432,
+    "w": 116,
+    "h": 23
+   },
+   {
+    "x": 128,
+    "y": 5031,
+    "w": 231,
+    "h": 40
+   },
+   {
+    "x": 474,
+    "y": 4840,
+    "w": 742,
+    "h": 22
+   },
+   {
+    "x": 474,
+    "y": 4870,
+    "w": 742,
+    "h": 22
+   },
+   {
+    "x": 474,
+    "y": 4900,
+    "w": 790,
+    "h": 22
+   },
+   {
+    "x": 474,
+    "y": 4930,
+    "w": 782,
+    "h": 22
+   },
+   {
+    "x": 474,
+    "y": 4983,
+    "w": 139,
+    "h": 23
+   },
+   {
+    "x": 64,
+    "y": 5306,
+    "w": 386,
+    "h": 45
+   },
+   {
+    "x": 91,
+    "y": 5647,
+    "w": 118,
+    "h": 18
+   },
+   {
+    "x": 209,
+    "y": 5647,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 217,
+    "y": 5647,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 329,
+    "y": 5647,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 339,
+    "y": 5647,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5689,
+    "w": 409,
+    "h": 23
+   },
+   {
+    "x": 67,
+    "y": 5715,
+    "w": 46,
+    "h": 23
+   },
+   {
+    "x": 67,
+    "y": 5763,
+    "w": 381,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5787,
+    "w": 372,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5811,
+    "w": 328,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 5859,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 541,
+    "y": 5647,
+    "w": 118,
+    "h": 18
+   },
+   {
+    "x": 658,
+    "y": 5647,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 667,
+    "y": 5647,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 683,
+    "y": 5647,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 693,
+    "y": 5647,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5689,
+    "w": 403,
+    "h": 23
+   },
+   {
+    "x": 517,
+    "y": 5715,
+    "w": 83,
+    "h": 23
+   },
+   {
+    "x": 517,
+    "y": 5763,
+    "w": 360,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5787,
+    "w": 376,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5811,
+    "w": 357,
+    "h": 18
+   },
+   {
+    "x": 565,
+    "y": 5859,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 990,
+    "y": 5647,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 1011,
+    "y": 5647,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 1019,
+    "y": 5647,
+    "w": 113,
+    "h": 18
+   },
+   {
+    "x": 1133,
+    "y": 5647,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 1143,
+    "y": 5647,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5689,
+    "w": 397,
+    "h": 23
+   },
+   {
+    "x": 966,
+    "y": 5763,
+    "w": 386,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5787,
+    "w": 394,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5811,
+    "w": 379,
+    "h": 18
+   },
+   {
+    "x": 1014,
+    "y": 5859,
+    "w": 118,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 6060,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 6090,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 6120,
+    "w": 190,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 6150,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 6180,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 6210,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 6060,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 6090,
+    "w": 130,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 6120,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 6150,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 6180,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 6210,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 6060,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 6090,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 6120,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 6150,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 6303,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 6303,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 6303,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 6303,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 6303,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 907,
+    "y": 6303,
+    "w": 214,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 250,
+    "y": 55,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 344,
+    "y": 55,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 569,
+    "y": 55,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 664,
+    "y": 55,
+    "w": 63,
+    "h": 17
+   },
+   {
+    "x": 759,
+    "y": 55,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 847,
+    "y": 55,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 1026,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1056,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1129,
+    "y": 55,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 128,
+    "y": 630,
+    "w": 111,
+    "h": 17
+   },
+   {
+    "x": 254,
+    "y": 630,
+    "w": 88,
+    "h": 18
+   },
+   {
+    "x": 104,
+    "y": 676,
+    "w": 622,
+    "h": 43
+   },
+   {
+    "x": 104,
+    "y": 742,
+    "w": 450,
+    "h": 22
+   },
+   {
+    "x": 152,
+    "y": 809,
+    "w": 137,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 960,
+    "w": 642,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 990,
+    "w": 350,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1020,
+    "w": 680,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1050,
+    "w": 500,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1110,
+    "w": 445,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1140,
+    "w": 763,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1170,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1200,
+    "w": 967,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1260,
+    "w": 403,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1290,
+    "w": 1192,
+    "h": 22
+   },
+   {
+    "x": 549,
+    "y": 1320,
+    "w": 191,
+    "h": 22
+   },
+   {
+    "x": 741,
+    "y": 1320,
+    "w": 5,
+    "h": 22
+   },
+   {
+    "x": 96,
+    "y": 998,
+    "w": 151,
+    "h": 43
+   },
+   {
+    "x": 64,
+    "y": 1072,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 1118,
+    "w": 405,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 1164,
+    "w": 293,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 1210,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 1256,
+    "w": 245,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 1302,
+    "w": 258,
+    "h": 17
+   },
+   {
+    "x": 64,
+    "y": 1348,
+    "w": 387,
+    "h": 17
+   },
+   {
+    "x": 216,
+    "y": 1489,
+    "w": 715,
+    "h": 43
+   },
+   {
+    "x": 216,
+    "y": 1553,
+    "w": 1656,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1583,
+    "w": 857,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1643,
+    "w": 1602,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1673,
+    "w": 1145,
+    "h": 22
+   },
+   {
+    "x": 1361,
+    "y": 1673,
+    "w": 347,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1703,
+    "w": 478,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1768,
+    "w": 1007,
+    "h": 43
+   },
+   {
+    "x": 216,
+    "y": 1832,
+    "w": 1188,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 1892,
+    "w": 766,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 1938,
+    "w": 543,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 1984,
+    "w": 399,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2030,
+    "w": 820,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2076,
+    "w": 427,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 2122,
+    "w": 864,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2152,
+    "w": 1445,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2217,
+    "w": 732,
+    "h": 43
+   },
+   {
+    "x": 216,
+    "y": 2281,
+    "w": 1193,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2311,
+    "w": 1151,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2341,
+    "w": 1282,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2401,
+    "w": 1764,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2431,
+    "w": 1766,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2461,
+    "w": 775,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2521,
+    "w": 427,
+    "h": 22
+   },
+   {
+    "x": 643,
+    "y": 2521,
+    "w": 949,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2586,
+    "w": 711,
+    "h": 43
+   },
+   {
+    "x": 216,
+    "y": 2649,
+    "w": 1413,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2679,
+    "w": 1142,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2739,
+    "w": 1805,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2769,
+    "w": 850,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2829,
+    "w": 1060,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 2894,
+    "w": 611,
+    "h": 43
+   },
+   {
+    "x": 216,
+    "y": 2958,
+    "w": 1650,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3018,
+    "w": 278,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3064,
+    "w": 525,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3110,
+    "w": 457,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3156,
+    "w": 649,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3202,
+    "w": 592,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3248,
+    "w": 649,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3308,
+    "w": 1482,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3338,
+    "w": 874,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3403,
+    "w": 642,
+    "h": 43
+   },
+   {
+    "x": 216,
+    "y": 3467,
+    "w": 1325,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3513,
+    "w": 96,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3543,
+    "w": 1802,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3589,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3619,
+    "w": 1069,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3665,
+    "w": 362,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3695,
+    "w": 1323,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3741,
+    "w": 339,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3771,
+    "w": 1211,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3817,
+    "w": 497,
+    "h": 22
+   },
+   {
+    "x": 263,
+    "y": 3847,
+    "w": 871,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 3912,
+    "w": 964,
+    "h": 43
+   },
+   {
+    "x": 216,
+    "y": 3976,
+    "w": 1735,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4006,
+    "w": 651,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4066,
+    "w": 1815,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4096,
+    "w": 323,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4126,
+    "w": 1545,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4156,
+    "w": 569,
+    "h": 22
+   },
+   {
+    "x": 785,
+    "y": 4156,
+    "w": 408,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4186,
+    "w": 260,
+    "h": 22
+   },
+   {
+    "x": 476,
+    "y": 4186,
+    "w": 709,
+    "h": 22
+   },
+   {
+    "x": 1185,
+    "y": 4186,
+    "w": 525,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4216,
+    "w": 973,
+    "h": 22
+   },
+   {
+    "x": 216,
+    "y": 4276,
+    "w": 1331,
+    "h": 22
+   },
+   {
+    "x": 256,
+    "y": 4403,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 5002,
+    "w": 229,
+    "h": 38
+   },
+   {
+    "x": 472,
+    "y": 4810,
+    "w": 839,
+    "h": 22
+   },
+   {
+    "x": 472,
+    "y": 4840,
+    "w": 796,
+    "h": 22
+   },
+   {
+    "x": 472,
+    "y": 4870,
+    "w": 818,
+    "h": 22
+   },
+   {
+    "x": 472,
+    "y": 4900,
+    "w": 603,
+    "h": 22
+   },
+   {
+    "x": 472,
+    "y": 4954,
+    "w": 136,
+    "h": 22
+   },
+   {
+    "x": 64,
+    "y": 5277,
+    "w": 395,
+    "h": 43
+   },
+   {
+    "x": 91,
+    "y": 5617,
+    "w": 111,
+    "h": 17
+   },
+   {
+    "x": 217,
+    "y": 5617,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 344,
+    "y": 5617,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5660,
+    "w": 409,
+    "h": 22
+   },
+   {
+    "x": 67,
+    "y": 5686,
+    "w": 44,
+    "h": 22
+   },
+   {
+    "x": 67,
+    "y": 5733,
+    "w": 381,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5757,
+    "w": 372,
+    "h": 18
+   },
+   {
+    "x": 67,
+    "y": 5781,
+    "w": 328,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 5829,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 541,
+    "y": 5617,
+    "w": 111,
+    "h": 17
+   },
+   {
+    "x": 666,
+    "y": 5617,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 697,
+    "y": 5617,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5660,
+    "w": 397,
+    "h": 22
+   },
+   {
+    "x": 517,
+    "y": 5686,
+    "w": 84,
+    "h": 22
+   },
+   {
+    "x": 517,
+    "y": 5733,
+    "w": 360,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5757,
+    "w": 376,
+    "h": 18
+   },
+   {
+    "x": 517,
+    "y": 5781,
+    "w": 357,
+    "h": 18
+   },
+   {
+    "x": 565,
+    "y": 5829,
+    "w": 140,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 5617,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 1020,
+    "y": 5617,
+    "w": 111,
+    "h": 17
+   },
+   {
+    "x": 1146,
+    "y": 5617,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5660,
+    "w": 404,
+    "h": 22
+   },
+   {
+    "x": 966,
+    "y": 5733,
+    "w": 386,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5757,
+    "w": 394,
+    "h": 18
+   },
+   {
+    "x": 966,
+    "y": 5781,
+    "w": 379,
+    "h": 18
+   },
+   {
+    "x": 1014,
+    "y": 5829,
+    "w": 119,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 6030,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 6060,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 6090,
+    "w": 185,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 6120,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 6150,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 6180,
+    "w": 59,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 6030,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 6060,
+    "w": 127,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 6090,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 6120,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 6150,
+    "w": 134,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 6180,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 6030,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 6060,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 6090,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 6120,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 6273,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 6273,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 6273,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 6273,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 6273,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 903,
+    "y": 6273,
+    "w": 217,
+    "h": 16
+   }
+  ]
+ }
+}

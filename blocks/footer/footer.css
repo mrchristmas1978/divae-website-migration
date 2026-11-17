@@ -1,20 +1,232 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+/* footer — canon § 7 (stardust/prototypes/canon.css), scoped to the block root `.footer` */
+
+.footer {
+  padding: 40px 0;
+  background-color: var(--navy);
+  color: var(--ink-light);
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
-}
-
-footer .footer p {
-  margin: 0;
-}
-
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
+@media (width >= 768px) {
+  .footer {
+    padding: 40px 0 64px;
   }
+}
+
+.footer .footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  width: calc(100% - 2 * var(--pad-x));
+  margin: 0 auto;
+}
+
+@media (width >= 768px) {
+  .footer .footer-inner {
+    width: calc((100% - 128px) * 10 / 12 - 4px);
+  }
+}
+
+.footer nav {
+  width: 100%;
+}
+
+.footer a {
+  color: var(--ink-light);
+}
+
+.footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px 24px;
+  width: 100%;
+}
+
+.footer .footer-top-navigation ul {
+  column-gap: 32px;
+}
+
+.footer .footer-main-navigation .btn {
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.footer .btn {
+  color: var(--ink-light);
+}
+
+.footer .footer-newsletter {
+  width: 100%;
+  margin: 32px 0;
+}
+
+.footer .footer-newsletter .btn {
+  min-height: 0;
+  padding: 0;
+  box-shadow: none;
+  justify-content: flex-start;
+  text-align: left;
+}
+
+.footer .footer-newsletter .h2 {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.footer .footer-bottom-navigation {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 60px;
+}
+
+.footer .footer-bottom-desktop {
+  display: none;
+}
+
+.footer nav.footer-bottom-nav {
+  padding-right: 20px;
+}
+
+.footer .footer-bottom-nav ul,
+.footer .footer-top-navigation ul {
+  column-gap: 32px;
+}
+
+.footer .footer-bottom-nav .btn-link {
+  font-family: var(--font-body);
+  font-size: 1.4rem;
+  line-height: 140%;
+}
+
+.footer .footer-bottom-newsletter a {
+  font-size: 1.4rem;
+  line-height: 140%;
+}
+
+.footer .footer-social-media {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 56px;
+}
+
+.footer .footer-social svg {
+  display: block;
+  max-width: 28px;
+  vertical-align: bottom;
+}
+
+.footer .footer-bottom-newsletter {
+  display: none;
+}
+
+.footer .footer-btn-to-top {
+  margin: 32px var(--pad-x) 0;
+  text-align: center;
+}
+
+.footer .footer-btn-to-top button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: var(--blue);
+}
+
+.footer .footer-btn-to-top svg {
+  display: inline-block;
+  width: 20px;
+  vertical-align: bottom;
+  transform: rotate(90deg);
+}
+
+@media (width >= 550px) {
+  .footer .footer-social-media {
+    justify-content: center;
+    column-gap: 32px;
+  }
+}
+
+@media (width >= 1200px) {
+  .footer .footer-top-navigation,
+  .footer .footer-newsletter,
+  .footer .footer-btn-to-top,
+  .footer .footer-bottom-mobile {
+    display: none;
+  }
+
+  .footer ul {
+    flex-direction: column;
+    gap: 0 52px;
+    max-height: 220px;
+  }
+
+  .footer .footer-bottom-navigation {
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+    row-gap: 32px;
+    margin-top: 65px;
+  }
+
+  .footer .footer-bottom-navigation ul {
+    flex-direction: row;
+  }
+
+  .footer .footer-bottom-nav li {
+    font-size: 1.4rem;
+    line-height: 140%;
+  }
+
+  .footer nav.footer-bottom-nav {
+    width: auto;
+    padding-right: 20px;
+  }
+
+  .footer .footer-bottom-desktop {
+    display: list-item;
+  }
+
+  .footer .footer-social-media {
+    width: auto;
+    margin-top: 0;
+  }
+
+  .footer .footer-social svg {
+    max-width: 16px;
+  }
+
+  .footer .footer-bottom-newsletter {
+    display: flex;
+  }
+}
+
+@media (width >= 1366px) {
+  .footer ul {
+    max-height: 180px;
+  }
+}
+
+@media (width >= 1600px) {
+  .footer ul {
+    max-height: 170px;
+  }
+
+  .footer .footer-bottom-newsletter {
+    padding-right: 50px;
+  }
+}
+
+/* ---- EDS adaptations ---------------------------------------------------- */
+
+/* authored <p> wrappers from the /footer document carry no box of their own */
+.footer p {
+  display: contents;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.footer .footer-social {
+  display: block;
 }

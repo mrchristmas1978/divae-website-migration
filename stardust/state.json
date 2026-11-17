@@ -1,0 +1,3301 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:migrate",
+    "writtenAt": "2026-11-14T07:01:30Z",
+    "stardustVersion": "0.37.2"
+  },
+  "site": {
+    "originUrl": "https://www.diva-e.com/",
+    "deployUrl": null,
+    "extractedAt": "2026-11-13T09:59:47.598Z",
+    "pageCap": null,
+    "totalDiscovered": 100,
+    "crawled": 100,
+    "captureGaps": [
+      {
+        "root": "/en",
+        "slug": "en",
+        "linked": 91,
+        "uncaptured": [
+          "/en/about-us/customers/carl-zeiss-ag",
+          "/en/about-us/customers/dmtech",
+          "/en/about-us/customers/edeka",
+          "/en/about-us/customers/eon",
+          "/en/about-us/customers/fc-bayern-muenchen",
+          "/en/about-us/customers/schott",
+          "/en/about-us/customers/viega",
+          "/en/about-us/partner/adobe/adobe-experience-cloud",
+          "/en/about-us/partner/akeneo",
+          "/en/about-us/partner/algolia",
+          "/en/about-us/partner/bloomreach",
+          "/en/about-us/partner/commercetools",
+          "/en/about-us/partner/crownpeak/crownpeak-leistungen",
+          "/en/about-us/partner/dotcms",
+          "/en/about-us/partner/google",
+          "/en/about-us/partner/microsoft",
+          "/en/about-us/partner/pimcore",
+          "/en/about-us/partner/salesforce",
+          "/en/about-us/partner/sap",
+          "/en/about-us/partner/scayle",
+          "/en/about-us/partner/spryker",
+          "/en/about-us/partner/stibo-systems",
+          "/en/about-us/partner/storyblok",
+          "/en/about-us/partner/vtex",
+          "/en/insights/downloads/ai-search-guide",
+          "/en/insights/downloads/b2b-tech-evaluierung-guide",
+          "/en/insights/downloads/cybersecurity-guide",
+          "/en/insights/downloads/financial-services-guide",
+          "/en/insights/downloads/luenendonk",
+          "/en/insights/news/adobe-platinum-status",
+          "/en/insights/news/diva-e-conclusion-google-premier-partner-2026",
+          "/en/insights/news/diva-e-conclusion-launches-marketplace-for-productized-digital-services",
+          "/en/insights/news/diva-e-conclusion-migrates-aumovios-digital-platform",
+          "/en/insights/news/diva-e-conclusion-staerkt-sap-kompetenz-im-internationalen-conclusion-netzwerk",
+          "/en/insights/news/diva-e-develops-online-shop-for-weleda",
+          "/en/insights/news/kyowakirin",
+          "/en/insights/news/sirko-schneppe-wird-neuer-ceo-von-diva-e-conclusion",
+          "/en/insights/press/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6",
+          "/en/insights/press/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet",
+          "/en/services/ams/application-management-services",
+          "/en/services/ams/cloud-consulting",
+          "/en/services/ams/cloud-security",
+          "/en/services/ams/cybersecurity",
+          "/en/services/digital-consulting/digital-business-consulting",
+          "/en/services/digital-consulting/strategic-transformation",
+          "/en/services/digital-consulting/technology-architecture-consulting",
+          "/en/services/digital-marketing/audits",
+          "/en/services/digital-marketing/content",
+          "/en/services/digital-marketing/gaio",
+          "/en/services/digital-marketing/omnichannel-marketing",
+          "/en/services/digital-marketing/paid-advertising",
+          "/en/services/digital-marketing/seo",
+          "/en/services/digital-marketing/seo/monitoring-reporting",
+          "/en/services/digital-marketing/seo/tools/oneproseo",
+          "/en/services/dxp/cdp",
+          "/en/services/dxp/cms",
+          "/en/services/dxp/data-analytics-bi",
+          "/en/services/dxp/e-commerce-platform",
+          "/en/services/dxp/karriereportal",
+          "/en/services/dxp/pim",
+          "/en/services/dxp/system-integration",
+          "/en/services/dxp/system-integration/ux-ui-design"
+        ]
+      }
+    ]
+  },
+  "direction": null,
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-13T09:59:47.598Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "index",
+      "url": "https://www.diva-e.com/",
+      "title": "Ihr Digital Experience Partner | diva-e Conclusion",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:52:32.875Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/index.html"
+    },
+    {
+      "slug": "en",
+      "url": "https://www.diva-e.com/en/",
+      "title": "Your digital experience partner | diva-e Conclusion",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:52:32.875Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T11:48:45Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T11:48:45Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en.json",
+      "prototypePath": "stardust/prototypes/en-proposed.html",
+      "migratedPath": "stardust/migrated/en/index.html"
+    },
+    {
+      "slug": "en-loyalty-quiz",
+      "url": "https://www.diva-e.com/en/loyalty-quiz/",
+      "title": "Loyalty Health Check: Test & Optimize | diva-e | diva-e Conclusion",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:52:30.777Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-loyalty-quiz.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/loyalty-quiz/index.html"
+    },
+    {
+      "slug": "en-connect",
+      "url": "https://www.diva-e.com/en/connect/",
+      "title": "Conclusion Connect: Turning AI Vision into Business Value | diva-e Conclusion",
+      "type": "unique",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:52:46.495Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T12:23:48Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-connect.json",
+      "prototypePath": "stardust/prototypes/en-connect-proposed.html",
+      "migratedPath": "stardust/migrated/en/connect/index.html"
+    },
+    {
+      "slug": "en-marketplace",
+      "url": "https://www.diva-e.com/en/marketplace/",
+      "title": "Ready-Made Digital Solutions for Real Business Challenges | diva-e Conclusion",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:52:46.439Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-marketplace.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/marketplace/index.html"
+    },
+    {
+      "slug": "en-security-quiz",
+      "url": "https://www.diva-e.com/en/security-quiz/",
+      "title": "Security Quiz – Test Your Cybersecurity Skills | diva-e Conclusion",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:52:43.278Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-security-quiz.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/security-quiz/index.html"
+    },
+    {
+      "slug": "en-about-us",
+      "url": "https://www.diva-e.com/en/about-us/",
+      "title": "About us: Your partner for digital transformation | diva-e Conclusion",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:52:57.167Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/index.html"
+    },
+    {
+      "slug": "en-newsletter",
+      "url": "https://www.diva-e.com/en/newsletter/",
+      "title": "Newsletter: expert knowledge straight to your inbox | diva-e Conclusion",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:52:57.164Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-newsletter.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/newsletter/index.html"
+    },
+    {
+      "slug": "en-contact",
+      "url": "https://www.diva-e.com/en/contact/",
+      "title": "Get in touch with us | diva-e Conclusion",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:52:57.161Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T12:13:13Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-contact.json",
+      "prototypePath": "stardust/prototypes/en-contact-proposed.html",
+      "migratedPath": "stardust/migrated/en/contact/index.html"
+    },
+    {
+      "slug": "en-imprint",
+      "url": "https://www.diva-e.com/en/imprint/",
+      "title": "Imprint | diva-e Conclusion",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:08.047Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T12:11:06Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-imprint.json",
+      "prototypePath": "stardust/prototypes/en-imprint-proposed.html",
+      "migratedPath": "stardust/migrated/en/imprint/index.html"
+    },
+    {
+      "slug": "en-data-privacy",
+      "url": "https://www.diva-e.com/en/data-privacy/",
+      "title": "Privacy policy: Security & transparency | diva-e Conclusion",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:15.945Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-data-privacy.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/data-privacy/index.html"
+    },
+    {
+      "slug": "en-search",
+      "url": "https://www.diva-e.com/en/search/",
+      "title": "Search content & services | diva-e Conclusion",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:06.564Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-search.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/search/index.html"
+    },
+    {
+      "slug": "en-about-us-customers",
+      "url": "https://www.diva-e.com/en/about-us/customers/",
+      "title": "Our customers - success stories | diva-e Conclusion",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:20.046Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:23Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/index.html"
+    },
+    {
+      "slug": "en-about-us-partner",
+      "url": "https://www.diva-e.com/en/about-us/partner/",
+      "title": "Our technology partners - successful together | diva-e Conclusion",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:21.911Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-partner.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/partner/index.html"
+    },
+    {
+      "slug": "en-services-ai",
+      "url": "https://www.diva-e.com/en/services/ai/",
+      "title": "AI Solutions for Measurable Business Impact | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:27.063Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-services-ai.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/services/ai/index.html"
+    },
+    {
+      "slug": "en-services-digital-consulting",
+      "url": "https://www.diva-e.com/en/services/digital-consulting/",
+      "title": "Digital Consulting & Analytics Success | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:30.260Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-services-digital-consulting.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/services/digital-consulting/index.html"
+    },
+    {
+      "slug": "en-services-digital-produktpass-audit",
+      "url": "https://www.diva-e.com/en/services/digital-produktpass-audit/",
+      "title": "Digital Product Passport Audit | DPP Readiness | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:33.142Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-services-digital-produktpass-audit.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/services/digital-produktpass-audit/index.html"
+    },
+    {
+      "slug": "en-services-crm",
+      "url": "https://www.diva-e.com/en/services/crm/",
+      "title": "CRM Services for Stronger Customer Relationships | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:38.789Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T12:01:16Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-services-crm.json",
+      "prototypePath": "stardust/prototypes/en-services-crm-proposed.html",
+      "migratedPath": "stardust/migrated/en/services/crm/index.html"
+    },
+    {
+      "slug": "en-services-dxp",
+      "url": "https://www.diva-e.com/en/services/dxp/",
+      "title": "Scalable digital experience platforms | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:40.165Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-services-dxp.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/services/dxp/index.html"
+    },
+    {
+      "slug": "en-campaigns-next-gen-crm-pharma",
+      "url": "https://www.diva-e.com/en/campaigns/next-gen-crm-pharma/",
+      "title": "Next-Gen CRM for Pharma – Compliant & Scalable | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:44.018Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-campaigns-next-gen-crm-pharma.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/campaigns/next-gen-crm-pharma/index.html"
+    },
+    {
+      "slug": "en-security-quiz-security-questions",
+      "url": "https://www.diva-e.com/en/security-quiz/security-questions/",
+      "title": "Security Quiz – Test Your Cybersecurity Skills | diva-e Conclusion",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:48.789Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-security-quiz-security-questions.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/security-quiz/security-questions/index.html"
+    },
+    {
+      "slug": "en-services-ams",
+      "url": "https://www.diva-e.com/en/services/ams/",
+      "title": "Professional AMS support for companies | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:50.280Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-services-ams.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/services/ams/index.html"
+    },
+    {
+      "slug": "en-about-us-ai-manifest",
+      "url": "https://www.diva-e.com/en/about-us/ai-manifest/",
+      "title": "AI Manifest – Empowering the Evolution of Experience | diva-e Conclusion",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:53:53.031Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-ai-manifest.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/ai-manifest/index.html"
+    },
+    {
+      "slug": "en-services-total-experience",
+      "url": "https://www.diva-e.com/en/services/total-experience/",
+      "title": "Total Experience (TX) – Your Strategy for Digital Excellence | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:01.009Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-services-total-experience.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/services/total-experience/index.html"
+    },
+    {
+      "slug": "en-industries-b2b-manufacturing",
+      "url": "https://www.diva-e.com/en/industries/b2b-manufacturing/",
+      "title": "B2B - Manufacturing & E-Commerce in Transition | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:01.004Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-industries-b2b-manufacturing.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/industries/b2b-manufacturing/index.html"
+    },
+    {
+      "slug": "en-industries-automotive",
+      "url": "https://www.diva-e.com/en/industries/automotive/",
+      "title": "Automotive - digital challenges | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:03.988Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-industries-automotive.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/industries/automotive/index.html"
+    },
+    {
+      "slug": "en-campaigns-pim-voucher",
+      "url": "https://www.diva-e.com/en/campaigns/pim-voucher/",
+      "title": "Free PIM check - secure an analysis voucher | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:10.825Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:24Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-campaigns-pim-voucher.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/campaigns/pim-voucher/index.html"
+    },
+    {
+      "slug": "en-insights-events",
+      "url": "https://www.diva-e.com/en/insights/events/",
+      "title": "Current events & webinars | diva-e Conclusion",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:11.921Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-events.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/events/index.html"
+    },
+    {
+      "slug": "en-industries-retail",
+      "url": "https://www.diva-e.com/en/industries/retail/",
+      "title": "Retail transformation through digital strategies | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:15.392Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-industries-retail.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/industries/retail/index.html"
+    },
+    {
+      "slug": "en-services-digital-marketing",
+      "url": "https://www.diva-e.com/en/services/digital-marketing/",
+      "title": "SEO, content & paid at a glance | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:21.781Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-services-digital-marketing.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/services/digital-marketing/index.html"
+    },
+    {
+      "slug": "en-about-us-locations",
+      "url": "https://www.diva-e.com/en/about-us/locations/",
+      "title": "Our locations in Europe & USA | diva-e Conclusion",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:22.591Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-locations.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/locations/index.html"
+    },
+    {
+      "slug": "en-industries-pharma",
+      "url": "https://www.diva-e.com/en/industries/pharma/",
+      "title": "Digital Pharma Solutions for Market, Patients & Processes | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:26.432Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-industries-pharma.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/industries/pharma/index.html"
+    },
+    {
+      "slug": "en-insights-downloads",
+      "url": "https://www.diva-e.com/en/insights/downloads/",
+      "title": "Downloads: Whitepapers, guides & studies | diva-e Conclusion",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:32.072Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-downloads.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/downloads/index.html"
+    },
+    {
+      "slug": "en-insights-press",
+      "url": "https://www.diva-e.com/en/insights/press/",
+      "title": "Press: Latest news & newsroom | diva-e Conclusion",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:33.362Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-press.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/press/index.html"
+    },
+    {
+      "slug": "en-industries-pharma-and-healthcare",
+      "url": "https://www.diva-e.com/en/industries/pharma-and-healthcare/",
+      "title": "Pharmaceutical Industry & Healthcare - Digitalization and Change | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:36.022Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-industries-pharma-and-healthcare.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/industries/pharma-and-healthcare/index.html"
+    },
+    {
+      "slug": "en-industries-financial-services",
+      "url": "https://www.diva-e.com/en/industries/financial-services/",
+      "title": "Digital Transformation for Banks & Insurers | diva-e Conclusion",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:42.755Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-industries-financial-services.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/industries/financial-services/index.html"
+    },
+    {
+      "slug": "en-about-us-management",
+      "url": "https://www.diva-e.com/en/about-us/management/",
+      "title": "Management & Leadership | diva-e Conclusion",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:44.612Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-management.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/management/index.html"
+    },
+    {
+      "slug": "en-insights-news",
+      "url": "https://www.diva-e.com/en/insights/news/",
+      "title": "Latest news | diva-e Conclusion",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:46.529Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-news.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/news/index.html"
+    },
+    {
+      "slug": "en-insights-edge",
+      "url": "https://www.diva-e.com/en/insights/edge/",
+      "title": "edge - Our blog with updates, trends & news | diva-e Conclusion",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:54.137Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T12:20:41Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge.json",
+      "prototypePath": "stardust/prototypes/en-insights-edge-proposed.html",
+      "migratedPath": "stardust/migrated/en/insights/edge/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-mann-hummel",
+      "url": "https://www.diva-e.com/en/about-us/customers/mann-hummel/",
+      "title": "MANN+HUMMEL: Digital success story | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:56.456Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T12:06:09Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-mann-hummel.json",
+      "prototypePath": "stardust/prototypes/en-about-us-customers-mann-hummel-proposed.html",
+      "migratedPath": "stardust/migrated/en/about-us/customers/mann-hummel/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-doerrenberg",
+      "url": "https://www.diva-e.com/en/about-us/customers/doerrenberg/",
+      "title": "Doerrenberg: Digital Solutions for Industry | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:54:57.677Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:25Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-doerrenberg.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/doerrenberg/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-medi",
+      "url": "https://www.diva-e.com/en/about-us/customers/medi/",
+      "title": "medi: E-commerce in the cloud | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:05.176Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-medi.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/medi/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-baby-walz",
+      "url": "https://www.diva-e.com/en/about-us/customers/baby-walz/",
+      "title": "Successful omnichannel transformation for Walz | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:09.894Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-baby-walz.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/baby-walz/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-best4tires",
+      "url": "https://www.diva-e.com/en/about-us/customers/best4tires/",
+      "title": "Successful omnichannel transformation for Walz | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:08.816Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-best4tires.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/best4tires/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-hd-plus",
+      "url": "https://www.diva-e.com/en/about-us/customers/hd-plus/",
+      "title": "HD+: A new foundation for a modern e-commerce platform | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:16.309Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-hd-plus.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/hd-plus/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-interamt",
+      "url": "https://www.diva-e.com/en/about-us/customers/interamt/",
+      "title": "INTERAMT Case Study – Digital Career Portal for the Public Sector | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:20.588Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-interamt.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/interamt/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-sma",
+      "url": "https://www.diva-e.com/en/about-us/customers/sma/",
+      "title": "SMA: Customer platform with Spryker & Angular | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:21.261Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-sma.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/sma/index.html"
+    },
+    {
+      "slug": "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+      "url": "https://www.diva-e.com/en/insights/edge/ki-agenten-fertigung-dreamforce-2026/",
+      "title": "AI Agents in Manufacturing: What Dreamforce 2026 Shows | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:28.008Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-ki-agenten-fertigung-dreamforce-2026.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/ki-agenten-fertigung-dreamforce-2026/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-wilo",
+      "url": "https://www.diva-e.com/en/about-us/customers/wilo/",
+      "title": "Developing an innovative B2B store solution for Wilo | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:31.654Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-wilo.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/wilo/index.html"
+    },
+    {
+      "slug": "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+      "url": "https://www.diva-e.com/en/insights/edge/agentic-ai-unternehmen-ki-agenten/",
+      "title": "Agentic AI for businesses: Strategically deploying AI agents | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:34.750Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-agentic-ai-unternehmen-ki-agenten.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/agentic-ai-unternehmen-ki-agenten/index.html"
+    },
+    {
+      "slug": "en-insights-edge-lead-to-cash-in-sap",
+      "url": "https://www.diva-e.com/en/insights/edge/lead-to-cash-in-sap/",
+      "title": "AI Use Cases in SAP Lead-to-Cash: How to Prioritize | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:39.859Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-lead-to-cash-in-sap.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/lead-to-cash-in-sap/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-fressnapf",
+      "url": "https://www.diva-e.com/en/about-us/customers/fressnapf/",
+      "title": "Fressnapf: Optimized approach through CDP | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:43.120Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-fressnapf.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/fressnapf/index.html"
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-ai",
+      "url": "https://www.diva-e.com/en/insights/edge/tech-reality-check-ai/",
+      "title": "AI in the Enterprise: Efficiency Instead of Transformation | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:46.981Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-tech-reality-check-ai.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/tech-reality-check-ai/index.html"
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-technical-debt",
+      "url": "https://www.diva-e.com/en/insights/edge/tech-reality-check-technical-debt/",
+      "title": "Technical Debt: Why It Is Missing in Investments | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:51.706Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-tech-reality-check-technical-debt.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/tech-reality-check-technical-debt/index.html"
+    },
+    {
+      "slug": "en-insights-edge-cypress-playwright-selenium",
+      "url": "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/",
+      "title": "Cypress, Playwright or Selenium? | Framework Comparison | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:55.126Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:26Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-cypress-playwright-selenium.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/cypress-playwright-selenium/index.html"
+    },
+    {
+      "slug": "en-insights-edge-ai-foundation",
+      "url": "https://www.diva-e.com/en/insights/edge/ai-foundation/",
+      "title": "Build an AI Foundation for Scalable AI | diva-e Conclusion | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:55:58.527Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-ai-foundation.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/ai-foundation/index.html"
+    },
+    {
+      "slug": "en-insights-edge-conclusion-connect-recap",
+      "url": "https://www.diva-e.com/en/insights/edge/conclusion-connect-recap/",
+      "title": "Conclusion Connect 2026 Recap: From AI Vision to Business Value | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:03.381Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-conclusion-connect-recap.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/conclusion-connect-recap/index.html"
+    },
+    {
+      "slug": "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+      "url": "https://www.diva-e.com/en/insights/edge/digital-product-passport-dpp-readiness-audit/",
+      "title": "Digital Product Passport: Are You DPP-Ready? | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:09.022Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-digital-product-passport-dpp-readiness-audit.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/digital-product-passport-dpp-readiness-audit/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-vwfs",
+      "url": "https://www.diva-e.com/en/about-us/customers/vwfs/",
+      "title": "Volkswagen Financial Services: Secure AEM Legacy Decommissioning | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:09.830Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-vwfs.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/vwfs/index.html"
+    },
+    {
+      "slug": "en-insights-edge-crm-auswaehlen-leitfaden",
+      "url": "https://www.diva-e.com/en/insights/edge/crm-auswaehlen-leitfaden/",
+      "title": "How to Choose the Right CRM: Finding the Best Solution for Your Business | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:17.143Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-crm-auswaehlen-leitfaden.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/crm-auswaehlen-leitfaden/index.html"
+    },
+    {
+      "slug": "en-insights-edge-cdp-evaluation",
+      "url": "https://www.diva-e.com/en/insights/edge/cdp-evaluation/",
+      "title": "How to Choose a Customer Data Platform (CDP): 10 Criteria | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:24.244Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-cdp-evaluation.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/cdp-evaluation/index.html"
+    },
+    {
+      "slug": "en-insights-edge-ifm-ai-product-advisor",
+      "url": "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/",
+      "title": "AI Application Assistant for Product Search: The ifm Case | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:24.243Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-ifm-ai-product-advisor.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/ifm-ai-product-advisor/index.html"
+    },
+    {
+      "slug": "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+      "url": "https://www.diva-e.com/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform/",
+      "title": "Choosing a CMS: How to Find the Right Platform | diva-e Conclusion | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:32.081Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-unitymedia",
+      "url": "https://www.diva-e.com/en/about-us/customers/unitymedia/",
+      "title": "Website optimization and consulting for Unitymedia | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:35.585Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-unitymedia.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/unitymedia/index.html"
+    },
+    {
+      "slug": "en-insights-edge-commerce-platform-evaluation",
+      "url": "https://www.diva-e.com/en/insights/edge/commerce-platform-evaluation/",
+      "title": "How to Choose a Commerce Platform: 9 Key Criteria | diva-e | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:39.828Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-commerce-platform-evaluation.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/commerce-platform-evaluation/index.html"
+    },
+    {
+      "slug": "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+      "url": "https://www.diva-e.com/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden/",
+      "title": "How to Choose the Right PIM System for Your Business | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:45.698Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden/index.html"
+    },
+    {
+      "slug": "en-insights-edge-5-fragen-plattformentscheidung",
+      "url": "https://www.diva-e.com/en/insights/edge/5-fragen-plattformentscheidung/",
+      "title": "5 Questions Every CIO Should Ask Before Choosing a Platform | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:47.803Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-5-fragen-plattformentscheidung.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/5-fragen-plattformentscheidung/index.html"
+    },
+    {
+      "slug": "en-insights-edge-vendor-lab-day",
+      "url": "https://www.diva-e.com/en/insights/edge/vendor-lab-day/",
+      "title": "Tech Evaluation Lab Day: Test Platform Fit, Not Just Features | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:53.456Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-vendor-lab-day.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/vendor-lab-day/index.html"
+    },
+    {
+      "slug": "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+      "url": "https://www.diva-e.com/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/",
+      "title": "Accessibility Audit – Systematically Assess and Improve Digital Accessibility | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:58.004Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:27Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-terra-canis",
+      "url": "https://www.diva-e.com/en/about-us/customers/terra-canis/",
+      "title": "Relaunch: Terra Canis online store with Magento | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:56:59.291Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-terra-canis.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/terra-canis/index.html"
+    },
+    {
+      "slug": "en-insights-edge-ai-product-advisor-smart-search",
+      "url": "https://www.diva-e.com/en/insights/edge/ai-product-advisor-smart-search/",
+      "title": "Smart Product Search for Complex Catalogs | Product Advisor | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:06.250Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-ai-product-advisor-smart-search.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/ai-product-advisor-smart-search/index.html"
+    },
+    {
+      "slug": "en-insights-edge-greenwashing-retail",
+      "url": "https://www.diva-e.com/en/insights/edge/greenwashing-retail/",
+      "title": "Greenwashing: New Rules Effective September 2026 | Content Governance | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:11.910Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-greenwashing-retail.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/greenwashing-retail/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-spinner",
+      "url": "https://www.diva-e.com/en/about-us/customers/spinner/",
+      "title": "Innovative B2B e-commerce platform for SPINNER | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:10.678Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-spinner.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/spinner/index.html"
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-pilots",
+      "url": "https://www.diva-e.com/en/insights/edge/ai-radar-pilots/",
+      "title": "AI Radar: The Reality of Agentic AI | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:17.869Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-ai-radar-pilots.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/ai-radar-pilots/index.html"
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-human-in-the-loop",
+      "url": "https://www.diva-e.com/en/insights/edge/ai-radar-human-in-the-loop/",
+      "title": "Human in the Loop: When Human Oversight Becomes a Checkbox | AI Radar | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:22.614Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-ai-radar-human-in-the-loop.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/ai-radar-human-in-the-loop/index.html"
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-october",
+      "url": "https://www.diva-e.com/en/insights/edge/ai-radar-october/",
+      "title": "Agentic Enterprise: Why Software Licensing Is Changing | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:24.551Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T12:05:14Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-ai-radar-october.json",
+      "prototypePath": "stardust/prototypes/en-insights-edge-ai-radar-october-proposed.html",
+      "migratedPath": "stardust/migrated/en/insights/edge/ai-radar-october/index.html"
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-september",
+      "url": "https://www.diva-e.com/en/insights/edge/ai-radar-september/",
+      "title": "AI Radar: The Reality of Agentic AI | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:29.695Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-ai-radar-september.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/ai-radar-september/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-siemens",
+      "url": "https://www.diva-e.com/en/about-us/customers/siemens/",
+      "title": "Agile AEM projects increase efficiency at Siemens | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:34.478Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-siemens.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/siemens/index.html"
+    },
+    {
+      "slug": "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum",
+      "url": "https://www.diva-e.com/en/insights/edge/5-anzeichen-digitale-plattform-bremst-wachstum/",
+      "title": "5 Signs Your Digital Platform Is Limiting Growth | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:37.180Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/5-anzeichen-digitale-plattform-bremst-wachstum/index.html"
+    },
+    {
+      "slug": "en-insights-edge-security-anomaly-agent-use-case",
+      "url": "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/",
+      "title": "Security Anomaly Agent – AI-powered Attack Detection & Anomaly Detection | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:42.293Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-security-anomaly-agent-use-case.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/security-anomaly-agent-use-case/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-seat",
+      "url": "https://www.diva-e.com/en/about-us/customers/seat/",
+      "title": "SEAT: Optimized content creation | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:45.625Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-seat.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/seat/index.html"
+    },
+    {
+      "slug": "en-insights-edge-innovation-marketplace",
+      "url": "https://www.diva-e.com/en/insights/edge/innovation-marketplace/",
+      "title": "The New IT Project Paradigm: Innovation Through Standardization | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:48.370Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:28Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-innovation-marketplace.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/innovation-marketplace/index.html"
+    },
+    {
+      "slug": "en-insights-edge-geo-ymyl",
+      "url": "https://www.diva-e.com/en/insights/edge/geo-ymyl/",
+      "title": "From Rankings to Recommendations: AI Search & YMYL Businesses | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:54.447Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-geo-ymyl.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/geo-ymyl/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-ravensburger",
+      "url": "https://www.diva-e.com/en/about-us/customers/ravensburger/",
+      "title": "Optimization of digital marketing performance | diva-e | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:56.531Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-ravensburger.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/ravensburger/index.html"
+    },
+    {
+      "slug": "en-insights-edge-tech-evaluation-short-list",
+      "url": "https://www.diva-e.com/en/insights/edge/tech-evaluation-short-list/",
+      "title": "How to Reduce 1,000+ Tools to a Shortlist of 3 | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:57:59.979Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-tech-evaluation-short-list.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/tech-evaluation-short-list/index.html"
+    },
+    {
+      "slug": "en-insights-edge-from-data-silos-to-digital-commerce",
+      "url": "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/",
+      "title": "From Data Silos to Digital Commerce | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:12.959Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-from-data-silos-to-digital-commerce.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/from-data-silos-to-digital-commerce/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-postbank",
+      "url": "https://www.diva-e.com/en/about-us/customers/postbank/",
+      "title": "Postbank Themenwelten: Diva-e’s Digital Finance Magazine | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:06.307Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-postbank.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/postbank/index.html"
+    },
+    {
+      "slug": "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+      "url": "https://www.diva-e.com/en/insights/edge/millionenstrafe-wegen-fehlender-barrierefreiheit/",
+      "title": "Millions in fines for lack of digital accessibility in e-commerce | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:14.041Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/millionenstrafe-wegen-fehlender-barrierefreiheit/index.html"
+    },
+    {
+      "slug": "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+      "url": "https://www.diva-e.com/en/insights/edge/the-electronic-withdrawal-button-is-coming-in-june-2026/",
+      "title": "The Electronic Withdrawal Button Is Coming in June 2026: What Online Retailers Need to Know | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:18.892Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/the-electronic-withdrawal-button-is-coming-in-june-2026/index.html"
+    },
+    {
+      "slug": "en-insights-edge-projekt-recap-aus-der-praxis",
+      "url": "https://www.diva-e.com/en/insights/edge/projekt-recap-aus-der-praxis/",
+      "title": "Strong Delivery, Weak Impact? | A Real Project Recap | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:24.501Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-projekt-recap-aus-der-praxis.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/projekt-recap-aus-der-praxis/index.html"
+    },
+    {
+      "slug": "en-insights-edge-sap-joule-und-die-business-data-cloud",
+      "url": "https://www.diva-e.com/en/insights/edge/sap-joule-und-die-business-data-cloud/",
+      "title": "SAP Joule and Business Data Cloud: The Core of the Intelligent Enterprise | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:25.817Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-sap-joule-und-die-business-data-cloud.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/sap-joule-und-die-business-data-cloud/index.html"
+    },
+    {
+      "slug": "en-insights-edge-salesforce-partner-day-recap",
+      "url": "https://www.diva-e.com/en/insights/edge/salesforce-partner-day-recap/",
+      "title": "Salesforce Partner Day Recap: Why Marketing Cloud Next is a Gamechanger | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:29.272Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-salesforce-partner-day-recap.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/salesforce-partner-day-recap/index.html"
+    },
+    {
+      "slug": "en-insights-edge-industry-trends-2026",
+      "url": "https://www.diva-e.com/en/insights/edge/industry-trends-2026/",
+      "title": "Industry Trends 2026: Technology, AI and CX | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:36.301Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-industry-trends-2026.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/industry-trends-2026/index.html"
+    },
+    {
+      "slug": "en-insights-edge-geo-gaio-gaps",
+      "url": "https://www.diva-e.com/en/insights/edge/geo-gaio-gaps/",
+      "title": "AI Visibility 2026: The 5 Biggest GEO/GAIO Gaps Brands Must Fix | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:37.831Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:29Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-geo-gaio-gaps.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/geo-gaio-gaps/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-telefonica",
+      "url": "https://www.diva-e.com/en/about-us/customers/telefonica/",
+      "title": "Optimization of customer data at Telefónica | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:39.643Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:30Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-telefonica.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/telefonica/index.html"
+    },
+    {
+      "slug": "en-insights-edge-agentic-commerce",
+      "url": "https://www.diva-e.com/en/insights/edge/agentic-commerce/",
+      "title": "Agentic Commerce: The Future of Autonomous Online Shopping | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:46.740Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:30Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-agentic-commerce.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/agentic-commerce/index.html"
+    },
+    {
+      "slug": "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+      "url": "https://www.diva-e.com/en/insights/edge/salesforce-marketing-cloud-engagement-gartner/",
+      "title": "Salesforce Marketing Cloud Engagement Named Leader in Gartner Magic Quadrant | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:51.080Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:30Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-salesforce-marketing-cloud-engagement-gartner.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/salesforce-marketing-cloud-engagement-gartner/index.html"
+    },
+    {
+      "slug": "en-insights-edge-qa-sap-ai",
+      "url": "https://www.diva-e.com/en/insights/edge/QA_SAP_AI/",
+      "title": "Intelligent Q&A SAP CX AI Toolkit | AI for Customer Experience | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:50.004Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:30Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-qa-sap-ai.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/QA_SAP_AI/index.html"
+    },
+    {
+      "slug": "en-insights-edge-ki-in-der-qualitaetssicherung",
+      "url": "https://www.diva-e.com/en/insights/edge/ki-in-der-qualitaetssicherung/",
+      "title": "AI in QA: Speed Meets Human Experience | diva-e Conclusion",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:58:56.551Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:30Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-insights-edge-ki-in-der-qualitaetssicherung.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/insights/edge/ki-in-der-qualitaetssicherung/index.html"
+    },
+    {
+      "slug": "en-about-us-customers-multivac",
+      "url": "https://www.diva-e.com/en/about-us/customers/multivac/",
+      "title": "IoT platform for MULTIVAC | diva-e Conclusion",
+      "type": "case-study",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T09:59:01.087Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-14T07:01:30Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-customers-multivac.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/about-us/customers/multivac/index.html"
+    }
+  ],
+  "migrate": {
+    "at": "2026-11-13T19:52:04Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/",
+        "outputPath": "index.html",
+        "slug": "index",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/",
+        "outputPath": "en/index.html",
+        "slug": "en",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/loyalty-quiz/",
+        "outputPath": "en/loyalty-quiz/index.html",
+        "slug": "en-loyalty-quiz",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/connect/",
+        "outputPath": "en/connect/index.html",
+        "slug": "en-connect",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/marketplace/",
+        "outputPath": "en/marketplace/index.html",
+        "slug": "en-marketplace",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/security-quiz/",
+        "outputPath": "en/security-quiz/index.html",
+        "slug": "en-security-quiz",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/",
+        "outputPath": "en/about-us/index.html",
+        "slug": "en-about-us",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/newsletter/",
+        "outputPath": "en/newsletter/index.html",
+        "slug": "en-newsletter",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/contact/",
+        "outputPath": "en/contact/index.html",
+        "slug": "en-contact",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/imprint/",
+        "outputPath": "en/imprint/index.html",
+        "slug": "en-imprint",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/data-privacy/",
+        "outputPath": "en/data-privacy/index.html",
+        "slug": "en-data-privacy",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/search/",
+        "outputPath": "en/search/index.html",
+        "slug": "en-search",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/",
+        "outputPath": "en/about-us/customers/index.html",
+        "slug": "en-about-us-customers",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/partner/",
+        "outputPath": "en/about-us/partner/index.html",
+        "slug": "en-about-us-partner",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/services/ai/",
+        "outputPath": "en/services/ai/index.html",
+        "slug": "en-services-ai",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/services/digital-consulting/",
+        "outputPath": "en/services/digital-consulting/index.html",
+        "slug": "en-services-digital-consulting",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/services/digital-produktpass-audit/",
+        "outputPath": "en/services/digital-produktpass-audit/index.html",
+        "slug": "en-services-digital-produktpass-audit",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/services/crm/",
+        "outputPath": "en/services/crm/index.html",
+        "slug": "en-services-crm",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/services/dxp/",
+        "outputPath": "en/services/dxp/index.html",
+        "slug": "en-services-dxp",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/campaigns/next-gen-crm-pharma/",
+        "outputPath": "en/campaigns/next-gen-crm-pharma/index.html",
+        "slug": "en-campaigns-next-gen-crm-pharma",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/security-quiz/security-questions/",
+        "outputPath": "en/security-quiz/security-questions/index.html",
+        "slug": "en-security-quiz-security-questions",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/services/ams/",
+        "outputPath": "en/services/ams/index.html",
+        "slug": "en-services-ams",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/ai-manifest/",
+        "outputPath": "en/about-us/ai-manifest/index.html",
+        "slug": "en-about-us-ai-manifest",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/services/total-experience/",
+        "outputPath": "en/services/total-experience/index.html",
+        "slug": "en-services-total-experience",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/industries/b2b-manufacturing/",
+        "outputPath": "en/industries/b2b-manufacturing/index.html",
+        "slug": "en-industries-b2b-manufacturing",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/industries/automotive/",
+        "outputPath": "en/industries/automotive/index.html",
+        "slug": "en-industries-automotive",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/campaigns/pim-voucher/",
+        "outputPath": "en/campaigns/pim-voucher/index.html",
+        "slug": "en-campaigns-pim-voucher",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/events/",
+        "outputPath": "en/insights/events/index.html",
+        "slug": "en-insights-events",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/industries/retail/",
+        "outputPath": "en/industries/retail/index.html",
+        "slug": "en-industries-retail",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/services/digital-marketing/",
+        "outputPath": "en/services/digital-marketing/index.html",
+        "slug": "en-services-digital-marketing",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/locations/",
+        "outputPath": "en/about-us/locations/index.html",
+        "slug": "en-about-us-locations",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/industries/pharma/",
+        "outputPath": "en/industries/pharma/index.html",
+        "slug": "en-industries-pharma",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/downloads/",
+        "outputPath": "en/insights/downloads/index.html",
+        "slug": "en-insights-downloads",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/press/",
+        "outputPath": "en/insights/press/index.html",
+        "slug": "en-insights-press",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/industries/pharma-and-healthcare/",
+        "outputPath": "en/industries/pharma-and-healthcare/index.html",
+        "slug": "en-industries-pharma-and-healthcare",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/industries/financial-services/",
+        "outputPath": "en/industries/financial-services/index.html",
+        "slug": "en-industries-financial-services",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/management/",
+        "outputPath": "en/about-us/management/index.html",
+        "slug": "en-about-us-management",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/news/",
+        "outputPath": "en/insights/news/index.html",
+        "slug": "en-insights-news",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/",
+        "outputPath": "en/insights/edge/index.html",
+        "slug": "en-insights-edge",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/mann-hummel/",
+        "outputPath": "en/about-us/customers/mann-hummel/index.html",
+        "slug": "en-about-us-customers-mann-hummel",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/doerrenberg/",
+        "outputPath": "en/about-us/customers/doerrenberg/index.html",
+        "slug": "en-about-us-customers-doerrenberg",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/medi/",
+        "outputPath": "en/about-us/customers/medi/index.html",
+        "slug": "en-about-us-customers-medi",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/baby-walz/",
+        "outputPath": "en/about-us/customers/baby-walz/index.html",
+        "slug": "en-about-us-customers-baby-walz",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/best4tires/",
+        "outputPath": "en/about-us/customers/best4tires/index.html",
+        "slug": "en-about-us-customers-best4tires",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/hd-plus/",
+        "outputPath": "en/about-us/customers/hd-plus/index.html",
+        "slug": "en-about-us-customers-hd-plus",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/interamt/",
+        "outputPath": "en/about-us/customers/interamt/index.html",
+        "slug": "en-about-us-customers-interamt",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/sma/",
+        "outputPath": "en/about-us/customers/sma/index.html",
+        "slug": "en-about-us-customers-sma",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/ki-agenten-fertigung-dreamforce-2026/",
+        "outputPath": "en/insights/edge/ki-agenten-fertigung-dreamforce-2026/index.html",
+        "slug": "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/wilo/",
+        "outputPath": "en/about-us/customers/wilo/index.html",
+        "slug": "en-about-us-customers-wilo",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/agentic-ai-unternehmen-ki-agenten/",
+        "outputPath": "en/insights/edge/agentic-ai-unternehmen-ki-agenten/index.html",
+        "slug": "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/lead-to-cash-in-sap/",
+        "outputPath": "en/insights/edge/lead-to-cash-in-sap/index.html",
+        "slug": "en-insights-edge-lead-to-cash-in-sap",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/fressnapf/",
+        "outputPath": "en/about-us/customers/fressnapf/index.html",
+        "slug": "en-about-us-customers-fressnapf",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/tech-reality-check-ai/",
+        "outputPath": "en/insights/edge/tech-reality-check-ai/index.html",
+        "slug": "en-insights-edge-tech-reality-check-ai",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/tech-reality-check-technical-debt/",
+        "outputPath": "en/insights/edge/tech-reality-check-technical-debt/index.html",
+        "slug": "en-insights-edge-tech-reality-check-technical-debt",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/cypress-playwright-selenium/",
+        "outputPath": "en/insights/edge/cypress-playwright-selenium/index.html",
+        "slug": "en-insights-edge-cypress-playwright-selenium",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/ai-foundation/",
+        "outputPath": "en/insights/edge/ai-foundation/index.html",
+        "slug": "en-insights-edge-ai-foundation",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/conclusion-connect-recap/",
+        "outputPath": "en/insights/edge/conclusion-connect-recap/index.html",
+        "slug": "en-insights-edge-conclusion-connect-recap",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/digital-product-passport-dpp-readiness-audit/",
+        "outputPath": "en/insights/edge/digital-product-passport-dpp-readiness-audit/index.html",
+        "slug": "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/vwfs/",
+        "outputPath": "en/about-us/customers/vwfs/index.html",
+        "slug": "en-about-us-customers-vwfs",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/crm-auswaehlen-leitfaden/",
+        "outputPath": "en/insights/edge/crm-auswaehlen-leitfaden/index.html",
+        "slug": "en-insights-edge-crm-auswaehlen-leitfaden",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/cdp-evaluation/",
+        "outputPath": "en/insights/edge/cdp-evaluation/index.html",
+        "slug": "en-insights-edge-cdp-evaluation",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/ifm-ai-product-advisor/",
+        "outputPath": "en/insights/edge/ifm-ai-product-advisor/index.html",
+        "slug": "en-insights-edge-ifm-ai-product-advisor",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform/",
+        "outputPath": "en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform/index.html",
+        "slug": "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/unitymedia/",
+        "outputPath": "en/about-us/customers/unitymedia/index.html",
+        "slug": "en-about-us-customers-unitymedia",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/commerce-platform-evaluation/",
+        "outputPath": "en/insights/edge/commerce-platform-evaluation/index.html",
+        "slug": "en-insights-edge-commerce-platform-evaluation",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden/",
+        "outputPath": "en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden/index.html",
+        "slug": "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/5-fragen-plattformentscheidung/",
+        "outputPath": "en/insights/edge/5-fragen-plattformentscheidung/index.html",
+        "slug": "en-insights-edge-5-fragen-plattformentscheidung",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/vendor-lab-day/",
+        "outputPath": "en/insights/edge/vendor-lab-day/index.html",
+        "slug": "en-insights-edge-vendor-lab-day",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/",
+        "outputPath": "en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/index.html",
+        "slug": "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/terra-canis/",
+        "outputPath": "en/about-us/customers/terra-canis/index.html",
+        "slug": "en-about-us-customers-terra-canis",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/ai-product-advisor-smart-search/",
+        "outputPath": "en/insights/edge/ai-product-advisor-smart-search/index.html",
+        "slug": "en-insights-edge-ai-product-advisor-smart-search",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/greenwashing-retail/",
+        "outputPath": "en/insights/edge/greenwashing-retail/index.html",
+        "slug": "en-insights-edge-greenwashing-retail",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/spinner/",
+        "outputPath": "en/about-us/customers/spinner/index.html",
+        "slug": "en-about-us-customers-spinner",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/ai-radar-pilots/",
+        "outputPath": "en/insights/edge/ai-radar-pilots/index.html",
+        "slug": "en-insights-edge-ai-radar-pilots",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/ai-radar-human-in-the-loop/",
+        "outputPath": "en/insights/edge/ai-radar-human-in-the-loop/index.html",
+        "slug": "en-insights-edge-ai-radar-human-in-the-loop",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/ai-radar-october/",
+        "outputPath": "en/insights/edge/ai-radar-october/index.html",
+        "slug": "en-insights-edge-ai-radar-october",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/ai-radar-september/",
+        "outputPath": "en/insights/edge/ai-radar-september/index.html",
+        "slug": "en-insights-edge-ai-radar-september",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/siemens/",
+        "outputPath": "en/about-us/customers/siemens/index.html",
+        "slug": "en-about-us-customers-siemens",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/5-anzeichen-digitale-plattform-bremst-wachstum/",
+        "outputPath": "en/insights/edge/5-anzeichen-digitale-plattform-bremst-wachstum/index.html",
+        "slug": "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/security-anomaly-agent-use-case/",
+        "outputPath": "en/insights/edge/security-anomaly-agent-use-case/index.html",
+        "slug": "en-insights-edge-security-anomaly-agent-use-case",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/seat/",
+        "outputPath": "en/about-us/customers/seat/index.html",
+        "slug": "en-about-us-customers-seat",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/innovation-marketplace/",
+        "outputPath": "en/insights/edge/innovation-marketplace/index.html",
+        "slug": "en-insights-edge-innovation-marketplace",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/geo-ymyl/",
+        "outputPath": "en/insights/edge/geo-ymyl/index.html",
+        "slug": "en-insights-edge-geo-ymyl",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/ravensburger/",
+        "outputPath": "en/about-us/customers/ravensburger/index.html",
+        "slug": "en-about-us-customers-ravensburger",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/tech-evaluation-short-list/",
+        "outputPath": "en/insights/edge/tech-evaluation-short-list/index.html",
+        "slug": "en-insights-edge-tech-evaluation-short-list",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/from-data-silos-to-digital-commerce/",
+        "outputPath": "en/insights/edge/from-data-silos-to-digital-commerce/index.html",
+        "slug": "en-insights-edge-from-data-silos-to-digital-commerce",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/postbank/",
+        "outputPath": "en/about-us/customers/postbank/index.html",
+        "slug": "en-about-us-customers-postbank",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/millionenstrafe-wegen-fehlender-barrierefreiheit/",
+        "outputPath": "en/insights/edge/millionenstrafe-wegen-fehlender-barrierefreiheit/index.html",
+        "slug": "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/the-electronic-withdrawal-button-is-coming-in-june-2026/",
+        "outputPath": "en/insights/edge/the-electronic-withdrawal-button-is-coming-in-june-2026/index.html",
+        "slug": "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/projekt-recap-aus-der-praxis/",
+        "outputPath": "en/insights/edge/projekt-recap-aus-der-praxis/index.html",
+        "slug": "en-insights-edge-projekt-recap-aus-der-praxis",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/sap-joule-und-die-business-data-cloud/",
+        "outputPath": "en/insights/edge/sap-joule-und-die-business-data-cloud/index.html",
+        "slug": "en-insights-edge-sap-joule-und-die-business-data-cloud",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/salesforce-partner-day-recap/",
+        "outputPath": "en/insights/edge/salesforce-partner-day-recap/index.html",
+        "slug": "en-insights-edge-salesforce-partner-day-recap",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/industry-trends-2026/",
+        "outputPath": "en/insights/edge/industry-trends-2026/index.html",
+        "slug": "en-insights-edge-industry-trends-2026",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/geo-gaio-gaps/",
+        "outputPath": "en/insights/edge/geo-gaio-gaps/index.html",
+        "slug": "en-insights-edge-geo-gaio-gaps",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/telefonica/",
+        "outputPath": "en/about-us/customers/telefonica/index.html",
+        "slug": "en-about-us-customers-telefonica",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/agentic-commerce/",
+        "outputPath": "en/insights/edge/agentic-commerce/index.html",
+        "slug": "en-insights-edge-agentic-commerce",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/salesforce-marketing-cloud-engagement-gartner/",
+        "outputPath": "en/insights/edge/salesforce-marketing-cloud-engagement-gartner/index.html",
+        "slug": "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/QA_SAP_AI/",
+        "outputPath": "en/insights/edge/QA_SAP_AI/index.html",
+        "slug": "en-insights-edge-qa-sap-ai",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/insights/edge/ki-in-der-qualitaetssicherung/",
+        "outputPath": "en/insights/edge/ki-in-der-qualitaetssicherung/index.html",
+        "slug": "en-insights-edge-ki-in-der-qualitaetssicherung",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/about-us/customers/multivac/",
+        "outputPath": "en/about-us/customers/multivac/index.html",
+        "slug": "en-about-us-customers-multivac",
+        "outputPathDefault": null
+      }
+    ],
+    "totalAssetsBundled": 191,
+    "bundledAssets": [
+      "canon.css",
+      "canon.js",
+      "en-about-us-customers-mann-hummel.css",
+      "en-about-us-customers-mann-hummel.js",
+      "en-connect.css",
+      "en-contact.css",
+      "en-imprint.css",
+      "en-insights-edge-ai-radar-october.css",
+      "en-insights-edge-ai-radar-october.js",
+      "en-insights-edge.css",
+      "en-insights-edge.js",
+      "en-services-crm.css",
+      "en-services-crm.js",
+      "en.css",
+      "favicon.png",
+      "fonts/Inter.woff2",
+      "img/20260917-conclusion-0366-d0bc-750x.jpg",
+      "img/800x800_edeka_alle_projekte_projektueber-f2b5-500x0.jpeg",
+      "img/800x800_edeka_alle_projekte_projektueber-f2b5-800x0.jpeg",
+      "img/800x800_edeka_alle_projekte_projektueber-f2b5-907x.jpeg",
+      "img/800x800_schott_alle_projekte_projektuebe-58af-500x0.webp",
+      "img/800x800_schott_alle_projekte_projektuebe-58af-800x0.webp",
+      "img/800x800_schott_alle_projekte_projektuebe-58af-907x.webp",
+      "img/adobe-logo-a800.webp",
+      "img/adobe-solution-partner-platinum-2378-500x0.png",
+      "img/adobe-solution-partner-platinum-2378-774x.png",
+      "img/adobe-solution-partner-platinum-2378-800x0.png",
+      "img/agentic-perspectibes-2-8d3c-0x1320.jpg",
+      "img/agentic-perspectibes-2-8d3c-0x1620.jpg",
+      "img/agentic-perspectibes-2-8d3c-0x900.jpg",
+      "img/agentic-perspectibes-2-8d3c-1920x.jpg",
+      "img/agentic-perspectibes-2-8d3c-750x.jpg",
+      "img/ai-playbook_956x554px-0c00-600x.png",
+      "img/aldi_sud_2017_logo-svg-5027.png",
+      "img/algolia-logo-300x74px-5bdd.png",
+      "img/anne-brosch-en-893e-32x.jpeg",
+      "img/aumovio-news-7225-500x0.png",
+      "img/aumovio-news-7225-774x.png",
+      "img/aumovio-news-7225-800x0.png",
+      "img/bloomreach-primary-linear-logo-1dd2.svg",
+      "img/carl-zeiss-ag-referenz-diva-e-adobe-targ-bdd8-500x0.webp",
+      "img/carl-zeiss-ag-referenz-diva-e-adobe-targ-bdd8-800x0.webp",
+      "img/carl-zeiss-ag-referenz-diva-e-adobe-targ-bdd8-907x.webp",
+      "img/commercetools-474x267-be8f.png",
+      "img/connect/adobe-gold-sponsot.png",
+      "img/connect/agenda.png",
+      "img/connect/commercetools-gold-sponsor.png",
+      "img/connect/hero-1320.jpg",
+      "img/connect/hero-1620.jpg",
+      "img/connect/hero-1920.jpg",
+      "img/connect/hero-900.jpg",
+      "img/connect/hotel-933.webp",
+      "img/connect/pimcore-silver-sponsor.png",
+      "img/connect/shopware-silver-sponsor.png",
+      "img/connect/sp-2026_profil_diminikheller.png",
+      "img/connect/sp-alexander-kruger.jpg",
+      "img/connect/sp-bastian-lopez.jpg",
+      "img/connect/sp-dr-marc-wever.png",
+      "img/connect/sp-eike-scheibenhofer.jpg",
+      "img/connect/sp-friedrich-teucher.jpg",
+      "img/connect/sp-grabriel-ob.jpeg",
+      "img/connect/sp-jasmin-gutmann.jpg",
+      "img/connect/sp-jules-hauspy.png",
+      "img/connect/sp-lars-rohkamm.jpeg",
+      "img/connect/sp-manuel-bolai.png",
+      "img/connect/sp-marcel-pereboom.png",
+      "img/connect/sp-mario-holt-1.png",
+      "img/connect/sp-matthias-tausenpfund.png",
+      "img/connect/sp-ning-ou.png",
+      "img/connect/sp-prof-dr-heiko-beier.png",
+      "img/connect/sp-ramon-schroder.jpeg",
+      "img/connect/sp-sascha-sauer.jpeg",
+      "img/connect/sp-sven-benner-1.png",
+      "img/connect/sp-thomas-stargand.png",
+      "img/connect/sp-verena-lutschg.png",
+      "img/connect/sp-verena-reineke-rugge.jpeg",
+      "img/connect/sp-younes-kabbaj.jpg",
+      "img/connect/stroyblok-silver-sponsor.png",
+      "img/crm_tabelle_en_1490x888px-b4c5-0x1090.png",
+      "img/crm_tabelle_en_1490x888px-b4c5-0x890.png",
+      "img/crm_tabelle_en_1490x888px-b4c5-1490x.png",
+      "img/crownpeak_full-color-f2c4.webp",
+      "img/cws_logo-aa57.png",
+      "img/diva-e-dmtech-182e-500x0.webp",
+      "img/diva-e-dmtech-182e-800x0.webp",
+      "img/diva-e-dmtech-182e-907x.webp",
+      "img/dorothee-haensch-0c9c-32x.jpeg",
+      "img/dorothee-haensch-176x176-0c9c-32x.jpeg",
+      "img/dotcms_logo_900x505-9c8e.png",
+      "img/e-on-referenz-diva-e-adobe-target-c9b3-500x0.png",
+      "img/e-on-referenz-diva-e-adobe-target-c9b3-800x0.png",
+      "img/e-on-referenz-diva-e-adobe-target-c9b3-907x.png",
+      "img/en-security-guide_956x554-c39f-600x.jpg",
+      "img/en_storyblok-platinum-partner-badge-8d3c.png",
+      "img/financeguide_en_956x554-6a25-600x.jpg",
+      "img/frau-am-laptop-b4c0-500x0.jpg",
+      "img/frau-am-laptop-b4c0-800x0.jpg",
+      "img/frau-am-laptop-b4c0-907x.jpg",
+      "img/gettyimages-1025006372-577b-750x.jpg",
+      "img/gettyimages-1093678798-f454-500x0.jpg",
+      "img/gettyimages-1093678798-f454-800x0.jpg",
+      "img/gettyimages-1093678798-f454-907x.jpg",
+      "img/gettyimages-1139171702-20ac-750x.jpg",
+      "img/gettyimages-1219591585-4e4e-750x.jpg",
+      "img/gettyimages-1336136316-2-c79e-750x.jpg",
+      "img/gettyimages-1409451746-e595-750x.jpg",
+      "img/gettyimages-1430770883-9e6e-500x0.jpg",
+      "img/gettyimages-1430770883-9e6e-800x0.jpg",
+      "img/gettyimages-1430770883-9e6e-907x.jpg",
+      "img/gettyimages-1738826762-cc9f-750x.jpg",
+      "img/gettyimages-2094337676-1-modified-7490-1320x0.jpg",
+      "img/gettyimages-2094337676-1-modified-7490-1620x0.jpg",
+      "img/gettyimages-2094337676-1-modified-7490-1920x.jpg",
+      "img/gettyimages-2094337676-1-modified-7490-900x0.jpg",
+      "img/gettyimages-2183118552-ad6b-750x.jpg",
+      "img/gettyimages-2191343131-bc92-750x.jpg",
+      "img/gettyimages-2194914388-8636-750x.jpg",
+      "img/gettyimages-2194914388-8636-933x.jpg",
+      "img/gettyimages-2228240466-df9d-750x.jpg",
+      "img/gettyimages-2231952003-e4ca-750x.jpg",
+      "img/gettyimages-2244825174-dd5b-750x.jpg",
+      "img/gettyimages-2269888351-fe5b-750x.jpg",
+      "img/gettyimages-2278735528-fb16-750x.jpg",
+      "img/gettyimages-2293003575-fe32-750x.jpg",
+      "img/gettyimages-607463118-245f-750x.jpg",
+      "img/google-partner-premier-2024-0fd0.png",
+      "img/google-partner-status-news-2026-ed70-500x0.png",
+      "img/google-partner-status-news-2026-ed70-774x.png",
+      "img/google-partner-status-news-2026-ed70-800x0.png",
+      "img/image-1-9ca4-500x0.png",
+      "img/image-1-9ca4-800x0.png",
+      "img/image-1-9ca4-907x.png",
+      "img/interamt_956x554px-ba20-600x.png",
+      "img/iso-27001-ef8b.png",
+      "img/jasmin-guthmann-dbae-176x.png",
+      "img/jasmin-guthmann-dbae-32x.png",
+      "img/jochen-binder-176x176-bc6f-32x.jpeg",
+      "img/kyowa-news-ad6c-500x0.png",
+      "img/kyowa-news-ad6c-774x.png",
+      "img/kyowa-news-ad6c-800x0.png",
+      "img/kyowa-news-ad6c-907x.png",
+      "img/logo-pimcore-b2e0.png",
+      "img/logo_akeneo_500x500px-b23f.png",
+      "img/logo_msft-82e4.webp",
+      "img/lunendonk-startseite-en-d926-500x0.png",
+      "img/lunendonk-startseite-en-d926-600x.png",
+      "img/lunendonk-startseite-en-d926-774x.png",
+      "img/lunendonk-startseite-en-d926-800x0.png",
+      "img/mann-hummel/highway-bridge-933.jpg",
+      "img/mann-hummel/industrieanlage-933.jpg",
+      "img/mann-hummel/mann-hummel-bild-933.jpg",
+      "img/mann-hummel/maschine-funken-1320.jpg",
+      "img/mann-hummel/maschine-funken-1620.jpg",
+      "img/mann-hummel/maschine-funken-888.jpg",
+      "img/mann-hummel/maschine-funken-900.jpg",
+      "img/marketplace-news-2_474x267-c1f5-500x0.png",
+      "img/marketplace-news-2_474x267-c1f5-774x.png",
+      "img/marketplace-news-2_474x267-c1f5-800x0.png",
+      "img/mobile2-modified-1696-800x0.jpg",
+      "img/munich-headquarter_474x267px-df7d-500x0.png",
+      "img/munich-headquarter_474x267px-df7d-774x.png",
+      "img/munich-headquarter_474x267px-df7d-800x0.png",
+      "img/nadine-lott-a8d3-32x.jpeg",
+      "img/puzzel_logo-diva-e-b72f.webp",
+      "img/quadrat_fcb_800x8000px-887c-500x0.png",
+      "img/quadrat_fcb_800x8000px-887c-800x0.png",
+      "img/quadrat_fcb_800x8000px-887c-907x.png",
+      "img/ronny-walther-0681-32x.png",
+      "img/salesforce_logo_rgb_1797c0_8_13_14-fe18.png",
+      "img/sap-gold-41b3.svg",
+      "img/sap-partner-grouping-c373-500x0.png",
+      "img/sap-partner-grouping-c373-774x.png",
+      "img/sap-partner-grouping-c373-800x0.png",
+      "img/scayle-logo-f041.png",
+      "img/sirko-schneppe-176x176-7c82-32x.png",
+      "img/sirko_474x267-274f-500x0.png",
+      "img/sirko_474x267-274f-774x.png",
+      "img/sirko_474x267-274f-800x0.png",
+      "img/spryker-partner-badge_platinum_2021-c3c6.png",
+      "img/stackit_474x267px-8-39c4-500x0.png",
+      "img/stackit_474x267px-8-39c4-774x.png",
+      "img/stackit_474x267px-8-39c4-800x0.png",
+      "img/stibo-systems-474x267-a0e7.png",
+      "img/strategic-technology-decisions-with-fore-5246-600x.jpg",
+      "img/tisax-c0dc.png",
+      "img/verena-reineke-rugge-8a0e-32x.jpeg",
+      "img/viega_logo-cecb.png",
+      "img/vtex-474x267-af34.png",
+      "img/weleda-b661-500x0.png",
+      "img/weleda-b661-800x0.png",
+      "img/weleda-b661-907x.png"
+    ],
+    "pages": [
+      {
+        "slug": "en",
+        "file": "stardust/migrated/en/index.html",
+        "assetsBundled": 94
+      },
+      {
+        "slug": "en-insights-edge-ai-radar-october",
+        "file": "stardust/migrated/en/insights/edge/ai-radar-october/index.html",
+        "assetsBundled": 23
+      },
+      {
+        "slug": "en-about-us-customers-mann-hummel",
+        "file": "stardust/migrated/en/about-us/customers/mann-hummel/index.html",
+        "assetsBundled": 19
+      },
+      {
+        "slug": "en-services-crm",
+        "file": "stardust/migrated/en/services/crm/index.html",
+        "assetsBundled": 30
+      },
+      {
+        "slug": "en-insights-edge",
+        "file": "stardust/migrated/en/insights/edge/index.html",
+        "assetsBundled": 39
+      },
+      {
+        "slug": "en-imprint",
+        "file": "stardust/migrated/en/imprint/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "en-contact",
+        "file": "stardust/migrated/en/contact/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "en-connect",
+        "file": "stardust/migrated/en/connect/index.html",
+        "assetsBundled": 45
+      },
+      {
+        "slug": "en-services-ai",
+        "file": "stardust/migrated/en/services/ai/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "index",
+        "file": "stardust/migrated/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+        "file": "stardust/migrated/en/insights/edge/ki-agenten-fertigung-dreamforce-2026/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+        "file": "stardust/migrated/en/insights/edge/agentic-ai-unternehmen-ki-agenten/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-lead-to-cash-in-sap",
+        "file": "stardust/migrated/en/insights/edge/lead-to-cash-in-sap/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-tech-reality-check-ai",
+        "file": "stardust/migrated/en/insights/edge/tech-reality-check-ai/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-tech-reality-check-technical-debt",
+        "file": "stardust/migrated/en/insights/edge/tech-reality-check-technical-debt/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-cypress-playwright-selenium",
+        "file": "stardust/migrated/en/insights/edge/cypress-playwright-selenium/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-ai-foundation",
+        "file": "stardust/migrated/en/insights/edge/ai-foundation/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-conclusion-connect-recap",
+        "file": "stardust/migrated/en/insights/edge/conclusion-connect-recap/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+        "file": "stardust/migrated/en/insights/edge/digital-product-passport-dpp-readiness-audit/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-crm-auswaehlen-leitfaden",
+        "file": "stardust/migrated/en/insights/edge/crm-auswaehlen-leitfaden/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-cdp-evaluation",
+        "file": "stardust/migrated/en/insights/edge/cdp-evaluation/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-ifm-ai-product-advisor",
+        "file": "stardust/migrated/en/insights/edge/ifm-ai-product-advisor/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+        "file": "stardust/migrated/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-commerce-platform-evaluation",
+        "file": "stardust/migrated/en/insights/edge/commerce-platform-evaluation/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+        "file": "stardust/migrated/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-insights-edge-5-fragen-plattformentscheidung",
+        "file": "stardust/migrated/en/insights/edge/5-fragen-plattformentscheidung/index.html",
+        "assetsBundled": 12
+      },
+      {
+        "slug": "en-about-us",
+        "file": "stardust/migrated/en/about-us/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "en-data-privacy",
+        "file": "stardust/migrated/en/data-privacy/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "en-about-us-ai-manifest",
+        "file": "stardust/migrated/en/about-us/ai-manifest/index.html",
+        "assetsBundled": 11
+      },
+      {
+        "slug": "en-about-us-management",
+        "file": "stardust/migrated/en/about-us/management/index.html",
+        "assetsBundled": 11
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-11-13T19:52:04Z",
+      "rendered": [],
+      "unchanged": [
+        "en-about-us-ai-manifest"
+      ],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

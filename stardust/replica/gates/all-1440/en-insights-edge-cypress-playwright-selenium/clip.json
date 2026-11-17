@@ -1,0 +1,77 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/cypress-playwright-selenium",
+ "at": "2026-11-14T03:34:26.789Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 1,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 22,
+  "offPage": 1,
+  "textNodes": 128,
+  "controls": 52,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 16,
+   "clipper": "main",
+   "path": "div.intro-side-column > div.intro-side-intro > div.intro-side-paragraph > p",
+   "text": "still, many teams make the decision too quickly. the newest ",
+   "cutMin": 58,
+   "cutMax": 591
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 3,
+   "clipper": "main",
+   "path": "div.topic > div.topic-body > p > strong",
+   "text": "that is real progress — but it is still not enough to justif",
+   "cutMin": 107,
+   "cutMax": 268
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 3,
+   "clipper": "main",
+   "path": "div.topic > div.topic-body > ol > li",
+   "text": "not every product has the same requirements. complex platfor",
+   "cutMin": 34,
+   "cutMax": 625
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 1,
+   "clipper": "p",
+   "path": "div.related-slide > article.article-card > div.card-teaser > p",
+   "text": "whether you're selling through an online shop, marketplace, ",
+   "cutMin": null,
+   "cutMax": null
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 1,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 23,
+   "offPage": 2,
+   "textNodes": 141,
+   "controls": 53,
+   "total": 0
+  }
+ }
+}

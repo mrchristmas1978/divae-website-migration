@@ -1,0 +1,6369 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T05:15:19.394Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/industries/retail/",
+  "at": "2026-11-14T05:14:50.897Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8724,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 119,
+    "level": 1,
+    "text": "digital transformation in retail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__description.richtext > p",
+    "x": 24,
+    "y": 257,
+    "w": 312,
+    "h": 240,
+    "text": "Digitalisation and transformation are key drivers for successful strategic busin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__description.richtext > p",
+    "x": 24,
+    "y": 497,
+    "w": 312,
+    "h": 192,
+    "text": "Today, retailers and manufacturers need to implement new digital solutions to st"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-wrapper > div.hero__info-container > a.hero__cta.btn",
+    "x": 24,
+    "y": 705,
+    "w": 312,
+    "h": 48,
+    "text": "to our loyalty whitepaper",
+    "href": "/en/insights/downloads/loyalty-whitepaper/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 829,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 829,
+    "w": 175,
+    "h": 24,
+    "text": "digital transformation in retail",
+    "href": "/en/industries/retail/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__header > div.pills__tagline > div.dot-blur--16.dot-tagline",
+    "x": 24,
+    "y": 933,
+    "w": 312,
+    "h": 48,
+    "text": "We develop the right solution for your business model"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 143,
+    "y": 1036,
+    "w": 75,
+    "h": 17,
+    "text": "Onlineshop"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 139,
+    "y": 1096,
+    "w": 82,
+    "h": 17,
+    "text": "Marketplace"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 119,
+    "y": 1156,
+    "w": 121,
+    "h": 17,
+    "text": "Unified Commerce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 139,
+    "y": 1216,
+    "w": 83,
+    "h": 17,
+    "text": "Retail Media"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 147,
+    "y": 1276,
+    "w": 65,
+    "h": 17,
+    "text": "App Shop"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 145,
+    "y": 1336,
+    "w": 71,
+    "h": 17,
+    "text": "D2C Retail"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper > div.pills__container-wrapper-item > a.btn.btn--light",
+    "x": 24,
+    "y": 1381,
+    "w": 312,
+    "h": 48,
+    "text": "social commerce",
+    "href": "/en/insights/edge/social-commerce/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 1533,
+    "w": 312,
+    "h": 58,
+    "text": "Current challenges in the retail industry"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 1638,
+    "w": 312,
+    "h": 72,
+    "text": "The industry is more dynamic than ever, presenting retailers with new challenges"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 1726,
+    "w": 285,
+    "h": 24,
+    "text": "Fragmented system landscapes:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 1750,
+    "w": 285,
+    "h": 96,
+    "text": "Different platforms and tools make it difficult to maintain a consistent flow of"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 1862,
+    "w": 285,
+    "h": 24,
+    "text": "Inefficient internal structures:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 1886,
+    "w": 285,
+    "h": 72,
+    "text": "Legacy processes and lack of agility slow innovation and the ability to adapt to"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 1974,
+    "w": 285,
+    "h": 24,
+    "text": "Poor customer experience:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 1998,
+    "w": 285,
+    "h": 48,
+    "text": "Customers expect a seamless experience across all channels."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2062,
+    "w": 285,
+    "h": 24,
+    "text": "Complex data integration:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2086,
+    "w": 285,
+    "h": 72,
+    "text": "Data from disparate sources remains siloed, making it difficult to gain a holist"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 2158,
+    "w": 312,
+    "h": 144,
+    "text": "Technological complexity, rising customer expectations and the pressure to go di"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.cards-block__tagline--left.cards-block__tagline > h2",
+    "x": 24,
+    "y": 2406,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "the benefits"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 2487,
+    "w": 264,
+    "h": 22,
+    "text": "Omnichannel strategies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 2525,
+    "w": 264,
+    "h": 78,
+    "text": "We develop integrated solutions that connect your online and offline channels to"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--2 > a.card__link",
+    "x": 24,
+    "y": 2455,
+    "w": 312,
+    "h": 180,
+    "text": "go to omnichannel strategies",
+    "href": "/en/insights/edge/omnichannel-trends/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 2683,
+    "w": 264,
+    "h": 43,
+    "text": "Greater efficiency through process digitization"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 2742,
+    "w": 264,
+    "h": 59,
+    "text": "We support you in the digitalization of your processes to enable long-term cost "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--2 > a.card__link",
+    "x": 24,
+    "y": 2651,
+    "w": 312,
+    "h": 182,
+    "text": "go to greater efficiency through process digitization",
+    "href": "/en/services/digital-consulting/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 2881,
+    "w": 264,
+    "h": 43,
+    "text": "Personalized customer experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 2940,
+    "w": 264,
+    "h": 78,
+    "text": "Through data-driven insights, we create individual customer experiences that inc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--2 > a.card__link",
+    "x": 24,
+    "y": 2849,
+    "w": 312,
+    "h": 202,
+    "text": "go to personalized customer experience",
+    "href": "/en/insights/edge/elements-of-a-personalized-customer-experience-in-e-commerce/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 3099,
+    "w": 264,
+    "h": 22,
+    "text": "Data integration and analysis"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 3136,
+    "w": 264,
+    "h": 78,
+    "text": "We consolidate your data sources to give you a 360-degree view of your target gr"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--2 > a.card__link",
+    "x": 24,
+    "y": 3067,
+    "w": 312,
+    "h": 180,
+    "text": "go to data integration and analysis",
+    "href": "/en/services/dxp/system-integration/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 3295,
+    "w": 264,
+    "h": 22,
+    "text": "Customized AI strategies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 3332,
+    "w": 264,
+    "h": 59,
+    "text": "We evaluate individual AI strategies that are perfectly tailored to your busines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--2 > a.card__link",
+    "x": 24,
+    "y": 3263,
+    "w": 312,
+    "h": 160,
+    "text": "go to customized ai strategies",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 3471,
+    "w": 264,
+    "h": 22,
+    "text": "Sustainable customer loyalty"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 3509,
+    "w": 264,
+    "h": 78,
+    "text": "Find out how you can optimize your customer loyalty in digital retail with innov"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__info > a.btn.btn--sm",
+    "x": 48,
+    "y": 3603,
+    "w": 264,
+    "h": 48,
+    "text": "more about our customer loyalty programs",
+    "href": "/en/industries/retail/retail-loyalty/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--2 > a.card__link",
+    "x": 24,
+    "y": 3439,
+    "w": 312,
+    "h": 244,
+    "text": "go to sustainable customer loyalty",
+    "href": "/en/industries/retail/retail-loyalty/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 3763,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "rethinking customer loyalty"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 3812,
+    "w": 312,
+    "h": 271,
+    "text": "our loyalty health check",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 4103,
+    "w": 312,
+    "h": 216,
+    "text": "Customer loyalty is a key success factor in digital retail: loyal customers not "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-txt.richtext > p > b",
+    "x": 24,
+    "y": 4346,
+    "w": 298,
+    "h": 18,
+    "text": "How are your loyalty initiatives doing?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 4367,
+    "w": 312,
+    "h": 144,
+    "text": "In just a few minutes, our quiz reveals where your customer loyalty measures hav"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-link > a.btn-default.btn--sm",
+    "x": 24,
+    "y": 4559,
+    "w": 153,
+    "h": 42,
+    "text": "zum loyalty quiz",
+    "href": "/en/loyalty-quiz/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 4661,
+    "w": 312,
+    "h": 144,
+    "text": "Find out more about our approaches to customer loyalty in digital retail on our "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 24,
+    "y": 4712,
+    "w": 99,
+    "h": 18,
+    "text": "loyalty page",
+    "href": "/en/industries/retail/retail-loyalty/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__btn > a.text-small.btn--fill",
+    "x": 24,
+    "y": 4869,
+    "w": 238,
+    "h": 30,
+    "text": "learn more about loyalty",
+    "href": "/en/industries/retail/retail-loyalty/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider__header > div.teaser-slider__label > h2",
+    "x": 24,
+    "y": 5003,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "diva-e success stories"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 24,
+    "y": 5056,
+    "w": 312,
+    "h": 197,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "500x0"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 105,
+    "y": 5112,
+    "w": 150,
+    "h": 84,
+    "text": "logo des unternehmens babywalz",
+    "file": "babywalz_logo_900x505"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > h4.teaser-headline",
+    "x": 48,
+    "y": 5277,
+    "w": 264,
+    "h": 34,
+    "level": 4,
+    "text": "versandhaus walz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > p.teaser-text",
+    "x": 48,
+    "y": 5318,
+    "w": 264,
+    "h": 72,
+    "text": "Four brands successfully brought together on a central digital commerce platform"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > a.btn.btn--sm",
+    "x": 48,
+    "y": 5418,
+    "w": 113,
+    "h": 42,
+    "text": "learn more",
+    "href": "/en/about-us/customers/baby-walz/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet.swiper-pagination-bullet-active",
+    "x": 161,
+    "y": 5520,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 172,
+    "y": 5520,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 183,
+    "y": 5520,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper.swiper-coverflow > div.swiper-pagination.swiper-pagination-clickable > span.swiper-pagination-bullet",
+    "x": 194,
+    "y": 5520,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy__header-wrapper > div.slider-cards-copy__header-container > div.slider-cards-copy__headline.no-heading",
+    "x": 24,
+    "y": 5641,
+    "w": 312,
+    "h": 58,
+    "text": "Insights into Retail Digitalization"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+    "x": -214,
+    "y": 5749,
+    "w": 219,
+    "h": 209,
+    "text": "go to whitepaper: digital transformation in the age of ai",
+    "href": "/en/insights/downloads/digital-transformation-in-times-of-ki/"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item__img-wrapper > picture > img",
+    "x": -214,
+    "y": 5749,
+    "w": 219,
+    "h": 123,
+    "text": "tranfsformation whitepaper auf tablet geöffnet.",
+    "file": "500x0"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item__img > div.hover-button > a.hover-button__link",
+    "x": -214,
+    "y": 5749,
+    "w": 219,
+    "h": 123,
+    "text": "link",
+    "href": "/en/insights/downloads/digital-transformation-in-times-of-ki/"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__title.h5",
+    "x": -214,
+    "y": 5887,
+    "w": 219,
+    "h": 70,
+    "text": "Whitepaper: Digital Transformation in the Age of AI"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+    "x": 29,
+    "y": 5749,
+    "w": 219,
+    "h": 185,
+    "text": "go to whitepaper: leading the retail revolution",
+    "href": "/en/insights/downloads/headless-whitepaper/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item__img-wrapper > picture > img",
+    "x": 29,
+    "y": 5749,
+    "w": 219,
+    "h": 123,
+    "text": "leading the retail revolution",
+    "file": "500x0"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item__img > div.hover-button > a.hover-button__link",
+    "x": 29,
+    "y": 5749,
+    "w": 219,
+    "h": 123,
+    "text": "link",
+    "href": "/en/insights/downloads/headless-whitepaper/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__title.h5",
+    "x": 29,
+    "y": 5887,
+    "w": 219,
+    "h": 47,
+    "text": "Whitepaper: Leading the Retail Revolution"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+    "x": 272,
+    "y": 5749,
+    "w": 219,
+    "h": 209,
+    "text": "go to whitepaper: digital transformation in the age of ai",
+    "href": "/en/insights/downloads/digital-transformation-in-times-of-ki/"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item__img-wrapper > picture > img",
+    "x": 272,
+    "y": 5749,
+    "w": 219,
+    "h": 123,
+    "text": "tranfsformation whitepaper auf tablet geöffnet.",
+    "file": "500x0"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item__img > div.hover-button > a.hover-button__link",
+    "x": 272,
+    "y": 5749,
+    "w": 219,
+    "h": 123,
+    "text": "link",
+    "href": "/en/insights/downloads/digital-transformation-in-times-of-ki/"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__title.h5",
+    "x": 272,
+    "y": 5887,
+    "w": 219,
+    "h": 70,
+    "text": "Whitepaper: Digital Transformation in the Age of AI"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy__navigation-wrapper > div.slider-cards-copy__navigation-container > button.slider-cards-copy__prev",
+    "x": 100,
+    "y": 5998,
+    "w": 80,
+    "h": 80,
+    "text": "go to previous slide"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy__navigation-wrapper > div.slider-cards-copy__navigation-container > button.slider-cards-copy__next",
+    "x": 180,
+    "y": 5998,
+    "w": 80,
+    "h": 80,
+    "text": "go to next slide"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 6182,
+    "w": 312,
+    "h": 58,
+    "text": "We pave the way for your successful transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 6287,
+    "w": 312,
+    "h": 216,
+    "text": "Secure a competitive edge and long-term business success with the right technolo"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.form-block__heading > div > h2.form-block__heading-title",
+    "x": 24,
+    "y": 6615,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "get in touch!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email_salutation_de_informal_1.hs-email_salutation_de_informal_1 > label#label-email_salutation_de_informal_1-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_9irbp > span",
+    "x": 24,
+    "y": 6685,
+    "w": 58,
+    "h": 14,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 24,
+    "y": 6708,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 98,
+    "y": 6708,
+    "w": 61,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 174,
+    "y": 6708,
+    "w": 61,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_firstname.hs-firstname > label#label-firstname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_9irbp > span",
+    "x": 24,
+    "y": 6772,
+    "w": 59,
+    "h": 14,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_lastname.hs-lastname > label#label-lastname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_9irbp > span",
+    "x": 24,
+    "y": 6852,
+    "w": 57,
+    "h": 14,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email.hs-email > label#label-email-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_9irbp > span",
+    "x": 24,
+    "y": 6932,
+    "w": 36,
+    "h": 14,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_phone.hs-phone > label#label-phone-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_9irbp > span",
+    "x": 24,
+    "y": 7013,
+    "w": 36,
+    "h": 14,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_company.hs-company > label#label-company-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_9irbp > span",
+    "x": 24,
+    "y": 7093,
+    "w": 85,
+    "h": 14,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > label#label-wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_9irbp > span",
+    "x": 24,
+    "y": 7173,
+    "w": 176,
+    "h": 14,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > div.input > select#wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_9irbp",
+    "x": 24,
+    "y": 7198,
+    "w": 312,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_which_services.hs-which_services > label#label-which_services-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_9irbp > span",
+    "x": 24,
+    "y": 7287,
+    "w": 77,
+    "h": 14,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.legal-consent-container > div.hs-richtext > p",
+    "x": 24,
+    "y": 7416,
+    "w": 312,
+    "h": 235,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > a",
+    "x": 136,
+    "y": 7585,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "label.hs-form-booleancheckbox-display > span > p",
+    "x": 60,
+    "y": 7665,
+    "w": 270,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-booleancheckbox > label.hs-form-booleancheckbox-display > span",
+    "x": 60,
+    "y": 7711,
+    "w": 276,
+    "h": 32,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > em",
+    "x": 24,
+    "y": 7759,
+    "w": 95,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_submit.hs-submit > div.actions > input.hs-button.primary",
+    "x": 24,
+    "y": 7801,
+    "w": 131,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 7941,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 7941,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 7993,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8094,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8138,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8182,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 8182,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 8182,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8226,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 8226,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8270,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 8270,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 8270,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8314,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 8314,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 8314,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8358,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 8358,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 8358,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 8439,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 8442,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 8486,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 8563,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 8563,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 8563,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 8624,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 6,
+    "offPage": 51,
+    "textNodes": 130,
+    "controls": 89,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-prev > div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+     "text": "go to whitepaper: digital transformation in the age of ai",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-copy-item__img",
+     "path": "div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__img > div.hover-button > a.hover-button__link",
+     "text": "link",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "TEXT X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-prev > div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__title.h5",
+     "text": "whitepaper: digital transformation in the age of ai",
+     "cutMin": 214,
+     "cutMax": 214
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+     "text": "go to whitepaper: digital transformation in the age of ai",
+     "cutMin": 131,
+     "cutMax": 131
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-copy-item__img",
+     "path": "div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__img > div.hover-button > a.hover-button__link",
+     "text": "link",
+     "cutMin": 131,
+     "cutMax": 131
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__title.h5",
+     "text": "whitepaper: digital transformation in the age of ai",
+     "cutMin": 129,
+     "cutMax": 129
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/industries/retail",
+  "at": "2026-11-14T05:15:19.206Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8719,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#digital-transformation-in-retail",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 119,
+    "level": 1,
+    "text": "digital transformation in retail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-container > div.hero-description > p",
+    "x": 24,
+    "y": 257,
+    "w": 312,
+    "h": 240,
+    "text": "Digitalisation and transformation are key drivers for successful strategic busin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-container > div.hero-description > p",
+    "x": 24,
+    "y": 497,
+    "w": 312,
+    "h": 192,
+    "text": "Today, retailers and manufacturers need to implement new digital solutions to st"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-actions > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 705,
+    "w": 312,
+    "h": 48,
+    "text": "to our loyalty whitepaper",
+    "href": "/en/insights/downloads/loyalty-whitepaper"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 829,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 86,
+    "y": 829,
+    "w": 166,
+    "h": 24,
+    "text": "digital transformation in retail",
+    "href": "/en/industries/retail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pills-container > div.pills-header > p.pills-tagline",
+    "x": 24,
+    "y": 933,
+    "w": 312,
+    "h": 88,
+    "text": "We develop the right solution for your business model"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1021,
+    "w": 312,
+    "h": 48,
+    "text": "Onlineshop"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1081,
+    "w": 312,
+    "h": 48,
+    "text": "Marketplace"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1141,
+    "w": 312,
+    "h": 48,
+    "text": "Unified Commerce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1201,
+    "w": 312,
+    "h": 48,
+    "text": "Retail Media"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1261,
+    "w": 312,
+    "h": 48,
+    "text": "App Shop"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1321,
+    "w": 312,
+    "h": 48,
+    "text": "D2C Retail"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > a.pill",
+    "x": 24,
+    "y": 1381,
+    "w": 312,
+    "h": 48,
+    "text": "social commerce",
+    "href": "/en/insights/edge/social-commerce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1533,
+    "w": 312,
+    "h": 58,
+    "text": "Current challenges in the retail industry"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1638,
+    "w": 312,
+    "h": 72,
+    "text": "The industry is more dynamic than ever, presenting retailers with new challenges"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 1726,
+    "w": 285,
+    "h": 120,
+    "text": "Fragmented system landscapes: Different platforms and tools make it difficult to"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 1862,
+    "w": 285,
+    "h": 96,
+    "text": "Inefficient internal structures: Legacy processes and lack of agility slow innov"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 1974,
+    "w": 285,
+    "h": 72,
+    "text": "Poor customer experience: Customers expect a seamless experience across all chan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2062,
+    "w": 285,
+    "h": 96,
+    "text": "Complex data integration: Data from disparate sources remains siloed, making it "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 2158,
+    "w": 312,
+    "h": 144,
+    "text": "Technological complexity, rising customer expectations and the pressure to go di"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > div.cards-tagline > h2#the-benefits",
+    "x": 24,
+    "y": 2406,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "the benefits"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p.link-only",
+    "x": 48,
+    "y": 2487,
+    "w": 264,
+    "h": 22,
+    "text": "Omnichannel strategies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 2525,
+    "w": 264,
+    "h": 78,
+    "text": "We develop integrated solutions that connect your online and offline channels to"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 24,
+    "y": 2455,
+    "w": 312,
+    "h": 180,
+    "text": "go to omnichannel strategies",
+    "href": "/en/insights/edge/omnichannel-trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p.link-only",
+    "x": 48,
+    "y": 2683,
+    "w": 264,
+    "h": 43,
+    "text": "Greater efficiency through process digitization"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 2742,
+    "w": 264,
+    "h": 59,
+    "text": "We support you in the digitalization of your processes to enable long-term cost "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 24,
+    "y": 2651,
+    "w": 312,
+    "h": 182,
+    "text": "go to greater efficiency through process digitization",
+    "href": "/en/services/digital-consulting"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p.link-only",
+    "x": 48,
+    "y": 2881,
+    "w": 264,
+    "h": 43,
+    "text": "Personalized customer experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 2940,
+    "w": 264,
+    "h": 78,
+    "text": "Through data-driven insights, we create individual customer experiences that inc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 24,
+    "y": 2849,
+    "w": 312,
+    "h": 202,
+    "text": "go to personalized customer experience",
+    "href": "/en/insights/edge/elements-of-a-personalized-customer-experience-in-e-commerce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p.link-only",
+    "x": 48,
+    "y": 3099,
+    "w": 264,
+    "h": 22,
+    "text": "Data integration and analysis"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 3136,
+    "w": 264,
+    "h": 78,
+    "text": "We consolidate your data sources to give you a 360-degree view of your target gr"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 24,
+    "y": 3067,
+    "w": 312,
+    "h": 180,
+    "text": "go to data integration and analysis",
+    "href": "/en/services/dxp/system-integration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p.link-only",
+    "x": 48,
+    "y": 3295,
+    "w": 264,
+    "h": 22,
+    "text": "Customized AI strategies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 3332,
+    "w": 264,
+    "h": 59,
+    "text": "We evaluate individual AI strategies that are perfectly tailored to your busines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 24,
+    "y": 3263,
+    "w": 312,
+    "h": 160,
+    "text": "go to customized ai strategies",
+    "href": "/en/services/ai"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 3471,
+    "w": 264,
+    "h": 22,
+    "text": "Sustainable customer loyalty"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 3509,
+    "w": 264,
+    "h": 78,
+    "text": "Find out how you can optimize your customer loyalty in digital retail with innov"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 48,
+    "y": 3603,
+    "w": 264,
+    "h": 48,
+    "text": "more about our customer loyalty programs",
+    "href": "/en/industries/retail/retail-loyalty"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 24,
+    "y": 3439,
+    "w": 312,
+    "h": 244,
+    "text": "go to sustainable customer loyalty",
+    "href": "/en/industries/retail/retail-loyalty"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 3812,
+    "w": 312,
+    "h": 271,
+    "text": "our loyalty health check",
+    "file": "media_14196bf19f2eb3093450a99aa5152192a4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#rethinking-customer-loyalty",
+    "x": 24,
+    "y": 3763,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "rethinking customer loyalty"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 4103,
+    "w": 312,
+    "h": 216,
+    "text": "Customer loyalty is a key success factor in digital retail: loyal customers not "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > p > strong",
+    "x": 24,
+    "y": 4346,
+    "w": 298,
+    "h": 18,
+    "text": "How are your loyalty initiatives doing?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 4367,
+    "w": 312,
+    "h": 144,
+    "text": "In just a few minutes, our quiz reveals where your customer loyalty measures hav"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-link > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 4559,
+    "w": 154,
+    "h": 42,
+    "text": "zum loyalty quiz",
+    "href": "/en/loyalty-quiz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 4661,
+    "w": 312,
+    "h": 144,
+    "text": "Find out more about our approaches to customer loyalty in digital retail on our "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 24,
+    "y": 4712,
+    "w": 99,
+    "h": 18,
+    "text": "loyalty page",
+    "href": "/en/industries/retail/retail-loyalty"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.link-only > a",
+    "x": 24,
+    "y": 4872,
+    "w": 198,
+    "h": 18,
+    "text": "learn more about loyalty",
+    "href": "/en/industries/retail/retail-loyalty"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider.block > div.teaser-slider-header > h2#diva-e-success-stories",
+    "x": 24,
+    "y": 4997,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "diva-e success stories"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 24,
+    "y": 5050,
+    "w": 312,
+    "h": 197,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "media_1fc36b884267e478c35c60005abf8df113"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 105,
+    "y": 5073,
+    "w": 150,
+    "h": 150,
+    "text": "logo des unternehmens babywalz",
+    "file": "media_120f99f7010cbcdd310efba7f8164867f4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-headline > h4#versandhaus-walz",
+    "x": 48,
+    "y": 5271,
+    "w": 264,
+    "h": 34,
+    "level": 4,
+    "text": "versandhaus walz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-body > p",
+    "x": 48,
+    "y": 5312,
+    "w": 264,
+    "h": 72,
+    "text": "Four brands successfully brought together on a central digital commerce platform"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-cta > p.link-only > a",
+    "x": 48,
+    "y": 5412,
+    "w": 115,
+    "h": 42,
+    "text": "learn more",
+    "href": "/en/about-us/customers/baby-walz"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet.is-active",
+    "x": 161,
+    "y": 5514,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 172,
+    "y": 5514,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 183,
+    "y": 5514,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-swiper > div.teaser-slider-bullets > span.teaser-slider-bullet",
+    "x": 194,
+    "y": 5514,
+    "w": 5,
+    "h": 5,
+    "text": "go to slide 4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-header > div.slider-cards-headline > h2#insights-into-retail-digitalization",
+    "x": 24,
+    "y": 5635,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "insights into retail digitalization"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-track > div.story-card > a.story-card-link",
+    "x": -214,
+    "y": 5743,
+    "w": 219,
+    "h": 209,
+    "text": "go to whitepaper: digital transformation in the age of ai",
+    "href": "/en/insights/downloads/digital-transformation-in-times-of-ki"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-media > picture > img",
+    "x": -214,
+    "y": 5743,
+    "w": 219,
+    "h": 123,
+    "text": "tranfsformation whitepaper auf tablet geöffnet.",
+    "file": "media_19fbd29c057416345fd6d4d315133af296"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+    "x": -214,
+    "y": 5743,
+    "w": 219,
+    "h": 123,
+    "text": "link",
+    "href": "/en/insights/downloads/digital-transformation-in-times-of-ki"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card > div.story-card-title.h5 > p.link-only",
+    "x": -214,
+    "y": 5881,
+    "w": 219,
+    "h": 70,
+    "text": "Whitepaper: Digital Transformation in the Age of AI"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-track > div.story-card.is-active > a.story-card-link",
+    "x": 29,
+    "y": 5743,
+    "w": 219,
+    "h": 185,
+    "text": "go to whitepaper: leading the retail revolution",
+    "href": "/en/insights/downloads/headless-whitepaper"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-media > picture > img",
+    "x": 29,
+    "y": 5743,
+    "w": 219,
+    "h": 123,
+    "text": "leading the retail revolution",
+    "file": "media_14cc8438ca5e20e269910a5e08f281db32"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+    "x": 29,
+    "y": 5743,
+    "w": 219,
+    "h": 123,
+    "text": "link",
+    "href": "/en/insights/downloads/headless-whitepaper"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card.is-active > div.story-card-title.h5 > p.link-only",
+    "x": 29,
+    "y": 5881,
+    "w": 219,
+    "h": 47,
+    "text": "Whitepaper: Leading the Retail Revolution"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-track > div.story-card > a.story-card-link",
+    "x": 272,
+    "y": 5743,
+    "w": 219,
+    "h": 209,
+    "text": "go to whitepaper: digital transformation in the age of ai",
+    "href": "/en/insights/downloads/digital-transformation-in-times-of-ki"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-media > picture > img",
+    "x": 272,
+    "y": 5743,
+    "w": 219,
+    "h": 123,
+    "text": "tranfsformation whitepaper auf tablet geöffnet.",
+    "file": "media_19fbd29c057416345fd6d4d315133af296"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+    "x": 272,
+    "y": 5743,
+    "w": 219,
+    "h": 123,
+    "text": "link",
+    "href": "/en/insights/downloads/digital-transformation-in-times-of-ki"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card > div.story-card-title.h5 > p.link-only",
+    "x": 272,
+    "y": 5881,
+    "w": 219,
+    "h": 70,
+    "text": "Whitepaper: Digital Transformation in the Age of AI"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-nav > div.slider-cards-nav-inner > button.slider-cards-arrow",
+    "x": 100,
+    "y": 5992,
+    "w": 80,
+    "h": 80,
+    "text": "go to previous slide"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-nav > div.slider-cards-nav-inner > button.slider-cards-arrow.slider-cards-arrow-next",
+    "x": 180,
+    "y": 5992,
+    "w": 80,
+    "h": 80,
+    "text": "go to next slide"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 6176,
+    "w": 312,
+    "h": 58,
+    "text": "We pave the way for your successful transformation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 6281,
+    "w": 312,
+    "h": 216,
+    "text": "Secure a competitive edge and long-term business success with the right technolo"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.form-block-form > div.form-block-heading > h2#get-in-touch",
+    "x": 24,
+    "y": 6609,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "get in touch!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > span#fb-email_salutation-1-lbl",
+    "x": 24,
+    "y": 6678,
+    "w": 312,
+    "h": 16,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 24,
+    "y": 6702,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 98,
+    "y": 6702,
+    "w": 62,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 176,
+    "y": 6702,
+    "w": 62,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 6765,
+    "w": 312,
+    "h": 16,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 6845,
+    "w": 312,
+    "h": 16,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 6925,
+    "w": 312,
+    "h": 16,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 7006,
+    "w": 312,
+    "h": 16,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 7086,
+    "w": 312,
+    "h": 16,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 7166,
+    "w": 312,
+    "h": 16,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > select#fb-wie_sind_sie_auf_uns_aufmerksam_geworden-7",
+    "x": 24,
+    "y": 7192,
+    "w": 312,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field.hs-form-field-textarea > label.hs-form-label",
+    "x": 24,
+    "y": 7280,
+    "w": 312,
+    "h": 16,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-legal > div.hs-form-richtext > p",
+    "x": 24,
+    "y": 7410,
+    "w": 312,
+    "h": 235,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > a",
+    "x": 136,
+    "y": 7579,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 7659,
+    "w": 268,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 7705,
+    "w": 276,
+    "h": 34,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > em",
+    "x": 24,
+    "y": 7755,
+    "w": 95,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.hs-form > div.hs-form-actions > input.hs-form-submit",
+    "x": 24,
+    "y": 7796,
+    "w": 130,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 7936,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 7936,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 7988,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8089,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8133,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8177,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 8177,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 8177,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8221,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 8221,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8265,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 8265,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 8265,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8309,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 8309,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 8309,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8353,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 8353,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 8353,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 8437,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8481,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 8558,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 8558,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 8558,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 8619,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 5,
+    "offPage": 52,
+    "textNodes": 130,
+    "controls": 88,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+     "text": "go to whitepaper: digital transformation in the age of ai",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+     "text": "link",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+     "text": "go to whitepaper: digital transformation in the age of ai",
+     "cutMin": 131,
+     "cutMax": 131
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+     "text": "link",
+     "cutMin": 131,
+     "cutMax": 131
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.slider-cards-track > div.story-card > div.story-card-title.h5 > p.link-only",
+     "text": "whitepaper: digital transformation in the age of ai",
+     "cutMin": 125,
+     "cutMax": 125
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+     "text": "go to whitepaper: digital transformation in the age of ai",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": -214,
+      "t": 5743,
+      "r": 5,
+      "b": 5952,
+      "w": 219,
+      "h": 209
+     },
+     "clip": {
+      "l": 24,
+      "t": 5743,
+      "r": 360,
+      "b": 5952,
+      "w": 336,
+      "h": 209
+     }
+    },
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+     "text": "link",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": -214,
+      "t": 5743,
+      "r": 5,
+      "b": 5865,
+      "w": 219,
+      "h": 123
+     },
+     "clip": {
+      "l": 24,
+      "t": 5743,
+      "r": 360,
+      "b": 5952,
+      "w": 336,
+      "h": 209
+     }
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 131,
+     "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+     "text": "go to whitepaper: digital transformation in the age of ai",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": 272,
+      "t": 5743,
+      "r": 491,
+      "b": 5952,
+      "w": 219,
+      "h": 209
+     },
+     "clip": {
+      "l": 24,
+      "t": 5743,
+      "r": 360,
+      "b": 5952,
+      "w": 336,
+      "h": 209
+     }
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 131,
+     "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+     "text": "link",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": 272,
+      "t": 5743,
+      "r": 491,
+      "b": 5865,
+      "w": 219,
+      "h": 123
+     },
+     "clip": {
+      "l": 24,
+      "t": 5743,
+      "r": 360,
+      "b": 5952,
+      "w": 336,
+      "h": 209
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 125,
+     "path": "div.slider-cards-track > div.story-card > div.story-card-title.h5 > p.link-only",
+     "text": "whitepaper: digital transformation in the age of ai",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": 272,
+      "t": 5882,
+      "r": 430,
+      "b": 5902,
+      "w": 158,
+      "h": 20
+     },
+     "clip": {
+      "l": 24,
+      "t": 5743,
+      "r": 360,
+      "b": 5952,
+      "w": 336,
+      "h": 209
+     },
+     "lines": 3
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "digital transformation in retail",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 1,
+    "text": 20,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 16,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "the benefits",
+   "variable": false,
+   "origin": {
+    "link": 7,
+    "button": 0,
+    "text": 12,
+    "image": 0
+   },
+   "eds": {
+    "link": 7,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 12,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "rethinking customer loyalty",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "diva-e success stories",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 6,
+    "text": 5,
+    "image": 3
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 4,
+    "button": 6,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 2,
+    "image": 3,
+    "imageHidden": 2
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "get in touch!",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 15,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 15,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"digital transformation in retail\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"insights into retail digitalization\" (y 5635) has no origin heading",
+   "text": "insights into retail digitalization"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 2,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 121,
+    "w": 112,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 161,
+    "w": 295,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 200,
+    "w": 99,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 260,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 284,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 308,
+    "w": 204,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 332,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 356,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 380,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 404,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 428,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 452,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 476,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 524,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 548,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 572,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 596,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 620,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 644,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 668,
+    "w": 194,
+    "h": 18
+   },
+   {
+    "x": 81,
+    "y": 720,
+    "w": 198,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 833,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 833,
+    "w": 175,
+    "h": 14
+   },
+   {
+    "x": 56,
+    "y": 933,
+    "w": 275,
+    "h": 23
+   },
+   {
+    "x": 56,
+    "y": 957,
+    "w": 223,
+    "h": 23
+   },
+   {
+    "x": 143,
+    "y": 1035,
+    "w": 75,
+    "h": 17
+   },
+   {
+    "x": 139,
+    "y": 1095,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 119,
+    "y": 1155,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 139,
+    "y": 1215,
+    "w": 83,
+    "h": 17
+   },
+   {
+    "x": 147,
+    "y": 1275,
+    "w": 65,
+    "h": 17
+   },
+   {
+    "x": 145,
+    "y": 1335,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 123,
+    "y": 1395,
+    "w": 114,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1533,
+    "w": 279,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1562,
+    "w": 156,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1641,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1665,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1689,
+    "w": 88,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1729,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1753,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1777,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1801,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1825,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1865,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1889,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1913,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1937,
+    "w": 198,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1977,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2001,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2025,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2065,
+    "w": 201,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2089,
+    "w": 220,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2113,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2137,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2185,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2209,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2233,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2257,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2281,
+    "w": 214,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2406,
+    "w": 142,
+    "h": 28
+   },
+   {
+    "x": 48,
+    "y": 2487,
+    "w": 198,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 2526,
+    "w": 250,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2545,
+    "w": 211,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2565,
+    "w": 213,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2585,
+    "w": 147,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2683,
+    "w": 223,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 2705,
+    "w": 165,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 2743,
+    "w": 258,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2763,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2783,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2881,
+    "w": 191,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 2903,
+    "w": 92,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 2941,
+    "w": 225,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2961,
+    "w": 180,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2980,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3000,
+    "w": 83,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3099,
+    "w": 244,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 3137,
+    "w": 248,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3157,
+    "w": 242,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3176,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3196,
+    "w": 133,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3295,
+    "w": 210,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 3333,
+    "w": 241,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3353,
+    "w": 226,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3372,
+    "w": 216,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3471,
+    "w": 244,
+    "h": 21
+   },
+   {
+    "x": 48,
+    "y": 3510,
+    "w": 242,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3529,
+    "w": 245,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3549,
+    "w": 259,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3568,
+    "w": 80,
+    "h": 16
+   },
+   {
+    "x": 72,
+    "y": 3606,
+    "w": 216,
+    "h": 17
+   },
+   {
+    "x": 149,
+    "y": 3630,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 3763,
+    "w": 310,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4106,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4130,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4154,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4178,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4202,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4226,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4250,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4274,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4298,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4346,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4394,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4418,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4442,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4466,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4490,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 44,
+    "y": 4571,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4664,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4688,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4712,
+    "w": 99,
+    "h": 18
+   },
+   {
+    "x": 123,
+    "y": 4712,
+    "w": 144,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4736,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4760,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4784,
+    "w": 68,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4872,
+    "w": 238,
+    "h": 23
+   },
+   {
+    "x": 54,
+    "y": 5003,
+    "w": 252,
+    "h": 28
+   },
+   {
+    "x": 48,
+    "y": 5279,
+    "w": 202,
+    "h": 28
+   },
+   {
+    "x": 48,
+    "y": 5321,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5345,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5369,
+    "w": 151,
+    "h": 18
+   },
+   {
+    "x": 68,
+    "y": 5430,
+    "w": 73,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5641,
+    "w": 208,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 5670,
+    "w": 148,
+    "h": 28
+   },
+   {
+    "x": -214,
+    "y": 5912,
+    "w": 217,
+    "h": 21
+   },
+   {
+    "x": 29,
+    "y": 5888,
+    "w": 207,
+    "h": 21
+   },
+   {
+    "x": 29,
+    "y": 5912,
+    "w": 145,
+    "h": 21
+   },
+   {
+    "x": 272,
+    "y": 5888,
+    "w": 164,
+    "h": 21
+   },
+   {
+    "x": 272,
+    "y": 5912,
+    "w": 217,
+    "h": 21
+   },
+   {
+    "x": 272,
+    "y": 5935,
+    "w": 41,
+    "h": 21
+   },
+   {
+    "x": 24,
+    "y": 6182,
+    "w": 281,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 6210,
+    "w": 290,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 6290,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6314,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6338,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6362,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6386,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6410,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6434,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6458,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6482,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6615,
+    "w": 145,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 6685,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 6685,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 6718,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 6718,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 191,
+    "y": 6718,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6772,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6852,
+    "w": 57,
+    "h": 14
+   },
+   {
+    "x": 81,
+    "y": 6852,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6932,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 6932,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7013,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7093,
+    "w": 85,
+    "h": 14
+   },
+   {
+    "x": 109,
+    "y": 7093,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7173,
+    "w": 176,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7287,
+    "w": 77,
+    "h": 14
+   },
+   {
+    "x": 101,
+    "y": 7287,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7417,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7434,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7451,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7468,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7485,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7518,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7535,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7552,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7569,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7585,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 7585,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 7585,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7619,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7636,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7666,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7683,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 7666,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7712,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7728,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7759,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7941,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 7941,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7992,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 8025,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 8094,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8138,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8182,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 8182,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 8182,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8226,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 8226,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8270,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 8270,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 8270,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8314,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 8314,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 8314,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8358,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 8358,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 8358,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8440,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 8443,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8487,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 121,
+    "w": 105,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 161,
+    "w": 291,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 200,
+    "w": 96,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 260,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 284,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 308,
+    "w": 204,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 332,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 356,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 380,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 404,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 428,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 452,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 476,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 524,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 548,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 572,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 596,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 620,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 644,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 668,
+    "w": 194,
+    "h": 18
+   },
+   {
+    "x": 83,
+    "y": 720,
+    "w": 194,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 833,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 86,
+    "y": 833,
+    "w": 166,
+    "h": 14
+   },
+   {
+    "x": 56,
+    "y": 934,
+    "w": 267,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 958,
+    "w": 220,
+    "h": 22
+   },
+   {
+    "x": 143,
+    "y": 1036,
+    "w": 74,
+    "h": 16
+   },
+   {
+    "x": 140,
+    "y": 1096,
+    "w": 80,
+    "h": 16
+   },
+   {
+    "x": 119,
+    "y": 1156,
+    "w": 121,
+    "h": 16
+   },
+   {
+    "x": 139,
+    "y": 1216,
+    "w": 82,
+    "h": 16
+   },
+   {
+    "x": 148,
+    "y": 1276,
+    "w": 64,
+    "h": 16
+   },
+   {
+    "x": 145,
+    "y": 1336,
+    "w": 71,
+    "h": 16
+   },
+   {
+    "x": 122,
+    "y": 1396,
+    "w": 115,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 1533,
+    "w": 275,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1562,
+    "w": 148,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1641,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1665,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1689,
+    "w": 88,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1729,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1753,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1777,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1801,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1825,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1865,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1889,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1913,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1937,
+    "w": 198,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1977,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2001,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2025,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2065,
+    "w": 201,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2089,
+    "w": 220,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2113,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2137,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2185,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2209,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2233,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2257,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2281,
+    "w": 214,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2406,
+    "w": 139,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 2487,
+    "w": 205,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 2526,
+    "w": 250,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2545,
+    "w": 211,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2565,
+    "w": 213,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2585,
+    "w": 147,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2683,
+    "w": 229,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 2705,
+    "w": 170,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 2743,
+    "w": 258,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2763,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2783,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2881,
+    "w": 198,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 2903,
+    "w": 96,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 2941,
+    "w": 225,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2961,
+    "w": 180,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2980,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3000,
+    "w": 83,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3099,
+    "w": 253,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 3137,
+    "w": 248,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3157,
+    "w": 242,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3176,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3196,
+    "w": 133,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3295,
+    "w": 218,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 3333,
+    "w": 241,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3353,
+    "w": 226,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3372,
+    "w": 216,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3471,
+    "w": 250,
+    "h": 20
+   },
+   {
+    "x": 48,
+    "y": 3510,
+    "w": 242,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3529,
+    "w": 245,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3549,
+    "w": 259,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3568,
+    "w": 80,
+    "h": 16
+   },
+   {
+    "x": 75,
+    "y": 3607,
+    "w": 210,
+    "h": 16
+   },
+   {
+    "x": 149,
+    "y": 3631,
+    "w": 62,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 3763,
+    "w": 302,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4106,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4130,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4154,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4178,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4202,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4226,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4250,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4274,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4298,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4346,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4394,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4418,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4442,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4466,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4490,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 44,
+    "y": 4572,
+    "w": 114,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 4664,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4688,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4712,
+    "w": 99,
+    "h": 18
+   },
+   {
+    "x": 123,
+    "y": 4712,
+    "w": 144,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4736,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4760,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4784,
+    "w": 68,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4872,
+    "w": 198,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 4997,
+    "w": 251,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 5274,
+    "w": 204,
+    "h": 27
+   },
+   {
+    "x": 48,
+    "y": 5315,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5339,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 48,
+    "y": 5363,
+    "w": 151,
+    "h": 18
+   },
+   {
+    "x": 68,
+    "y": 5425,
+    "w": 75,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5635,
+    "w": 203,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 5664,
+    "w": 141,
+    "h": 27
+   },
+   {
+    "x": 29,
+    "y": 5882,
+    "w": 204,
+    "h": 20
+   },
+   {
+    "x": 29,
+    "y": 5906,
+    "w": 142,
+    "h": 20
+   },
+   {
+    "x": 272,
+    "y": 5882,
+    "w": 158,
+    "h": 20
+   },
+   {
+    "x": 272,
+    "y": 5906,
+    "w": 213,
+    "h": 20
+   },
+   {
+    "x": 272,
+    "y": 5929,
+    "w": 38,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 6176,
+    "w": 279,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 6204,
+    "w": 280,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 6284,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6308,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6332,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6356,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6380,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6404,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6428,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6452,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6476,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6609,
+    "w": 140,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 6679,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 6679,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 6712,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 6712,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 193,
+    "y": 6712,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6766,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6846,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 84,
+    "y": 6846,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6926,
+    "w": 35,
+    "h": 14
+   },
+   {
+    "x": 61,
+    "y": 6926,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7007,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7087,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 114,
+    "y": 7087,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7167,
+    "w": 172,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7281,
+    "w": 79,
+    "h": 14
+   },
+   {
+    "x": 105,
+    "y": 7281,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7411,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7428,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7445,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7462,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7479,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7512,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7529,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7546,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7563,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7579,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 7579,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 7579,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7613,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7630,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7660,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7677,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 7660,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7706,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 7723,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7755,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 7936,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 7936,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7988,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 8021,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 8089,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8133,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8177,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 8177,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 8177,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8221,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 8221,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8265,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 8265,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 8265,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8309,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 8309,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 8309,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8353,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 8353,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 8353,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8435,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 8438,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8482,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

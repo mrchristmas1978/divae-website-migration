@@ -1,0 +1,1033 @@
+[live-session] waiting to pace live navigations to www.diva-e.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 909 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/en-connect-1440/vdiff-iter1/
+
+build red flags (advisory): 
+  • FONT MISMATCH: heading "Turning AI Vision into Business " wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "A day where AI, business and Dig" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "The Agenda" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "The Speaker" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Location & Times" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "We thank our Sponsors" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Secure your Spot" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • IMAGE DID NOT LOAD: sp-jasmin-gutmann.jpg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-verena-lutschg.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-alexander-kruger.jpg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-bastian-lopez.jpg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-2026_profil_diminikheller.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-eike-scheibenhofer.jpg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-friedrich-teucher.jpg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-jules-hauspy.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-grabriel-ob.jpeg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-prof-dr-heiko-beier.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-lars-rohkamm.jpeg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-marcel-pereboom.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-manuel-bolai.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-dr-marc-wever.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-mario-holt-1.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-matthias-tausenpfund.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-ning-ou.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-ramon-schroder.jpeg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-sascha-sauer.jpeg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-sven-benner-1.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-thomas-stargand.png rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-verena-reineke-rugge.jpeg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: sp-younes-kabbaj.jpg rendered 180x180 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+  • IMAGE DID NOT LOAD: hotel-933.webp rendered 533x463 but natural 0x0. Rendered a box but natural 0×0 — the image URL failed to load; fix the src.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 10351,
+  "textLen": 6514,
+  "images": [
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x338",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "1920x",
+    "natural": "1920x1080",
+    "rendered": "1440x1000",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "conclusion-connect-agenda_diva-e_v-4-0.png",
+    "natural": "3166x4675",
+    "rendered": "1089x1609",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "933x",
+    "natural": "0x0",
+    "rendered": "533x463",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "933x",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "adobe-gold-sponsot.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "commercetools-gold-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "stroyblok-silver-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "pimcore-silver-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "shopware-silver-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "adobe-gold-sponsot.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "commercetools-gold-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "stroyblok-silver-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "pimcore-silver-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "shopware-silver-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "adobe-gold-sponsot.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "commercetools-gold-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "stroyblok-silver-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "pimcore-silver-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "shopware-silver-sponsor.png",
+    "natural": "0x0",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Turning AI Vision into Business ",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "65px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "A day where AI, business and Dig",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The Agenda",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The Speaker",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Location & Times",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "We thank our Sponsors",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "57px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Secure your Spot",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 1089,
+    "left": 145
+   },
+   {
+    "sel": "hero__description",
+    "width": 1040,
+    "left": 175
+   },
+   {
+    "sel": "simple-text__row-paragraph--large",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "simple-text__row-paragraph--large",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "cards-block__tagline--left",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "col--3",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "grid-column-container",
+    "width": 1312,
+    "left": 64
+   },
+   {
+    "sel": "partners-bar__headline",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "form-block__container",
+    "width": 1089,
+    "left": 175
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 10351,
+  "textLen": 6514,
+  "images": [
+   {
+    "src": "strategic-technology-decisions-with-fore-5246-600x.jpg",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "financeguide_en_956x554-6a25-600x.jpg",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-600x.png",
+    "natural": "600x338",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "interamt_956x554px-ba20-600x.png",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en-security-guide_956x554-c39f-600x.jpg",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-playbook_956x554px-0c00-600x.png",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "hero-1920.jpg",
+    "natural": "1920x1080",
+    "rendered": "1440x1000",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "agenda.png",
+    "natural": "3166x4675",
+    "rendered": "1089x1609",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sp-jasmin-gutmann.jpg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-verena-lutschg.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-alexander-kruger.jpg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-bastian-lopez.jpg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-2026_profil_diminikheller.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-eike-scheibenhofer.jpg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-friedrich-teucher.jpg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-jules-hauspy.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-grabriel-ob.jpeg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-prof-dr-heiko-beier.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-lars-rohkamm.jpeg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-marcel-pereboom.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-manuel-bolai.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-dr-marc-wever.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-mario-holt-1.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-matthias-tausenpfund.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-ning-ou.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-ramon-schroder.jpeg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-sascha-sauer.jpeg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-sven-benner-1.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-thomas-stargand.png",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-verena-reineke-rugge.jpeg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sp-younes-kabbaj.jpg",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "hotel-933.webp",
+    "natural": "0x0",
+    "rendered": "533x463",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "hotel-933.webp",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "adobe-gold-sponsot.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "commercetools-gold-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stroyblok-silver-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "pimcore-silver-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "shopware-silver-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "adobe-gold-sponsot.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "commercetools-gold-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stroyblok-silver-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "pimcore-silver-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "shopware-silver-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "adobe-gold-sponsot.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "commercetools-gold-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stroyblok-silver-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "pimcore-silver-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "shopware-silver-sponsor.png",
+    "natural": "600x300",
+    "rendered": "211x211",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Turning AI Vision into Business ",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "65px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "A day where AI, business and Dig",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "The Agenda",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "The Speaker",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Location & Times",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "We thank our Sponsors",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "57px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Secure your Spot",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 1089,
+    "left": 145
+   },
+   {
+    "sel": "hero__description",
+    "width": 1040,
+    "left": 175
+   },
+   {
+    "sel": "simple-text__row-paragraph",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "simple-text__row-paragraph",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "cards-block__tagline",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "mixed-media__grid",
+    "width": 1312,
+    "left": 64
+   },
+   {
+    "sel": "partners-bar__header",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "form-block__container",
+    "width": 1089,
+    "left": 175
+   }
+  ]
+ }
+}

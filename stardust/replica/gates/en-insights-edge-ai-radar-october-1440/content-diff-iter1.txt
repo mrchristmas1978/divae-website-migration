@@ -1,0 +1,27 @@
+
+Content diff @ 1440px (profile "generic", roots: .page, header, footer)
+⚠ root ".page": source fell back to <body>, build has it — both sides measured at <body> (aligned)
+root ".page" — source: ".page" absent, fell back to <body>
+  source: 190 text nodes — 11 headings, 4 eyebrows, 90 CTAs, 85 body; 15 img
+  build: 190 text nodes — 11 headings, 4 eyebrows, 90 CTAs, 85 body; 15 img
+  editable texts (outermost h*/p/ul/ol): source 40 / build 40
+  attributes (placeholder/aria-label/title): source 110 / build 105; icons: source 14 / build 14
+  accepted (invisible, nothing lost): 5 SAME IMAGE — "no viewBox / 2 shape(s) ↔ 0 0 54 54 / 2 shape(s)", "32x ↔ jasmin-guthmann-dbae-32x.png", "32x ↔ dorothee-haensch-0c9c-32x.jpeg", "32x ↔ dorothee-haensch-0c9c-32x.jpeg" …
+root "header"
+  source: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  build: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 65 / build 65; icons: source 3 / build 3
+root "footer"
+  source: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  build: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 30 / build 30; icons: source 4 / build 4
+
+Findings: 5 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 4 · accepted 🟢 5 (owner 0, auto 5) · advisory 1
+  🟡 MISSING ARIA-LABEL [.page]: source <div> aria-label="Related Articles Slider" has no build <div> with that aria-label. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 MISSING ARIA-LABEL [.page]: source <div> aria-label="1 / 3" has no build <div> with that aria-label. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 MISSING ARIA-LABEL [.page]: source <div> aria-label="2 / 3" has no build <div> with that aria-label. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 MISSING ARIA-LABEL [.page]: source <div> aria-label="3 / 3" has no build <div> with that aria-label. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 MISSING TITLE [.page]: source <iframe> title="archetype" has no build <iframe> with that title. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.

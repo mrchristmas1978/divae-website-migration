@@ -1,0 +1,7415 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T06:08:28.870Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/",
+  "at": "2026-11-14T06:07:59.152Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 9917,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__img > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "ux team",
+    "file": "0x900"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span.hero-banner__box-category",
+    "x": 76,
+    "y": 558,
+    "w": 31,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span",
+    "x": 107,
+    "y": 558,
+    "w": 97,
+    "h": 24,
+    "text": "9 Jul 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-headline > h1.h3",
+    "x": 52,
+    "y": 606,
+    "w": 256,
+    "h": 86,
+    "level": 1,
+    "text": "accessibility audit: how accessible is your website, really?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-subtitle > p",
+    "x": 52,
+    "y": 708,
+    "w": 256,
+    "h": 81,
+    "text": "More Than a Compliance Check – WCAG-Conformant and User-Centered"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box-author-img > picture > img",
+    "x": 52,
+    "y": 825,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-author > div.hero-banner__box-author-name",
+    "x": 100,
+    "y": 829,
+    "w": 139,
+    "h": 24,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__sidebar > div.intro-side-anchor-text__sidebar-anchor > div.dot-blur--16.no-heading",
+    "x": 24,
+    "y": 962,
+    "w": 130,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1016,
+    "w": 312,
+    "h": 48,
+    "text": "why automated accessibility checks alone are not enough",
+    "href": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1081,
+    "w": 312,
+    "h": 48,
+    "text": "identifying barriers before they become a problem",
+    "href": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1146,
+    "w": 284,
+    "h": 24,
+    "text": "how does an accessibility audit work?",
+    "href": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1188,
+    "w": 80,
+    "h": 24,
+    "text": "conclusion",
+    "href": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__paragraph.richtext > p > span",
+    "x": 24,
+    "y": 1264,
+    "w": 309,
+    "h": 398,
+    "text": "Digital experiences should be easy for everyone to use—regardless of individual "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+    "x": 24,
+    "y": 1666,
+    "w": 312,
+    "h": 270,
+    "text": "Organizations are asking whether their websites and digital applications meet le"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__paragraph.richtext > p > a",
+    "x": 24,
+    "y": 1696,
+    "w": 304,
+    "h": 101,
+    "text": "since the german accessibility strengthening act (bfsg) came into effect, digita",
+    "href": "/en/insights/edge/digital-accessibility-is-not-optional/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__paragraph.richtext > p > span",
+    "x": 24,
+    "y": 1966,
+    "w": 298,
+    "h": 236,
+    "text": "This is exactly where a professional accessibility audit comes in. It provides t"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#1 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 2314,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "why automated accessibility checks alone are not enough"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2413,
+    "w": 308,
+    "h": 186,
+    "text": "Many organizations begin their accessibility journey with an automated accessibi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2629,
+    "w": 293,
+    "h": 42,
+    "text": "However, digital accessibility goes far beyond technical errors."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2701,
+    "w": 305,
+    "h": 210,
+    "text": "Whether forms are easy to understand, keyboard navigation works seamlessly, or s"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2941,
+    "w": 309,
+    "h": 138,
+    "text": "In addition, digital platforms are constantly evolving. New components, campaign"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3109,
+    "w": 294,
+    "h": 138,
+    "text": "As a result, automated testing alone only provides part of the picture. A realis"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#2 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 3278,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "identifying barriers before they become a problem"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3349,
+    "w": 296,
+    "h": 282,
+    "text": "For many organizations, the biggest challenge is not finding accessibility barri"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3661,
+    "w": 293,
+    "h": 138,
+    "text": "Our accessibility audit takes a holistic approach. The goal is not only to ident"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3829,
+    "w": 307,
+    "h": 162,
+    "text": "The audit is based on recognized standards such as the Web Content Accessibility"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4013,
+    "w": 246,
+    "h": 42,
+    "text": "Website structure and semantic markup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4077,
+    "w": 179,
+    "h": 18,
+    "text": "Keyboard accessibility"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4117,
+    "w": 219,
+    "h": 18,
+    "text": "Screen reader compatibility"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4157,
+    "w": 255,
+    "h": 18,
+    "text": "Color contrast and visual design"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4197,
+    "w": 249,
+    "h": 18,
+    "text": "Forms and interactive elements"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4237,
+    "w": 240,
+    "h": 18,
+    "text": "Content clarity and readability"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4277,
+    "w": 216,
+    "h": 42,
+    "text": "Responsive behavior across different devices"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 4349,
+    "w": 311,
+    "h": 186,
+    "text": "This comprehensive assessment provides a far more accurate picture than an autom"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#3 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 4566,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "how does an accessibility audit work?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 4638,
+    "w": 308,
+    "h": 210,
+    "text": "An accessibility audit provides much more than a snapshot of your organization's"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div.list-topic-item > h3.list-topic-item__title",
+    "x": 24,
+    "y": 4879,
+    "w": 312,
+    "h": 24,
+    "level": 3,
+    "text": "step 1: initial assessment"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 4922,
+    "w": 293,
+    "h": 186,
+    "text": "The process begins by identifying the relevant websites, applications, or digita"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div.list-topic-item > h3.list-topic-item__title",
+    "x": 24,
+    "y": 5139,
+    "w": 312,
+    "h": 24,
+    "level": 3,
+    "text": "step 2: automated testing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5182,
+    "w": 299,
+    "h": 66,
+    "text": "Next, specialized accessibility testing tools are used to identify a wide range "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 5270,
+    "w": 207,
+    "h": 42,
+    "text": "Missing alternative text for images"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 5334,
+    "w": 204,
+    "h": 18,
+    "text": "Insufficient color contrast"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 5374,
+    "w": 190,
+    "h": 18,
+    "text": "Invalid HTML structures"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 5414,
+    "w": 154,
+    "h": 18,
+    "text": "Missing form labels"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 5454,
+    "w": 232,
+    "h": 18,
+    "text": "Incorrect heading hierarchies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5502,
+    "w": 310,
+    "h": 90,
+    "text": "Automated testing enables the rapid detection of recurring issues and often unco"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div.list-topic-item > h3.list-topic-item__title",
+    "x": 24,
+    "y": 5623,
+    "w": 312,
+    "h": 24,
+    "level": 3,
+    "text": "step 3: manual expert evaluation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5666,
+    "w": 312,
+    "h": 114,
+    "text": "Many aspects of accessibility cannot be evaluated automatically. Therefore, UX a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 5802,
+    "w": 256,
+    "h": 42,
+    "text": "Is the entire website fully operable using only a keyboard?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 5866,
+    "w": 225,
+    "h": 42,
+    "text": "Can screen readers correctly interpret all content?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 5930,
+    "w": 213,
+    "h": 42,
+    "text": "Are forms clear and easy to understand?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 5994,
+    "w": 183,
+    "h": 42,
+    "text": "Are error messages communicated clearly?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 6058,
+    "w": 187,
+    "h": 42,
+    "text": "Is navigation logical and consistent?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 6122,
+    "w": 219,
+    "h": 42,
+    "text": "Can interactive elements be operated without difficulty?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6194,
+    "w": 304,
+    "h": 90,
+    "text": "Only the combination of automated testing and manual evaluation provides a compl"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div.list-topic-item > h3.list-topic-item__title",
+    "x": 24,
+    "y": 6315,
+    "w": 312,
+    "h": 48,
+    "level": 3,
+    "text": "step 4: evaluation and prioritization"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6382,
+    "w": 301,
+    "h": 234,
+    "text": "Not every accessibility issue has the same impact on website usability. For this"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div.list-topic-item > h3.list-topic-item__title",
+    "x": 24,
+    "y": 6647,
+    "w": 312,
+    "h": 24,
+    "level": 3,
+    "text": "step 5: action plan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6690,
+    "w": 307,
+    "h": 114,
+    "text": "Finally, all findings are documented in a structured report. The report not only"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 6826,
+    "w": 107,
+    "h": 18,
+    "text": "Development"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 71,
+    "y": 6866,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > a",
+    "x": 71,
+    "y": 6906,
+    "w": 54,
+    "h": 18,
+    "text": "design",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 6946,
+    "w": 67,
+    "h": 18,
+    "text": "Content"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6994,
+    "w": 278,
+    "h": 66,
+    "text": "The result is a clear and actionable roadmap for continuously improving digital "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#4 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 7091,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 7137,
+    "w": 309,
+    "h": 138,
+    "text": "Digital accessibility is no longer just a legal requirement. It is a fundamental"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 7305,
+    "w": 308,
+    "h": 114,
+    "text": "Our accessibility audit helps you systematically identify existing barriers, eva"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 7449,
+    "w": 308,
+    "h": 258,
+    "text": "By combining automated testing, manual expert evaluation, and clear prioritizati"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 24,
+    "y": 7766,
+    "w": 312,
+    "h": 64,
+    "text": "explore the accessibility audit",
+    "href": "/en/services/audits/accessibility-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column.avatar > picture > img",
+    "x": 48,
+    "y": 7990,
+    "w": 112,
+    "h": 112,
+    "text": "porträt von dorothee haensch",
+    "file": "176x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column.avatar > div.author-card__name",
+    "x": 48,
+    "y": 8118,
+    "w": 264,
+    "h": 28,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column.avatar > div.author-card__social > a",
+    "x": 48,
+    "y": 8154,
+    "w": 32,
+    "h": 32,
+    "text": "go to dorothee haensch linkedin",
+    "href": "/in/dorothee-haensch-223688152/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column > div.author-card__bio > p",
+    "x": 48,
+    "y": 8210,
+    "w": 264,
+    "h": 176,
+    "text": "Dorothee Haensch has been a Senior Marketing Manager at diva-e since 2023. As an"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column > a.author-card__link.btn--link",
+    "x": 48,
+    "y": 8410,
+    "w": 111,
+    "h": 24,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/dorothee-haensch/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.related-articles__container > div.related-articles__headline > h2",
+    "x": 24,
+    "y": 8538,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "recommended reads"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 27,
+    "y": 8612,
+    "w": 279,
+    "h": 156,
+    "text": "ddp",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 27,
+    "y": 8612,
+    "w": 279,
+    "h": 156,
+    "text": "link",
+    "href": "/en/insights/edge/digital-product-passport-dpp-readiness-audit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 51,
+    "y": 8784,
+    "w": 44,
+    "h": 24,
+    "text": "B2B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 95,
+    "y": 8784,
+    "w": 44,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 140,
+    "y": 8784,
+    "w": 111,
+    "h": 24,
+    "text": "News & Trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span",
+    "x": 27,
+    "y": 8808,
+    "w": 110,
+    "h": 24,
+    "text": "21 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 27,
+    "y": 8832,
+    "w": 279,
+    "h": 92,
+    "text": "go to are you ready for the digital product passport?",
+    "href": "/en/insights/edge/digital-product-passport-dpp-readiness-audit/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 27,
+    "y": 8852,
+    "w": 279,
+    "h": 52,
+    "level": 3,
+    "text": "are you ready for the digital product passport?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-active > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 27,
+    "y": 8926,
+    "w": 279,
+    "h": 72,
+    "text": "Find out how a Digital Product Passport Audit assesses your product data, proces"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 27,
+    "y": 9018,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__author > div.list-article-card__author-name",
+    "x": 75,
+    "y": 9022,
+    "w": 139,
+    "h": 24,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 330,
+    "y": 8612,
+    "w": 279,
+    "h": 156,
+    "text": "crm team",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 330,
+    "y": 8612,
+    "w": 279,
+    "h": 156,
+    "text": "link",
+    "href": "/en/insights/edge/crm-auswaehlen-leitfaden/"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 354,
+    "y": 8784,
+    "w": 31,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 330,
+    "y": 8808,
+    "w": 279,
+    "h": 66,
+    "text": "go to choosing the right crm",
+    "href": "/en/insights/edge/crm-auswaehlen-leitfaden/"
+   },
+   {
+    "kind": "heading",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 330,
+    "y": 8828,
+    "w": 279,
+    "h": 26,
+    "level": 3,
+    "text": "choosing the right crm"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 330,
+    "y": 8926,
+    "w": 279,
+    "h": 72,
+    "text": "Learn how to choose the right CRM step by step—from defining your requirements t"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 330,
+    "y": 9018,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "32x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 9134,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 9134,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 9186,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 9287,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 9331,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 9375,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 9375,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 9375,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 9419,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 9419,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 9463,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 9463,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 9463,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 9507,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 9507,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 9507,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 9551,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 9551,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 9551,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 9632,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 9635,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 9679,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 9756,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 9756,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 9756,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 9817,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 2,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 4,
+    "offPage": 11,
+    "textNodes": 118,
+    "controls": 46,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.list-article-card__teaser.text-xsmall",
+     "path": "div#swiper-wrapper-63af1fa79975101d2 > div.swiper-slide.swiper-slide-active > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+     "text": "find out how a digital product passport audit assesses your ",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.list-article-card__img-container",
+     "path": "article.list-article-card > div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+     "text": "link",
+     "cutMin": 248,
+     "cutMax": 248
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+     "text": "b2c",
+     "cutMin": 25,
+     "cutMax": 25
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+     "text": "go to choosing the right crm",
+     "cutMin": 248,
+     "cutMax": 248
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+     "text": "choosing the right crm",
+     "cutMin": 199,
+     "cutMax": 199
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+  "at": "2026-11-14T06:08:28.682Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 9931,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "ux team",
+    "file": "media_19c084521b3e0ddc0967152a7c2e072f19"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 76,
+    "y": 558,
+    "w": 32,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 108,
+    "y": 558,
+    "w": 97,
+    "h": 24,
+    "text": "9 Jul 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-title > h1#accessibility-audit-how-accessible-is-your-website-really",
+    "x": 52,
+    "y": 606,
+    "w": 256,
+    "h": 86,
+    "level": 1,
+    "text": "accessibility audit: how accessible is your website, really?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-subtitle > p",
+    "x": 52,
+    "y": 708,
+    "w": 256,
+    "h": 81,
+    "text": "More Than a Compliance Check – WCAG-Conformant and User-Centered"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 52,
+    "y": 825,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "media_1cdf57a7e671575b49358af48376da270c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 100,
+    "y": 829,
+    "w": 139,
+    "h": 24,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1275,
+    "w": 312,
+    "h": 405,
+    "text": "Digital experiences should be easy for everyone to use—regardless of individual "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1707,
+    "w": 312,
+    "h": 243,
+    "text": "Organizations are asking whether their websites and digital applications meet le"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-paragraph > p > a",
+    "x": 24,
+    "y": 1710,
+    "w": 304,
+    "h": 101,
+    "text": "since the german accessibility strengthening act (bfsg) came into effect, digita",
+    "href": "/en/insights/edge/digital-accessibility-is-not-optional"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1977,
+    "w": 312,
+    "h": 243,
+    "text": "This is exactly where a professional accessibility audit comes in. It provides t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-sidebar > div.intro-side-anchor > p.anchor-title",
+    "x": 24,
+    "y": 962,
+    "w": 125,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1019,
+    "w": 306,
+    "h": 47,
+    "text": "why automated accessibility checks alone are not enough",
+    "href": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1091,
+    "w": 301,
+    "h": 47,
+    "text": "identifying barriers before they become a problem",
+    "href": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1163,
+    "w": 277,
+    "h": 17,
+    "text": "how does an accessibility audit work?",
+    "href": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1205,
+    "w": 79,
+    "h": 17,
+    "text": "conclusion",
+    "href": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#why-automated-accessibility-checks-alone-are-not-enough",
+    "x": 24,
+    "y": 2328,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "why automated accessibility checks alone are not enough"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2424,
+    "w": 312,
+    "h": 192,
+    "text": "Many organizations begin their accessibility journey with an automated accessibi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2640,
+    "w": 312,
+    "h": 48,
+    "text": "However, digital accessibility goes far beyond technical errors."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2712,
+    "w": 312,
+    "h": 216,
+    "text": "Whether forms are easy to understand, keyboard navigation works seamlessly, or s"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2952,
+    "w": 312,
+    "h": 144,
+    "text": "In addition, digital platforms are constantly evolving. New components, campaign"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3120,
+    "w": 312,
+    "h": 144,
+    "text": "As a result, automated testing alone only provides part of the picture. A realis"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#identifying-barriers-before-they-become-a-problem",
+    "x": 24,
+    "y": 3292,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "identifying barriers before they become a problem"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3360,
+    "w": 312,
+    "h": 288,
+    "text": "For many organizations, the biggest challenge is not finding accessibility barri"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3672,
+    "w": 312,
+    "h": 144,
+    "text": "Our accessibility audit takes a holistic approach. The goal is not only to ident"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3840,
+    "w": 312,
+    "h": 168,
+    "text": "The audit is based on recognized standards such as the Web Content Accessibility"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4024,
+    "w": 265,
+    "h": 48,
+    "text": "Website structure and semantic markup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4088,
+    "w": 265,
+    "h": 24,
+    "text": "Keyboard accessibility"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4128,
+    "w": 265,
+    "h": 24,
+    "text": "Screen reader compatibility"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4168,
+    "w": 265,
+    "h": 24,
+    "text": "Color contrast and visual design"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4208,
+    "w": 265,
+    "h": 24,
+    "text": "Forms and interactive elements"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4248,
+    "w": 265,
+    "h": 24,
+    "text": "Content clarity and readability"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4288,
+    "w": 265,
+    "h": 48,
+    "text": "Responsive behavior across different devices"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4360,
+    "w": 312,
+    "h": 192,
+    "text": "This comprehensive assessment provides a far more accurate picture than an autom"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#how-does-an-accessibility-audit-work",
+    "x": 24,
+    "y": 4580,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "how does an accessibility audit work?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4649,
+    "w": 312,
+    "h": 216,
+    "text": "An accessibility audit provides much more than a snapshot of your organization's"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#step-1-initial-assessment",
+    "x": 24,
+    "y": 4893,
+    "w": 312,
+    "h": 24,
+    "level": 3,
+    "text": "step 1: initial assessment"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4933,
+    "w": 312,
+    "h": 192,
+    "text": "The process begins by identifying the relevant websites, applications, or digita"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#step-2-automated-testing",
+    "x": 24,
+    "y": 5153,
+    "w": 312,
+    "h": 24,
+    "level": 3,
+    "text": "step 2: automated testing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5193,
+    "w": 312,
+    "h": 72,
+    "text": "Next, specialized accessibility testing tools are used to identify a wide range "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 5281,
+    "w": 265,
+    "h": 48,
+    "text": "Missing alternative text for images"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 5345,
+    "w": 265,
+    "h": 24,
+    "text": "Insufficient color contrast"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 5385,
+    "w": 265,
+    "h": 24,
+    "text": "Invalid HTML structures"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 5425,
+    "w": 265,
+    "h": 24,
+    "text": "Missing form labels"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 5465,
+    "w": 265,
+    "h": 24,
+    "text": "Incorrect heading hierarchies"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5513,
+    "w": 312,
+    "h": 96,
+    "text": "Automated testing enables the rapid detection of recurring issues and often unco"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#step-3-manual-expert-evaluation",
+    "x": 24,
+    "y": 5637,
+    "w": 312,
+    "h": 24,
+    "level": 3,
+    "text": "step 3: manual expert evaluation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5677,
+    "w": 312,
+    "h": 120,
+    "text": "Many aspects of accessibility cannot be evaluated automatically. Therefore, UX a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 5813,
+    "w": 265,
+    "h": 48,
+    "text": "Is the entire website fully operable using only a keyboard?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 5877,
+    "w": 265,
+    "h": 48,
+    "text": "Can screen readers correctly interpret all content?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 5941,
+    "w": 265,
+    "h": 48,
+    "text": "Are forms clear and easy to understand?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 6005,
+    "w": 265,
+    "h": 48,
+    "text": "Are error messages communicated clearly?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 6069,
+    "w": 265,
+    "h": 48,
+    "text": "Is navigation logical and consistent?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 6133,
+    "w": 265,
+    "h": 48,
+    "text": "Can interactive elements be operated without difficulty?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 6205,
+    "w": 312,
+    "h": 96,
+    "text": "Only the combination of automated testing and manual evaluation provides a compl"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#step-4-evaluation-and-prioritization",
+    "x": 24,
+    "y": 6329,
+    "w": 312,
+    "h": 48,
+    "level": 3,
+    "text": "step 4: evaluation and prioritization"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 6393,
+    "w": 312,
+    "h": 240,
+    "text": "Not every accessibility issue has the same impact on website usability. For this"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h3#step-5-action-plan",
+    "x": 24,
+    "y": 6661,
+    "w": 312,
+    "h": 24,
+    "level": 3,
+    "text": "step 5: action plan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 6701,
+    "w": 312,
+    "h": 120,
+    "text": "Finally, all findings are documented in a structured report. The report not only"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 6837,
+    "w": 265,
+    "h": 24,
+    "text": "Development"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 71,
+    "y": 6880,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 71,
+    "y": 6920,
+    "w": 54,
+    "h": 18,
+    "text": "design",
+    "href": "/en/services/dxp/system-integration/ux-ui-design"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 6957,
+    "w": 265,
+    "h": 24,
+    "text": "Content"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 7005,
+    "w": 312,
+    "h": 72,
+    "text": "The result is a clear and actionable roadmap for continuously improving digital "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#conclusion",
+    "x": 24,
+    "y": 7105,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 7148,
+    "w": 312,
+    "h": 144,
+    "text": "Digital accessibility is no longer just a legal requirement. It is a fundamental"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 7316,
+    "w": 312,
+    "h": 120,
+    "text": "Our accessibility audit helps you systematically identify existing barriers, eva"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 7460,
+    "w": 312,
+    "h": 264,
+    "text": "By combining automated testing, manual expert evaluation, and clear prioritizati"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-buttons > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 7780,
+    "w": 312,
+    "h": 64,
+    "text": "explore the accessibility audit",
+    "href": "/en/services/audits/accessibility-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 48,
+    "y": 8004,
+    "w": 112,
+    "h": 112,
+    "text": "porträt von dorothee haensch",
+    "file": "media_1131b0d08618562e0c8837c754c52e850a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col.author-col-avatar > div.author-name > p",
+    "x": 48,
+    "y": 8132,
+    "w": 264,
+    "h": 28,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-social > p > a",
+    "x": 48,
+    "y": 8168,
+    "w": 32,
+    "h": 32,
+    "text": "go to dorothee haensch linkedin",
+    "href": "/in/dorothee-haensch-223688152/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col > div.author-bio > p",
+    "x": 48,
+    "y": 8224,
+    "w": 264,
+    "h": 176,
+    "text": "Dorothee Haensch has been a Senior Marketing Manager at diva-e since 2023. As an"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-link > p.link-only > a",
+    "x": 48,
+    "y": 8427,
+    "w": 109,
+    "h": 17,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/dorothee-haensch"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.related.block > div.related-title > h2#recommended-reads",
+    "x": 24,
+    "y": 8552,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "recommended reads"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 27,
+    "y": 8626,
+    "w": 279,
+    "h": 156,
+    "text": "ddp",
+    "file": "media_1ed7811a8ed4f520beaa3bf13b9b88d44f"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 27,
+    "y": 8626,
+    "w": 279,
+    "h": 156,
+    "text": "link",
+    "href": "/en/insights/edge/digital-product-passport-dpp-readiness-audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 51,
+    "y": 8798,
+    "w": 45,
+    "h": 24,
+    "text": "B2B"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 96,
+    "y": 8798,
+    "w": 46,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 142,
+    "y": 8798,
+    "w": 113,
+    "h": 24,
+    "text": "News & Trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 27,
+    "y": 8822,
+    "w": 110,
+    "h": 24,
+    "text": "21 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 27,
+    "y": 8846,
+    "w": 279,
+    "h": 92,
+    "text": "go to are you ready for the digital product passport?",
+    "href": "/en/insights/edge/digital-product-passport-dpp-readiness-audit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#are-you-ready-for-the-digital-product-passport",
+    "x": 27,
+    "y": 8866,
+    "w": 279,
+    "h": 52,
+    "level": 3,
+    "text": "are you ready for the digital product passport?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 27,
+    "y": 8940,
+    "w": 279,
+    "h": 72,
+    "text": "Find out how a Digital Product Passport Audit assesses your product data, proces"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 27,
+    "y": 9032,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "media_1cdf57a7e671575b49358af48376da270c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 75,
+    "y": 9036,
+    "w": 139,
+    "h": 24,
+    "text": "Dorothee Haensch"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 330,
+    "y": 8626,
+    "w": 279,
+    "h": 156,
+    "text": "crm team",
+    "file": "media_1f7cf203210b901f6188daf4e324512c36"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 330,
+    "y": 8626,
+    "w": 279,
+    "h": 156,
+    "text": "link",
+    "href": "/en/insights/edge/crm-auswaehlen-leitfaden"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 354,
+    "y": 8798,
+    "w": 32,
+    "h": 24,
+    "text": "B2C"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 330,
+    "y": 8822,
+    "w": 279,
+    "h": 66,
+    "text": "go to choosing the right crm",
+    "href": "/en/insights/edge/crm-auswaehlen-leitfaden"
+   },
+   {
+    "kind": "heading",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#choosing-the-right-crm",
+    "x": 330,
+    "y": 8842,
+    "w": 279,
+    "h": 26,
+    "level": 3,
+    "text": "choosing the right crm"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 330,
+    "y": 8940,
+    "w": 279,
+    "h": 72,
+    "text": "Learn how to choose the right CRM step by step—from defining your requirements t"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 330,
+    "y": 9032,
+    "w": 32,
+    "h": 32,
+    "text": "porträt von dorothee haensch",
+    "file": "media_1cdf57a7e671575b49358af48376da270c"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 9148,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 9148,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 9200,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 9301,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 9345,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 9389,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 9389,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 9389,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 9433,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 9433,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 9477,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 9477,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 9477,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 9521,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 9521,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 9521,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 9565,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 9565,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 9565,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 9649,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 9693,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 9770,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 9770,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 9770,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 9831,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 2,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 4,
+    "offPage": 9,
+    "textNodes": 112,
+    "controls": 45,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 2,
+     "clipper": "p",
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "find out how a digital product passport audit assesses your ",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.card-media",
+     "path": "div.related-slide > article.article-card > div.card-media > a.card-media-link",
+     "text": "link",
+     "cutMin": 248,
+     "cutMax": 248
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.related-track",
+     "path": "div.article-meta.has-cats > div.meta-cats > ul > li",
+     "text": "b2c",
+     "cutMin": 26,
+     "cutMax": 26
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.related-track",
+     "path": "div.related-slide > article.article-card > div.card-title > a.card-link",
+     "text": "go to choosing the right crm",
+     "cutMin": 248,
+     "cutMax": 248
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.related-track",
+     "path": "div.related-slide > article.article-card > div.card-title > h3#choosing-the-right-crm",
+     "text": "choosing the right crm",
+     "cutMin": 198,
+     "cutMax": 198
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 2,
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "find out how a digital product passport audit assesses your ",
+     "clipper": "p",
+     "rect": {
+      "l": 27,
+      "t": 8943,
+      "r": 261,
+      "b": 8961,
+      "w": 234,
+      "h": 18
+     },
+     "clip": {
+      "l": 27,
+      "t": 8940,
+      "r": 306,
+      "b": 9012,
+      "w": 279,
+      "h": 72
+     },
+     "lines": 5
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 248,
+     "path": "div.related-slide > article.article-card > div.card-media > a.card-media-link",
+     "text": "link",
+     "clipper": "div.card-media",
+     "rect": {
+      "l": 330,
+      "t": 8626,
+      "r": 608,
+      "b": 8782,
+      "w": 279,
+      "h": 156
+     },
+     "clip": {
+      "l": 330,
+      "t": 8626,
+      "r": 609,
+      "b": 8782,
+      "w": 279,
+      "h": 156
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 26,
+     "path": "div.article-meta.has-cats > div.meta-cats > ul > li",
+     "text": "b2c",
+     "clipper": "div.related-track",
+     "rect": {
+      "l": 354,
+      "t": 8801,
+      "r": 386,
+      "b": 8818,
+      "w": 32,
+      "h": 17
+     },
+     "clip": {
+      "l": 24,
+      "t": 8626,
+      "r": 360,
+      "b": 9064,
+      "w": 336,
+      "h": 438
+     },
+     "lines": 1
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 248,
+     "path": "div.related-slide > article.article-card > div.card-title > a.card-link",
+     "text": "go to choosing the right crm",
+     "clipper": "div.related-track",
+     "rect": {
+      "l": 330,
+      "t": 8822,
+      "r": 608,
+      "b": 8888,
+      "w": 279,
+      "h": 66
+     },
+     "clip": {
+      "l": 24,
+      "t": 8626,
+      "r": 360,
+      "b": 9064,
+      "w": 336,
+      "h": 438
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 198,
+     "path": "div.related-slide > article.article-card > div.card-title > h3#choosing-the-right-crm",
+     "text": "choosing the right crm",
+     "clipper": "div.related-track",
+     "rect": {
+      "l": 330,
+      "t": 8844,
+      "r": 558,
+      "b": 8866,
+      "w": 228,
+      "h": 22
+     },
+     "clip": {
+      "l": 24,
+      "t": 8626,
+      "r": 360,
+      "b": 9064,
+      "w": 336,
+      "h": 438
+     },
+     "lines": 1
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 1,
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "learn how to choose the right crm step by step—from defining",
+     "clipper": "p",
+     "rect": {
+      "l": 330,
+      "t": 8943,
+      "r": 605,
+      "b": 8961,
+      "w": 275,
+      "h": 18
+     },
+     "clip": {
+      "l": 330,
+      "t": 8940,
+      "r": 609,
+      "b": 9012,
+      "w": 279,
+      "h": 72
+     },
+     "lines": 4
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "accessibility audit: how accessible is your website, really?",
+   "variable": false,
+   "origin": {
+    "link": 5,
+    "button": 1,
+    "text": 6,
+    "image": 1
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "why automated accessibility checks alone are not enough",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "identifying barriers before they become a problem",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 11,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 11,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "how does an accessibility audit work?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "step 1: initial assessment",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "step 2: automated testing",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 7,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 7,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "step 3: manual expert evaluation",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 8,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 8,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "step 4: evaluation and prioritization",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "step 5: action plan",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 4,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "conclusion",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 5,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "recommended reads",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 2,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 1,
+    "image": 1,
+    "imageHidden": 1
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "are you ready for the digital product passport?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 2
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 1,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"accessibility audit: how accessible is your website, really?\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 76,
+    "y": 561,
+    "w": 31,
+    "h": 18
+   },
+   {
+    "x": 107,
+    "y": 561,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 117,
+    "y": 561,
+    "w": 87,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 606,
+    "w": 220,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 634,
+    "w": 204,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 663,
+    "w": 243,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 711,
+    "w": 217,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 738,
+    "w": 241,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 765,
+    "w": 167,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 832,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 98,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1043,
+    "w": 160,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1084,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1108,
+    "w": 60,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1149,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1191,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1264,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1291,
+    "w": 291,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1318,
+    "w": 273,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1345,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1372,
+    "w": 289,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1399,
+    "w": 294,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1426,
+    "w": 283,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1453,
+    "w": 234,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1480,
+    "w": 298,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1507,
+    "w": 263,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1534,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1561,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1588,
+    "w": 226,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1615,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1642,
+    "w": 201,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1696,
+    "w": 260,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1723,
+    "w": 304,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1750,
+    "w": 253,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1777,
+    "w": 253,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1804,
+    "w": 281,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1831,
+    "w": 211,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1858,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1885,
+    "w": 244,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1912,
+    "w": 74,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1966,
+    "w": 298,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1993,
+    "w": 252,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2020,
+    "w": 273,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2047,
+    "w": 298,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2074,
+    "w": 246,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2101,
+    "w": 269,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2128,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2155,
+    "w": 257,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2182,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2313,
+    "w": 179,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2340,
+    "w": 300,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2366,
+    "w": 175,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2413,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2437,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2461,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2485,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2509,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2533,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2557,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2581,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2629,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2653,
+    "w": 193,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2701,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2725,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2749,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2773,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2797,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2821,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2845,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2869,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2893,
+    "w": 169,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2941,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2965,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2989,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3013,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3037,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3061,
+    "w": 213,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3109,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3133,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3157,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3181,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3205,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3229,
+    "w": 178,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3277,
+    "w": 295,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3303,
+    "w": 266,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3349,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3373,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3397,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3421,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3445,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3469,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3493,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3517,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3541,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3565,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3589,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3613,
+    "w": 152,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3661,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3685,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3709,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3733,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3757,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3781,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3829,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3853,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3877,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3901,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3925,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3949,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3973,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4013,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4037,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4077,
+    "w": 179,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4117,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4157,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4197,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4237,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4277,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4301,
+    "w": 136,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4349,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4373,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4397,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4421,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4445,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4469,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4493,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4517,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4565,
+    "w": 294,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4592,
+    "w": 137,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4638,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4662,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4686,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4710,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4734,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4758,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4782,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4806,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4830,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4879,
+    "w": 241,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4922,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4946,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4970,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4994,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5018,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5042,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5066,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5090,
+    "w": 167,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5139,
+    "w": 248,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5182,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5206,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5230,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5270,
+    "w": 207,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5294,
+    "w": 60,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5334,
+    "w": 204,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5374,
+    "w": 190,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5414,
+    "w": 154,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5454,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5502,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5526,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5550,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5574,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5623,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5666,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5690,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5714,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5738,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5762,
+    "w": 145,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5802,
+    "w": 196,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5826,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5866,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5890,
+    "w": 166,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5930,
+    "w": 213,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5954,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5994,
+    "w": 151,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6018,
+    "w": 183,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6058,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6082,
+    "w": 94,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6122,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6146,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6194,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6218,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6242,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6266,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6315,
+    "w": 210,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6339,
+    "w": 121,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6382,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6406,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6430,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6454,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6478,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6502,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6526,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6550,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6574,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6598,
+    "w": 202,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6647,
+    "w": 180,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6690,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6714,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6738,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6762,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6786,
+    "w": 175,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6826,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6866,
+    "w": 23,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6906,
+    "w": 54,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6946,
+    "w": 67,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6994,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7018,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7042,
+    "w": 157,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7090,
+    "w": 123,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 7137,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7161,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7185,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7209,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7233,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7257,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7305,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7329,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7353,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7377,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7401,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7449,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7473,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7497,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7521,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7545,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7569,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7593,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7617,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7641,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7665,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7689,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 7774,
+    "w": 231,
+    "h": 23
+   },
+   {
+    "x": 154,
+    "y": 7798,
+    "w": 51,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 8120,
+    "w": 172,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 8211,
+    "w": 253,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8230,
+    "w": 236,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8250,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8269,
+    "w": 217,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8289,
+    "w": 205,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8309,
+    "w": 213,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8328,
+    "w": 242,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8348,
+    "w": 241,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8367,
+    "w": 77,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8413,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8537,
+    "w": 239,
+    "h": 28
+   },
+   {
+    "x": 51,
+    "y": 8787,
+    "w": 35,
+    "h": 18
+   },
+   {
+    "x": 86,
+    "y": 8787,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 95,
+    "y": 8787,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 131,
+    "y": 8787,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 140,
+    "y": 8787,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 8811,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 37,
+    "y": 8811,
+    "w": 100,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 8853,
+    "w": 270,
+    "h": 23
+   },
+   {
+    "x": 27,
+    "y": 8879,
+    "w": 174,
+    "h": 23
+   },
+   {
+    "x": 27,
+    "y": 8929,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 8953,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 8977,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 75,
+    "y": 9025,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 354,
+    "y": 8787,
+    "w": 31,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 8829,
+    "w": 229,
+    "h": 23
+   },
+   {
+    "x": 330,
+    "y": 8929,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 8953,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 8977,
+    "w": 210,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 9134,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 9134,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 9185,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 9218,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 9287,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 9331,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 9375,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 9375,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 9375,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 9419,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 9419,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 9463,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 9463,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 9463,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 9507,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 9507,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 9507,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 9551,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 9551,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 9551,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 9633,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 9636,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 9680,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 76,
+    "y": 561,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 123,
+    "y": 561,
+    "w": 83,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 606,
+    "w": 207,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 634,
+    "w": 202,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 663,
+    "w": 245,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 711,
+    "w": 217,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 738,
+    "w": 241,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 765,
+    "w": 167,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 832,
+    "w": 139,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1278,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1305,
+    "w": 291,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1332,
+    "w": 273,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1359,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1386,
+    "w": 289,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1413,
+    "w": 294,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1440,
+    "w": 283,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1467,
+    "w": 234,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1494,
+    "w": 298,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1521,
+    "w": 263,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1548,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1575,
+    "w": 248,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1602,
+    "w": 226,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1629,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1656,
+    "w": 196,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1710,
+    "w": 260,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1737,
+    "w": 304,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1764,
+    "w": 253,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1791,
+    "w": 253,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1818,
+    "w": 281,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1845,
+    "w": 211,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1872,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1899,
+    "w": 244,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1926,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1980,
+    "w": 298,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2007,
+    "w": 252,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2034,
+    "w": 273,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2061,
+    "w": 298,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2088,
+    "w": 246,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2115,
+    "w": 269,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2142,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2169,
+    "w": 257,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2196,
+    "w": 113,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 93,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 306,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1049,
+    "w": 114,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1091,
+    "w": 301,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1121,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1163,
+    "w": 277,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1205,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2327,
+    "w": 174,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2354,
+    "w": 292,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2380,
+    "w": 175,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2427,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2451,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2475,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2499,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2523,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2547,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2571,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2595,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2643,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2667,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2715,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2739,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2763,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2787,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2811,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2835,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2859,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2883,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2907,
+    "w": 164,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2955,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2979,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3003,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3027,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3051,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3075,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3123,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3147,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3171,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3195,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3219,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3243,
+    "w": 173,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3291,
+    "w": 286,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3317,
+    "w": 271,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3363,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3387,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3411,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3435,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3459,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3483,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3507,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3531,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3555,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3579,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3603,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3627,
+    "w": 147,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3675,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3699,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3723,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3747,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3771,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3795,
+    "w": 221,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3843,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3867,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3891,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3915,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3939,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3963,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3987,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4027,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4051,
+    "w": 57,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4091,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4131,
+    "w": 214,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4171,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4211,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4251,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4291,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4315,
+    "w": 131,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4363,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4387,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4411,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4435,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4459,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4483,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4507,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4531,
+    "w": 177,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4579,
+    "w": 288,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4606,
+    "w": 134,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4652,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4676,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4700,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4724,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4748,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4772,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4796,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4820,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4844,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4894,
+    "w": 237,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4936,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4960,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4984,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5008,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5032,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5056,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5080,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5104,
+    "w": 163,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5154,
+    "w": 241,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5196,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5220,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5244,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5284,
+    "w": 207,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5308,
+    "w": 55,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5348,
+    "w": 199,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5388,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5428,
+    "w": 150,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5468,
+    "w": 227,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5516,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5540,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5564,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5588,
+    "w": 177,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5638,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5680,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5704,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5728,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5752,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5776,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5816,
+    "w": 196,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5840,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5880,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5904,
+    "w": 162,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5944,
+    "w": 213,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 5968,
+    "w": 97,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6008,
+    "w": 151,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6032,
+    "w": 179,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6072,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6096,
+    "w": 89,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6136,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6160,
+    "w": 215,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6208,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6232,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6256,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6280,
+    "w": 90,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6330,
+    "w": 208,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6354,
+    "w": 115,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6396,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6420,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6444,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6468,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6492,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6516,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6540,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6564,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6588,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6612,
+    "w": 197,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6662,
+    "w": 175,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6704,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6728,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6752,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6776,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6800,
+    "w": 170,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6840,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6880,
+    "w": 23,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6920,
+    "w": 54,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 6960,
+    "w": 63,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7008,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7032,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7056,
+    "w": 152,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7104,
+    "w": 122,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 7151,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7175,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7199,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7223,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7247,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7271,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7319,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7343,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7367,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7391,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7415,
+    "w": 214,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7463,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7487,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7511,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7535,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7559,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7583,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7607,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7631,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7655,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7679,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7703,
+    "w": 221,
+    "h": 18
+   },
+   {
+    "x": 69,
+    "y": 7789,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 156,
+    "y": 7813,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 8135,
+    "w": 172,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 8225,
+    "w": 253,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8244,
+    "w": 236,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8264,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8283,
+    "w": 217,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8303,
+    "w": 205,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8323,
+    "w": 213,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8342,
+    "w": 242,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8362,
+    "w": 241,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8381,
+    "w": 77,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 8427,
+    "w": 109,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8551,
+    "w": 244,
+    "h": 27
+   },
+   {
+    "x": 51,
+    "y": 8801,
+    "w": 31,
+    "h": 17
+   },
+   {
+    "x": 96,
+    "y": 8801,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 142,
+    "y": 8801,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 42,
+    "y": 8825,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 8868,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 27,
+    "y": 8894,
+    "w": 170,
+    "h": 22
+   },
+   {
+    "x": 27,
+    "y": 8943,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 8967,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 8991,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 75,
+    "y": 9039,
+    "w": 139,
+    "h": 17
+   },
+   {
+    "x": 354,
+    "y": 8801,
+    "w": 32,
+    "h": 17
+   },
+   {
+    "x": 330,
+    "y": 8844,
+    "w": 228,
+    "h": 22
+   },
+   {
+    "x": 330,
+    "y": 8943,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 8967,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 8991,
+    "w": 210,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 9148,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 9148,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 9200,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 9233,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 9301,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 9345,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 9389,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 9389,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 9389,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 9433,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 9433,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 9477,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 9477,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 9477,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 9521,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 9521,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 9521,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 9565,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 9565,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 9565,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 9647,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 9650,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 9694,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

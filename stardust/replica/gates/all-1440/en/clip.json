@@ -1,0 +1,97 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en",
+ "at": "2026-11-14T04:18:25.722Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 11,
+  "offPage": 86,
+  "textNodes": 146,
+  "controls": 141,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+   "text": "go to kyowa kirin – rethinking pharmaceutical sales: from ac",
+   "cutMin": 115,
+   "cutMax": 119
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+   "text": "link",
+   "cutMin": 113,
+   "cutMax": 115
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-track > div.story-card > div.story-card-title.h5 > p.link-only",
+   "text": "kyowa kirin – rethinking pharmaceutical sales: from account ",
+   "cutMin": 100,
+   "cutMax": 107
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.partners-bar-row.partners-bar-row-top",
+   "path": "div.partners-bar-track > div.partners-bar-slide > p > a",
+   "text": "",
+   "cutMin": 69,
+   "cutMax": 118
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.partners-bar-row.partners-bar-row-bottom",
+   "path": "div.partners-bar-track > div.partners-bar-slide > p > a",
+   "text": "",
+   "cutMin": 69,
+   "cutMax": 118
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.story-card > div.story-card-name.dot-blur > div.story-card-date > p",
+   "text": "8 jan 2026",
+   "cutMin": 76,
+   "cutMax": 76
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 4,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 23,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 1,
+   "offPage": 86,
+   "textNodes": 146,
+   "controls": 142,
+   "total": 27
+  }
+ }
+}

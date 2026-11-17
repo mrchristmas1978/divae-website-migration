@@ -1,0 +1,126 @@
+origin: cached en-units (2026-11-13T11:18:32.363Z)
+unit-geometry @ 1440px, tol 4px — https://www.diva-e.com/en/ vs http://localhost:8791/en-proposed.html
+unit 1 of service-cards (required) .cards-block--light .card=.cards-block--light .card: origin 175,1946 533×382 vs served 175,1946 533×377 → Δx 0 Δy 0 Δw 0 Δh -5  ✗ unit size; 4 elements: 2 within 4px, 2 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.card__link#1" | 0,0 533×382 | 0,0 533×377 | 0 | 0 | 0 | -5 | ✗ |
+| text "digital consulting" | 40,40 453×24 | 40,40 453×24 | 0 | 0 | 0 | 0 | ✓ |
+| text "we bring digital and marketing strat" | 40,80 453×192 | 40,80 453×192 | 0 | 0 | 0 | 0 | ✓ |
+| link "learn more" | 40,288 84×30 | 40,288 89×24 | 0 | 0 | +5 | -6 | ✗ |
+unit 2 of service-cards (required) .cards-block--light .card=.cards-block--light .card: origin 732,1946 533×382 vs served 732,1946 533×377 → Δx 0 Δy 0 Δw 0 Δh -5  ✗ unit size; 4 elements: 2 within 4px, 2 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.card__link#1" | 0,0 533×382 | 0,0 533×377 | 0 | 0 | 0 | -5 | ✗ |
+| text "digital experience platform" | 40,40 453×24 | 40,40 453×24 | 0 | 0 | 0 | 0 | ✓ |
+| text "with solutions developed in-house or" | 40,80 453×216 | 40,80 453×216 | 0 | 0 | 0 | 0 | ✓ |
+| link "learn more" | 40,312 84×30 | 40,312 89×24 | 0 | 0 | +5 | -6 | ✗ |
+unit 3 of service-cards (required) .cards-block--light .card=.cards-block--light .card: origin 175,2352 533×382 vs served 175,2347 533×377 → Δx 0 Δy -5 Δw 0 Δh -5  ✗ unit size; 4 elements: 2 within 4px, 2 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.card__link#1" | 0,0 533×382 | 0,0 533×377 | 0 | 0 | 0 | -5 | ✗ |
+| text "digital marketing" | 40,40 453×24 | 40,40 453×24 | 0 | 0 | 0 | 0 | ✓ |
+| text "we support you in increasing your on" | 40,80 453×216 | 40,80 453×216 | 0 | 0 | 0 | 0 | ✓ |
+| link "learn more" | 40,312 84×30 | 40,312 89×24 | 0 | 0 | +5 | -6 | ✗ |
+unit 4 of service-cards (required) .cards-block--light .card=.cards-block--light .card: origin 732,2352 533×382 vs served 732,2347 533×377 → Δx 0 Δy -5 Δw 0 Δh -5  ✗ unit size; 4 elements: 2 within 4px, 2 off, 0 hidden, 0 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.card__link#1" | 0,0 533×382 | 0,0 533×377 | 0 | 0 | 0 | -5 | ✗ |
+| text "application management service" | 40,40 453×24 | 40,40 453×24 | 0 | 0 | 0 | 0 | ✓ |
+| text "discover your opportunities with our" | 40,80 453×192 | 40,80 453×192 | 0 | 0 | 0 | 0 | ✓ |
+| link "learn more" | 40,288 84×30 | 40,288 89×24 | 0 | 0 | +5 | -6 | ✗ |
+unit 1 of cert-cards (required) .cards-block--dark .card=.cards-block--dark .card: origin 175,5179 533×308 vs served 175,5200 533×308 → Δx 0 Δy +21 Δw 0 Δh 0; 4 elements: 2 within 4px, 1 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.card__link#1" | 0,0 533×308 | 0,0 533×308 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:picture.card__billhead-icon#1" | 176,40 180×180 | 176,40 180×180 | 0 | 0 | 0 | 0 | ✓ |
+| text "iso 27001" | 40,244 453×24 | 217,244 99×24 | +177 | 0 | -354 | 0 | ✗ |
+| image "iso 27001 siegel" | 176,40 180×180 | — | | | | | ✗ missing |
+unit 2 of cert-cards (required) .cards-block--dark .card=.cards-block--dark .card: origin 732,5179 533×308 vs served 732,5200 533×308 → Δx 0 Δy +21 Δw 0 Δh 0; 4 elements: 2 within 4px, 1 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.card__link#1" | 0,0 533×308 | 0,0 533×308 | 0 | 0 | 0 | 0 | ✓ |
+| image "image:picture.card__billhead-icon#1" | 176,40 180×180 | 176,40 180×180 | 0 | 0 | 0 | 0 | ✓ |
+| text "tisax" | 40,244 453×24 | 237,244 58×24 | +197 | 0 | -395 | 0 | ✗ |
+| image "tisax siegel" | 176,40 180×180 | — | | | | | ✗ missing |
+unit 1 of project-slide-active (required) .teaser-slider .swiper-slide-active=.teaser-slider .teaser-item.is-active: origin 237,2965 966×396 vs served 237,2955 966×396 → Δx 0 Δy -10 Δw 0 Δh 0; 7 elements: 4 within 4px, 2 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| box "box:div.teaser-slider-item.teaser-sl" | 0,0 966×396 | 0,0 512×396 | 0 | 0 | -454 | 0 | ✗ |
+| box "box:div.teaser-slider-item__swiper-i" | 0,0 512×396 | 511,0 454×396 | +511 | 0 | -58 | 0 | ✗ |
+| image "image:img#1" | 0,0 512×396 | 0,0 512×396 | 0 | 0 | 0 | 0 | ✓ |
+| heading "zeiss" | 544,78 390×48 | 543,78 390×48 | -1 | 0 | 0 | 0 | ✓ |
+| text "development of the zeiss visustore d" | 544,134 390×108 | 543,134 390×108 | -1 | 0 | 0 | 0 | ✓ |
+| link "read more" | 544,270 136×48 | 543,270 140×48 | -1 | 0 | +4 | 0 | ✓ |
+| box "box:div.teaser-slider-item__text#1" | 512,0 454×396 | — | | | | | ✗ missing |
+unit 1 of story-cards (advisory) .slider-cards-copy .swiper-slide=.slider-cards .story-card: origin -115,3724 326×371 vs served -116,3714 327×402 → Δx -1 Δy -10 Δw +1 Δh +31  ✗ unit size; 5 elements: 2 within 4px, 1 off, 1 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.slider-cards-copy-item__overl" | 0,0 326×371 | 0,0 327×402 | 0 | 0 | +1 | +31 | ✗ |
+| image "split image with "diva-e conclusion"" | 0,0 319×186 | 0,0 319×186 | 0 | 0 | 0 | 0 | ✓ |
+| text "8 jan 2026" | 39,198 89×27 | 39,198 89×27 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| text "kyowa kirin – rethinking pharmaceuti" | 8,235 317×136 | 8,235 317×136 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.hover-button__link#1" | 0,0 319×186 | — | | | | | ✗ missing |
+unit 2 of story-cards (advisory) .slider-cards-copy .swiper-slide=.slider-cards .story-card: origin 222,3712 325×340 vs served 221,3702 327×402 → Δx -1 Δy -10 Δw +2 Δh +62  ✗ unit size; 5 elements: 3 within 4px, 1 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.slider-cards-copy-item__overl" | 0,0 325×340 | 0,0 327×402 | 0 | 0 | +2 | +62 | ✗ |
+| image "lünendonk survey 2026 chart comparin" | 0,0 319×186 | 0,0 319×186 | 0 | 0 | 0 | 0 | ✓ |
+| text "6 nov 2026" | 39,198 92×27 | 39,198 92×27 | 0 | 0 | 0 | 0 | ✓ |
+| text "lünendonk® survey 2025: diva-e concl" | 8,235 316×104 | 8,235 316×104 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.hover-button__link#1" | 0,0 319×186 | — | | | | | ✗ missing |
+unit 3 of story-cards (advisory) .slider-cards-copy .swiper-slide=.slider-cards .story-card: origin 559,3700 325×340 vs served 558,3690 327×402 → Δx -1 Δy -10 Δw +2 Δh +62  ✗ unit size; 5 elements: 3 within 4px, 1 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.slider-cards-copy-item__overl" | 0,0 325×340 | 0,0 327×402 | 0 | 0 | +2 | +62 | ✗ |
+| image "a person in a blue suit and white sh" | 0,0 319×186 | 0,0 319×186 | 0 | 0 | 0 | 0 | ✓ |
+| text "12 oct 2026" | 39,198 96×27 | 39,198 96×27 | 0 | 0 | 0 | 0 | ✓ |
+| text "sirko schneppe appointed new ceo of " | 8,235 316×104 | 8,235 316×104 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.hover-button__link#1" | 0,0 319×186 | — | | | | | ✗ missing |
+unit 4 of story-cards (advisory) .slider-cards-copy .swiper-slide=.slider-cards .story-card: origin 896,3688 326×371 vs served 895,3678 327×402 → Δx -1 Δy -10 Δw +1 Δh +31  ✗ unit size; 5 elements: 3 within 4px, 1 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.slider-cards-copy-item__overl" | 0,0 326×371 | 0,0 327×402 | 0 | 0 | +1 | +31 | ✗ |
+| image "digital marketplace concept with a s" | 0,0 319×186 | 0,0 319×186 | 0 | 0 | 0 | 0 | ✓ |
+| text "13 aug 2026" | 39,198 99×27 | 39,198 99×27 | 0 | 0 | 0 | 0 | ✓ |
+| text "diva-e conclusion startet marketplac" | 8,235 317×136 | 8,235 317×136 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.hover-button__link#1" | 0,0 319×186 | — | | | | | ✗ missing |
+unit 5 of story-cards (advisory) .slider-cards-copy .swiper-slide=.slider-cards .story-card: origin 1233,3677 326×371 vs served 1232,3667 327×402 → Δx -1 Δy -10 Δw +1 Δh +31  ✗ unit size; 5 elements: 3 within 4px, 1 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| link "link:a.slider-cards-copy-item__overl" | 0,0 326×371 | 0,0 327×402 | 0 | 0 | +1 | +31 | ✗ |
+| image "logos of stackit and diva-e conclusi" | 0,0 319×186 | 0,0 319×186 | 0 | 0 | 0 | 0 | ✓ |
+| text "9 oct 2026" | 39,198 89×27 | 39,198 89×27 | 0 | 0 | 0 | 0 | ✓ |
+| text "diva-e conclusion and stackit join f" | 8,235 317×136 | 8,235 317×136 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.hover-button__link#1" | 0,0 319×186 | — | | | | | ✗ missing |
+unit 1 of partner-logos (advisory) .partners-bar-item=.partners-bar__item: origin -53,4423 211×211 vs served -207,4451 211×211 → Δx -154 Δy +28 Δw 0 Δh 0; 2 elements: 0 within 4px, 0 off, 1 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img#1" | 0,0 211×211 | 0,0 211×211 | 0 | 0 | 0 | 0 | ✗ hidden (clipped) |
+| link "link:a.partners-bar-item__slide-item" | 0,0 211×211 | — | | | | | ✗ missing |
+unit 2 of partner-logos (advisory) .partners-bar-item=.partners-bar__item: origin 182,4414 211×211 vs served 28,4441 211×211 → Δx -154 Δy +27 Δw 0 Δh 0; 2 elements: 1 within 4px, 0 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img#1" | 0,0 211×211 | 0,0 211×211 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.partners-bar-item__slide-item" | 0,0 211×211 | — | | | | | ✗ missing |
+unit 3 of partner-logos (advisory) .partners-bar-item=.partners-bar__item: origin 417,4405 211×211 vs served 262,4432 211×211 → Δx -155 Δy +27 Δw 0 Δh 0; 2 elements: 1 within 4px, 0 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img#1" | 0,0 211×211 | 0,0 211×211 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.partners-bar-item__slide-item" | 0,0 211×211 | — | | | | | ✗ missing |
+unit 4 of partner-logos (advisory) .partners-bar-item=.partners-bar__item: origin 652,4396 211×211 vs served 497,4423 211×211 → Δx -155 Δy +27 Δw 0 Δh 0; 2 elements: 1 within 4px, 0 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "google partner premier 2024" | 0,0 211×211 | 0,0 211×211 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.partners-bar-item__slide-item" | 0,0 211×211 | — | | | | | ✗ missing |
+unit 5 of partner-logos (advisory) .partners-bar-item=.partners-bar__item: origin 886,4386 211×211 vs served 732,4414 211×211 → Δx -154 Δy +28 Δw 0 Δh 0; 2 elements: 1 within 4px, 0 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "adobe logo" | 0,0 211×211 | 0,0 211×211 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.partners-bar-item__slide-item" | 0,0 211×211 | — | | | | | ✗ missing |
+unit 6 of partner-logos (advisory) .partners-bar-item=.partners-bar__item: origin 1121,4377 211×211 vs served 967,4404 211×211 → Δx -154 Δy +27 Δw 0 Δh 0; 2 elements: 1 within 4px, 0 off, 0 hidden, 1 missing, 0 extra
+| element | origin x,y w×h | served x,y w×h | Δx | Δy | Δw | Δh | |
+|---|---|---|---|---|---|---|---|
+| image "image:img#1" | 0,0 211×211 | 0,0 211×211 | 0 | 0 | 0 | 0 | ✓ |
+| link "link:a.partners-bar-item__slide-item" | 0,0 211×211 | — | | | | | ✗ missing |
+Units: 18 compared; elements within 35, off 17, hidden 2, missing 14 → FAIL
+json → stardust/replica/gates/en-1440/units-iter2.json

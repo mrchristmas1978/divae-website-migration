@@ -1,0 +1,4158 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T06:54:47.304Z",
+  "width": 360,
+  "variable": [
+   ".tags-carousel__container"
+  ],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/about-us/customers/multivac/",
+  "at": "2026-11-14T06:54:21.591Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6972,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Company-wide IoT platform for packaging machines"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "multivac"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-container > picture > img.hero__image",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "",
+    "file": "900x0"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 426,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 426,
+    "w": 52,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 161,
+    "y": 426,
+    "w": 61,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 248,
+    "y": 426,
+    "w": 50,
+    "h": 24,
+    "text": "multivac",
+    "href": "/en/about-us/customers/multivac/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > h2",
+    "x": 24,
+    "y": 554,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "diva-e conclusion develops iot platform for multivac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 660,
+    "w": 312,
+    "h": 192,
+    "text": "diva-e Conclusion developed a company-wide IoT platform for MULTIVAC, one of the"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 44,
+    "y": 963,
+    "w": 272,
+    "h": 34,
+    "text": "Increase machine efficiency by up to 10%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 70,
+    "y": 1031,
+    "w": 220,
+    "h": 17,
+    "text": "More operating comfort for users"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 44,
+    "y": 1083,
+    "w": 272,
+    "h": 34,
+    "text": "Highest possible output with high pack quality"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 88,
+    "y": 1151,
+    "w": 184,
+    "h": 17,
+    "text": "Maximum process reliability"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 1266,
+    "w": 122,
+    "h": 24,
+    "level": 6,
+    "text": "objective"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 1314,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "digital products for more efficiency"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 1391,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 1683,
+    "w": 312,
+    "h": 360,
+    "text": "What will innovative packaging solutions of the future look like? How can the pa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 2155,
+    "w": 312,
+    "h": 576,
+    "text": "MULTIVAC is one of the world's leading suppliers of packaging solutions for a wi"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 2797,
+    "w": 179,
+    "h": 24,
+    "level": 6,
+    "text": "implementation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 2845,
+    "w": 312,
+    "h": 86,
+    "level": 2,
+    "text": "diva-e conclusion cloud solutions for mechanical engineering 4.0"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 2951,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 3243,
+    "w": 312,
+    "h": 456,
+    "text": "In project teams, diva-e Conclusion and MULTIVAC developed a company-wide IoT pl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 3811,
+    "w": 312,
+    "h": 336,
+    "text": "The MULTIVAC Pack Pilot ensures the highest possible output, consistently high p"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 4213,
+    "w": 92,
+    "h": 24,
+    "level": 6,
+    "text": "result"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 4261,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "new standards in digitalisation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 4338,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 4630,
+    "w": 312,
+    "h": 504,
+    "text": "With the company-wide IoT platform, diva-e Conclusion and MULTIVAC are setting n"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-quote > div.no-heading",
+    "x": 24,
+    "y": 5302,
+    "w": 312,
+    "h": 288,
+    "text": "\"Together with diva-e Conclusion, we are setting new standards in the digitalisa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.author",
+    "x": 24,
+    "y": 5622,
+    "w": 312,
+    "h": 24,
+    "text": "Dr. Marius Grathwohl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.position",
+    "x": 24,
+    "y": 5646,
+    "w": 312,
+    "h": 48,
+    "text": "MULTIVAC | Vice President Digital Products and Transformation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.tags-carousel__title > h2",
+    "x": 24,
+    "y": 5878,
+    "w": 312,
+    "h": 99,
+    "level": 2,
+    "text": "related diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.tags-carousel__slider-frame > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": 346,
+    "y": 6010,
+    "w": 146,
+    "h": 70,
+    "text": "go to iot services",
+    "href": "/en/services/dxp/system-integration/iot/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": 107,
+    "y": 6017,
+    "w": 229,
+    "h": 73,
+    "text": "platforms & experiences",
+    "href": "/en/services/dxp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": -48,
+    "y": 6026,
+    "w": 146,
+    "h": 70,
+    "text": "iot services",
+    "href": "/en/services/dxp/system-integration/iot/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 6189,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 6189,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 6241,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6342,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6386,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6430,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 6430,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 6430,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6474,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 6474,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6518,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 6518,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 6518,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6562,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 6562,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 6562,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6606,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 6606,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 6606,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 6687,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 6690,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 6734,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 6811,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 6811,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 6811,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 6872,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 27,
+    "textNodes": 70,
+    "controls": 50,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div#swiper-wrapper-181c6987da4cc833 > div.swiper-slide.tags-carousel__slider-frame > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+     "text": "iot services",
+     "cutMin": 42,
+     "cutMax": 137
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn > span.text",
+     "text": "iot services",
+     "cutMin": 10,
+     "cutMax": 10
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/multivac",
+  "at": "2026-11-14T06:54:47.136Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6948,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Company-wide IoT platform for packaging machines"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#multivac",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "multivac"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-image-container > picture > img",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "",
+    "file": "media_130769911d175a5dc449aff34696e4f6dc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 426,
+    "w": 31,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 83,
+    "y": 426,
+    "w": 45,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 157,
+    "y": 426,
+    "w": 56,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 241,
+    "y": 426,
+    "w": 42,
+    "h": 24,
+    "text": "multivac",
+    "href": "/en/about-us/customers/multivac"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > h2#diva-e-conclusion-develops-iot-platform-for-multivac",
+    "x": 24,
+    "y": 554,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "diva-e conclusion develops iot platform for multivac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 660,
+    "w": 312,
+    "h": 192,
+    "text": "diva-e Conclusion developed a company-wide IoT platform for MULTIVAC, one of the"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 956,
+    "w": 312,
+    "h": 48,
+    "text": "Increase machine efficiency by up to 10%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1016,
+    "w": 312,
+    "h": 48,
+    "text": "More operating comfort for users"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1076,
+    "w": 312,
+    "h": 48,
+    "text": "Highest possible output with high pack quality"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1136,
+    "w": 312,
+    "h": 48,
+    "text": "Maximum process reliability"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 1391,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "media_1f2491ff6d3530d2043f153cc3bc6b28c1"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#objective",
+    "x": 24,
+    "y": 1266,
+    "w": 119,
+    "h": 24,
+    "level": 6,
+    "text": "objective"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#digital-products-for-more-efficiency",
+    "x": 24,
+    "y": 1314,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "digital products for more efficiency"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 1683,
+    "w": 312,
+    "h": 360,
+    "text": "What will innovative packaging solutions of the future look like? How can the pa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 2155,
+    "w": 312,
+    "h": 576,
+    "text": "MULTIVAC is one of the world's leading suppliers of packaging solutions for a wi"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 2951,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "media_1cd0401567da7b464f84f75dbfbf678049"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#implementation",
+    "x": 24,
+    "y": 2797,
+    "w": 174,
+    "h": 24,
+    "level": 6,
+    "text": "implementation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#diva-e-conclusion-cloud-solutions-for-mechanical-engineering-40",
+    "x": 24,
+    "y": 2845,
+    "w": 312,
+    "h": 86,
+    "level": 2,
+    "text": "diva-e conclusion cloud solutions for mechanical engineering 4.0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 3243,
+    "w": 312,
+    "h": 456,
+    "text": "In project teams, diva-e Conclusion and MULTIVAC developed a company-wide IoT pl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 3811,
+    "w": 312,
+    "h": 336,
+    "text": "The MULTIVAC Pack Pilot ensures the highest possible output, consistently high p"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 4338,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "media_12c993c61e954763d9eb88faa8413a7d90"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#result",
+    "x": 24,
+    "y": 4213,
+    "w": 91,
+    "h": 24,
+    "level": 6,
+    "text": "result"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#new-standards-in-digitalisation",
+    "x": 24,
+    "y": 4261,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "new standards in digitalisation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 4630,
+    "w": 312,
+    "h": 504,
+    "text": "With the company-wide IoT platform, diva-e Conclusion and MULTIVAC are setting n"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figure.single-quote-container > blockquote.single-quote-text > p",
+    "x": 24,
+    "y": 5302,
+    "w": 312,
+    "h": 264,
+    "text": "\"Together with diva-e Conclusion, we are setting new standards in the digitalisa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-name > p",
+    "x": 24,
+    "y": 5598,
+    "w": 312,
+    "h": 24,
+    "text": "Dr. Marius Grathwohl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-position > p",
+    "x": 24,
+    "y": 5622,
+    "w": 312,
+    "h": 48,
+    "text": "MULTIVAC | Vice President Digital Products and Transformation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags-carousel-grid > div.tags-carousel-title > h2#related-diva-e-conclusion-services-in-the-project",
+    "x": 24,
+    "y": 5854,
+    "w": 312,
+    "h": 99,
+    "level": 2,
+    "text": "related diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 325,
+    "y": 5987,
+    "w": 148,
+    "h": 70,
+    "text": "iot services",
+    "href": "/en/services/dxp/system-integration/iot/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li.is-active > a",
+    "x": 77,
+    "y": 5994,
+    "w": 227,
+    "h": 73,
+    "text": "platforms & experiences",
+    "href": "/en/services/dxp"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": -92,
+    "y": 6004,
+    "w": 148,
+    "h": 70,
+    "text": "iot services",
+    "href": "/en/services/dxp/system-integration/iot/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 6165,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 6165,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 6217,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6318,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6362,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6406,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 6406,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 6406,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6450,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 6450,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6494,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 6494,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 6494,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6538,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 6538,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 6538,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6582,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 6582,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 6582,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 6666,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6710,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 6787,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 6787,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 6787,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 6848,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 19,
+    "textNodes": 66,
+    "controls": 45,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "iot services",
+     "cutMin": 90,
+     "cutMax": 115
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "iot services",
+     "cutMin": 57,
+     "cutMax": 57
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 115,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "iot services",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": 328,
+      "t": 5987,
+      "r": 475,
+      "b": 6057,
+      "w": 148,
+      "h": 70
+     },
+     "clip": {
+      "l": 0,
+      "t": 5814,
+      "r": 360,
+      "b": 6121,
+      "w": 360,
+      "h": 307
+     }
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 90,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "iot services",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -90,
+      "t": 6003,
+      "r": 58,
+      "b": 6073,
+      "w": 148,
+      "h": 70
+     },
+     "clip": {
+      "l": 0,
+      "t": 5814,
+      "r": 360,
+      "b": 6121,
+      "w": 360,
+      "h": 307
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 57,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "iot services",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -57,
+      "t": 6029,
+      "r": 25,
+      "b": 6048,
+      "w": 82,
+      "h": 19
+     },
+     "clip": {
+      "l": 0,
+      "t": 5814,
+      "r": 360,
+      "b": 6121,
+      "w": 360,
+      "h": 307
+     },
+     "lines": 1
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "multivac",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "diva-e conclusion develops iot platform for multivac",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 3,
+   "heading": "digital products for more efficiency",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "diva-e conclusion cloud solutions for mechanical engineering 4.0",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "new standards in digitalisation",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "related diva-e conclusion services in the project",
+   "variable": true,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 2,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "HIDDEN LINK"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🔴",
+   "kind": "HIDDEN LINK",
+   "msg": "×2 links clipped away inside the session-variable region of band \"related diva-e conclusion services in the project\"",
+   "band": 6,
+   "n": 2,
+   "variable": true
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"diva-e conclusion develops iot platform for multivac\" (origin y 832) not on the served page",
+   "band": 2,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 2,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 2,
+  "structural": 1,
+  "missing": 0,
+  "hidden": 2
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 163,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 97,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 430,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 430,
+    "w": 52,
+    "h": 14
+   },
+   {
+    "x": 161,
+    "y": 430,
+    "w": 61,
+    "h": 14
+   },
+   {
+    "x": 248,
+    "y": 430,
+    "w": 50,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 554,
+    "w": 306,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 583,
+    "w": 298,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 663,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 687,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 711,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 735,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 759,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 783,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 807,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 831,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 59,
+    "y": 962,
+    "w": 242,
+    "h": 17
+   },
+   {
+    "x": 166,
+    "y": 979,
+    "w": 28,
+    "h": 17
+   },
+   {
+    "x": 70,
+    "y": 1030,
+    "w": 220,
+    "h": 17
+   },
+   {
+    "x": 50,
+    "y": 1082,
+    "w": 259,
+    "h": 17
+   },
+   {
+    "x": 157,
+    "y": 1099,
+    "w": 46,
+    "h": 17
+   },
+   {
+    "x": 88,
+    "y": 1150,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 56,
+    "y": 1266,
+    "w": 90,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1314,
+    "w": 280,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1343,
+    "w": 112,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1686,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1710,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1734,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1758,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1782,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1806,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1830,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1854,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1878,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1902,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1926,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1950,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1974,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1998,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2022,
+    "w": 118,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2158,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2182,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2206,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2230,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2254,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2278,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2302,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2326,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2350,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2374,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2398,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2422,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2446,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2470,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2494,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2542,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2566,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2590,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2614,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2638,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2662,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2686,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2710,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2797,
+    "w": 147,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 2845,
+    "w": 271,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2874,
+    "w": 277,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2902,
+    "w": 174,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3246,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3270,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3294,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3318,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3342,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3366,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3390,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3414,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3438,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3486,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3510,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3534,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3558,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3582,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3606,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3630,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3654,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3678,
+    "w": 70,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3814,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3838,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3862,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3886,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3910,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3934,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3958,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3982,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4006,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4030,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4054,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4078,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4102,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4126,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 4213,
+    "w": 60,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4261,
+    "w": 192,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4289,
+    "w": 145,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4633,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4657,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4681,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4705,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4729,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4753,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4777,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4801,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4825,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4849,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4873,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4897,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4921,
+    "w": 205,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4969,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4993,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5017,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5041,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5065,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5089,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5113,
+    "w": 141,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5302,
+    "w": 205,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5326,
+    "w": 293,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5350,
+    "w": 305,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5374,
+    "w": 285,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5398,
+    "w": 261,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5422,
+    "w": 184,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5446,
+    "w": 303,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5470,
+    "w": 255,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5494,
+    "w": 281,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5518,
+    "w": 305,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5542,
+    "w": 301,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5566,
+    "w": 231,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5625,
+    "w": 171,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5649,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5673,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5877,
+    "w": 201,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5910,
+    "w": 307,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5943,
+    "w": 152,
+    "h": 35
+   },
+   {
+    "x": 146,
+    "y": 6041,
+    "w": 163,
+    "h": 23
+   },
+   {
+    "x": -10,
+    "y": 6050,
+    "w": 80,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 6189,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 6189,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6240,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 6273,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 6342,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6386,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6430,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 6430,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 6430,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6474,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 6474,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6518,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 6518,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 6518,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6562,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 6562,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 6562,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6606,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 6606,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 6606,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6688,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 6691,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6735,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 163,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 92,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 430,
+    "w": 31,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 430,
+    "w": 45,
+    "h": 14
+   },
+   {
+    "x": 157,
+    "y": 430,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 241,
+    "y": 430,
+    "w": 42,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 554,
+    "w": 306,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 583,
+    "w": 299,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 663,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 687,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 711,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 735,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 759,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 783,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 807,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 831,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 45,
+    "y": 971,
+    "w": 271,
+    "h": 16
+   },
+   {
+    "x": 73,
+    "y": 1031,
+    "w": 213,
+    "h": 16
+   },
+   {
+    "x": 44,
+    "y": 1083,
+    "w": 250,
+    "h": 16
+   },
+   {
+    "x": 44,
+    "y": 1100,
+    "w": 43,
+    "h": 16
+   },
+   {
+    "x": 90,
+    "y": 1151,
+    "w": 181,
+    "h": 16
+   },
+   {
+    "x": 56,
+    "y": 1267,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 1314,
+    "w": 269,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1343,
+    "w": 103,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1686,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1710,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1734,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1758,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1782,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1806,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1830,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1854,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1878,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1902,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1926,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1950,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1974,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1998,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2022,
+    "w": 118,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2158,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2182,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2206,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2230,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2254,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2278,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2302,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2326,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2350,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2374,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2398,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2422,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2446,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2470,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2494,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2542,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2566,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2590,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2614,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2638,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2662,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2686,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2710,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2798,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 2845,
+    "w": 268,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2874,
+    "w": 269,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2902,
+    "w": 173,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3246,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3270,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3294,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3318,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3342,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3366,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3390,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3414,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3438,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3486,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3510,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3534,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3558,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3582,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3606,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3630,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3654,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3678,
+    "w": 70,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3814,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3838,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3862,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3886,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3910,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3934,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3958,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3982,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4006,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4030,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4054,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4078,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4102,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4126,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 4214,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4261,
+    "w": 191,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4289,
+    "w": 137,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4633,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4657,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4681,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4705,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4729,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4753,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4777,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4801,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4825,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4849,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4873,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4897,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4921,
+    "w": 205,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4969,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4993,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5017,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5041,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5065,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5089,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5113,
+    "w": 141,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5303,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5327,
+    "w": 291,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5351,
+    "w": 307,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5375,
+    "w": 249,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5399,
+    "w": 287,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5423,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5447,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5471,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5495,
+    "w": 301,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5519,
+    "w": 250,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5543,
+    "w": 224,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5601,
+    "w": 171,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5625,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5649,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5854,
+    "w": 203,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5887,
+    "w": 280,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5920,
+    "w": 181,
+    "h": 33
+   },
+   {
+    "x": 112,
+    "y": 6019,
+    "w": 161,
+    "h": 22
+   },
+   {
+    "x": -57,
+    "y": 6029,
+    "w": 82,
+    "h": 19
+   },
+   {
+    "x": 24,
+    "y": 6165,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 6165,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6217,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 6250,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 6318,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6362,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6406,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 6406,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 6406,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6450,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 6450,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6494,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 6494,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 6494,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6538,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 6538,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 6538,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6582,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 6582,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 6582,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6664,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 6667,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6711,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

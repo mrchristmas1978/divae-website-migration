@@ -1,0 +1,116 @@
+/* page-title — source HeroPageTitle (HeroPageTitle.css), dark-blue variant */
+.page-title {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 320px;
+  padding: 0 var(--pad-x);
+  overflow: hidden;
+}
+
+/* first band under the fixed header (source .header + .page .hero-page-title:first-child) */
+main > .section:first-child .page-title {
+  padding-top: 88px;
+}
+
+.page-title.dark-blue {
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+.page-title .page-title-wrapper {
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 48px 0;
+}
+
+.page-title .page-title-label {
+  margin-bottom: 16px;
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 150%;
+}
+
+.page-title .page-title-label p,
+.page-title .page-title-title h1,
+.page-title .page-title-title h2 {
+  margin: 0;
+}
+
+.page-title .page-title-title :is(h1, h2, h3) {
+  color: inherit;
+  font-variation-settings: "slnt" 30;
+}
+
+.page-title .page-title-actions {
+  width: fit-content;
+  margin-top: 40px;
+}
+
+.page-title .page-title-line {
+  position: absolute;
+  inset: auto 0 48px;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.page-title .page-title-line svg {
+  width: 100%;
+  height: 100%;
+}
+
+.page-title .page-title-line .desktop {
+  display: none;
+}
+
+.page-title .page-title-line .mobile {
+  display: block;
+}
+
+@media (width >= 768px) {
+  .page-title {
+    min-height: 480px;
+  }
+
+  main > .section:first-child .page-title {
+    padding-top: 86px;
+  }
+
+  .page-title .page-title-wrapper {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+    margin: 0 auto;
+  }
+}
+
+@media (width >= 1200px) {
+  .page-title .page-title-label {
+    font-size: 2.4rem;
+  }
+
+  .page-title .page-title-line .desktop {
+    display: block;
+  }
+
+  .page-title .page-title-line .mobile {
+    display: none;
+  }
+}
+
+@media (width >= 1280px) {
+  main > .section:first-child .page-title {
+    padding-top: 128px;
+  }
+
+  .page-title .page-title-wrapper {
+    padding: 80px 0;
+  }
+
+  .page-title .page-title-line {
+    bottom: 80px;
+  }
+}

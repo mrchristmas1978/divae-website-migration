@@ -1,0 +1,630 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T09:55:55.126Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-insights-edge-cypress-playwright-selenium",
+  "url": "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T09:55:55.126Z",
+  "finalUrl": "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/",
+  "title": "Cypress, Playwright or Selenium? | Framework Comparison | diva-e Conclusion",
+  "description": "Cypress, Playwright or Selenium? Discover which factors really matter when choosing the right test automation framework.",
+  "og": {
+    "title": "Cypress, Playwright or Selenium? | Framework Comparison | diva-e Conclusion",
+    "description": "Cypress, Playwright or Selenium? Discover which factors really matter when choosing the right test automation framework.",
+    "image": "https://a.storyblok.com/f/194188/800x420/2f253d4b5d/og-image.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Cypress, Playwright, or Selenium?"
+    },
+    {
+      "tag": "h2",
+      "text": "Why new frameworks seem so attractive"
+    },
+    {
+      "tag": "h2",
+      "text": "Framework decisions require more than trend awareness"
+    },
+    {
+      "tag": "h2",
+      "text": "Why Selenium can still be a strong option"
+    },
+    {
+      "tag": "h2",
+      "text": "New does not automatically mean better"
+    },
+    {
+      "tag": "h2",
+      "text": "When a switch really makes sense"
+    },
+    {
+      "tag": "h2",
+      "text": "What teams should evaluate instead"
+    },
+    {
+      "tag": "h2",
+      "text": "Conclusion: Good decisions strengthen product quality"
+    },
+    {
+      "tag": "h2",
+      "text": "Recommended Reads"
+    },
+    {
+      "tag": "h3",
+      "text": "Tech Reality Check 2026 – Focus: Technical Debt"
+    },
+    {
+      "tag": "h3",
+      "text": "How to Find the Right PIM System for Your Business"
+    },
+    {
+      "tag": "h3",
+      "text": "The New IT Project Paradigm: Less Is More"
+    }
+  ],
+  "body": [
+    "ServicesDigital ConsultingAuditsDigital Business ConsultingTechnology & Architecture Consultingdiva-e AIStrategic transformation with the 9-Grid modelUser ExperienceData Analytics & Business IntelligenceDigital Experience PlatformsE-Commerce PlatformsContent Management SystemKarriereportalCustomer Data PlatformProduct Information ManagementSystem Integration Customer Relationship ManagementDigital MarketingGAIO / GEOContentSEOPaid AdvertisingOmnichannel MarketingApplication Management ServiceApplication Management ServiceCloud ConsultingCloudsecurityCybersecurityTotal Experience",
+    "Marketplace",
+    "IndustriesTech Guide: Evaluate systems smartlyCompare ROI, TCO and business value with clarityDownload now!Financial Services Guide: Winning Customers SafelyDigital experiences that build trust and strengthen customer loyaltyRead now!AutomotiveB2B ManufacturingRetailFinancial Services",
+    "Partners",
+    "About usdiva-e Conclusion remains market leader in DXSLünendonk once again confirms our role as market leader.DownloadOur Latest Success Story: InteramtOptimized platform, improved UX, modern recruiting toolRead success storyAbout usManagementLocationSuccess StoriesPress",
+    "InsightsCyber Guide: How Firms Stay SafeOpportunities & Risks in CybersecurityDownload now!AI Search Guide: Ensure visibility!Strategic visibility in AI searches!Download now!NewsEvents & WebinarsBlogReferencesDownloads",
+    "Careers",
+    "de",
+    "en",
+    "How Teams Make Better Framework Decisions",
+    "Why new frameworks seem so attractive",
+    "Framework decisions require more than trend awareness",
+    "Why Selenium can still be a strong option",
+    "New does not automatically mean better",
+    "When a switch really makes sense",
+    "What teams should evaluate instead",
+    "Conclusion: Good decisions strengthen product quality",
+    "Anyone working in test automation will eventually face this question: Which framework is the right choice? Cypress, Playwright, and Selenium are among the best-known options — and each of them offers strong arguments in its favor.",
+    "Still, many teams make the decision too quickly. The newest framework appears more modern, the community seems more active, and the setup looks simpler. So a switch is discussed, often before anyone has clearly defined whichproblem actually needs to be solved.",
+    "That is exactly where the real issue begins. Because choosing a test automation framework is not about following the tool that currently gets the most attention. It is about finding the solution that fits the project, the team, and thequality goals.",
+    "Frameworks like Cypress and Playwright have brought a lot of momentum to test automation in recent years. And for good reason: they often offer a lower barrier to entry, modern development workflows, and in many cases a very strong developer experience.",
+    "That makes them especially attractive for new projects. Teams can get started faster, build tests more efficiently, and focus earlier on quality assurance itself. Topics like debugging, maintainability, and documentation also tend to feelmore accessible than in long-established setups. That is real progress — but it is still not enough to justify a good decision on its own.",
+    "In practice, one thing becomes clear very quickly: the quality of test automation does not depend on the framework alone.",
+    "Whether a solution works in the long run depends on very different questions:",
+    "How well does the framework fit the system landscape?",
+    "How well does the framework fit the system landscape?",
+    "Which skills does the team already have?",
+    "Which skills does the team already have?",
+    "How much effort is required for maintenance, further development, and onboarding?",
+    "How much effort is required for maintenance, further development, and onboarding?",
+    "How stable are the tests in day-to-day use?",
+    "How stable are the tests in day-to-day use?",
+    "How well can the framework be integrated into reporting, CI/CD, and existing processes?",
+    "How well can the framework be integrated into reporting, CI/CD, and existing processes?",
+    "If these questions are not answered properly, teams may simply replace one tool with another — without solving the actual challenges in the project.",
+    "In many discussions, Selenium is dismissed too quickly as “old.” But that view is too simplistic. Many established Selenium-based solutions have been tailored over years to meet real project requirements. They have been extended, stabilized, and integrated into processes that work in everyday practice. That is exactly where theirstrength lies: not in novelty, but in maturity.",
+    "Based on our own project experience, we can say this clearly: an established Selenium-based solution can still be highly effective — especially when it has been developed further in a meaningful way. In our case, an internal libraryevolved over time that goes far beyond basic browser automation. It supports reusable functions, test data handling, API interactions, variables, reporting, and execution across different environments and browsers.",
+    "Setups like this do not emerge by accident. They are the result of practical requirements, technical experience, and continuous improvement.",
+    "Of course, newer frameworks have real advantages. Playwright and Cypress lower the entry barrier in many scenarios, simplify certain workflows, and appeal to teams that prefer modern development approaches. Still, “newer” does not automatically mean “better.”",
+    "A framework is always just one part of the overall solution. Speed, stability, and maintainability also depend on test architecture, the quality of the test cases, the maturity of the product, and the experience of the team. A modern toolchain does not replace a sound strategy.",
+    "Or to put it another way: a test suite does not become better simply because it runs on a trendier framework.",
+    "From our perspective, any move to a new framework should be tied to a clear objective. A new tool only makes sense when the current setup has reached real limitations.",
+    "That may be the case when:",
+    "maintenance has become disproportionately complex,",
+    "maintenance has become disproportionately complex,",
+    "onboarding new team members takes too long,",
+    "onboarding new team members takes too long,",
+    "important browser or platform requirements are no longer covered,",
+    "important browser or platform requirements are no longer covered,",
+    "debugging and execution have become genuine bottlenecks,",
+    "debugging and execution have become genuine bottlenecks,",
+    "the framework no longer fits the technical direction of the product.",
+    "the framework no longer fits the technical direction of the product.",
+    "Without that kind of concrete trigger, a switch is often more of a rebranding exercise than an actual improvement. Teams then invest a great deal of time in the migration without creating meaningful value for quality, efficiency, or time tomarket.",
+    "Rather than letting tool debates drive the discussion, it is worth taking a more pragmatic look at the real decision criteria. These include:",
+    "Project fit Not every product has the same requirements. Complex platforms, established system landscapes, or specific integrations need different solutions than a manageable greenfield project.",
+    "Project fit Not every product has the same requirements. Complex platforms, established system landscapes, or specific integrations need different solutions than a manageable greenfield project.",
+    "Team capabilities A framework is only as strong as the team’s ability to use, extend, and operate it confidently in everyday work.",
+    "Team capabilities A framework is only as strong as the team’s ability to use, extend, and operate it confidently in everyday work.",
+    "Maintainability in ongoing operations The first automated tests are rarely the main challenge. What matters is how the setup behaves after months or years in productive use.",
+    "Maintainability in ongoing operations The first automated tests are rarely the main challenge. What matters is how the setup behaves after months or years in productive use.",
+    "Integration into existing processes Test automation delivers its full value only when it is properly embedded into deployment, monitoring, and quality processes.",
+    "Integration into existing processes Test automation delivers its full value only when it is properly embedded into deployment, monitoring, and quality processes.",
+    "Long-term value instead of short-term enthusiasm A framework should not only impress today; it also needs to remain sustainable tomorrow.",
+    "Long-term value instead of short-term enthusiasm A framework should not only impress today; it also needs to remain sustainable tomorrow.",
+    "For teams developing digital products, the framework question is never just a tool question. It affects how stable releases are, how quickly feedback from tests becomes available, and how efficiently quality assurance works in everydayproject life.",
+    "That is why a strategic perspective matters. The right framework is not the one with the loudest community or the most modern image. It is the one that reliably fits the product, the team, and the expected level of quality.",
+    "Cypress, Playwright, and Selenium all have their place. Each framework can be the right choice in the right context. But better decisions are not driven by hype — they are driven by clear criteria. Teams should not ask: Which tool is the most popular right now? Instead , they should ask: Which solution helps us build stable digital products over the long term? Because in the end, what matters is not how modern a framework looks. What matters is whether it reliably supports quality in a real project environment.",
+    "We help your teams choose the right test automation framework and continuously improve their testing strategy for long-term success.",
+    "Ronny has been with diva-e Conclusion for ten years and has built extensive expertise in quality assurance during this time. As a Senior Quality Agent, he contributes his experience to numerous projects, ensures smooth processes, and plays a key role in continuously improving the quality of products and workflows.",
+    "Adobe Experience Cloud",
+    "Paid Advertising",
+    "Application Management",
+    "CDP",
+    "CMS",
+    "Content",
+    "Data Analysis",
+    "Online Marketing",
+    "OneProSeo",
+    "PIM",
+    "Monitor Reporting",
+    "SAP",
+    "SEO",
+    "Salesforce",
+    "AI",
+    "UX",
+    "diva-e © 2026",
+    "Imprint",
+    "Data protection",
+    "Jobs",
+    "Whistleblower system"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Services",
+      "href": null
+    },
+    {
+      "label": "Marketplace",
+      "href": "/en/marketplace/"
+    },
+    {
+      "label": "Industries",
+      "href": null
+    },
+    {
+      "label": "Partners",
+      "href": "/en/about-us/partner/"
+    },
+    {
+      "label": "About us",
+      "href": null
+    },
+    {
+      "label": "Insights",
+      "href": null
+    },
+    {
+      "label": "Careers",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop"
+    },
+    {
+      "label": "de",
+      "href": null
+    },
+    {
+      "label": "en",
+      "href": null
+    },
+    {
+      "label": "Contacts",
+      "href": "/en/contact/"
+    },
+    {
+      "label": "Why new frameworks seem so attractive",
+      "href": "/en/insights/edge/cypress-playwright-selenium/#1"
+    },
+    {
+      "label": "Framework decisions require more than trend awareness",
+      "href": "/en/insights/edge/cypress-playwright-selenium/#2"
+    },
+    {
+      "label": "Why Selenium can still be a strong option",
+      "href": "/en/insights/edge/cypress-playwright-selenium/#3"
+    },
+    {
+      "label": "New does not automatically mean better",
+      "href": "/en/insights/edge/cypress-playwright-selenium/#4"
+    },
+    {
+      "label": "When a switch really makes sense",
+      "href": "/en/insights/edge/cypress-playwright-selenium/#5"
+    },
+    {
+      "label": "What teams should evaluate instead",
+      "href": "/en/insights/edge/cypress-playwright-selenium/#6"
+    },
+    {
+      "label": "Conclusion: Good decisions strengthen product quality",
+      "href": "/en/insights/edge/cypress-playwright-selenium/#11"
+    },
+    {
+      "label": "Get in touch",
+      "href": "https://www.diva-e.com/en/services/dxp/system-integration/qa/"
+    },
+    {
+      "label": "See all articles",
+      "href": "/en/insights/edge/authors/ronny-walther/"
+    },
+    {
+      "label": "Adobe Experience Cloud",
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+    },
+    {
+      "label": "Paid Advertising",
+      "href": "/en/services/digital-marketing/paid-advertising/"
+    },
+    {
+      "label": "Application Management",
+      "href": "/en/services/ams/application-management-services/"
+    },
+    {
+      "label": "CDP",
+      "href": "/en/services/dxp/cdp/"
+    },
+    {
+      "label": "CMS",
+      "href": "/en/services/dxp/cms/"
+    },
+    {
+      "label": "Content",
+      "href": "/en/services/digital-marketing/content/"
+    },
+    {
+      "label": "Data Analysis",
+      "href": "/en/services/dxp/data-analytics-bi/"
+    },
+    {
+      "label": "Online Marketing",
+      "href": "/en/services/digital-marketing/"
+    },
+    {
+      "label": "OneProSeo",
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+    },
+    {
+      "label": "PIM",
+      "href": "/en/services/dxp/pim/"
+    },
+    {
+      "label": "Monitor Reporting",
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+    },
+    {
+      "label": "SAP",
+      "href": "/en/about-us/partner/sap/"
+    },
+    {
+      "label": "SEO",
+      "href": "/en/services/digital-marketing/seo/"
+    },
+    {
+      "label": "Salesforce",
+      "href": "/en/about-us/partner/salesforce/"
+    },
+    {
+      "label": "AI",
+      "href": "/en/services/ai/"
+    },
+    {
+      "label": "UX",
+      "href": "/en/services/dxp/system-integration/ux-ui-design/"
+    },
+    {
+      "label": "Imprint",
+      "href": "/en/imprint/"
+    },
+    {
+      "label": "Data protection",
+      "href": "/en/data-privacy/"
+    },
+    {
+      "label": "Jobs",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop"
+    },
+    {
+      "label": "Whistleblower system",
+      "href": "https://diva-e.interne-meldestelle.de/"
+    },
+    {
+      "label": "Subscribe to diva-e newsletter!",
+      "href": "/en/newsletter/"
+    }
+  ],
+  "links": [
+    "https://www.diva-e.com/en/",
+    "https://www.diva-e.com/en/search/",
+    "https://www.diva-e.com/en/services/digital-consulting/",
+    "https://www.diva-e.com/en/services/digital-marketing/audits/",
+    "https://www.diva-e.com/en/services/digital-consulting/digital-business-consulting/",
+    "https://www.diva-e.com/en/services/digital-consulting/technology-architecture-consulting/",
+    "https://www.diva-e.com/en/services/ai/",
+    "https://www.diva-e.com/en/services/digital-consulting/strategic-transformation/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/ux-ui-design/",
+    "https://www.diva-e.com/en/services/dxp/data-analytics-bi/",
+    "https://www.diva-e.com/en/services/dxp/",
+    "https://www.diva-e.com/en/services/dxp/e-commerce-platform/",
+    "https://www.diva-e.com/en/services/dxp/cms/",
+    "https://www.diva-e.com/en/services/dxp/karriereportal/",
+    "https://www.diva-e.com/en/services/dxp/cdp/",
+    "https://www.diva-e.com/en/services/dxp/pim/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/",
+    "https://www.diva-e.com/en/services/crm/",
+    "https://www.diva-e.com/en/services/digital-marketing/",
+    "https://www.diva-e.com/en/services/digital-marketing/gaio/",
+    "https://www.diva-e.com/en/services/digital-marketing/content/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/",
+    "https://www.diva-e.com/en/services/digital-marketing/paid-advertising/",
+    "https://www.diva-e.com/en/services/digital-marketing/omnichannel-marketing/",
+    "https://www.diva-e.com/en/services/ams/",
+    "https://www.diva-e.com/en/services/ams/application-management-services/",
+    "https://www.diva-e.com/en/services/ams/cloud-consulting/",
+    "https://www.diva-e.com/en/services/ams/cloud-security/",
+    "https://www.diva-e.com/en/services/ams/cybersecurity/",
+    "https://www.diva-e.com/en/services/total-experience/",
+    "https://www.diva-e.com/en/marketplace/",
+    "https://www.diva-e.com/en/insights/downloads/b2b-tech-evaluierung-guide/",
+    "https://www.diva-e.com/en/insights/downloads/financial-services-guide/",
+    "https://www.diva-e.com/en/industries/automotive/",
+    "https://www.diva-e.com/en/industries/b2b-manufacturing/",
+    "https://www.diva-e.com/en/industries/retail/",
+    "https://www.diva-e.com/en/industries/financial-services/",
+    "https://www.diva-e.com/en/about-us/partner/",
+    "https://www.diva-e.com/en/insights/downloads/luenendonk/",
+    "https://www.diva-e.com/en/about-us/customers/interamt/",
+    "https://www.diva-e.com/en/about-us/",
+    "https://www.diva-e.com/en/about-us/management/",
+    "https://www.diva-e.com/en/about-us/locations/",
+    "https://www.diva-e.com/en/about-us/customers/",
+    "https://www.diva-e.com/en/insights/press/",
+    "https://www.diva-e.com/en/insights/downloads/cybersecurity-guide/",
+    "https://www.diva-e.com/en/insights/downloads/ai-search-guide/",
+    "https://www.diva-e.com/en/insights/news/",
+    "https://www.diva-e.com/en/insights/events/",
+    "https://www.diva-e.com/en/insights/edge/",
+    "https://www.diva-e.com/en/insights/downloads/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop",
+    "https://www.diva-e.com/en/contact/",
+    "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/#1",
+    "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/#2",
+    "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/#3",
+    "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/#4",
+    "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/#5",
+    "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/#6",
+    "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/#11",
+    "https://www.diva-e.com/en/services/dxp/system-integration/qa/",
+    "https://www.diva-e.com/en/insights/edge/authors/ronny-walther/",
+    "https://www.diva-e.com/en/insights/edge/tech-reality-check-technical-debt/",
+    "https://www.diva-e.com/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden/",
+    "https://www.diva-e.com/en/insights/edge/innovation-marketplace/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop",
+    "https://diva-e.interne-meldestelle.de/",
+    "https://www.diva-e.com/en/newsletter/",
+    "https://www.diva-e.com/en/about-us/partner/adobe/adobe-experience-cloud/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/tools/oneproseo/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/monitoring-reporting/",
+    "https://www.diva-e.com/en/about-us/partner/sap/",
+    "https://www.diva-e.com/en/about-us/partner/salesforce/",
+    "https://www.diva-e.com/en/imprint/",
+    "https://www.diva-e.com/en/data-privacy/",
+    "https://www.instagram.com/divae.gmbh/",
+    "https://www.youtube.com/c/divaenterprise",
+    "https://www.linkedin.com/company/divaedigitalvalueexcellence/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/52464bfea5/strategic-technology-decisions-with-foresight_956x554px.jpg/m/600x",
+        "alt": "Strategic technology decisions with foresight",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/6a25352619/financeguide_en_956x554.jpg/m/600x",
+        "alt": "The Digital Experience Playbook for Financial Service Providers",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/474x267/d926129490/lunendonk-startseite-en.png/m/600x",
+        "alt": "Lünendonk Survey 2026 chart comparing DXS providers by portfolio width, depth, and market relevance, grouped as challengers, chasers, leaders",
+        "w": 600,
+        "h": 338
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/ba20a1b7e5/interamt_956x554px.png/m/600x",
+        "alt": "Smiling person talking with two others, overlayed with \"INTERAMT\" logo in orange and abstract door icon.",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/c39f42621c/en-security-guide_956x554.jpg/m/600x",
+        "alt": "3 Vulnerabilities that put your IT Security at Risk",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/0c00be16ec/ai-playbook_956x554px.png/m/600x",
+        "alt": "Two tablets display digital content from an \"AI Playbook\" on a blue background. The text reads: \"AI Playbook: Know-how, Tips, and Strategy.\"",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/8192x4320/fe3212525c/gettyimages-2293003575.jpg/m/1920x",
+        "alt": "QA",
+        "w": 1920,
+        "h": 1013
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/486x528/06816fa791/ronny-walther.png/m/32x",
+        "alt": "Ronny Walther",
+        "w": 32,
+        "h": 35
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/486x528/06816fa791/ronny-walther.png/m/176x",
+        "alt": "Ronny Walther",
+        "w": 176,
+        "h": 191
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/6048x4032/fe5b8d8b88/gettyimages-2269888351.jpg/m/750x",
+        "alt": "Business Meeting",
+        "w": 750,
+        "h": 500
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/176x176/0c9ca22530/dorothee-haensch_176x176.jpeg/m/32x",
+        "alt": "Porträt von Dorothee Haensch",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/7951x5163/dd5b02d1a3/gettyimages-2244825174.jpg/m/750x",
+        "alt": "Tech Office",
+        "w": 750,
+        "h": 487
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/176x176/0c9ca22530/dorothee-haensch_176x176.jpeg/m/32x",
+        "alt": "Porträt von Dorothee Haensch",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/5616x3744/20acda2947/gettyimages-1139171702.jpg/m/750x",
+        "alt": "Handshake",
+        "w": 750,
+        "h": 500
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/176x176/7c82365466/sirko-schneppe_176x176.png/m/32x",
+        "alt": "Porträt von Sirko Schneppe",
+        "w": 32,
+        "h": 32
+      }
+    ],
+    "allImgCount": 15,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--font-slnt-normal": "0",
+    "--font-slnt-30-positive": "30",
+    "--gridColumnNumber": "4",
+    "--swiper-theme-color": "#007aff",
+    "--swiper-navigation-size": "44px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 12,
+    "mainTextLen": 104414,
+    "realImageCount": 15,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/core/zwbhh7MR",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 188,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/{n}/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "query": [
+          "isOutsideRegion"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 6921,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "api.storyblok.com",
+        "path": "/v2/cdn/stories",
+        "query": [
+          "by_uuids",
+          "content_type",
+          "cv",
+          "language",
+          "per_page",
+          "token",
+          "version"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 301,
+        "bytes": 856,
+        "hits": 6,
+        "example": "https://api.storyblok.com/v2/cdn/stories",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "web.cmp.usercentrics.eu",
+        "count": 8
+      },
+      {
+        "host": "privacy-proxy.usercentrics.eu",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": "__NUXT_DATA__",
+        "type": "application/json",
+        "bytes": 90595,
+        "topLevelKeys": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      }
+    ],
+    "globalState": [
+      "__NUXT__",
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "nuxt"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 3,
+      "thirdPartyScriptHosts": 2,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-insights-edge-cypress-playwright-selenium.png",
+  "renderedHtml": "pages/en-insights-edge-cypress-playwright-selenium.html"
+}

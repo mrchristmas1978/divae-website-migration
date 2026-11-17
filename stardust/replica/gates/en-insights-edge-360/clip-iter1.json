@@ -1,0 +1,2059 @@
+{
+ "url": "http://localhost:8791/en-insights-edge-proposed.html",
+ "at": "2026-11-13T12:14:40.793Z",
+ "width": 360,
+ "status": 200,
+ "settlePasses": 2,
+ "docH": 198644,
+ "pageW": 360,
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 21,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 0,
+  "offPage": 0,
+  "textNodes": 183,
+  "controls": 79,
+  "total": 0
+ },
+ "findings": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "ai agents need human oversight. but who actually checks thei",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 10221,
+    "r": 310,
+    "b": 10239,
+    "w": 286,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 10218,
+    "r": 336,
+    "b": 10290,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 6
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "60% see technical debt as a brake on innovation, but only 18",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 19636,
+    "r": 315,
+    "b": 19654,
+    "w": 291,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 19633,
+    "r": 336,
+    "b": 19705,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "how ai agents can ease manufacturing processes, from tender ",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 29051,
+    "r": 328,
+    "b": 29069,
+    "w": 304,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 29048,
+    "r": 336,
+    "b": 29120,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "find out how a digital product passport audit assesses your ",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 38466,
+    "r": 332,
+    "b": 38484,
+    "w": 308,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 38463,
+    "r": 336,
+    "b": 38535,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "learn how to assess and prioritize ai use cases in sap lead-",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 47882,
+    "r": 310,
+    "b": 47900,
+    "w": 286,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 47879,
+    "r": 336,
+    "b": 47951,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 5
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "the tech reality check 2026 study shows how european compani",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 57297,
+    "r": 301,
+    "b": 57315,
+    "w": 277,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 57294,
+    "r": 336,
+    "b": 57366,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "cypress, playwright or selenium? discover which factors real",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 66712,
+    "r": 283,
+    "b": 66730,
+    "w": 259,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 66709,
+    "r": 336,
+    "b": 66781,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "ai agents are changing more than how software is used. explo",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 76127,
+    "r": 323,
+    "b": 76145,
+    "w": 299,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 76124,
+    "r": 336,
+    "b": 76196,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 5
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "learn how to build a strong foundation for scalable ai and a",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 85542,
+    "r": 325,
+    "b": 85560,
+    "w": 301,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 85539,
+    "r": 336,
+    "b": 85611,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 6
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "what does it take to turn ai into real business value? explo",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 94957,
+    "r": 304,
+    "b": 94975,
+    "w": 280,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 94954,
+    "r": 336,
+    "b": 95026,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 6
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "what is agentic ai and how can businesses use ai agents? exp",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 104372,
+    "r": 269,
+    "b": 104390,
+    "w": 245,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 104369,
+    "r": 336,
+    "b": 104441,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "why do so many ai pilots fail? jasmin guthmann explores why ",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 113787,
+    "r": 314,
+    "b": 113805,
+    "w": 290,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 113784,
+    "r": 336,
+    "b": 113856,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "which cdp is right for your business? discover 10 key criter",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 123202,
+    "r": 315,
+    "b": 123220,
+    "w": 291,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 123199,
+    "r": 336,
+    "b": 123271,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 5
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "stricter anti-greenwashing rules will apply from september 2",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 132617,
+    "r": 304,
+    "b": 132635,
+    "w": 280,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 132614,
+    "r": 336,
+    "b": 132686,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 6
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "how do you choose the right commerce platform? discover 8 ke",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 142032,
+    "r": 335,
+    "b": 142050,
+    "w": 311,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 142029,
+    "r": 336,
+    "b": 142101,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "how ifm is transforming product search with an ai applicatio",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 151448,
+    "r": 330,
+    "b": 151466,
+    "w": 306,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 151445,
+    "r": 336,
+    "b": 151517,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 5
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "how standardization, ai and productized services are transfo",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 160863,
+    "r": 242,
+    "b": 160881,
+    "w": 218,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 160860,
+    "r": 336,
+    "b": 160932,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 5
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "how to choose the right cms: key criteria, common pitfalls a",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 170278,
+    "r": 291,
+    "b": 170296,
+    "w": 267,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 170275,
+    "r": 336,
+    "b": 170347,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "learn how to choose the right crm step by step—from defining",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 179693,
+    "r": 299,
+    "b": 179711,
+    "w": 275,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 179690,
+    "r": 336,
+    "b": 179762,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "why do so many ai pilots fail? jasmin guthmann explores why ",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 189108,
+    "r": 314,
+    "b": 189126,
+    "w": 290,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 189105,
+    "r": 336,
+    "b": 189177,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 4
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "hiddenLines": 40,
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "whether you're selling through an online shop, marketplace, ",
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "rect": {
+    "l": 24,
+    "t": 198523,
+    "r": 286,
+    "b": 198541,
+    "w": 262,
+    "h": 18
+   },
+   "clip": {
+    "l": 24,
+    "t": 198520,
+    "r": 336,
+    "b": 198592,
+    "w": 312,
+    "h": 72
+   },
+   "lines": 44
+  }
+ ],
+ "textBoxes": [
+  {
+   "x": 176,
+   "y": 32,
+   "w": 28,
+   "h": 22
+  },
+  {
+   "x": 228,
+   "y": 32,
+   "w": 28,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 126,
+   "w": 310,
+   "h": 27
+  },
+  {
+   "x": 24,
+   "y": 178,
+   "w": 95,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 517,
+   "w": 275,
+   "h": 20
+  },
+  {
+   "x": 24,
+   "y": 544,
+   "w": 300,
+   "h": 20
+  },
+  {
+   "x": 24,
+   "y": 571,
+   "w": 292,
+   "h": 20
+  },
+  {
+   "x": 24,
+   "y": 598,
+   "w": 217,
+   "h": 20
+  },
+  {
+   "x": 44,
+   "y": 675,
+   "w": 73,
+   "h": 16
+  },
+  {
+   "x": 24,
+   "y": 804,
+   "w": 113,
+   "h": 27
+  },
+  {
+   "x": 24,
+   "y": 877,
+   "w": 81,
+   "h": 22
+  },
+  {
+   "x": 48,
+   "y": 1145,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 64,
+   "y": 1145,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 74,
+   "y": 1145,
+   "w": 96,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 1188,
+   "w": 186,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 10221,
+   "w": 286,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 10245,
+   "w": 284,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 10269,
+   "w": 305,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 10269,
+   "w": 289,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 10317,
+   "w": 135,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 10560,
+   "w": 116,
+   "h": 17
+  },
+  {
+   "x": 164,
+   "y": 10560,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 174,
+   "y": 10560,
+   "w": 113,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 10584,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 34,
+   "y": 10584,
+   "w": 103,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 10627,
+   "w": 246,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 10653,
+   "w": 203,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 19636,
+   "w": 291,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 19660,
+   "w": 288,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 19684,
+   "w": 285,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 19732,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 19975,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 64,
+   "y": 19975,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 74,
+   "y": 19975,
+   "w": 103,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 20018,
+   "w": 247,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 29051,
+   "w": 304,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 29075,
+   "w": 257,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 29099,
+   "w": 240,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 29147,
+   "w": 173,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 29390,
+   "w": 36,
+   "h": 17
+  },
+  {
+   "x": 84,
+   "y": 29390,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 93,
+   "y": 29390,
+   "w": 37,
+   "h": 17
+  },
+  {
+   "x": 130,
+   "y": 29390,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 139,
+   "y": 29390,
+   "w": 113,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 29414,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 34,
+   "y": 29414,
+   "w": 100,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 29457,
+   "w": 266,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 29483,
+   "w": 170,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 38466,
+   "w": 308,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 38490,
+   "w": 265,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 38514,
+   "w": 292,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 38562,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 38805,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 64,
+   "y": 38805,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 74,
+   "y": 38805,
+   "w": 100,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 38848,
+   "w": 278,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 38874,
+   "w": 150,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 47882,
+   "w": 286,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 47906,
+   "w": 280,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 47930,
+   "w": 307,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 47930,
+   "w": 292,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 47978,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 48220,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 64,
+   "y": 48220,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 74,
+   "y": 48220,
+   "w": 100,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 48263,
+   "w": 246,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 48289,
+   "w": 86,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 57297,
+   "w": 277,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 57321,
+   "w": 311,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 57345,
+   "w": 284,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 57393,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 57635,
+   "w": 111,
+   "h": 17
+  },
+  {
+   "x": 159,
+   "y": 57635,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 170,
+   "y": 57635,
+   "w": 93,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 57678,
+   "w": 213,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 57704,
+   "w": 97,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 66712,
+   "w": 259,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 66736,
+   "w": 279,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 66760,
+   "w": 223,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 66808,
+   "w": 109,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 67050,
+   "w": 37,
+   "h": 17
+  },
+  {
+   "x": 85,
+   "y": 67050,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 94,
+   "y": 67050,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "x": 125,
+   "y": 67050,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 135,
+   "y": 67050,
+   "w": 90,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 67093,
+   "w": 250,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 67119,
+   "w": 115,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 76127,
+   "w": 299,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 76151,
+   "w": 307,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 76175,
+   "w": 297,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 76223,
+   "w": 135,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 76466,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 64,
+   "y": 76466,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 74,
+   "y": 76466,
+   "w": 111,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 76509,
+   "w": 265,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 76535,
+   "w": 118,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 85542,
+   "w": 301,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 85566,
+   "w": 227,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 85590,
+   "w": 304,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 85590,
+   "w": 296,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 85638,
+   "w": 85,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 85881,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 64,
+   "y": 85881,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 74,
+   "y": 85881,
+   "w": 111,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 85924,
+   "w": 250,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 94957,
+   "w": 280,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 94981,
+   "w": 247,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 95005,
+   "w": 308,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 95005,
+   "w": 298,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 95053,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 95296,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 64,
+   "y": 95296,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 74,
+   "y": 95296,
+   "w": 100,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 95339,
+   "w": 259,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 104372,
+   "w": 245,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 104396,
+   "w": 300,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 104420,
+   "w": 292,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 104468,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 104711,
+   "w": 37,
+   "h": 17
+  },
+  {
+   "x": 85,
+   "y": 104711,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 94,
+   "y": 104711,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "x": 125,
+   "y": 104711,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 135,
+   "y": 104711,
+   "w": 101,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 104754,
+   "w": 202,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 113787,
+   "w": 290,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 113811,
+   "w": 271,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 113835,
+   "w": 287,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 113883,
+   "w": 135,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 114126,
+   "w": 32,
+   "h": 17
+  },
+  {
+   "x": 80,
+   "y": 114126,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 90,
+   "y": 114126,
+   "w": 101,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 114169,
+   "w": 294,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 114195,
+   "w": 189,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 123202,
+   "w": 291,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 123226,
+   "w": 296,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 123250,
+   "w": 264,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 123298,
+   "w": 95,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 123541,
+   "w": 32,
+   "h": 17
+  },
+  {
+   "x": 80,
+   "y": 123541,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 90,
+   "y": 123541,
+   "w": 98,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 123584,
+   "w": 261,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 123610,
+   "w": 301,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 132617,
+   "w": 280,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 132641,
+   "w": 270,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 132665,
+   "w": 309,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 132665,
+   "w": 287,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 132713,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 132956,
+   "w": 37,
+   "h": 17
+  },
+  {
+   "x": 85,
+   "y": 132956,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 94,
+   "y": 132956,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "x": 125,
+   "y": 132956,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 135,
+   "y": 132956,
+   "w": 105,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 132999,
+   "w": 256,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 133025,
+   "w": 183,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 142032,
+   "w": 311,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 142056,
+   "w": 277,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 142080,
+   "w": 283,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 142128,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 142371,
+   "w": 36,
+   "h": 17
+  },
+  {
+   "x": 84,
+   "y": 142371,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 93,
+   "y": 142371,
+   "w": 32,
+   "h": 17
+  },
+  {
+   "x": 125,
+   "y": 142371,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 135,
+   "y": 142371,
+   "w": 105,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 142414,
+   "w": 255,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 142440,
+   "w": 147,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 151448,
+   "w": 306,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 151472,
+   "w": 294,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 151496,
+   "w": 296,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 151544,
+   "w": 106,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 151786,
+   "w": 21,
+   "h": 17
+  },
+  {
+   "x": 69,
+   "y": 151786,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 78,
+   "y": 151786,
+   "w": 111,
+   "h": 17
+  },
+  {
+   "x": 189,
+   "y": 151786,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 199,
+   "y": 151786,
+   "w": 103,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 151829,
+   "w": 276,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 151855,
+   "w": 118,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 160863,
+   "w": 218,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 160887,
+   "w": 295,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 160911,
+   "w": 261,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 160959,
+   "w": 117,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 161201,
+   "w": 37,
+   "h": 17
+  },
+  {
+   "x": 85,
+   "y": 161201,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 94,
+   "y": 161201,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "x": 125,
+   "y": 161201,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 135,
+   "y": 161201,
+   "w": 95,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 161244,
+   "w": 278,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 161270,
+   "w": 166,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 170278,
+   "w": 267,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 170302,
+   "w": 292,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 170326,
+   "w": 274,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 170374,
+   "w": 95,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 170616,
+   "w": 32,
+   "h": 17
+  },
+  {
+   "x": 80,
+   "y": 170616,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 90,
+   "y": 170616,
+   "w": 95,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 170659,
+   "w": 228,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 179693,
+   "w": 275,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 179717,
+   "w": 255,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 179741,
+   "w": 210,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 179789,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 180032,
+   "w": 37,
+   "h": 17
+  },
+  {
+   "x": 85,
+   "y": 180032,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 94,
+   "y": 180032,
+   "w": 31,
+   "h": 17
+  },
+  {
+   "x": 125,
+   "y": 180032,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 135,
+   "y": 180032,
+   "w": 95,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 180075,
+   "w": 252,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 189108,
+   "w": 290,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 189132,
+   "w": 271,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 189156,
+   "w": 287,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 189204,
+   "w": 135,
+   "h": 17
+  },
+  {
+   "x": 48,
+   "y": 189447,
+   "w": 116,
+   "h": 17
+  },
+  {
+   "x": 164,
+   "y": 189447,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 174,
+   "y": 189447,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 189,
+   "y": 189447,
+   "w": 10,
+   "h": 18
+  },
+  {
+   "x": 199,
+   "y": 189447,
+   "w": 98,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 189490,
+   "w": 241,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 189516,
+   "w": 236,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 198523,
+   "w": 262,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 198547,
+   "w": 306,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 198571,
+   "w": 300,
+   "h": 18
+  },
+  {
+   "x": 24,
+   "y": 198571,
+   "w": 294,
+   "h": 18
+  },
+  {
+   "x": 72,
+   "y": 198619,
+   "w": 139,
+   "h": 17
+  },
+  {
+   "x": 102,
+   "y": 10397,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 150,
+   "y": 10397,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 198,
+   "y": 10397,
+   "w": 9,
+   "h": 17
+  },
+  {
+   "x": 247,
+   "y": 10397,
+   "w": 6,
+   "h": 17
+  },
+  {
+   "x": 289,
+   "y": 10397,
+   "w": 18,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 10560,
+   "w": 33,
+   "h": 16
+  },
+  {
+   "x": 89,
+   "y": 10560,
+   "w": 149,
+   "h": 16
+  },
+  {
+   "x": 24,
+   "y": 10612,
+   "w": 263,
+   "h": 33
+  },
+  {
+   "x": 24,
+   "y": 10645,
+   "w": 149,
+   "h": 33
+  },
+  {
+   "x": 24,
+   "y": 10713,
+   "w": 184,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 10757,
+   "w": 120,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 10801,
+   "w": 183,
+   "h": 17
+  },
+  {
+   "x": 231,
+   "y": 10801,
+   "w": 35,
+   "h": 17
+  },
+  {
+   "x": 290,
+   "y": 10801,
+   "w": 37,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 10845,
+   "w": 58,
+   "h": 17
+  },
+  {
+   "x": 106,
+   "y": 10845,
+   "w": 101,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 10889,
+   "w": 126,
+   "h": 17
+  },
+  {
+   "x": 174,
+   "y": 10889,
+   "w": 87,
+   "h": 17
+  },
+  {
+   "x": 285,
+   "y": 10889,
+   "w": 29,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 10933,
+   "w": 133,
+   "h": 17
+  },
+  {
+   "x": 181,
+   "y": 10933,
+   "w": 33,
+   "h": 17
+  },
+  {
+   "x": 238,
+   "y": 10933,
+   "w": 35,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 10977,
+   "w": 79,
+   "h": 17
+  },
+  {
+   "x": 127,
+   "y": 10977,
+   "w": 16,
+   "h": 17
+  },
+  {
+   "x": 167,
+   "y": 10977,
+   "w": 23,
+   "h": 17
+  },
+  {
+   "x": 24,
+   "y": 11059,
+   "w": 100,
+   "h": 16
+  },
+  {
+   "x": 156,
+   "y": 11062,
+   "w": 47,
+   "h": 16
+  },
+  {
+   "x": 24,
+   "y": 11106,
+   "w": 106,
+   "h": 16
+  }
+ ],
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 21,
+   "clipper": "div.list-article-card__teaser.text-xsmall",
+   "path": "div.article-list__container > div.article-list__cards > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+   "text": "ai agents need human oversight. but who actually checks thei",
+   "cutMin": null,
+   "cutMax": null
+  }
+ ],
+ "tier": "chrome"
+}

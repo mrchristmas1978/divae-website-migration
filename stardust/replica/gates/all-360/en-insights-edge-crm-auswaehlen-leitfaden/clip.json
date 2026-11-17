@@ -1,0 +1,87 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/crm-auswaehlen-leitfaden",
+ "at": "2026-11-14T05:57:39.190Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 2,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 10,
+  "textNodes": 202,
+  "controls": 49,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 2,
+   "clipper": "p",
+   "path": "div.related-slide > article.article-card > div.card-teaser > p",
+   "text": "find out how a digital product passport audit assesses your ",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.card-media",
+   "path": "div.related-slide > article.article-card > div.card-media > a.card-media-link",
+   "text": "link",
+   "cutMin": 248,
+   "cutMax": 248
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.article-meta.has-cats > div.meta-cats > ul > li",
+   "text": "b2c",
+   "cutMin": 26,
+   "cutMax": 26
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.related-slide > article.article-card > div.card-title > a.card-link",
+   "text": "go to how to find the right customer data platform (cdp)",
+   "cutMin": 248,
+   "cutMax": 248
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.related-slide > article.article-card > div.card-title > h3#how-to-find-the-right-customer-data-platform-cdp",
+   "text": "how to find the right customer data platform (cdp)",
+   "cutMin": 191,
+   "cutMax": 191
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 2,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 4,
+   "offPage": 13,
+   "textNodes": 218,
+   "controls": 50,
+   "total": 0
+  }
+ }
+}

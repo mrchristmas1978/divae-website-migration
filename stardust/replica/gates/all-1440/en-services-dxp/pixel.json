@@ -1,0 +1,66 @@
+{
+  "a": "stardust/replica/gates/all-1440/en-services-dxp/origin.png",
+  "b": "stardust/replica/gates/all-1440/en-services-dxp/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 3964,
+    "mode": "overlap"
+  },
+  "heightDelta": -24,
+  "differingPixels": 336462,
+  "pct": 5.89,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/en-services-dxp/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 12.38,
+  "textBoxes": 166,
+  "textPixels": 721366,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0.7
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 1.8
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.3
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 3.9
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 4
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 3.5
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 25.8
+    },
+    {
+      "y0": 3500,
+      "y1": 3964,
+      "pct": 7.3
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a608424f--aemcoder.aem.page/en/services/dxp"
+  }
+}

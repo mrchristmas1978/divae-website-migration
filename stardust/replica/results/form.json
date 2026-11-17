@@ -1,0 +1,45 @@
+{
+  "archetype": "en-contact",
+  "liveUrl": "https://www.diva-e.com/en/contact/",
+  "prototype": "stardust/prototypes/en-contact-proposed.html",
+  "canon": ["stardust/prototypes/canon.css", "stardust/prototypes/canon.js"],
+  "pageCss": "stardust/prototypes/en-contact.css",
+  "pageJs": null,
+  "main": ".page",
+  "consent": "built-in (gate dismissOverlays cleared #usercentrics-cmp-ui; no --consent needed)",
+  "modules": [
+    "hero (default variant, empty image container = navy plate, 100vh >=950, 86px plate + navy info band <950)",
+    "layout-breadcrumbs--light",
+    "form-block--regular (blue rounded card >=768 / full blue band <768) wrapping the canon HubSpot form markup recoloured white"
+  ],
+  "iterations": { "1440": 1, "360": 1 },
+  "confirmationRounds": ["iter2 (--full, post-motion, 1440 + 360; only change vs iter1: dropped build-only nav aria-label)"],
+  "gates": {
+    "1440": { "pixel": "0.56%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (2 advisory: FONT FORK GT Planar -> substitute)", "visualDiff": "1 advisory, FONT MISMATCH (GT Planar VF -> Liberation Sans substitute, register R-03; justified)", "clipped": 0, "overflow": "0px (scrollWidth 1440)" },
+    "360": { "pixel": "1.66%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (114 advisory: EXTRA header mega-menu aria-labels/text the live mobile header renders lazily — canon, same as landing/case-study)", "visualDiff": "1 advisory, FONT MISMATCH (R-03, justified)", "clipped": 0, "overflow": "0px (scrollWidth 360)" }
+  },
+  "capProbe": "PASS (2560: content cap live 1040 = build 1040; run with --main .page --build-main .page — default roots paired live body>div>div [header/page/footer] against build main.page children and mis-ordered the rows, FAIL was a root-pairing artefact)",
+  "residuals": [
+    "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw deltas in canon header/footer — font substitution, identical to the landing/case-study residual; canon not edited (shared-file ban)",
+    "form is a static recreation of the HubSpot embed (portal 3937475, form 0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a); submissions not wired (dynamic-features.md row 3: embed-passthrough via hubspot-form block at delivery)",
+    "motion: site-wide custom cursor circle (div.circle transform 300ms) and header__langs 'show' class mutation not implemented — chrome-level, belongs in canon"
+  ],
+  "captureState": [
+    { "what": "HubSpot form", "restoreAtDelivery": "replace static markup with the hubspot-form block (portalId 3937475, formId 0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a), styled by the form-block--regular rules" }
+  ],
+  "motion": {
+    "observed": ["custom cursor circle transform 300ms (chrome)", "header__langs show class (chrome)", "font-variation-settings 250ms on radio/submit hover"],
+    "implemented": ["radio/submit hover slnt via canon .hs-form__radio / .hs-form__submit"],
+    "dead": ["header scroll-morph", "hover .hs-form-radio label (no measured diff)", "hover input[type=submit] (no measured diff)"],
+    "compare": "stardust/replica/motion/en-contact.json vs en-contact-build.json (stardust/replica/motion/en-contact-compare.txt): 1 parity, 2 missing (cursor circle + header langs class, chrome), 0 extra, 0 out of tolerance"
+  },
+  "fonts": { "body": "Inter (canon, self-hosted)", "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)" },
+  "unitsFamilies": "none declared (units.json is shared; no repeated-unit family on this page)",
+  "passed": true,
+  "canonCandidates": [
+    "form-block--regular variant (blue card >=768 / full blue band <768, white inputs/radios/checkbox/submit/link, container padding 64/80) — canon only has the dark-blue full-width band; HubSpot form colour should be variant-driven (all 6 form pages + every inline contact form)",
+    "default hero (no image: navy plate, 100vh/padding-top 70px >=950, 86px plate + navy info band <950, title slnt -30 -> italic slnt 30 + padding-left 30) — shared by form/utility pages",
+    "layout-breadcrumbs base + --light variant (mann-hummel has --dark in page CSS; current-link class is layout-breadcrumbs--current, mann-hummel uses a 'layout-layout-' typo)",
+    "cap-probe for this site needs --main .page --build-main .page (live root wraps header/page/footer)"
+  ]
+}

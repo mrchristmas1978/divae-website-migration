@@ -1,0 +1,5859 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T06:47:25.763Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/insights/edge/salesforce-partner-day-recap/",
+  "at": "2026-11-14T06:46:58.099Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7710,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__img > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "meeting",
+    "file": "0x900"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span.hero-banner__box-category",
+    "x": 76,
+    "y": 589,
+    "w": 138,
+    "h": 24,
+    "text": "Total Experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span",
+    "x": 52,
+    "y": 613,
+    "w": 109,
+    "h": 24,
+    "text": "15 Apr 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-headline > h1.h3",
+    "x": 52,
+    "y": 661,
+    "w": 256,
+    "h": 58,
+    "level": 1,
+    "text": "salesforce partner day recap"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-subtitle > p",
+    "x": 52,
+    "y": 735,
+    "w": 256,
+    "h": 54,
+    "text": "Why Marketing Cloud Next is an Absolute Gamechanger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box-author-img > picture > img",
+    "x": 52,
+    "y": 825,
+    "w": 32,
+    "h": 32,
+    "text": "portrait gustav onken",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-author > div.hero-banner__box-author-name",
+    "x": 100,
+    "y": 829,
+    "w": 104,
+    "h": 24,
+    "text": "Gustav Onken"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__sidebar > div.intro-side-anchor-text__sidebar-anchor > div.dot-blur--16.no-heading",
+    "x": 24,
+    "y": 962,
+    "w": 130,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1016,
+    "w": 312,
+    "h": 48,
+    "text": "data is the deciding factor: data360 at the core",
+    "href": "/en/insights/edge/salesforce-partner-day-recap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1081,
+    "w": 312,
+    "h": 48,
+    "text": "the end of \"no-reply\": 2-way communication with ai",
+    "href": "/en/insights/edge/salesforce-partner-day-recap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1146,
+    "w": 312,
+    "h": 48,
+    "text": "next-level efficiency: smart upgrades for mcae and mce users",
+    "href": "/en/insights/edge/salesforce-partner-day-recap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1211,
+    "w": 312,
+    "h": 48,
+    "text": "free for existing customers: key considerations",
+    "href": "/en/insights/edge/salesforce-partner-day-recap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1276,
+    "w": 312,
+    "h": 48,
+    "text": "our approach: step-by-step transition instead of a hard cut",
+    "href": "/en/insights/edge/salesforce-partner-day-recap/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+    "x": 24,
+    "y": 1372,
+    "w": 312,
+    "h": 351,
+    "text": "Marketing is evolving at breakneck speed—and luckily, our tools are keeping pace"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__paragraph.richtext > p > a",
+    "x": 24,
+    "y": 1510,
+    "w": 266,
+    "h": 47,
+    "text": "salesforce summit partner",
+    "href": "/en/insights/news/diva-e-achieves-salesforce-summit-partner-status/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__paragraph.richtext > p > a",
+    "x": 30,
+    "y": 1591,
+    "w": 93,
+    "h": 20,
+    "text": "agentforce",
+    "href": "/en/insights/edge/agentforcethe-next-level-in-crm/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+    "x": 24,
+    "y": 1723,
+    "w": 312,
+    "h": 216,
+    "text": "Marketing Cloud Next isn't just an update; it's a strategic milestone. It brings"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#1 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 2047,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "data is the deciding factor: data360 at the core"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#1 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2116,
+    "w": 312,
+    "h": 168,
+    "text": "The new Marketing Cloud Next is built entirely on Data360 (formerly Data Cloud)."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#1 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2284,
+    "w": 312,
+    "h": 168,
+    "text": "After all, smart and successful AI only works with an absolutely clean data foun"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#1 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2452,
+    "w": 312,
+    "h": 192,
+    "text": "In our projects, we consistently see how crucial clean, connected data is for su"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#2 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 2672,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "the end of \"no-reply\": 2-way communication with ai"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#2 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2741,
+    "w": 312,
+    "h": 120,
+    "text": "By using (Agentforce), communication finally becomes bidirectional. Automated ye"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > a",
+    "x": 95,
+    "y": 2744,
+    "w": 73,
+    "h": 18,
+    "text": "ai agents",
+    "href": "/en/insights/edge/what-are-ai-agents-and-why-is-everyone-suddenly-talking-about-them-/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#2 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2861,
+    "w": 312,
+    "h": 216,
+    "text": "The major advantage: Every direct customer interaction—like replying to a newsle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#2 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3077,
+    "w": 312,
+    "h": 144,
+    "text": "For us, this is the most exciting shift. AI here isn't just a buzzword for conte"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#3 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 3249,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "next-level efficiency: smart upgrades for mcae and mce users"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#3 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3344,
+    "w": 312,
+    "h": 168,
+    "text": "The UX for marketers has been modernized from the ground up. Instead of using th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#3 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3512,
+    "w": 312,
+    "h": 336,
+    "text": "For , the workflow becomes noticeably more intuitive. Complex use cases that use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#3 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3848,
+    "w": 312,
+    "h": 264,
+    "text": "For , the native \"on-core\" architecture primarily brings massive architectural s"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#4 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 4140,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "free for existing customers: key considerations"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 4235,
+    "w": 312,
+    "h": 120,
+    "text": "For companies already using MCE or MCAE, there’s great news: Access to Marketing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 4355,
+    "w": 312,
+    "h": 264,
+    "text": "The switch means transitioning to a . What your starting volume of credits looks"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#5 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 4647,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "our approach: step-by-step transition instead of a hard cut"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 4743,
+    "w": 312,
+    "h": 240,
+    "text": "We definitely do not recommend a hard cut! Transferring everything from the old "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 4983,
+    "w": 312,
+    "h": 168,
+    "text": "The best way to start is with a single Business Unit or a specific, newly planne"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 5151,
+    "w": 312,
+    "h": 168,
+    "text": "Marketing Cloud Next is intelligent, natively connected, and finally puts the ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 5319,
+    "w": 312,
+    "h": 144,
+    "text": "Are you ready to take your marketing to the next level? Let's have a casual chat"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 24,
+    "y": 5519,
+    "w": 196,
+    "h": 64,
+    "text": "get in touch",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column.avatar > picture > img",
+    "x": 48,
+    "y": 5743,
+    "w": 112,
+    "h": 112,
+    "text": "portrait gustav onken",
+    "file": "176x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column.avatar > div.author-card__name",
+    "x": 48,
+    "y": 5871,
+    "w": 264,
+    "h": 28,
+    "text": "Gustav Onken"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column.avatar > div.author-card__social > a",
+    "x": 48,
+    "y": 5907,
+    "w": 32,
+    "h": 32,
+    "text": "go to gustav onken linkedin",
+    "href": "/in/gustav-onken-1126401b5/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column > div.author-card__bio > p",
+    "x": 48,
+    "y": 5963,
+    "w": 264,
+    "h": 216,
+    "text": "Gustav has been working as a Salesforce Consultant at diva-e Conclusion for almo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column > a.author-card__link.btn--link",
+    "x": 48,
+    "y": 6202,
+    "w": 111,
+    "h": 24,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/gustav-onken/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.related-articles__container > div.related-articles__headline > h2",
+    "x": 24,
+    "y": 6330,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "recommended reads"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 27,
+    "y": 6405,
+    "w": 279,
+    "h": 156,
+    "text": "salesforce tower",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 27,
+    "y": 6405,
+    "w": 279,
+    "h": 156,
+    "text": "link",
+    "href": "/en/insights/edge/salesforce-marketing-cloud-engagement-gartner/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 51,
+    "y": 6577,
+    "w": 111,
+    "h": 24,
+    "text": "News & Trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span",
+    "x": 162,
+    "y": 6577,
+    "w": 104,
+    "h": 24,
+    "text": "5 Mar 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 27,
+    "y": 6601,
+    "w": 279,
+    "h": 92,
+    "text": "go to salesforce marketing cloud engagement",
+    "href": "/en/insights/edge/salesforce-marketing-cloud-engagement-gartner/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 27,
+    "y": 6621,
+    "w": 279,
+    "h": 52,
+    "level": 3,
+    "text": "salesforce marketing cloud engagement"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-active > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 27,
+    "y": 6719,
+    "w": 279,
+    "h": 72,
+    "text": "For the eighth consecutive year, Salesforce Marketing Cloud has been named a Lea"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 27,
+    "y": 6811,
+    "w": 32,
+    "h": 32,
+    "text": "chetan more profile picture",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__author > div.list-article-card__author-name",
+    "x": 75,
+    "y": 6815,
+    "w": 142,
+    "h": 24,
+    "text": "Chetankumar More"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img > picture > img",
+    "x": 330,
+    "y": 6405,
+    "w": 279,
+    "h": 156,
+    "text": "business meeting",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 330,
+    "y": 6405,
+    "w": 279,
+    "h": 156,
+    "text": "link",
+    "href": "/en/insights/edge/salesforce-new-chapter-in-life-sciences/"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+    "x": 354,
+    "y": 6577,
+    "w": 56,
+    "h": 24,
+    "text": "Pharma"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+    "x": 330,
+    "y": 6601,
+    "w": 279,
+    "h": 118,
+    "text": "go to new chapter in life sciences: salesforce lsc & agentic enterprise",
+    "href": "/en/insights/edge/salesforce-new-chapter-in-life-sciences/"
+   },
+   {
+    "kind": "heading",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+    "x": 330,
+    "y": 6621,
+    "w": 279,
+    "h": 78,
+    "level": 3,
+    "text": "new chapter in life sciences: salesforce lsc & agentic enterprise"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+    "x": 330,
+    "y": 6719,
+    "w": 279,
+    "h": 72,
+    "text": "On September 15th, the Salesforce Partner Day took place in Munich – and it was "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-article-card__author-img > picture > img",
+    "x": 330,
+    "y": 6811,
+    "w": 32,
+    "h": 32,
+    "text": "autorenbild oliver mende",
+    "file": "32x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 6927,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 6927,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 6979,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7080,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7124,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7168,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 7168,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 7168,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7212,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 7212,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7256,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 7256,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 7256,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7300,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 7300,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 7300,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7344,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 7344,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 7344,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 7425,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 7428,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 7472,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 7549,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 7549,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 7549,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 7610,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 2,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 4,
+    "offPage": 11,
+    "textNodes": 100,
+    "controls": 47,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.list-article-card__teaser.text-xsmall",
+     "path": "div#swiper-wrapper-37c1b891c5c719101 > div.swiper-slide.swiper-slide-active > article.list-article-card > div.list-article-card__teaser.text-xsmall",
+     "text": "for the eighth consecutive year, salesforce marketing cloud ",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.list-article-card__img-container",
+     "path": "article.list-article-card > div.list-article-card__img-container > div.hover-button > a.hover-button__link",
+     "text": "link",
+     "cutMin": 248,
+     "cutMax": 248
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__label.dot-blur--12 > span.list-article-card__category",
+     "text": "pharma",
+     "cutMin": 50,
+     "cutMax": 50
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__title > a.list-article-card__link",
+     "text": "go to new chapter in life sciences: salesforce lsc & agentic",
+     "cutMin": 248,
+     "cutMax": 248
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > article.list-article-card > div.list-article-card__title > h3.list-article-card__headline",
+     "text": "new chapter in life sciences: salesforce lsc & agentic enter",
+     "cutMin": 248,
+     "cutMax": 248
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/salesforce-partner-day-recap",
+  "at": "2026-11-14T06:47:25.513Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7745,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "meeting",
+    "file": "media_1f2ae2f75f7e1ce8749bca7a6f1a85ccff"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 76,
+    "y": 589,
+    "w": 137,
+    "h": 24,
+    "text": "Total Experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 52,
+    "y": 613,
+    "w": 109,
+    "h": 24,
+    "text": "15 Apr 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-title > h1#salesforce-partner-day-recap",
+    "x": 52,
+    "y": 661,
+    "w": 256,
+    "h": 58,
+    "level": 1,
+    "text": "salesforce partner day recap"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-subtitle > p",
+    "x": 52,
+    "y": 735,
+    "w": 256,
+    "h": 54,
+    "text": "Why Marketing Cloud Next is an Absolute Gamechanger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 52,
+    "y": 825,
+    "w": 32,
+    "h": 32,
+    "text": "portrait gustav onken",
+    "file": "media_1b625a397ee9a9552146a57da5528d2136"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 100,
+    "y": 829,
+    "w": 106,
+    "h": 24,
+    "text": "Gustav Onken"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1407,
+    "w": 312,
+    "h": 351,
+    "text": "Marketing is evolving at breakneck speed—and luckily, our tools are keeping pace"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-paragraph > p > a",
+    "x": 24,
+    "y": 1545,
+    "w": 266,
+    "h": 47,
+    "text": "salesforce summit partner",
+    "href": "/en/insights/news/diva-e-achieves-salesforce-summit-partner-status"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-paragraph > p > a",
+    "x": 30,
+    "y": 1626,
+    "w": 93,
+    "h": 20,
+    "text": "agentforce",
+    "href": "/en/insights/edge/agentforcethe-next-level-in-crm"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1785,
+    "w": 312,
+    "h": 189,
+    "text": "Marketing Cloud Next isn't just an update; it's a strategic milestone. It brings"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-sidebar > div.intro-side-anchor > p.anchor-title",
+    "x": 24,
+    "y": 962,
+    "w": 125,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1019,
+    "w": 307,
+    "h": 47,
+    "text": "data is the deciding factor: data360 at the core",
+    "href": "/en/insights/edge/salesforce-partner-day-recap"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1091,
+    "w": 215,
+    "h": 47,
+    "text": "the end of \"no-reply\": 2-way communication with ai",
+    "href": "/en/insights/edge/salesforce-partner-day-recap"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1163,
+    "w": 298,
+    "h": 47,
+    "text": "next-level efficiency: smart upgrades for mcae and mce users",
+    "href": "/en/insights/edge/salesforce-partner-day-recap"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1235,
+    "w": 235,
+    "h": 47,
+    "text": "free for existing customers: key considerations",
+    "href": "/en/insights/edge/salesforce-partner-day-recap"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1307,
+    "w": 275,
+    "h": 47,
+    "text": "our approach: step-by-step transition instead of a hard cut",
+    "href": "/en/insights/edge/salesforce-partner-day-recap"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#data-is-the-deciding-factor-data360-at-the-core",
+    "x": 24,
+    "y": 2082,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "data is the deciding factor: data360 at the core"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2151,
+    "w": 312,
+    "h": 168,
+    "text": "The new Marketing Cloud Next is built entirely on Data360 (formerly Data Cloud)."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2343,
+    "w": 312,
+    "h": 144,
+    "text": "After all, smart and successful AI only works with an absolutely clean data foun"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2511,
+    "w": 312,
+    "h": 168,
+    "text": "In our projects, we consistently see how crucial clean, connected data is for su"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#the-end-of-no-reply-2-way-communication-with-ai",
+    "x": 24,
+    "y": 2707,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "the end of \"no-reply\": 2-way communication with ai"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2776,
+    "w": 312,
+    "h": 120,
+    "text": "By using (Agentforce), communication finally becomes bidirectional. Automated ye"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > a",
+    "x": 95,
+    "y": 2779,
+    "w": 73,
+    "h": 18,
+    "text": "ai agents",
+    "href": "/en/insights/edge/what-are-ai-agents-and-why-is-everyone-suddenly-talking-about-them"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2920,
+    "w": 312,
+    "h": 192,
+    "text": "The major advantage: Every direct customer interaction—like replying to a newsle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3136,
+    "w": 312,
+    "h": 120,
+    "text": "For us, this is the most exciting shift. AI here isn't just a buzzword for conte"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#next-level-efficiency-smart-upgrades-for-mcae-and-mce-users",
+    "x": 24,
+    "y": 3284,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "next-level efficiency: smart upgrades for mcae and mce users"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3379,
+    "w": 312,
+    "h": 168,
+    "text": "The UX for marketers has been modernized from the ground up. Instead of using th"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3571,
+    "w": 312,
+    "h": 312,
+    "text": "For , the workflow becomes noticeably more intuitive. Complex use cases that use"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3907,
+    "w": 312,
+    "h": 240,
+    "text": "For , the native \"on-core\" architecture primarily brings massive architectural s"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#free-for-existing-customers-key-considerations",
+    "x": 24,
+    "y": 4175,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "free for existing customers: key considerations"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4270,
+    "w": 312,
+    "h": 120,
+    "text": "For companies already using MCE or MCAE, there’s great news: Access to Marketing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4414,
+    "w": 312,
+    "h": 240,
+    "text": "The switch means transitioning to a . What your starting volume of credits looks"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#our-approach-step-by-step-transition-instead-of-a-hard-cut",
+    "x": 24,
+    "y": 4682,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "our approach: step-by-step transition instead of a hard cut"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4778,
+    "w": 312,
+    "h": 240,
+    "text": "We definitely do not recommend a hard cut! Transferring everything from the old "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5042,
+    "w": 312,
+    "h": 144,
+    "text": "The best way to start is with a single Business Unit or a specific, newly planne"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5210,
+    "w": 312,
+    "h": 144,
+    "text": "Marketing Cloud Next is intelligent, natively connected, and finally puts the ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5378,
+    "w": 312,
+    "h": 120,
+    "text": "Are you ready to take your marketing to the next level? Let's have a casual chat"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-buttons > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 5554,
+    "w": 196,
+    "h": 64,
+    "text": "get in touch",
+    "href": "/en/about-us/partner/salesforce"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 48,
+    "y": 5778,
+    "w": 112,
+    "h": 112,
+    "text": "portrait gustav onken",
+    "file": "media_186e5a9bfff672b48bee36d7a014ea833c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col.author-col-avatar > div.author-name > p",
+    "x": 48,
+    "y": 5906,
+    "w": 264,
+    "h": 28,
+    "text": "Gustav Onken"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-social > p > a",
+    "x": 48,
+    "y": 5942,
+    "w": 32,
+    "h": 32,
+    "text": "go to gustav onken linkedin",
+    "href": "/in/gustav-onken-1126401b5/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col > div.author-bio > p",
+    "x": 48,
+    "y": 5998,
+    "w": 264,
+    "h": 216,
+    "text": "Gustav has been working as a Salesforce Consultant at diva-e Conclusion for almo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-link > p.link-only > a",
+    "x": 48,
+    "y": 6240,
+    "w": 109,
+    "h": 17,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/gustav-onken"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.related.block > div.related-title > h2#recommended-reads",
+    "x": 24,
+    "y": 6365,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "recommended reads"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 27,
+    "y": 6440,
+    "w": 279,
+    "h": 156,
+    "text": "salesforce tower",
+    "file": "media_1fcb75d7915d3c2d568db570d621b3db7b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 27,
+    "y": 6440,
+    "w": 279,
+    "h": 156,
+    "text": "link",
+    "href": "/en/insights/edge/salesforce-marketing-cloud-engagement-gartner"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 51,
+    "y": 6612,
+    "w": 113,
+    "h": 24,
+    "text": "News & Trends"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 164,
+    "y": 6612,
+    "w": 104,
+    "h": 24,
+    "text": "5 Mar 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 27,
+    "y": 6636,
+    "w": 279,
+    "h": 92,
+    "text": "go to salesforce marketing cloud engagement",
+    "href": "/en/insights/edge/salesforce-marketing-cloud-engagement-gartner"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#salesforce-marketing-cloud-engagement",
+    "x": 27,
+    "y": 6656,
+    "w": 279,
+    "h": 52,
+    "level": 3,
+    "text": "salesforce marketing cloud engagement"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 27,
+    "y": 6754,
+    "w": 279,
+    "h": 72,
+    "text": "For the eighth consecutive year, Salesforce Marketing Cloud has been named a Lea"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 27,
+    "y": 6846,
+    "w": 32,
+    "h": 32,
+    "text": "chetan more profile picture",
+    "file": "media_1e26a1e94faced974674ab5b3a86c7d41e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 75,
+    "y": 6850,
+    "w": 142,
+    "h": 24,
+    "text": "Chetankumar More"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-media > picture > img",
+    "x": 330,
+    "y": 6440,
+    "w": 279,
+    "h": 156,
+    "text": "business meeting",
+    "file": "media_1525ad6a106656f67b7ee4e429a683b4ed"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-media > a.card-media-link",
+    "x": 330,
+    "y": 6440,
+    "w": 279,
+    "h": 156,
+    "text": "link",
+    "href": "/en/insights/edge/salesforce-new-chapter-in-life-sciences"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 354,
+    "y": 6612,
+    "w": 58,
+    "h": 24,
+    "text": "Pharma"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > a.card-link",
+    "x": 330,
+    "y": 6636,
+    "w": 279,
+    "h": 118,
+    "text": "go to new chapter in life sciences: salesforce lsc & agentic enterprise",
+    "href": "/en/insights/edge/salesforce-new-chapter-in-life-sciences"
+   },
+   {
+    "kind": "heading",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-title > h3#new-chapter-in-life-sciences-salesforce-lsc--agentic-enterprise",
+    "x": 330,
+    "y": 6656,
+    "w": 279,
+    "h": 78,
+    "level": 3,
+    "text": "new chapter in life sciences: salesforce lsc & agentic enterprise"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.article-card > div.card-teaser > p",
+    "x": 330,
+    "y": 6754,
+    "w": 279,
+    "h": 72,
+    "text": "On September 15th, the Salesforce Partner Day took place in Munich – and it was "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 330,
+    "y": 6846,
+    "w": 32,
+    "h": 32,
+    "text": "autorenbild oliver mende",
+    "file": "media_1420bd36c05ec9da1245e99f3726fbb899"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 6962,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 6962,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 7014,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7115,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7159,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7203,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 7203,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 7203,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7247,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 7247,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7291,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 7291,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 7291,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7335,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 7335,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 7335,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7379,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 7379,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 7379,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 7463,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7507,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 7584,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 7584,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 7584,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 7645,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 2,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 4,
+    "offPage": 9,
+    "textNodes": 93,
+    "controls": 46,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "n": 2,
+     "clipper": "p",
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "for the eighth consecutive year, salesforce marketing cloud ",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.card-media",
+     "path": "div.related-slide > article.article-card > div.card-media > a.card-media-link",
+     "text": "link",
+     "cutMin": 248,
+     "cutMax": 248
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.related-track",
+     "path": "div.article-meta.has-cats > div.meta-cats > ul > li",
+     "text": "pharma",
+     "cutMin": 52,
+     "cutMax": 52
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.related-track",
+     "path": "div.related-slide > article.article-card > div.card-title > a.card-link",
+     "text": "go to new chapter in life sciences: salesforce lsc & agentic",
+     "cutMin": 248,
+     "cutMax": 248
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.related-track",
+     "path": "div.related-slide > article.article-card > div.card-title > h3#new-chapter-in-life-sciences-salesforce-lsc--agentic-enterprise",
+     "text": "new chapter in life sciences: salesforce lsc & agentic enter",
+     "cutMin": 247,
+     "cutMax": 247
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 7,
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "for the eighth consecutive year, salesforce marketing cloud ",
+     "clipper": "p",
+     "rect": {
+      "l": 27,
+      "t": 6757,
+      "r": 277,
+      "b": 6775,
+      "w": 250,
+      "h": 18
+     },
+     "clip": {
+      "l": 27,
+      "t": 6754,
+      "r": 306,
+      "b": 6826,
+      "w": 279,
+      "h": 72
+     },
+     "lines": 10
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 248,
+     "path": "div.related-slide > article.article-card > div.card-media > a.card-media-link",
+     "text": "link",
+     "clipper": "div.card-media",
+     "rect": {
+      "l": 330,
+      "t": 6440,
+      "r": 608,
+      "b": 6596,
+      "w": 279,
+      "h": 156
+     },
+     "clip": {
+      "l": 330,
+      "t": 6440,
+      "r": 609,
+      "b": 6596,
+      "w": 279,
+      "h": 156
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 52,
+     "path": "div.article-meta.has-cats > div.meta-cats > ul > li",
+     "text": "pharma",
+     "clipper": "div.related-track",
+     "rect": {
+      "l": 354,
+      "t": 6615,
+      "r": 412,
+      "b": 6632,
+      "w": 58,
+      "h": 17
+     },
+     "clip": {
+      "l": 24,
+      "t": 6440,
+      "r": 360,
+      "b": 6878,
+      "w": 336,
+      "h": 438
+     },
+     "lines": 1
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 248,
+     "path": "div.related-slide > article.article-card > div.card-title > a.card-link",
+     "text": "go to new chapter in life sciences: salesforce lsc & agentic",
+     "clipper": "div.related-track",
+     "rect": {
+      "l": 330,
+      "t": 6636,
+      "r": 608,
+      "b": 6754,
+      "w": 279,
+      "h": 118
+     },
+     "clip": {
+      "l": 24,
+      "t": 6440,
+      "r": 360,
+      "b": 6878,
+      "w": 336,
+      "h": 438
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 247,
+     "path": "div.related-slide > article.article-card > div.card-title > h3#new-chapter-in-life-sciences-salesforce-lsc--agentic-enterprise",
+     "text": "new chapter in life sciences: salesforce lsc & agentic enter",
+     "clipper": "div.related-track",
+     "rect": {
+      "l": 330,
+      "t": 6658,
+      "r": 607,
+      "b": 6680,
+      "w": 277,
+      "h": 22
+     },
+     "clip": {
+      "l": 24,
+      "t": 6440,
+      "r": 360,
+      "b": 6878,
+      "w": 336,
+      "h": 438
+     },
+     "lines": 3
+    },
+    {
+     "kind": "TEXT CLAMPED",
+     "advisory": true,
+     "hiddenLines": 4,
+     "path": "div.related-slide > article.article-card > div.card-teaser > p",
+     "text": "on september 15th, the salesforce partner day took place in ",
+     "clipper": "p",
+     "rect": {
+      "l": 330,
+      "t": 6757,
+      "r": 601,
+      "b": 6775,
+      "w": 272,
+      "h": 18
+     },
+     "clip": {
+      "l": 330,
+      "t": 6754,
+      "r": 609,
+      "b": 6826,
+      "w": 279,
+      "h": 72
+     },
+     "lines": 8
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "salesforce partner day recap",
+   "variable": false,
+   "origin": {
+    "link": 7,
+    "button": 1,
+    "text": 5,
+    "image": 1
+   },
+   "eds": {
+    "link": 7,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "data is the deciding factor: data360 at the core",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "the end of \"no-reply\": 2-way communication with ai",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "next-level efficiency: smart upgrades for mcae and mce users",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "free for existing customers: key considerations",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "our approach: step-by-step transition instead of a hard cut",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 6,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "recommended reads",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 2,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 1,
+    "image": 1,
+    "imageHidden": 1
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "salesforce marketing cloud engagement",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 2
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 1,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"salesforce partner day recap\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 76,
+    "y": 592,
+    "w": 129,
+    "h": 18
+   },
+   {
+    "x": 205,
+    "y": 592,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 214,
+    "y": 592,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 616,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 62,
+    "y": 616,
+    "w": 99,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 661,
+    "w": 211,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 690,
+    "w": 119,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 738,
+    "w": 252,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 765,
+    "w": 230,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 832,
+    "w": 104,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 98,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1043,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1084,
+    "w": 217,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1108,
+    "w": 167,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1149,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1173,
+    "w": 158,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1214,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1238,
+    "w": 108,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1279,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1303,
+    "w": 154,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1375,
+    "w": 291,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1402,
+    "w": 273,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1429,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1456,
+    "w": 296,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1483,
+    "w": 291,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1510,
+    "w": 178,
+    "h": 20
+   },
+   {
+    "x": 202,
+    "y": 1510,
+    "w": 88,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1537,
+    "w": 138,
+    "h": 20
+   },
+   {
+    "x": 162,
+    "y": 1537,
+    "w": 164,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1564,
+    "w": 306,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1591,
+    "w": 6,
+    "h": 20
+   },
+   {
+    "x": 30,
+    "y": 1591,
+    "w": 93,
+    "h": 20
+   },
+   {
+    "x": 123,
+    "y": 1591,
+    "w": 187,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1618,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1645,
+    "w": 302,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1672,
+    "w": 282,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1699,
+    "w": 48,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1753,
+    "w": 283,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1780,
+    "w": 294,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1807,
+    "w": 290,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1834,
+    "w": 306,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1861,
+    "w": 296,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1888,
+    "w": 298,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1915,
+    "w": 242,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2046,
+    "w": 309,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2073,
+    "w": 228,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2119,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2143,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2167,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2191,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2215,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2239,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2263,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2311,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2335,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2359,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2383,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2407,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2431,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2479,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2503,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2527,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2551,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2575,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2599,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2623,
+    "w": 109,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2671,
+    "w": 289,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2698,
+    "w": 311,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2744,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 95,
+    "y": 2744,
+    "w": 73,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 2744,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2768,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2792,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2816,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2840,
+    "w": 215,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2888,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2912,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2936,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2960,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2984,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3008,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3032,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3056,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3104,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3128,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3152,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3176,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3200,
+    "w": 166,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3248,
+    "w": 246,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3274,
+    "w": 293,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3301,
+    "w": 168,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3347,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3371,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3395,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3419,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3443,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3467,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3491,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3539,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 3539,
+    "w": 135,
+    "h": 18
+   },
+   {
+    "x": 188,
+    "y": 3539,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3563,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3587,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3611,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3635,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3659,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3683,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3707,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3731,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3755,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3779,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3803,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3827,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3875,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 3875,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 177,
+    "y": 3875,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3899,
+    "w": 263,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3923,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3947,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3971,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3995,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4019,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4043,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4067,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4091,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 246,
+    "y": 4091,
+    "w": 56,
+    "h": 18
+   },
+   {
+    "x": 303,
+    "y": 4091,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4139,
+    "w": 181,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4166,
+    "w": 173,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4192,
+    "w": 167,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4238,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4262,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4286,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4310,
+    "w": 177,
+    "h": 18
+   },
+   {
+    "x": 201,
+    "y": 4310,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4334,
+    "w": 64,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4382,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4406,
+    "w": 53,
+    "h": 18
+   },
+   {
+    "x": 77,
+    "y": 4406,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4430,
+    "w": 35,
+    "h": 18
+   },
+   {
+    "x": 59,
+    "y": 4430,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 321,
+    "y": 4430,
+    "w": 5,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4454,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4478,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4502,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4526,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4550,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4574,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4598,
+    "w": 153,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4646,
+    "w": 267,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4673,
+    "w": 307,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4699,
+    "w": 100,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4746,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4770,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4794,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4818,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4842,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4866,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4890,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4914,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4938,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4962,
+    "w": 173,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5010,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5034,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5058,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5082,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5106,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5130,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5178,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5202,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5226,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5250,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5274,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5298,
+    "w": 101,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5346,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5370,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5394,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5418,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5442,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 5539,
+    "w": 116,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 5873,
+    "w": 130,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 5964,
+    "w": 204,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 5983,
+    "w": 214,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6003,
+    "w": 247,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6022,
+    "w": 212,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6042,
+    "w": 172,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6062,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6081,
+    "w": 226,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6101,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6120,
+    "w": 230,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6140,
+    "w": 261,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6160,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6205,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6329,
+    "w": 239,
+    "h": 28
+   },
+   {
+    "x": 51,
+    "y": 6580,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 162,
+    "y": 6580,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 173,
+    "y": 6580,
+    "w": 94,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 6622,
+    "w": 258,
+    "h": 23
+   },
+   {
+    "x": 27,
+    "y": 6648,
+    "w": 114,
+    "h": 23
+   },
+   {
+    "x": 27,
+    "y": 6722,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 6746,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 6770,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 75,
+    "y": 6818,
+    "w": 142,
+    "h": 18
+   },
+   {
+    "x": 354,
+    "y": 6580,
+    "w": 56,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 6622,
+    "w": 278,
+    "h": 23
+   },
+   {
+    "x": 330,
+    "y": 6648,
+    "w": 239,
+    "h": 23
+   },
+   {
+    "x": 330,
+    "y": 6674,
+    "w": 95,
+    "h": 23
+   },
+   {
+    "x": 330,
+    "y": 6722,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 6746,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 6770,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 6770,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6927,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 6927,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6978,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7011,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7080,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7124,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7168,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 7168,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 7168,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7212,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 7212,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7256,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 7256,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 7256,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7300,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 7300,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 7300,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7344,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 7344,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 7344,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7426,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 7429,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7473,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 76,
+    "y": 592,
+    "w": 123,
+    "h": 17
+   },
+   {
+    "x": 213,
+    "y": 592,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 67,
+    "y": 616,
+    "w": 94,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 661,
+    "w": 207,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 690,
+    "w": 123,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 738,
+    "w": 252,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 765,
+    "w": 230,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 832,
+    "w": 106,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1410,
+    "w": 291,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1437,
+    "w": 273,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1464,
+    "w": 292,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1491,
+    "w": 296,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1518,
+    "w": 291,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1545,
+    "w": 178,
+    "h": 20
+   },
+   {
+    "x": 202,
+    "y": 1545,
+    "w": 88,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1572,
+    "w": 138,
+    "h": 20
+   },
+   {
+    "x": 162,
+    "y": 1572,
+    "w": 164,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1599,
+    "w": 306,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1626,
+    "w": 6,
+    "h": 20
+   },
+   {
+    "x": 30,
+    "y": 1626,
+    "w": 93,
+    "h": 20
+   },
+   {
+    "x": 123,
+    "y": 1626,
+    "w": 187,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1653,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1680,
+    "w": 302,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1707,
+    "w": 282,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1734,
+    "w": 43,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1788,
+    "w": 283,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1815,
+    "w": 294,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1842,
+    "w": 290,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1869,
+    "w": 306,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1896,
+    "w": 296,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1923,
+    "w": 298,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1950,
+    "w": 237,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 93,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 307,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1049,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1091,
+    "w": 215,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1121,
+    "w": 163,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1163,
+    "w": 298,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1193,
+    "w": 164,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1235,
+    "w": 235,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1265,
+    "w": 107,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1307,
+    "w": 275,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1337,
+    "w": 152,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2081,
+    "w": 305,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2108,
+    "w": 222,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2154,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2178,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2202,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2226,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2250,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2274,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2298,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2346,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2370,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2394,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2418,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2442,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2466,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2514,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2538,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2562,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2586,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2610,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2634,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2658,
+    "w": 105,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2706,
+    "w": 284,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2733,
+    "w": 306,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2779,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 95,
+    "y": 2779,
+    "w": 73,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 2779,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2803,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2827,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2851,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2875,
+    "w": 211,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2923,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2947,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2971,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2995,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3019,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3043,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3067,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3091,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3139,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3163,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3187,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3211,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3235,
+    "w": 162,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3283,
+    "w": 310,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3309,
+    "w": 268,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3336,
+    "w": 126,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3382,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3406,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3430,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3454,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3478,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3502,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3526,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3574,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 3574,
+    "w": 135,
+    "h": 18
+   },
+   {
+    "x": 188,
+    "y": 3574,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3598,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3622,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3646,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3670,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3694,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3718,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3742,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3766,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3790,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3814,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3838,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3862,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3910,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 3910,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 177,
+    "y": 3910,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3934,
+    "w": 263,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3958,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3982,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4006,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4030,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4054,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4078,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4102,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4126,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4174,
+    "w": 180,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4201,
+    "w": 175,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4227,
+    "w": 165,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4273,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4297,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4321,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4345,
+    "w": 177,
+    "h": 18
+   },
+   {
+    "x": 201,
+    "y": 4345,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4369,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4417,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4441,
+    "w": 53,
+    "h": 18
+   },
+   {
+    "x": 77,
+    "y": 4441,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4465,
+    "w": 35,
+    "h": 18
+   },
+   {
+    "x": 59,
+    "y": 4465,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 321,
+    "y": 4465,
+    "w": 5,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4489,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4513,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4537,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4561,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4585,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4609,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4633,
+    "w": 149,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4681,
+    "w": 310,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4708,
+    "w": 304,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4734,
+    "w": 38,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4781,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4805,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4829,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4853,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4877,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4901,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4925,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4949,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4973,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4997,
+    "w": 168,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5045,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5069,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5093,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5117,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5141,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5165,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5213,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5237,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5261,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5285,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5309,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5333,
+    "w": 96,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5381,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5405,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5429,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5453,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5477,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 5575,
+    "w": 116,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 5909,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 5999,
+    "w": 204,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6018,
+    "w": 214,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6038,
+    "w": 247,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6057,
+    "w": 212,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6077,
+    "w": 172,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6097,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6116,
+    "w": 226,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6136,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6155,
+    "w": 230,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6175,
+    "w": 261,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6195,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6240,
+    "w": 109,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6364,
+    "w": 244,
+    "h": 27
+   },
+   {
+    "x": 51,
+    "y": 6615,
+    "w": 113,
+    "h": 17
+   },
+   {
+    "x": 179,
+    "y": 6615,
+    "w": 90,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 6658,
+    "w": 254,
+    "h": 22
+   },
+   {
+    "x": 27,
+    "y": 6684,
+    "w": 117,
+    "h": 22
+   },
+   {
+    "x": 27,
+    "y": 6757,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 6781,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 27,
+    "y": 6805,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 75,
+    "y": 6853,
+    "w": 142,
+    "h": 17
+   },
+   {
+    "x": 354,
+    "y": 6615,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 330,
+    "y": 6658,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 330,
+    "y": 6684,
+    "w": 237,
+    "h": 22
+   },
+   {
+    "x": 330,
+    "y": 6710,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 330,
+    "y": 6757,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 6781,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 6805,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 330,
+    "y": 6805,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6962,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 6962,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7014,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7047,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7115,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7159,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7203,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 7203,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 7203,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7247,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 7247,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7291,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 7291,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 7291,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7335,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 7335,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 7335,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7379,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 7379,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 7379,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7461,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 7464,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7508,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

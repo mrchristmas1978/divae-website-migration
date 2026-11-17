@@ -1,0 +1,2231 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T11:28:34.999Z",
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "widths": [
+      1440
+    ],
+    "selectors": [
+      "[class*=\"__title h5\"]",
+      ".page form fieldset",
+      ".page form p",
+      ".page form label",
+      ".cards-block--light .card .btn",
+      ".card__info-title"
+    ],
+    "props": [
+      "height",
+      "fontSize",
+      "lineHeight"
+    ],
+    "allMatches": true,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440
+  ],
+  "selectors": [
+    "[class*=\"__title h5\"]",
+    ".page form fieldset",
+    ".page form p",
+    ".page form label",
+    ".cards-block--light .card .btn",
+    ".card__info-title"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/": {
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7139,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7207,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/": {
+      "1440": {
+        "[class*=\"__title h5\"]": [
+          {
+            "index": 0,
+            "of": 20,
+            "rect": {
+              "x": -107,
+              "y": 3959,
+              "w": 317,
+              "h": 136
+            },
+            "visible": true,
+            "text": "Kyowa Kirin – Rethinking pharmaceutical…",
+            "props": {
+              "height": "124.812px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 20,
+            "rect": {
+              "x": 230,
+              "y": 3947,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "Lünendonk® Survey 2025: diva-e Conclusi…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 20,
+            "rect": {
+              "x": 567,
+              "y": 3935,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "Sirko Schneppe Appointed New CEO of div…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 20,
+            "rect": {
+              "x": 904,
+              "y": 3924,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "diva-e Conclusion startet Marketplace f…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 20,
+            "rect": {
+              "x": 1242,
+              "y": 3912,
+              "w": 317,
+              "h": 136
+            },
+            "visible": true,
+            "text": "diva-e Conclusion and STACKIT Join Forc…",
+            "props": {
+              "height": "124.812px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 20,
+            "rect": {
+              "x": 1579,
+              "y": 3900,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "diva-e Conclusion Migrates AUMOVIO's Di…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 6,
+            "of": 20,
+            "rect": {
+              "x": 1916,
+              "y": 3888,
+              "w": 317,
+              "h": 136
+            },
+            "visible": true,
+            "text": "diva-e Conclusion strengthens SAP exper…",
+            "props": {
+              "height": "124.812px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 7,
+            "of": 20,
+            "rect": {
+              "x": 2253,
+              "y": 3877,
+              "w": 317,
+              "h": 136
+            },
+            "visible": true,
+            "text": "diva-e Conclusion advances to 6th place…",
+            "props": {
+              "height": "124.812px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 8,
+            "of": 20,
+            "rect": {
+              "x": 2590,
+              "y": 3865,
+              "w": 315,
+              "h": 73
+            },
+            "visible": true,
+            "text": "We are Google Premier Partner 2026!",
+            "props": {
+              "height": "62.4062px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 9,
+            "of": 20,
+            "rect": {
+              "x": 2927,
+              "y": 3853,
+              "w": 315,
+              "h": 73
+            },
+            "visible": true,
+            "text": "We are Adobe Solutions Partner Platinum",
+            "props": {
+              "height": "62.4062px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 10,
+            "of": 20,
+            "rect": {
+              "x": 3264,
+              "y": 3841,
+              "w": 317,
+              "h": 136
+            },
+            "visible": true,
+            "text": "Kyowa Kirin – Rethinking pharmaceutical…",
+            "props": {
+              "height": "124.812px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 11,
+            "of": 20,
+            "rect": {
+              "x": 3601,
+              "y": 3830,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "Lünendonk® Survey 2025: diva-e Conclusi…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          }
+        ],
+        ".page form fieldset": [
+          {
+            "index": 0,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5750,
+              "w": 755,
+              "h": 0
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "0px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5750,
+              "w": 755,
+              "h": 87
+            },
+            "visible": true,
+            "text": "Salutation* Mr. Ms. Mx.",
+            "props": {
+              "height": "87px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5837,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "First name Last name*",
+            "props": {
+              "height": "80.2031px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5917,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "E-Mail* Phone",
+            "props": {
+              "height": "80.2031px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5997,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "Company name*",
+            "props": {
+              "height": "80.2031px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6077,
+              "w": 755,
+              "h": 114
+            },
+            "visible": true,
+            "text": "How did you find out about us? Please S…",
+            "props": {
+              "height": "114.203px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 6,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6191,
+              "w": 755,
+              "h": 130
+            },
+            "visible": true,
+            "text": "Your message*",
+            "props": {
+              "height": "130.203px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 7,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6322,
+              "w": 755,
+              "h": 248
+            },
+            "visible": true,
+            "text": "diva-e Digital Value Excellence GmbH (h…",
+            "props": {
+              "height": "247.781px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          }
+        ],
+        ".page form p": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 342,
+              "y": 6354,
+              "w": 755,
+              "h": 118
+            },
+            "visible": true,
+            "text": "diva-e Digital Value Excellence GmbH (h…",
+            "props": {
+              "height": "117.578px",
+              "fontSize": "12px",
+              "lineHeight": "16.8px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 378,
+              "y": 6485,
+              "w": 517,
+              "h": 17
+            },
+            "visible": true,
+            "text": "Important information regarding your re…",
+            "props": {
+              "height": "16.7969px",
+              "fontSize": "12px",
+              "lineHeight": "16.8px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 342,
+              "y": 6550,
+              "w": 96,
+              "h": 17
+            },
+            "visible": true,
+            "text": "*Required fields",
+            "props": {
+              "height": "16.7969px",
+              "fontSize": "12px",
+              "lineHeight": "16.8px"
+            }
+          }
+        ],
+        ".page form label": [
+          {
+            "index": 0,
+            "of": 14,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Formular Typ",
+            "props": {
+              "height": "auto",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 14,
+            "rect": {
+              "x": 342,
+              "y": 5774,
+              "w": 755,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Salutation*",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 14,
+            "rect": {
+              "x": 342,
+              "y": 5798,
+              "w": 58,
+              "h": 39
+            },
+            "visible": true,
+            "text": "Mr.",
+            "props": {
+              "height": "38.7969px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 14,
+            "rect": {
+              "x": 416,
+              "y": 5798,
+              "w": 61,
+              "h": 39
+            },
+            "visible": true,
+            "text": "Ms.",
+            "props": {
+              "height": "38.7969px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 14,
+            "rect": {
+              "x": 493,
+              "y": 5798,
+              "w": 61,
+              "h": 39
+            },
+            "visible": true,
+            "text": "Mx.",
+            "props": {
+              "height": "38.7969px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 14,
+            "rect": {
+              "x": 342,
+              "y": 5861,
+              "w": 358,
+              "h": 16
+            },
+            "visible": true,
+            "text": "First name",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 6,
+            "of": 14,
+            "rect": {
+              "x": 740,
+              "y": 5861,
+              "w": 358,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Last name*",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 7,
+            "of": 14,
+            "rect": {
+              "x": 342,
+              "y": 5941,
+              "w": 358,
+              "h": 16
+            },
+            "visible": true,
+            "text": "E-Mail*",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 8,
+            "of": 14,
+            "rect": {
+              "x": 740,
+              "y": 5941,
+              "w": 358,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Phone",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 9,
+            "of": 14,
+            "rect": {
+              "x": 342,
+              "y": 6021,
+              "w": 755,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Company name*",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 10,
+            "of": 14,
+            "rect": {
+              "x": 342,
+              "y": 6101,
+              "w": 755,
+              "h": 16
+            },
+            "visible": true,
+            "text": "How did you find out about us?",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 11,
+            "of": 14,
+            "rect": {
+              "x": 342,
+              "y": 6215,
+              "w": 755,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Your message*",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          }
+        ],
+        ".cards-block--light .card .btn": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 215,
+              "y": 2234,
+              "w": 84,
+              "h": 30
+            },
+            "visible": true,
+            "text": "Learn more",
+            "props": {
+              "height": "30px",
+              "fontSize": "16px",
+              "lineHeight": "30px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 4,
+            "rect": {
+              "x": 772,
+              "y": 2258,
+              "w": 84,
+              "h": 30
+            },
+            "visible": true,
+            "text": "Learn more",
+            "props": {
+              "height": "30px",
+              "fontSize": "16px",
+              "lineHeight": "30px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 4,
+            "rect": {
+              "x": 215,
+              "y": 2664,
+              "w": 84,
+              "h": 30
+            },
+            "visible": true,
+            "text": "Learn more",
+            "props": {
+              "height": "30px",
+              "fontSize": "16px",
+              "lineHeight": "30px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 4,
+            "rect": {
+              "x": 772,
+              "y": 2616,
+              "w": 84,
+              "h": 30
+            },
+            "visible": true,
+            "text": "Learn more",
+            "props": {
+              "height": "30px",
+              "fontSize": "16px",
+              "lineHeight": "30px"
+            }
+          }
+        ],
+        ".card__info-title": [
+          {
+            "index": 0,
+            "of": 6,
+            "rect": {
+              "x": 215,
+              "y": 1986,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Digital Consulting",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 6,
+            "rect": {
+              "x": 772,
+              "y": 1986,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Digital Experience Platform",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 6,
+            "rect": {
+              "x": 215,
+              "y": 2392,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Digital Marketing",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 6,
+            "rect": {
+              "x": 772,
+              "y": 2392,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Application Management Service",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 6,
+            "rect": {
+              "x": 215,
+              "y": 5423,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "ISO 27001",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 6,
+            "rect": {
+              "x": 772,
+              "y": 5423,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "TISAX",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          }
+        ]
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "1440": {
+        "[class*=\"__title h5\"]": [
+          {
+            "index": 0,
+            "of": 20,
+            "rect": {
+              "x": -108,
+              "y": 3949,
+              "w": 317,
+              "h": 136
+            },
+            "visible": true,
+            "text": "Kyowa Kirin – Rethinking pharmaceutical…",
+            "props": {
+              "height": "124.812px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 20,
+            "rect": {
+              "x": 229,
+              "y": 3937,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "Lünendonk® Survey 2025: diva-e Conclusi…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 20,
+            "rect": {
+              "x": 566,
+              "y": 3926,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "Sirko Schneppe Appointed New CEO of div…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 20,
+            "rect": {
+              "x": 903,
+              "y": 3914,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "diva-e Conclusion startet Marketplace f…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 20,
+            "rect": {
+              "x": 1240,
+              "y": 3902,
+              "w": 317,
+              "h": 136
+            },
+            "visible": true,
+            "text": "diva-e Conclusion and STACKIT Join Forc…",
+            "props": {
+              "height": "124.812px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 20,
+            "rect": {
+              "x": 1578,
+              "y": 3890,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "diva-e Conclusion Migrates AUMOVIO's Di…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 6,
+            "of": 20,
+            "rect": {
+              "x": 1915,
+              "y": 3878,
+              "w": 317,
+              "h": 136
+            },
+            "visible": true,
+            "text": "diva-e Conclusion strengthens SAP exper…",
+            "props": {
+              "height": "124.812px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 7,
+            "of": 20,
+            "rect": {
+              "x": 2252,
+              "y": 3867,
+              "w": 319,
+              "h": 167
+            },
+            "visible": true,
+            "text": "diva-e Conclusion advances to 6th place…",
+            "props": {
+              "height": "156.016px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 8,
+            "of": 20,
+            "rect": {
+              "x": 2589,
+              "y": 3855,
+              "w": 315,
+              "h": 73
+            },
+            "visible": true,
+            "text": "We are Google Premier Partner 2026!",
+            "props": {
+              "height": "62.4062px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 9,
+            "of": 20,
+            "rect": {
+              "x": 2926,
+              "y": 3843,
+              "w": 315,
+              "h": 73
+            },
+            "visible": true,
+            "text": "We are Adobe Solutions Partner Platinum",
+            "props": {
+              "height": "62.4062px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 10,
+            "of": 20,
+            "rect": {
+              "x": 3263,
+              "y": 3831,
+              "w": 317,
+              "h": 136
+            },
+            "visible": true,
+            "text": "Kyowa Kirin – Rethinking pharmaceutical…",
+            "props": {
+              "height": "124.812px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          },
+          {
+            "index": 11,
+            "of": 20,
+            "rect": {
+              "x": 3600,
+              "y": 3820,
+              "w": 316,
+              "h": 104
+            },
+            "visible": true,
+            "text": "Lünendonk® Survey 2025: diva-e Conclusi…",
+            "props": {
+              "height": "93.6094px",
+              "fontSize": "24px",
+              "lineHeight": "31.2px"
+            }
+          }
+        ],
+        ".page form fieldset": [
+          {
+            "index": 0,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5755,
+              "w": 755,
+              "h": 40
+            },
+            "visible": true,
+            "text": "Formular Typ",
+            "props": {
+              "height": "40.2031px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5795,
+              "w": 755,
+              "h": 87
+            },
+            "visible": true,
+            "text": "Salutation* Mr. Ms. Mx.",
+            "props": {
+              "height": "87px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5882,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "First name Last name*",
+            "props": {
+              "height": "80.2031px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5962,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "E-Mail* Phone",
+            "props": {
+              "height": "80.2031px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6042,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "Company name*",
+            "props": {
+              "height": "80.2031px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6123,
+              "w": 755,
+              "h": 114
+            },
+            "visible": true,
+            "text": "How did you find out about us? Please S…",
+            "props": {
+              "height": "114.203px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 6,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6237,
+              "w": 755,
+              "h": 130
+            },
+            "visible": true,
+            "text": "Your message*",
+            "props": {
+              "height": "130.203px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 7,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6367,
+              "w": 755,
+              "h": 269
+            },
+            "visible": true,
+            "text": "diva-e Digital Value Excellence GmbH (h…",
+            "props": {
+              "height": "268.781px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          }
+        ],
+        ".page form p": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 342,
+              "y": 6399,
+              "w": 755,
+              "h": 118
+            },
+            "visible": true,
+            "text": "diva-e Digital Value Excellence GmbH (h…",
+            "props": {
+              "height": "117.578px",
+              "fontSize": "12px",
+              "lineHeight": "16.8px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 378,
+              "y": 6531,
+              "w": 530,
+              "h": 17
+            },
+            "visible": true,
+            "text": "Important information regarding your re…",
+            "props": {
+              "height": "16.7969px",
+              "fontSize": "12px",
+              "lineHeight": "16.8px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 342,
+              "y": 6617,
+              "w": 96,
+              "h": 17
+            },
+            "visible": true,
+            "text": "*Required fields",
+            "props": {
+              "height": "16.7969px",
+              "fontSize": "12px",
+              "lineHeight": "16.8px"
+            }
+          }
+        ],
+        ".page form label": [
+          {
+            "index": 0,
+            "of": 13,
+            "rect": {
+              "x": 342,
+              "y": 5779,
+              "w": 755,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Formular Typ",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 13,
+            "rect": {
+              "x": 342,
+              "y": 5843,
+              "w": 58,
+              "h": 39
+            },
+            "visible": true,
+            "text": "Mr.",
+            "props": {
+              "height": "38.7969px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 13,
+            "rect": {
+              "x": 417,
+              "y": 5843,
+              "w": 62,
+              "h": 39
+            },
+            "visible": true,
+            "text": "Ms.",
+            "props": {
+              "height": "38.7969px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 13,
+            "rect": {
+              "x": 494,
+              "y": 5843,
+              "w": 62,
+              "h": 39
+            },
+            "visible": true,
+            "text": "Mx.",
+            "props": {
+              "height": "38.7969px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 13,
+            "rect": {
+              "x": 342,
+              "y": 5906,
+              "w": 358,
+              "h": 16
+            },
+            "visible": true,
+            "text": "First name",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 13,
+            "rect": {
+              "x": 740,
+              "y": 5906,
+              "w": 358,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Last name*",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 6,
+            "of": 13,
+            "rect": {
+              "x": 342,
+              "y": 5986,
+              "w": 358,
+              "h": 16
+            },
+            "visible": true,
+            "text": "E-Mail*",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 7,
+            "of": 13,
+            "rect": {
+              "x": 740,
+              "y": 5986,
+              "w": 358,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Phone",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 8,
+            "of": 13,
+            "rect": {
+              "x": 342,
+              "y": 6066,
+              "w": 755,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Company name*",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 9,
+            "of": 13,
+            "rect": {
+              "x": 342,
+              "y": 6147,
+              "w": 755,
+              "h": 16
+            },
+            "visible": true,
+            "text": "How did you find out about us?",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 10,
+            "of": 13,
+            "rect": {
+              "x": 342,
+              "y": 6261,
+              "w": 755,
+              "h": 16
+            },
+            "visible": true,
+            "text": "Your message*",
+            "props": {
+              "height": "16.2031px",
+              "fontSize": "12px",
+              "lineHeight": "16.2px"
+            }
+          },
+          {
+            "index": 11,
+            "of": 13,
+            "rect": {
+              "x": 342,
+              "y": 6531,
+              "w": 755,
+              "h": 27
+            },
+            "visible": true,
+            "text": "Important information regarding your re…",
+            "props": {
+              "height": "27px",
+              "fontSize": "20px",
+              "lineHeight": "27px"
+            }
+          }
+        ],
+        ".cards-block--light .card .btn": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 215,
+              "y": 2234,
+              "w": 89,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Learn more",
+            "props": {
+              "height": "24px",
+              "fontSize": "16px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 4,
+            "rect": {
+              "x": 772,
+              "y": 2258,
+              "w": 89,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Learn more",
+            "props": {
+              "height": "24px",
+              "fontSize": "16px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 4,
+            "rect": {
+              "x": 215,
+              "y": 2659,
+              "w": 89,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Learn more",
+            "props": {
+              "height": "24px",
+              "fontSize": "16px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 4,
+            "rect": {
+              "x": 772,
+              "y": 2635,
+              "w": 89,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Learn more",
+            "props": {
+              "height": "24px",
+              "fontSize": "16px",
+              "lineHeight": "24px"
+            }
+          }
+        ],
+        ".card__info-title": [
+          {
+            "index": 0,
+            "of": 6,
+            "rect": {
+              "x": 215,
+              "y": 1986,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Digital Consulting",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 6,
+            "rect": {
+              "x": 772,
+              "y": 1986,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Digital Experience Platform",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 6,
+            "rect": {
+              "x": 215,
+              "y": 2387,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Digital Marketing",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 6,
+            "rect": {
+              "x": 772,
+              "y": 2387,
+              "w": 453,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Application Management Service",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 6,
+            "rect": {
+              "x": 392,
+              "y": 5444,
+              "w": 99,
+              "h": 24
+            },
+            "visible": true,
+            "text": "ISO 27001",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 6,
+            "rect": {
+              "x": 969,
+              "y": 5444,
+              "w": 58,
+              "h": 24
+            },
+            "visible": true,
+            "text": "TISAX",
+            "props": {
+              "height": "24px",
+              "fontSize": "20px",
+              "lineHeight": "24px"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "1440": {
+      "[class*=\"__title h5\"]": {
+        "status": "ok",
+        "countA": 12,
+        "countB": 12,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": -1,
+              "dy": -9,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": -2,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 6,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 7,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 2,
+              "dh": 31
+            },
+            "props": {
+              "height": [
+                "124.812px",
+                "156.016px"
+              ]
+            }
+          },
+          {
+            "index": 8,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 9,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 10,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 11,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".page form fieldset": {
+        "status": "ok",
+        "countA": 8,
+        "countB": 8,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 5,
+              "dw": 0,
+              "dh": 40
+            },
+            "props": {
+              "height": [
+                "0px",
+                "40.2031px"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 45,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 45,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": 45,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": 0,
+              "dy": 45,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": 0,
+              "dy": 46,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 6,
+            "rect": {
+              "dx": 0,
+              "dy": 46,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 7,
+            "rect": {
+              "dx": 0,
+              "dy": 45,
+              "dw": 0,
+              "dh": 21
+            },
+            "props": {
+              "height": [
+                "247.781px",
+                "268.781px"
+              ]
+            }
+          }
+        ]
+      },
+      ".page form p": {
+        "status": "ok",
+        "countA": 3,
+        "countB": 3,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 45,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 46,
+              "dw": 13,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 67,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".page form label": {
+        "status": "ok",
+        "countA": 12,
+        "countB": 12,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 342,
+              "dy": 5779,
+              "dw": 755,
+              "dh": 16
+            },
+            "props": {
+              "height": [
+                "auto",
+                "16.2031px"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 69,
+              "dw": -697,
+              "dh": 23
+            },
+            "props": {
+              "height": [
+                "16.2031px",
+                "38.7969px"
+              ],
+              "fontSize": [
+                "12px",
+                "20px"
+              ],
+              "lineHeight": [
+                "16.2px",
+                "27px"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 75,
+              "dy": 45,
+              "dw": 4,
+              "dh": 0
+            },
+            "props": {
+              "fontSize": [
+                "12px",
+                "20px"
+              ],
+              "lineHeight": [
+                "16.2px",
+                "27px"
+              ]
+            }
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 78,
+              "dy": 45,
+              "dw": 1,
+              "dh": 0
+            },
+            "props": {
+              "fontSize": [
+                "12px",
+                "20px"
+              ],
+              "lineHeight": [
+                "16.2px",
+                "27px"
+              ]
+            }
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": -151,
+              "dy": 108,
+              "dw": 297,
+              "dh": -23
+            },
+            "props": {
+              "height": [
+                "38.7969px",
+                "16.2031px"
+              ]
+            }
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": 398,
+              "dy": 45,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 6,
+            "rect": {
+              "dx": -398,
+              "dy": 125,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 7,
+            "rect": {
+              "dx": 398,
+              "dy": 45,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 8,
+            "rect": {
+              "dx": -398,
+              "dy": 125,
+              "dw": 397,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 9,
+            "rect": {
+              "dx": 0,
+              "dy": 126,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 10,
+            "rect": {
+              "dx": 0,
+              "dy": 160,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 11,
+            "rect": {
+              "dx": 0,
+              "dy": 316,
+              "dw": 0,
+              "dh": 11
+            },
+            "props": {
+              "height": [
+                "16.2031px",
+                "27px"
+              ],
+              "fontSize": [
+                "12px",
+                "20px"
+              ],
+              "lineHeight": [
+                "16.2px",
+                "27px"
+              ]
+            }
+          }
+        ]
+      },
+      ".cards-block--light .card .btn": {
+        "status": "ok",
+        "countA": 4,
+        "countB": 4,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 5,
+              "dh": -6
+            },
+            "props": {
+              "height": [
+                "30px",
+                "24px"
+              ],
+              "lineHeight": [
+                "30px",
+                "24px"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 5,
+              "dh": -6
+            },
+            "props": {
+              "height": [
+                "30px",
+                "24px"
+              ],
+              "lineHeight": [
+                "30px",
+                "24px"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": -5,
+              "dw": 5,
+              "dh": -6
+            },
+            "props": {
+              "height": [
+                "30px",
+                "24px"
+              ],
+              "lineHeight": [
+                "30px",
+                "24px"
+              ]
+            }
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": 19,
+              "dw": 5,
+              "dh": -6
+            },
+            "props": {
+              "height": [
+                "30px",
+                "24px"
+              ],
+              "lineHeight": [
+                "30px",
+                "24px"
+              ]
+            }
+          }
+        ]
+      },
+      ".card__info-title": {
+        "status": "ok",
+        "countA": 6,
+        "countB": 6,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": -5,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": -5,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": 177,
+              "dy": 21,
+              "dw": -354,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": 197,
+              "dy": 21,
+              "dw": -395,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    }
+  },
+  "rootDeltas": {
+    "1440": {
+      "scrollWidth": 0,
+      "scrollHeight": 68
+    }
+  }
+}

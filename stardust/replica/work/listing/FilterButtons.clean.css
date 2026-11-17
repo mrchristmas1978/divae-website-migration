@@ -1,0 +1,23 @@
+:root{--font-slnt-normal:0;--font-slnt-30-positive:30}
+.filter-buttons__btn-list{background-color:#fff;border-radius:12px;bottom:0;height:calc(100% - 32px);left:0;margin:auto;opacity:0;overflow:hidden;padding:0 24px;position:fixed;right:0;top:0;transition:opacity .15s ease-out,z-index .15s ease-out,visibility .15s ease-out;visibility:hidden;width:calc(100% - 32px)}
+.filter-buttons__btn-list.active{opacity:1;transition:opacity .35s ease-out,z-index .35s ease-out,visibility .35s ease-out;visibility:visible;z-index:20}
+@media (min-width:768px){.filter-buttons__btn-list{background-color:transparent;flex-direction:row;gap:20px;height:auto;opacity:1;overflow:visible;padding:0;position:relative;visibility:visible;width:100%}
+}
+.filter-buttons__btn-mobile{font-weight:500;width:100%}
+.filter-buttons--dark .filter-buttons__btn-mobile{color:#fff}
+.filter-buttons--dark .filter-buttons__btn-mobile svg path{fill:#fff!important}
+@media (min-width:768px){.filter-buttons__btn-mobile{display:none}
+}
+.filter-buttons__btn-mobile span{align-items:center;display:flex;gap:16px}
+.filter-buttons__btn-mobile svg{transition:transform .2s ease-out;width:19px}
+.filter-buttons__btn-mobile.active svg{transform:rotateX(180deg)}
+.filter-buttons__btns-container{align-items:flex-start;display:flex;flex-direction:column;gap:16px 0;margin:36px 0 0;max-height:calc(100% - 124px);overflow:auto}
+.filter-buttons__btns-container button{text-align:left}
+@media (min-width:768px){.filter-buttons__btns-container{flex-direction:row;flex-wrap:wrap;gap:20px;margin:0;max-height:100%;overflow:visible}
+}
+.filter-buttons__close{display:flex;font-weight:500;justify-content:space-between;margin-top:36px}
+@media (min-width:768px){.filter-buttons__close{display:none}
+}
+.filter-buttons__close svg{height:32px;width:32px}
+.filter-buttons__close svg path{stroke:#081235}
+

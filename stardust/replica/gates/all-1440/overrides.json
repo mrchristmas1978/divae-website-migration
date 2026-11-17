@@ -1,0 +1,102 @@
+{
+ "index": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 24 visible + 4 edge-clipped; served 24 visible + 4 edge-clipped; origin-visible items not visible served: 2 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en": {
+  "verdict": "marquee-phase",
+  "reason": "partners-bar marquee: only HIDDEN links inside the presence.json variable region (origin 24 visible + 4 edge-clipped; served 24 visible + 4 edge-clipped). units: project-slide-active off 2 = teaser item/image WRAPPER boxes (granularity, every text/link row dx=dy=0), story-cards date hidden 1 (non-required); pixel 2.2 % Δh -1",
+  "at": "2026-11-13"
+ },
+ "en-connect": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 12 visible + 2 edge-clipped; served 12 visible + 2 edge-clipped; origin-visible items not visible served: 0 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 24 visible + 4 edge-clipped; served 24 visible + 4 edge-clipped; origin-visible items not visible served: 1 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us-partner": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 22 visible + 6 edge-clipped; served 24 visible + 4 edge-clipped; origin-visible items not visible served: 0 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us-customers-doerrenberg": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 4 visible + 2 edge-clipped; served 5 visible + 1 edge-clipped; origin-visible items not visible served: 0 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us-customers-sma": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 8 visible + 1 edge-clipped; served 8 visible + 3 edge-clipped; origin-visible items not visible served: 0 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us-customers-wilo": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 6 visible + 0 edge-clipped; served 6 visible + 1 edge-clipped; origin-visible items not visible served: 0 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us-customers-vwfs": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 3 visible + 1 edge-clipped; served 4 visible + 2 edge-clipped; origin-visible items not visible served: 0 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us-customers-unitymedia": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 4 visible + 0 edge-clipped; served 4 visible + 2 edge-clipped; origin-visible items not visible served: 0 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us-customers-siemens": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 4 visible + 1 edge-clipped; served 5 visible + 1 edge-clipped; origin-visible items not visible served: 0 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us-customers-seat": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 3 visible + 1 edge-clipped; served 4 visible + 1 edge-clipped; origin-visible items not visible served: 0 at their own capture instants — same logo/tag set, other phase (gate-all 1440 fix round)",
+  "at": "2026-11-13"
+ },
+ "en-about-us-customers-best4tires": {
+  "verdict": "heading-split",
+  "reason": "MISSING HEADING is a #87 granularity false-red: origin h2 'Managing Complexity with a User-' + squiggle span 'Centric' reads 'user- centric'; the served h2 'managing complexity with a user-centric approach' is visible at the same y 2334; pixel 3.73 % Δh 15",
+  "at": "2026-11-13"
+ },
+ "en-about-us-customers-mann-hummel": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 4 visible + 1 edge-clipped; served 4 visible + 1 edge-clipped — same logo/tag set, other phase (gate-all 1440 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-baby-walz": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 10 visible + 3 edge-clipped; served 10 visible + 2 edge-clipped — same logo/tag set, other phase (gate-all 1440 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-fressnapf": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 4 visible + 1 edge-clipped; served 4 visible + 1 edge-clipped — same logo/tag set, other phase (gate-all 1440 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-terra-canis": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 5 visible + 1 edge-clipped; served 5 visible + 1 edge-clipped — same logo/tag set, other phase (gate-all 1440 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-spinner": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 4 visible + 2 edge-clipped; served 4 visible + 2 edge-clipped — same logo/tag set, other phase (gate-all 1440 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-ravensburger": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 4 visible + 1 edge-clipped; served 4 visible + 1 edge-clipped — same logo/tag set, other phase (gate-all 1440 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-postbank": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 4 visible + 1 edge-clipped; served 3 visible + 2 edge-clipped — same logo/tag set, other phase (gate-all 1440 final round)",
+  "at": "2026-11-14"
+ }
+}

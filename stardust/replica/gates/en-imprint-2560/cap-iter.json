@@ -1,0 +1,163 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T12:09:40.289Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.diva-e.com/en/imprint/",
+      "http://localhost:8791/en-imprint-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "derived: max(2560, largest cap × 1.25)",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.diva-e.com/en/imprint/",
+    "http://localhost:8791/en-imprint-proposed.html"
+  ],
+  "probeNote": "derived: max(2560, largest cap × 1.25)",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > div > div > div.page.storyblok__outline",
+      "isBody": false,
+      "leaves": 41,
+      "w2": 2560
+    },
+    "origins": [],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div > div > div.page.storyblok__outline > div.layout-breadcrumbs.layout-breadcrumbs--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "div > div > div.page.storyblok__outline > div.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "div > div > div.page.storyblok__outline > div.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "div > div > div.page.storyblok__outline > div.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "div > div > div.page.storyblok__outline > div.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": null,
+    "contentFrom": null,
+    "maxCap": 0,
+    "fluid": true,
+    "probeNote": "derived: max(2560, largest cap × 1.25)",
+    "candidates": 95
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.page",
+      "isBody": false,
+      "leaves": 41,
+      "w2": 2560
+    },
+    "origins": [],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.page > div.layout-breadcrumbs.layout-breadcrumbs--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "body > main.page > section.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "body > main.page > section.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "body > main.page > section.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "body > main.page > section.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": null,
+    "contentFrom": null,
+    "maxCap": 0,
+    "fluid": true,
+    "probeNote": "pinned",
+    "candidates": 88
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "fluid on both sides — no wrapper, no shared module cap",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/5",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/5",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/5",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/5",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/5",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/en-imprint-2560/cap-iter.json"
+}

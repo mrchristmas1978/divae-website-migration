@@ -1,0 +1,3949 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T04:55:44.431Z",
+  "width": 360,
+  "variable": [
+   ".partners-bar__partner-container"
+  ],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/services/ams/",
+  "at": "2026-11-14T04:55:21.993Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5053,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 24,
+    "text": "Our services in the field"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 170,
+    "w": 312,
+    "h": 119,
+    "level": 1,
+    "text": "application management service"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__description.richtext > p",
+    "x": 24,
+    "y": 305,
+    "w": 312,
+    "h": 48,
+    "text": "Strategic alignment of your IT infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-wrapper > div.hero__info-container > a.hero__cta.btn",
+    "x": 24,
+    "y": 369,
+    "w": 312,
+    "h": 48,
+    "text": "contact us",
+    "href": "/en/services/ams/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 493,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 493,
+    "w": 189,
+    "h": 24,
+    "text": "application management service",
+    "href": "/en/services/ams/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-container__intro > div.intro-side-container__paragraph.richtext > p",
+    "x": 24,
+    "y": 597,
+    "w": 312,
+    "h": 504,
+    "text": "Your business applications are essential for your business success - you are in "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-container__sidebar--contact-and-anchor.intro-side-container__sidebar > div.intro-side-container__sidebar-anchor > div.anchor-title.dot-blur--16",
+    "x": 24,
+    "y": 1230,
+    "w": 312,
+    "h": 48,
+    "text": "Services in the area of Cloud Consulting"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1295,
+    "w": 312,
+    "h": 60,
+    "text": "application management services",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1372,
+    "w": 162,
+    "h": 30,
+    "text": "cloud consulting",
+    "href": "/en/services/ams/cloud-consulting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1419,
+    "w": 139,
+    "h": 30,
+    "text": "cloud security",
+    "href": "/en/services/ams/cloud-security/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1466,
+    "w": 131,
+    "h": 30,
+    "text": "cybersecurity",
+    "href": "/en/services/ams/cybersecurity/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > h4",
+    "x": 24,
+    "y": 1560,
+    "w": 312,
+    "h": 28,
+    "level": 4,
+    "text": "further services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 1588,
+    "w": 312,
+    "h": 264,
+    "text": "In addition to the central application management services, we also offer you co"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 1852,
+    "w": 312,
+    "h": 384,
+    "text": "Another important service as part of our AMS is cloud security monitoring, in wh"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > h4",
+    "x": 24,
+    "y": 2300,
+    "w": 312,
+    "h": 28,
+    "level": 4,
+    "text": "team and expertise"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 2328,
+    "w": 312,
+    "h": 288,
+    "text": "We support your applications with our AMS team of over 80 Cloud Engineers, Syste"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > h5",
+    "x": 24,
+    "y": 2680,
+    "w": 312,
+    "h": 47,
+    "level": 5,
+    "text": "our customers in the area of application management services"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.partners-bar-item > div.partners-bar-item__slide-item > a.partners-bar-item__slide-item-link",
+    "x": -56,
+    "y": 2796,
+    "w": 101,
+    "h": 101,
+    "text": "go to link",
+    "href": "/en/about-us/customers/wilo/"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.partners-bar-item__slide-item > a.partners-bar-item__slide-item-link > img",
+    "x": -56,
+    "y": 2796,
+    "w": 101,
+    "h": 101,
+    "text": "",
+    "file": "wilo-logo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.partners-bar-item > div.partners-bar-item__slide-item > a.partners-bar-item__slide-item-link",
+    "x": 57,
+    "y": 2792,
+    "w": 101,
+    "h": 101,
+    "text": "go to link",
+    "href": "/en/about-us/customers/carl-zeiss-ag/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.partners-bar-item__slide-item > a.partners-bar-item__slide-item-link > img",
+    "x": 57,
+    "y": 2792,
+    "w": 101,
+    "h": 101,
+    "text": "",
+    "file": "zeiss-logo-rgb"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.partners-bar-item > div.partners-bar-item__slide-item > a.partners-bar-item__slide-item-link",
+    "x": 170,
+    "y": 2787,
+    "w": 101,
+    "h": 101,
+    "text": "go to link",
+    "href": "/en/about-us/customers/amprion/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.partners-bar-item__slide-item > a.partners-bar-item__slide-item-link > img",
+    "x": 170,
+    "y": 2787,
+    "w": 101,
+    "h": 101,
+    "text": "",
+    "file": "amprion-logo-transparent"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.partners-bar-item > div.partners-bar-item__slide-item > a.partners-bar-item__slide-item-link",
+    "x": 283,
+    "y": 2783,
+    "w": 101,
+    "h": 101,
+    "text": "go to link",
+    "href": "/en/about-us/customers/fc-bayern-muenchen/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.partners-bar-item__slide-item > a.partners-bar-item__slide-item-link > img",
+    "x": 283,
+    "y": 2783,
+    "w": 101,
+    "h": 101,
+    "text": "",
+    "file": "fcbayern-wortmarke-3c"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email_salutation_de_informal_1.hs-email_salutation_de_informal_1 > label#label-email_salutation_de_informal_1-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_k2awu > span",
+    "x": 24,
+    "y": 3014,
+    "w": 58,
+    "h": 14,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 24,
+    "y": 3037,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 98,
+    "y": 3037,
+    "w": 61,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 174,
+    "y": 3037,
+    "w": 61,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_firstname.hs-firstname > label#label-firstname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_k2awu > span",
+    "x": 24,
+    "y": 3101,
+    "w": 59,
+    "h": 14,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_lastname.hs-lastname > label#label-lastname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_k2awu > span",
+    "x": 24,
+    "y": 3181,
+    "w": 57,
+    "h": 14,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email.hs-email > label#label-email-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_k2awu > span",
+    "x": 24,
+    "y": 3261,
+    "w": 36,
+    "h": 14,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_phone.hs-phone > label#label-phone-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_k2awu > span",
+    "x": 24,
+    "y": 3341,
+    "w": 36,
+    "h": 14,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_company.hs-company > label#label-company-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_k2awu > span",
+    "x": 24,
+    "y": 3421,
+    "w": 85,
+    "h": 14,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > label#label-wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_k2awu > span",
+    "x": 24,
+    "y": 3502,
+    "w": 176,
+    "h": 14,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > div.input > select#wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_k2awu",
+    "x": 24,
+    "y": 3527,
+    "w": 312,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_which_services.hs-which_services > label#label-which_services-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_k2awu > span",
+    "x": 24,
+    "y": 3616,
+    "w": 77,
+    "h": 14,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.legal-consent-container > div.hs-richtext > p",
+    "x": 24,
+    "y": 3745,
+    "w": 312,
+    "h": 235,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > a",
+    "x": 136,
+    "y": 3914,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "label.hs-form-booleancheckbox-display > span > p",
+    "x": 60,
+    "y": 3994,
+    "w": 270,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-booleancheckbox > label.hs-form-booleancheckbox-display > span",
+    "x": 60,
+    "y": 4040,
+    "w": 276,
+    "h": 32,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > em",
+    "x": 24,
+    "y": 4088,
+    "w": 95,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_submit.hs-submit > div.actions > input.hs-button.primary",
+    "x": 24,
+    "y": 4130,
+    "w": 131,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 4270,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 4270,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 4322,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4423,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4467,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4511,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 4511,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 4511,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4555,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 4555,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4599,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 4599,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 4599,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4643,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 4643,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 4643,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4687,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 4687,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 4687,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 4768,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 4771,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 4815,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 4892,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 4892,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 4892,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 4953,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 4,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 12,
+    "textNodes": 67,
+    "controls": 56,
+    "total": 4
+   },
+   "groups": [
+    {
+     "kind": "CONTROL CLIPPED",
+     "advisory": false,
+     "n": 4,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide--light > div.partners-bar-item > div.partners-bar-item__slide-item > a.partners-bar-item__slide-item-link",
+     "text": "go to link",
+     "cutMin": 4,
+     "cutMax": 16
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/services/ams",
+  "at": "2026-11-14T04:55:44.246Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5041,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 24,
+    "text": "Our services in the field"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#application-management-service",
+    "x": 24,
+    "y": 170,
+    "w": 312,
+    "h": 119,
+    "level": 1,
+    "text": "application management service"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-container > div.hero-description > p",
+    "x": 24,
+    "y": 305,
+    "w": 312,
+    "h": 48,
+    "text": "Strategic alignment of your IT infrastructure"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-actions > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 369,
+    "w": 312,
+    "h": 48,
+    "text": "contact us",
+    "href": "/en/services/ams"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 493,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 86,
+    "y": 493,
+    "w": 185,
+    "h": 24,
+    "text": "application management service",
+    "href": "/en/services/ams"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 597,
+    "w": 312,
+    "h": 504,
+    "text": "Your business applications are essential for your business success - you are in "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-sidebar > div.intro-side-anchor > p.anchor-title",
+    "x": 24,
+    "y": 1186,
+    "w": 312,
+    "h": 48,
+    "text": "Services in the area of Cloud Consulting"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1253,
+    "w": 271,
+    "h": 18,
+    "text": "application management services",
+    "href": "/en/services/ams/application-management-services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1293,
+    "w": 137,
+    "h": 18,
+    "text": "cloud consulting",
+    "href": "/en/services/ams/cloud-consulting"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1333,
+    "w": 117,
+    "h": 18,
+    "text": "cloud security",
+    "href": "/en/services/ams/cloud-security"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1373,
+    "w": 112,
+    "h": 18,
+    "text": "cybersecurity",
+    "href": "/en/services/ams/cybersecurity"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h4#further-services",
+    "x": 24,
+    "y": 1458,
+    "w": 312,
+    "h": 28,
+    "level": 4,
+    "text": "further services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1486,
+    "w": 312,
+    "h": 264,
+    "text": "In addition to the central application management services, we also offer you co"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1750,
+    "w": 312,
+    "h": 384,
+    "text": "Another important service as part of our AMS is cloud security monitoring, in wh"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h4#team-and-expertise",
+    "x": 24,
+    "y": 2198,
+    "w": 312,
+    "h": 28,
+    "level": 4,
+    "text": "team and expertise"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 2226,
+    "w": 312,
+    "h": 288,
+    "text": "We support your applications with our AMS team of over 80 Cloud Engineers, Syste"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h5#our-customers-in-the-area-of-application-management-services",
+    "x": 24,
+    "y": 2578,
+    "w": 312,
+    "h": 47,
+    "level": 5,
+    "text": "our customers in the area of application management services"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-bar-slide.swiper-slide-prev > p > a",
+    "x": -92,
+    "y": 2797,
+    "w": 101,
+    "h": 101,
+    "text": "go to link",
+    "href": "/en/about-us/customers/carl-zeiss-ag"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": -92,
+    "y": 2797,
+    "w": 101,
+    "h": 101,
+    "text": "",
+    "file": "media_11c7aba173f28dc707941288c3c5fd14a2"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-bar-slide.swiper-slide-active > p > a",
+    "x": 21,
+    "y": 2793,
+    "w": 101,
+    "h": 101,
+    "text": "go to link",
+    "href": "/en/about-us/customers/amprion"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 21,
+    "y": 2793,
+    "w": 101,
+    "h": 101,
+    "text": "",
+    "file": "media_1be43012178ba7e149f32684cc8cf88f15"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-bar-slide.swiper-slide-next > p > a",
+    "x": 134,
+    "y": 2789,
+    "w": 101,
+    "h": 101,
+    "text": "go to link",
+    "href": "/en/about-us/customers/fc-bayern-muenchen"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 134,
+    "y": 2789,
+    "w": 101,
+    "h": 101,
+    "text": "",
+    "file": "media_1bea4f382d95e33a717cc79a595dc055f7"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-bar-slide > p > a",
+    "x": 247,
+    "y": 2784,
+    "w": 101,
+    "h": 101,
+    "text": "go to link",
+    "href": "/en/about-us/customers/wilo"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 247,
+    "y": 2784,
+    "w": 101,
+    "h": 101,
+    "text": "",
+    "file": "media_1d166ca38317d917f627c17c3e0247da23"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.partners-bar-slide > p > a",
+    "x": 360,
+    "y": 2780,
+    "w": 101,
+    "h": 101,
+    "text": "go to link",
+    "href": "/en/about-us/customers/carl-zeiss-ag"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 360,
+    "y": 2780,
+    "w": 101,
+    "h": 101,
+    "text": "",
+    "file": "media_11c7aba173f28dc707941288c3c5fd14a2"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > span#fb-email_salutation-1-lbl",
+    "x": 24,
+    "y": 3000,
+    "w": 312,
+    "h": 16,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 24,
+    "y": 3024,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 98,
+    "y": 3024,
+    "w": 62,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 176,
+    "y": 3024,
+    "w": 62,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 3087,
+    "w": 312,
+    "h": 16,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 3167,
+    "w": 312,
+    "h": 16,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 3247,
+    "w": 312,
+    "h": 16,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 3327,
+    "w": 312,
+    "h": 16,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 3407,
+    "w": 312,
+    "h": 16,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 3488,
+    "w": 312,
+    "h": 16,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > select#fb-wie_sind_sie_auf_uns_aufmerksam_geworden-7",
+    "x": 24,
+    "y": 3514,
+    "w": 312,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field.hs-form-field-textarea > label.hs-form-label",
+    "x": 24,
+    "y": 3602,
+    "w": 312,
+    "h": 16,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-legal > div.hs-form-richtext > p",
+    "x": 24,
+    "y": 3732,
+    "w": 312,
+    "h": 235,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > a",
+    "x": 136,
+    "y": 3901,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 3981,
+    "w": 268,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 4027,
+    "w": 276,
+    "h": 34,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > em",
+    "x": 24,
+    "y": 4076,
+    "w": 95,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.hs-form > div.hs-form-actions > input.hs-form-submit",
+    "x": 24,
+    "y": 4118,
+    "w": 130,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 4258,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 4258,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 4310,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4411,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4455,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4499,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 4499,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 4499,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4543,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 4543,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4587,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 4587,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 4587,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4631,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 4631,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 4631,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4675,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 4675,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 4675,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 4759,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4803,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 4880,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 4880,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 4880,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 4941,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 2,
+    "offPage": 11,
+    "textNodes": 67,
+    "controls": 55,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.partners-bar-row.partners-bar-row-top",
+     "path": "div.partners-bar-track > div.partners-bar-slide.swiper-slide-prev > p > a",
+     "text": "",
+     "cutMin": 93,
+     "cutMax": 93
+    },
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.partners-bar-row.partners-bar-row-top",
+     "path": "div.partners-bar-track > div.partners-bar-slide > p > a",
+     "text": "",
+     "cutMin": null,
+     "cutMax": null
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 93,
+     "path": "div.partners-bar-track > div.partners-bar-slide.swiper-slide-prev > p > a",
+     "text": "",
+     "clipper": "div.partners-bar-row.partners-bar-row-top",
+     "rect": {
+      "l": -93,
+      "t": 2797,
+      "r": 7,
+      "b": 2898,
+      "w": 101,
+      "h": 101
+     },
+     "clip": {
+      "l": -4,
+      "t": 2784,
+      "r": 356,
+      "b": 2881,
+      "w": 360,
+      "h": 97
+     }
+    },
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "path": "div.partners-bar-track > div.partners-bar-slide > p > a",
+     "text": "",
+     "clipper": "div.partners-bar-row.partners-bar-row-top",
+     "rect": {
+      "l": 358,
+      "t": 2780,
+      "r": 459,
+      "b": 2880,
+      "w": 101,
+      "h": 101
+     },
+     "clip": {
+      "l": -4,
+      "t": 2784,
+      "r": 356,
+      "b": 2881,
+      "w": 360,
+      "h": 97
+     }
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "application management service",
+   "variable": true,
+   "origin": {
+    "link": 11,
+    "button": 2,
+    "text": 21,
+    "image": 3
+   },
+   "eds": {
+    "link": 11,
+    "linkHidden": 2,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 21,
+    "textHidden": 0,
+    "image": 3,
+    "imageHidden": 2
+   },
+   "findings": [
+    "HIDDEN LINK",
+    "MISSING BUTTON"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🔴",
+   "kind": "HIDDEN LINK",
+   "msg": "×2 links clipped away inside the session-variable region of band \"application management service\"",
+   "band": 1,
+   "n": 2,
+   "variable": true
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"application management service\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 2,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 2,
+  "structural": 1,
+  "missing": 0,
+  "hidden": 2
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 125,
+    "w": 189,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 169,
+    "w": 196,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 209,
+    "w": 218,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 248,
+    "w": 127,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 308,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 332,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 139,
+    "y": 384,
+    "w": 82,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 497,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 497,
+    "w": 189,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 600,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 624,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 648,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 672,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 696,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 720,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 744,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 768,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 792,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 816,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 840,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 864,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 888,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 912,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 936,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 960,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 984,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1008,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1032,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1056,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1080,
+    "w": 116,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 1233,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 1257,
+    "w": 89,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1298,
+    "w": 235,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1328,
+    "w": 80,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1375,
+    "w": 162,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1422,
+    "w": 139,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1469,
+    "w": 131,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1562,
+    "w": 151,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1615,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1639,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1663,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1687,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1711,
+    "w": 192,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1735,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1759,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1783,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1807,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1831,
+    "w": 194,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1879,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1903,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1927,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1951,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1975,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1999,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2023,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2047,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2071,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2095,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2119,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2143,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2167,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2191,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2215,
+    "w": 127,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2302,
+    "w": 180,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 2355,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2379,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2403,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2427,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2451,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2475,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2499,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2523,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2547,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2571,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2595,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2681,
+    "w": 239,
+    "h": 21
+   },
+   {
+    "x": 24,
+    "y": 2704,
+    "w": 287,
+    "h": 21
+   },
+   {
+    "x": 24,
+    "y": 3014,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 3014,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 3047,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 3047,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 191,
+    "y": 3047,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3101,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3181,
+    "w": 57,
+    "h": 14
+   },
+   {
+    "x": 81,
+    "y": 3181,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3261,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 3261,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3341,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3421,
+    "w": 85,
+    "h": 14
+   },
+   {
+    "x": 109,
+    "y": 3421,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3502,
+    "w": 176,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3616,
+    "w": 77,
+    "h": 14
+   },
+   {
+    "x": 101,
+    "y": 3616,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3746,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3763,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3780,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3796,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3813,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3847,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3864,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3880,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3897,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3914,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 3914,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 3914,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3948,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3964,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 3995,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 4012,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 3995,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 4041,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 4057,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4088,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4270,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 4270,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 4321,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 4354,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 4423,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4467,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4511,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 4511,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 4511,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4555,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 4555,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4599,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 4599,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 4599,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4643,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 4643,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 4643,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4687,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 4687,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 4687,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4769,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 4772,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 4816,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 125,
+    "w": 189,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 169,
+    "w": 184,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 209,
+    "w": 217,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 248,
+    "w": 125,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 308,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 332,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 140,
+    "y": 384,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 497,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 86,
+    "y": 497,
+    "w": 185,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 600,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 624,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 648,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 672,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 696,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 720,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 744,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 768,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 792,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 816,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 840,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 864,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 888,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 912,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 936,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 960,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 984,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1008,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1032,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1056,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1080,
+    "w": 116,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1189,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1213,
+    "w": 89,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1253,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1293,
+    "w": 137,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1333,
+    "w": 117,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1373,
+    "w": 112,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1461,
+    "w": 149,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 1513,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1537,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1561,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1585,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1609,
+    "w": 192,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1633,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1657,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1681,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1705,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1729,
+    "w": 194,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1777,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1801,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1825,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1849,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1873,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1897,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1921,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1945,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1969,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1993,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2017,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2041,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2065,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2089,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2113,
+    "w": 127,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2201,
+    "w": 180,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 2253,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2277,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2301,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2325,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2349,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2373,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2397,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2421,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2445,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2469,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2493,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2579,
+    "w": 237,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2602,
+    "w": 282,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 3001,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 3001,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 3034,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 115,
+    "y": 3034,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 193,
+    "y": 3034,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3088,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3168,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 84,
+    "y": 3168,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3248,
+    "w": 35,
+    "h": 14
+   },
+   {
+    "x": 61,
+    "y": 3248,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3328,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3408,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 114,
+    "y": 3408,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3489,
+    "w": 172,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3603,
+    "w": 79,
+    "h": 14
+   },
+   {
+    "x": 105,
+    "y": 3603,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3733,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3750,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3767,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3783,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3800,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3834,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3851,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3867,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3884,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3901,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 3901,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 3901,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3935,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 3951,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 3982,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 3999,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 3982,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 4028,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 4044,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4076,
+    "w": 95,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 4258,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 4258,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 4310,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 4343,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 4411,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4455,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4499,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 4499,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 4499,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4543,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 4543,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4587,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 4587,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 4587,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4631,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 4631,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 4631,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4675,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 4675,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 4675,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4757,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 4760,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 4804,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

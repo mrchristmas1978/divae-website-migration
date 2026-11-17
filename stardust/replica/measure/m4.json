@@ -1,0 +1,1484 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T11:28:02.721Z",
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "selectors": [
+      ".hero",
+      ".text",
+      ".simple-text",
+      ".cards-block--light",
+      ".cards-block--light .card",
+      ".teaser-slider",
+      "[class^=\"slider-cards\"]",
+      ".partners-bar",
+      ".cards-block--dark",
+      ".form-block",
+      ".footer",
+      ".partners-bar h2",
+      ".form-block h2"
+    ],
+    "props": [
+      "height"
+    ],
+    "allMatches": false,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440,
+    360
+  ],
+  "selectors": [
+    ".hero",
+    ".text",
+    ".simple-text",
+    ".cards-block--light",
+    ".cards-block--light .card",
+    ".teaser-slider",
+    "[class^=\"slider-cards\"]",
+    ".partners-bar",
+    ".cards-block--dark",
+    ".form-block",
+    ".footer",
+    ".partners-bar h2",
+    ".form-block h2"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8250,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7139,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8268,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7207,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        ".hero": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 960
+            },
+            "visible": true,
+            "text": "Empowering the Evolution of Experience …",
+            "props": {
+              "height": "960.375px"
+            }
+          }
+        ],
+        ".text": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 960,
+              "w": 360,
+              "h": 660
+            },
+            "visible": true,
+            "text": "Our Goal: Your Long-Term Success The di…",
+            "props": {
+              "height": "660px"
+            }
+          }
+        ],
+        ".simple-text": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1684,
+              "w": 360,
+              "h": 245
+            },
+            "visible": true,
+            "text": "Our Services We call it Total Experienc…",
+            "props": {
+              "height": "244.797px"
+            }
+          }
+        ],
+        ".cards-block--light": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1993,
+              "w": 360,
+              "h": 1636
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "1636.06px"
+            }
+          }
+        ],
+        ".cards-block--light .card": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 24,
+              "y": 1993,
+              "w": 312,
+              "h": 377
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "376.719px"
+            }
+          }
+        ],
+        ".teaser-slider": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 3629,
+              "w": 360,
+              "h": 734
+            },
+            "visible": true,
+            "text": "Our projects ZEISS Development of the Z…",
+            "props": {
+              "height": "733.938px"
+            }
+          }
+        ],
+        "[class^=\"slider-cards\"]": [
+          {
+            "index": 0,
+            "of": 153,
+            "rect": {
+              "x": 0,
+              "y": 4403,
+              "w": 360,
+              "h": 497
+            },
+            "visible": true,
+            "text": "Our stories View More 8 Jan 2026 Kyowa …",
+            "props": {
+              "height": "497.453px"
+            }
+          }
+        ],
+        ".partners-bar": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 4941,
+              "w": 360,
+              "h": 405
+            },
+            "visible": true,
+            "text": "Weour partners Our partners",
+            "props": {
+              "height": "405px"
+            }
+          }
+        ],
+        ".cards-block--dark": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5386,
+              "w": 360,
+              "h": 708
+            },
+            "visible": true,
+            "text": "Our certifications & seals ISO 27001 TI…",
+            "props": {
+              "height": "707.984px"
+            }
+          }
+        ],
+        ".form-block": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6094,
+              "w": 360,
+              "h": 1330
+            },
+            "visible": true,
+            "text": "Get in touch! Salutation* Mr. Ms. Mx. F…",
+            "props": {
+              "height": "1329.77px"
+            }
+          }
+        ],
+        ".footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 7423,
+              "w": 360,
+              "h": 827
+            },
+            "visible": true,
+            "text": "Jobs Whistleblower system Subscribe to …",
+            "props": {
+              "height": "827px"
+            }
+          }
+        ],
+        ".partners-bar h2": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 34,
+              "y": 4978,
+              "w": 44,
+              "h": 33
+            },
+            "visible": true,
+            "text": "We",
+            "props": {
+              "height": "33px"
+            }
+          }
+        ],
+        ".form-block h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 6142,
+              "w": 312,
+              "h": 29
+            },
+            "visible": true,
+            "text": "Get in touch!",
+            "props": {
+              "height": "28.7969px"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".hero": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 1440,
+              "h": 900
+            },
+            "visible": true,
+            "text": "Empowering the Evolution of Experience …",
+            "props": {
+              "height": "900px"
+            }
+          }
+        ],
+        ".text": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 900,
+              "w": 1440,
+              "h": 733
+            },
+            "visible": true,
+            "text": "Our Goal: Your Long-Term Success The di…",
+            "props": {
+              "height": "733.406px"
+            }
+          }
+        ],
+        ".simple-text": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1697,
+              "w": 1440,
+              "h": 185
+            },
+            "visible": true,
+            "text": "Our Services We call it Total Experienc…",
+            "props": {
+              "height": "184.797px"
+            }
+          }
+        ],
+        ".cards-block--light": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1946,
+              "w": 1440,
+              "h": 868
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "868px"
+            }
+          }
+        ],
+        ".cards-block--light .card": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 175,
+              "y": 1946,
+              "w": 533,
+              "h": 382
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "382px"
+            }
+          }
+        ],
+        ".teaser-slider": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 2814,
+              "w": 1440,
+              "h": 714
+            },
+            "visible": true,
+            "text": "Our projects ZEISS Development of the Z…",
+            "props": {
+              "height": "714.391px"
+            }
+          }
+        ],
+        "[class^=\"slider-cards\"]": [
+          {
+            "index": 0,
+            "of": 153,
+            "rect": {
+              "x": 0,
+              "y": 3609,
+              "w": 1440,
+              "h": 507
+            },
+            "visible": true,
+            "text": "Our stories View More 8 Jan 2026 Kyowa …",
+            "props": {
+              "height": "507.062px"
+            }
+          }
+        ],
+        ".partners-bar": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 4196,
+              "w": 1440,
+              "h": 736
+            },
+            "visible": true,
+            "text": "We our partners Our partners",
+            "props": {
+              "height": "736.406px"
+            }
+          }
+        ],
+        ".cards-block--dark": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5012,
+              "w": 1440,
+              "h": 555
+            },
+            "visible": true,
+            "text": "Our certifications & seals ISO 27001 TI…",
+            "props": {
+              "height": "554.797px"
+            }
+          }
+        ],
+        ".form-block": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5567,
+              "w": 1440,
+              "h": 1195
+            },
+            "visible": true,
+            "text": "Get in touch! Salutation* Mr. Ms. Mx. F…",
+            "props": {
+              "height": "1194.59px"
+            }
+          }
+        ],
+        ".footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6761,
+              "w": 1440,
+              "h": 378
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "378px"
+            }
+          }
+        ],
+        ".partners-bar h2": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 679,
+              "y": 4196,
+              "w": 82,
+              "h": 63
+            },
+            "visible": true,
+            "text": "We",
+            "props": {
+              "height": "62.7031px"
+            }
+          }
+        ],
+        ".form-block h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 342,
+              "y": 5687,
+              "w": 755,
+              "h": 47
+            },
+            "visible": true,
+            "text": "Get in touch!",
+            "props": {
+              "height": "46.7969px"
+            }
+          }
+        ]
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        ".hero": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 960
+            },
+            "visible": true,
+            "text": "Empowering the Evolution of Experience …",
+            "props": {
+              "height": "960.375px"
+            }
+          }
+        ],
+        ".text": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 960,
+              "w": 360,
+              "h": 660
+            },
+            "visible": true,
+            "text": "Our Goal: Your Long-Term Success The di…",
+            "props": {
+              "height": "660px"
+            }
+          }
+        ],
+        ".simple-text": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1684,
+              "w": 360,
+              "h": 245
+            },
+            "visible": true,
+            "text": "Our Services We call it Total Experienc…",
+            "props": {
+              "height": "244.797px"
+            }
+          }
+        ],
+        ".cards-block--light": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1993,
+              "w": 360,
+              "h": 1628
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "1628.06px"
+            }
+          }
+        ],
+        ".cards-block--light .card": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 24,
+              "y": 1993,
+              "w": 312,
+              "h": 375
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "374.719px"
+            }
+          }
+        ],
+        ".teaser-slider": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 3621,
+              "w": 360,
+              "h": 734
+            },
+            "visible": true,
+            "text": "Our projects ZEISS Development of the Z…",
+            "props": {
+              "height": "733.938px"
+            }
+          }
+        ],
+        "[class^=\"slider-cards\"]": [
+          {
+            "index": 0,
+            "of": 10,
+            "rect": {
+              "x": 0,
+              "y": 4395,
+              "w": 360,
+              "h": 497
+            },
+            "visible": true,
+            "text": "Our stories View More 8 Jan 2026 Kyowa …",
+            "props": {
+              "height": "497.453px"
+            }
+          }
+        ],
+        ".partners-bar": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 4933,
+              "w": 360,
+              "h": 405
+            },
+            "visible": true,
+            "text": "We our partners Our partners",
+            "props": {
+              "height": "405px"
+            }
+          }
+        ],
+        ".cards-block--dark": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5378,
+              "w": 360,
+              "h": 708
+            },
+            "visible": true,
+            "text": "Our certifications & seals ISO 27001 TI…",
+            "props": {
+              "height": "707.984px"
+            }
+          }
+        ],
+        ".form-block": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6086,
+              "w": 360,
+              "h": 1355
+            },
+            "visible": true,
+            "text": "Get in touch! Formular Typ Salutation* …",
+            "props": {
+              "height": "1355.16px"
+            }
+          }
+        ],
+        ".footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 7441,
+              "w": 360,
+              "h": 827
+            },
+            "visible": true,
+            "text": "Jobs Whistleblower system Subscribe to …",
+            "props": {
+              "height": "827px"
+            }
+          }
+        ],
+        ".partners-bar h2": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 27,
+              "y": 4970,
+              "w": 45,
+              "h": 33
+            },
+            "visible": true,
+            "text": "We",
+            "props": {
+              "height": "33px"
+            }
+          }
+        ],
+        ".form-block h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 6134,
+              "w": 312,
+              "h": 29
+            },
+            "visible": true,
+            "text": "Get in touch!",
+            "props": {
+              "height": "28.7969px"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".hero": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 1440,
+              "h": 900
+            },
+            "visible": true,
+            "text": "Empowering the Evolution of Experience …",
+            "props": {
+              "height": "900px"
+            }
+          }
+        ],
+        ".text": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 900,
+              "w": 1440,
+              "h": 733
+            },
+            "visible": true,
+            "text": "Our Goal: Your Long-Term Success The di…",
+            "props": {
+              "height": "733.406px"
+            }
+          }
+        ],
+        ".simple-text": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1697,
+              "w": 1440,
+              "h": 185
+            },
+            "visible": true,
+            "text": "Our Services We call it Total Experienc…",
+            "props": {
+              "height": "184.797px"
+            }
+          }
+        ],
+        ".cards-block--light": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1946,
+              "w": 1440,
+              "h": 858
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "858px"
+            }
+          }
+        ],
+        ".cards-block--light .card": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 175,
+              "y": 1946,
+              "w": 533,
+              "h": 377
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "377px"
+            }
+          }
+        ],
+        ".teaser-slider": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 2804,
+              "w": 1440,
+              "h": 714
+            },
+            "visible": true,
+            "text": "Our projects ZEISS Development of the Z…",
+            "props": {
+              "height": "714.391px"
+            }
+          }
+        ],
+        "[class^=\"slider-cards\"]": [
+          {
+            "index": 0,
+            "of": 10,
+            "rect": {
+              "x": 0,
+              "y": 3599,
+              "w": 1440,
+              "h": 538
+            },
+            "visible": true,
+            "text": "Our stories View More 8 Jan 2026 Kyowa …",
+            "props": {
+              "height": "538.266px"
+            }
+          }
+        ],
+        ".partners-bar": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 4217,
+              "w": 1440,
+              "h": 736
+            },
+            "visible": true,
+            "text": "We our partners Our partners",
+            "props": {
+              "height": "736.406px"
+            }
+          }
+        ],
+        ".cards-block--dark": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5033,
+              "w": 1440,
+              "h": 555
+            },
+            "visible": true,
+            "text": "Our certifications & seals ISO 27001 TI…",
+            "props": {
+              "height": "554.797px"
+            }
+          }
+        ],
+        ".form-block": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5588,
+              "w": 1440,
+              "h": 1240
+            },
+            "visible": true,
+            "text": "Get in touch! Formular Typ Salutation* …",
+            "props": {
+              "height": "1239.8px"
+            }
+          }
+        ],
+        ".footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6828,
+              "w": 1440,
+              "h": 379
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "379px"
+            }
+          }
+        ],
+        ".partners-bar h2": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 677,
+              "y": 4217,
+              "w": 85,
+              "h": 63
+            },
+            "visible": true,
+            "text": "We",
+            "props": {
+              "height": "62.7031px"
+            }
+          }
+        ],
+        ".form-block h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 342,
+              "y": 5708,
+              "w": 755,
+              "h": 47
+            },
+            "visible": true,
+            "text": "Get in touch!",
+            "props": {
+              "height": "46.7969px"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "360": {
+      ".hero": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".text": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".simple-text": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".cards-block--light": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": -8
+            },
+            "props": {
+              "height": [
+                "1636.06px",
+                "1628.06px"
+              ]
+            }
+          }
+        ]
+      },
+      ".cards-block--light .card": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": -2
+            },
+            "props": {
+              "height": [
+                "376.719px",
+                "374.719px"
+              ]
+            }
+          }
+        ]
+      },
+      ".teaser-slider": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      "[class^=\"slider-cards\"]": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".partners-bar": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".cards-block--dark": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".form-block": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -8,
+              "dw": 0,
+              "dh": 25
+            },
+            "props": {
+              "height": [
+                "1329.77px",
+                "1355.16px"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 18,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".partners-bar h2": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": -7,
+              "dy": -8,
+              "dw": 1,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".form-block h2": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    },
+    "1440": {
+      ".hero": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".text": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".simple-text": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".cards-block--light": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": -10
+            },
+            "props": {
+              "height": [
+                "868px",
+                "858px"
+              ]
+            }
+          }
+        ]
+      },
+      ".cards-block--light .card": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": -5
+            },
+            "props": {
+              "height": [
+                "382px",
+                "377px"
+              ]
+            }
+          }
+        ]
+      },
+      ".teaser-slider": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      "[class^=\"slider-cards\"]": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -10,
+              "dw": 0,
+              "dh": 31
+            },
+            "props": {
+              "height": [
+                "507.062px",
+                "538.266px"
+              ]
+            }
+          }
+        ]
+      },
+      ".partners-bar": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 21,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".cards-block--dark": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 21,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".form-block": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 21,
+              "dw": 0,
+              "dh": 45
+            },
+            "props": {
+              "height": [
+                "1194.59px",
+                "1239.8px"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 67,
+              "dw": 0,
+              "dh": 1
+            },
+            "props": {
+              "height": [
+                "378px",
+                "379px"
+              ]
+            }
+          }
+        ]
+      },
+      ".partners-bar h2": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": -2,
+              "dy": 21,
+              "dw": 3,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".form-block h2": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 21,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    }
+  },
+  "rootDeltas": {
+    "360": {
+      "scrollWidth": 0,
+      "scrollHeight": 18
+    },
+    "1440": {
+      "scrollWidth": 0,
+      "scrollHeight": 68
+    }
+  }
+}

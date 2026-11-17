@@ -1,0 +1,27 @@
+
+Content diff @ 1440px (profile "generic", roots: .page, header, footer)
+root ".page"
+  source: 187 text nodes — 27 headings, 0 eyebrows, 30 CTAs, 130 body; 85 img
+  build: 187 text nodes — 27 headings, 0 eyebrows, 30 CTAs, 130 body; 85 img
+  editable texts (outermost h*/p/ul/ol): source 56 / build 55
+  attributes (placeholder/aria-label/title): source 213 / build 213; icons: source 6 / build 5
+root "header"
+  source: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  build: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 65 / build 65; icons: source 3 / build 3
+root "footer"
+  source: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  build: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 30 / build 33; icons: source 4 / build 4
+
+Findings: 7 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 7
+  🟡 EDITABLE COUNT [.page]: build has 55 outermost editable element(s) vs 56 in the source — fewer outermost editable elements after decoration usually means authored elements were rebuilt/merged — see deploy SKILL.md § Experience Workspace editability contract (run ew-editability-probe.mjs on the build URL for the per-block verdict).
+  🟡 MISSING ICON [.page]: source image viega_logo.png (56×56) at "viega development of the myviega hub as " has no build icon there. A source icon with no build icon at the same anchor — an empty icon box or a dropped glyph; lift the same glyph, file or svg.
+  🟡 ICON MOVED [.page]: source inline svg 0 0 38 31 / 1 shape(s) (24×24) at "our projects zeiss development of the ze" is at "go to previous slide" in the build — same icon, paired by order. Same icon, different anchor — usually a text-less host (a <button> with no label anchors as button#n) or moved anchor text; confirm it sits on the right element, and give an unlabeled interactive host an aria-label.
+  🟡 ICON MOVED [.page]: source inline svg 0 0 38 31 / 1 shape(s) (24×24) at "our projects zeiss development of the ze" is at "go to next slide" in the build — same icon, paired by order. Same icon, different anchor — usually a text-less host (a <button> with no label anchors as button#n) or moved anchor text; confirm it sits on the right element, and give an unlabeled interactive host an aria-label.
+  🟡 EXTRA ARIA-LABEL [footer]: build <nav> aria-label="Footer top" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <nav> aria-label="Footer" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <nav> aria-label="Legal" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).

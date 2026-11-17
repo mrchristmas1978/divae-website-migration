@@ -1,0 +1,474 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-13T12:40:11.481Z",
+  "input": "stardust/current/_dynamics.json",
+  "target": "https://main--a608424f--aemcoder.aem.page",
+  "migrated": null,
+  "knowledge": null,
+  "chrome": null
+ },
+ "rows": [
+  {
+   "id": "a-unknown-third-party-host-www-google-com",
+   "class": "A",
+   "feature": "unknown third-party host www.google.com",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "www.google.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-unknown-third-party-host-px-ads-linkedin-com",
+   "class": "A",
+   "feature": "unknown third-party host px.ads.linkedin.com",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "px.ads.linkedin.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-unknown-third-party-host-api-hubapi-com",
+   "class": "A",
+   "feature": "unknown third-party host api.hubapi.com",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "api.hubapi.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-cms-app-settings-object-nuxt",
+   "class": "A",
+   "feature": "CMS / app settings object __NUXT__",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-unknown-third-party-host-api-storyblok-com",
+   "class": "A",
+   "feature": "unknown third-party host api.storyblok.com",
+   "pages": 4,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "api.storyblok.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "target": null,
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "cr-client-framework-nuxt",
+   "class": "CR",
+   "feature": "client framework nuxt",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-tags-carousel-slider-fr",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide tags-carousel__slider-frame js-frame",
+   "pages": 1,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "Consulting & Innovation",
+    "Solutions & Experiences",
+    "Marketing & Performance",
+    "Data Consulting & Solution"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-swiper-slide-prev-tags-",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide swiper-slide-prev tags-carousel__slider-frame",
+   "pages": 1,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "Marketing & Performance"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-swiper-slide-visible-sw",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide swiper-slide-visible swiper-slide-active",
+   "pages": 1,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "Data Consulting & Solution"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-swiper-slide-visible-sw",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide swiper-slide-visible swiper-slide-next",
+   "pages": 1,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "Managed Cloud Services"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-swiper-slide-visible-ta",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide swiper-slide-visible tags-carousel__slider-frame",
+   "pages": 1,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "Solutions & Experiences"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "f-form-backend-hubspot-forms",
+   "class": "F",
+   "feature": "form backend: HubSpot forms",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "js.hs-scripts.com",
+    "js-na1.hs-scripts.com",
+    "forms.hsforms.com"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "target": "block",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production backend (vendor form id + field mapping)"
+  },
+  {
+   "id": "i18n-locale-variants-de-de-de-de-de",
+   "class": "I18N",
+   "feature": "locale variants de,de,de,de,de",
+   "pages": 1,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "https://www.diva-e.com/de/branchen/b2b-manufacturing/",
+    "https://www.diva-e.com/de/branchen/automotive/",
+    "https://www.diva-e.com/de/branchen/retail/"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "i18n-locale-variants-in",
+   "class": "I18N",
+   "feature": "locale variants in",
+   "pages": 1,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "https://www.linkedin.com/in/jguthmann/"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "t-consent-usercentrics",
+   "class": "T",
+   "feature": "consent: Usercentrics",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "privacy-proxy.usercentrics.eu",
+    "web.cmp.usercentrics.eu",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "CMP domain script reuse on the new host"
+  },
+  {
+   "id": "t-unknown-third-party-host-a-storyblok-com",
+   "class": "T",
+   "feature": "unknown third-party host a.storyblok.com",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "a.storyblok.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "snap.licdn.com",
+    "connect.facebook.net",
+    "ad.doubleclick.net",
+    "googleads.g.doubleclick.net"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-js-hsadspixel-net",
+   "class": "T",
+   "feature": "unknown third-party host js.hsadspixel.net",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "js.hsadspixel.net"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-www-facebook-com",
+   "class": "T",
+   "feature": "unknown third-party host www.facebook.com",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "www.facebook.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-marketing-hubspot-tracking",
+   "class": "T",
+   "feature": "marketing: HubSpot tracking",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "js.hscollectedforms.net",
+    "js.hs-analytics.net",
+    "forms.hscollectedforms.net",
+    "js.hs-banner.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-track-hubspot-com",
+   "class": "T",
+   "feature": "unknown third-party host track.hubspot.com",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "track.hubspot.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-third-party-mount-div-data-ads-portal-id-tag-manager-injec",
+   "class": "T",
+   "feature": "third-party mount <div data-ads-portal-id> (tag-manager-injected widget)",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "data-ads-portal-id data-ads-env data-loader data-hsjs-portal data-hsjs-env data-hsjs-hublet"
+   ],
+   "pattern": "embed-passthrough",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-credential",
+   "status": "pending",
+   "phase": "embeds",
+   "decision": "vendor account ids stay the owner's"
+  },
+  {
+   "id": "v-iframe-without-src-runtime-injected-embed",
+   "class": "V",
+   "feature": "iframe without src (runtime-injected embed)",
+   "pages": 8,
+   "probed": 8,
+   "reach": null,
+   "evidence": [
+    "0×0",
+    "archetype"
+   ],
+   "pattern": "embed-passthrough",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "embeds",
+   "decision": "resolve the runtime src from a rendered capture"
+  }
+ ]
+}

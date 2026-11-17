@@ -1,0 +1,61 @@
+{
+  "a": "stardust/replica/gates/all-360/en-security-quiz/origin.png",
+  "b": "stardust/replica/gates/all-360/en-security-quiz/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 3183,
+    "mode": "overlap"
+  },
+  "heightDelta": 29,
+  "differingPixels": 77596,
+  "pct": 6.77,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/en-security-quiz/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 6.81,
+  "textBoxes": 72,
+  "textPixels": 249682,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 2.6
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 2.2
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0.1
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 3.7
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 24.5
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 6.6
+    },
+    {
+      "y0": 3000,
+      "y1": 3183,
+      "pct": 9.3
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a608424f--aemcoder.aem.page/en/security-quiz"
+  }
+}
