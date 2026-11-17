@@ -1,0 +1,4073 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T05:13:26.678Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/campaigns/pim-voucher/",
+  "at": "2026-11-14T05:13:02.303Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6791,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-container > picture > img.hero__image",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 202,
+    "text": "two people in a storage room, one holding a box, the other p",
+    "file": "800x0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 238,
+    "w": 312,
+    "h": 48,
+    "text": "Exclusive. Without Obligation. For a Short Time Only."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 310,
+    "w": 312,
+    "h": 158,
+    "level": 1,
+    "text": "identify your pim potential – get your free analysis now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__description.richtext > p",
+    "x": 24,
+    "y": 484,
+    "w": 312,
+    "h": 144,
+    "text": "Take the opportunity for a free initial assessment of your current product data "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-wrapper > div.hero__info-container > a.hero__cta.btn",
+    "x": 24,
+    "y": 644,
+    "w": 312,
+    "h": 48,
+    "text": "secure analysis voucher",
+    "href": "/en/campaigns/pim-voucher/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 768,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 768,
+    "w": 73,
+    "h": 24,
+    "text": "pim-voucher",
+    "href": "/en/campaigns/pim-voucher/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.cards-block__tagline--left.cards-block__tagline > h2",
+    "x": 24,
+    "y": 872,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "your free pim deep dive includes"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 982,
+    "w": 180,
+    "h": 180,
+    "text": "bar chart with three ascending bars and a blue upward arrow,",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 1178,
+    "w": 264,
+    "h": 24,
+    "text": "System & Process Analysis"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 1226,
+    "w": 264,
+    "h": 78,
+    "text": "A joint look at your current system landscape and data processes - neutral, targ"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 1384,
+    "w": 180,
+    "h": 180,
+    "text": "bullet eye icon",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 1580,
+    "w": 264,
+    "h": 24,
+    "text": "Strategy workshop"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 1628,
+    "w": 264,
+    "h": 78,
+    "text": "In a compact workshop (max. 2 hours), we analyze your goals, challenges and requ"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 1786,
+    "w": 180,
+    "h": 180,
+    "text": "checklist with two ticks",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 1982,
+    "w": 264,
+    "h": 48,
+    "text": "Concrete recommendations for Action"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 2054,
+    "w": 264,
+    "h": 98,
+    "text": "You receive a customized action plan with clear recommendations for your next st"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 38,
+    "y": 2200,
+    "w": 285,
+    "h": 64,
+    "text": "free analysis voucher",
+    "href": "/en/campaigns/pim-voucher/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 2338,
+    "w": 126,
+    "h": 24,
+    "level": 6,
+    "text": "why pim?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title--italic.mixed-media__info-title > div.no-heading",
+    "x": 24,
+    "y": 2386,
+    "w": 312,
+    "h": 58,
+    "text": "Product Data Makes the Difference"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 2464,
+    "w": 312,
+    "h": 271,
+    "text": "two people in a warehouse setting, one holding a tablet and ",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 2755,
+    "w": 312,
+    "h": 168,
+    "text": "Growing product ranges, more demanding customers and more and more sales channel"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 3063,
+    "w": 180,
+    "h": 180,
+    "text": "four interlocking puzzle pieces, three white and one blue, s",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 3259,
+    "w": 264,
+    "h": 48,
+    "text": "The right system but also the right processes."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 3331,
+    "w": 264,
+    "h": 176,
+    "text": "The right system is often the deciding factor. After all, not all PIMs are the s"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 3588,
+    "w": 180,
+    "h": 180,
+    "text": "performance icon",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 3784,
+    "w": 264,
+    "h": 24,
+    "text": "Faster Time-to-Market"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 3832,
+    "w": 264,
+    "h": 98,
+    "text": "With a PIM system, new products or updates can be rolled out to online stores, c"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 90,
+    "y": 4010,
+    "w": 180,
+    "h": 180,
+    "text": "doodle globe",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__billhead > div.card__billhead-title",
+    "x": 48,
+    "y": 4206,
+    "w": 264,
+    "h": 48,
+    "text": "Scalability & Internationalization"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 48,
+    "y": 4278,
+    "w": 264,
+    "h": 98,
+    "text": "Languages, markets, requirements: A PIM system makes it possible to prepare your"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 24,
+    "y": 4424,
+    "w": 312,
+    "h": 64,
+    "text": "learn more about pim and our services here",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > h2",
+    "x": 24,
+    "y": 4584,
+    "w": 288,
+    "h": 29,
+    "level": 2,
+    "text": "secure your voucher now!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > span",
+    "x": 24,
+    "y": 4663,
+    "w": 307,
+    "h": 90,
+    "text": "Our voucher contingent is limited - secure your chance now for a non-binding PIM"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email_salutation_de_informal_1.hs-email_salutation_de_informal_1 > label#label-email_salutation_de_informal_1-858dcd92-0f82-4892-800e-6408357edea7_form_858dcd92-0f82-4892-800e-6408357edea7_gu0s7 > span",
+    "x": 24,
+    "y": 4829,
+    "w": 58,
+    "h": 14,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 24,
+    "y": 4853,
+    "w": 97,
+    "h": 39,
+    "text": "Dear Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 137,
+    "y": 4853,
+    "w": 100,
+    "h": 39,
+    "text": "Dear Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 24,
+    "y": 4907,
+    "w": 101,
+    "h": 39,
+    "text": "Dear Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_firstname.hs-firstname > label#label-firstname-858dcd92-0f82-4892-800e-6408357edea7_form_858dcd92-0f82-4892-800e-6408357edea7_gu0s7 > span",
+    "x": 24,
+    "y": 4971,
+    "w": 60,
+    "h": 14,
+    "text": "First Name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_lastname.hs-lastname > label#label-lastname-858dcd92-0f82-4892-800e-6408357edea7_form_858dcd92-0f82-4892-800e-6408357edea7_gu0s7 > span",
+    "x": 24,
+    "y": 5051,
+    "w": 59,
+    "h": 14,
+    "text": "Last Name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email.hs-email > label#label-email-858dcd92-0f82-4892-800e-6408357edea7_form_858dcd92-0f82-4892-800e-6408357edea7_gu0s7 > span",
+    "x": 24,
+    "y": 5132,
+    "w": 30,
+    "h": 14,
+    "text": "Email"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_jobtitle.hs-jobtitle > label#label-jobtitle-858dcd92-0f82-4892-800e-6408357edea7_form_858dcd92-0f82-4892-800e-6408357edea7_gu0s7 > span",
+    "x": 24,
+    "y": 5212,
+    "w": 44,
+    "h": 14,
+    "text": "Jobtitle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_company.hs-company > label#label-company-858dcd92-0f82-4892-800e-6408357edea7_form_858dcd92-0f82-4892-800e-6408357edea7_gu0s7 > span",
+    "x": 24,
+    "y": 5292,
+    "w": 52,
+    "h": 14,
+    "text": "Company"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_0-2/unternehmensgro_e__umsatz_.hs-0-2/unternehmensgro_e__umsatz_ > label#label-0-2/unternehmensgro_e__umsatz_-858dcd92-0f82-4892-800e-6408357edea7_form_858dcd92-0f82-4892-800e-6408357edea7_gu0s7 > span",
+    "x": 24,
+    "y": 5372,
+    "w": 79,
+    "h": 14,
+    "text": "Company Size"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_0-2/unternehmensgro_e__umsatz_.hs-0-2/unternehmensgro_e__umsatz_ > div.input > select#0-2/unternehmensgro_e__umsatz_-858dcd92-0f82-4892-800e-6408357edea7_form_858dcd92-0f82-4892-800e-6408357edea7_gu0s7",
+    "x": 24,
+    "y": 5397,
+    "w": 296,
+    "h": 44,
+    "label": "company size",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.legal-consent-container > div.hs-richtext > p",
+    "x": 24,
+    "y": 5485,
+    "w": 312,
+    "h": 134,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "label.hs-form-booleancheckbox-display > span > p",
+    "x": 60,
+    "y": 5634,
+    "w": 270,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates - no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "label.hs-form-booleancheckbox-display > span > p",
+    "x": 60,
+    "y": 5679,
+    "w": 270,
+    "h": 34,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.legal-consent-container > div.hs-richtext > p",
+    "x": 24,
+    "y": 5725,
+    "w": 312,
+    "h": 84,
+    "text": "By submitting this form, I confirm that I have read the Privacy Policy and conse"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > a",
+    "x": 136,
+    "y": 5793,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > em",
+    "x": 24,
+    "y": 5827,
+    "w": 59,
+    "h": 14,
+    "text": "* required"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_submit.hs-submit > div.actions > input.hs-button.primary",
+    "x": 24,
+    "y": 5868,
+    "w": 107,
+    "h": 48,
+    "text": "submit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 6008,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 6008,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 6060,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6161,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6205,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6249,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 6249,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 6249,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6293,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 6293,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6337,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 6337,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 6337,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6381,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 6381,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 6381,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 6425,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 6425,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 6425,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 6506,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 6509,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 6553,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 6630,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 6630,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 6630,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 6691,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 74,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/campaigns/pim-voucher",
+  "at": "2026-11-14T05:13:26.491Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6767,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 202,
+    "text": "two people in a storage room, one holding a box, the other p",
+    "file": "media_182d08e6790af8042711bee5049e01dc0a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 238,
+    "w": 312,
+    "h": 48,
+    "text": "Exclusive. Without Obligation. For a Short Time Only."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#identify-your-pim-potential--get-your-free-analysis-now",
+    "x": 24,
+    "y": 310,
+    "w": 312,
+    "h": 158,
+    "level": 1,
+    "text": "identify your pim potential – get your free analysis now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-container > div.hero-description > p",
+    "x": 24,
+    "y": 484,
+    "w": 312,
+    "h": 144,
+    "text": "Take the opportunity for a free initial assessment of your current product data "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-actions > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 644,
+    "w": 312,
+    "h": 48,
+    "text": "secure analysis voucher",
+    "href": "/en/campaigns/pim-voucher"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 768,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 86,
+    "y": 768,
+    "w": 72,
+    "h": 24,
+    "text": "pim-voucher",
+    "href": "/en/campaigns/pim-voucher"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > div.cards-tagline > h2#your-free-pim-deep-dive-includes",
+    "x": 24,
+    "y": 872,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "your free pim deep dive includes"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 982,
+    "w": 180,
+    "h": 180,
+    "text": "bar chart with three ascending bars and a blue upward arrow,",
+    "file": "media_126ed4ddba828c91cb11a19d1e15977e77"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 1178,
+    "w": 264,
+    "h": 24,
+    "text": "System & Process Analysis"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 1218,
+    "w": 264,
+    "h": 78,
+    "text": "A joint look at your current system landscape and data processes - neutral, targ"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 1376,
+    "w": 180,
+    "h": 180,
+    "text": "bullet eye icon",
+    "file": "media_105dc2a5af46f4876515dbf8201a6697aa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 1572,
+    "w": 264,
+    "h": 24,
+    "text": "Strategy workshop"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 1612,
+    "w": 264,
+    "h": 78,
+    "text": "In a compact workshop (max. 2 hours), we analyze your goals, challenges and requ"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 1770,
+    "w": 180,
+    "h": 180,
+    "text": "checklist with two ticks",
+    "file": "media_1b90b74511725ceaa749570abeab6fc866"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 1966,
+    "w": 264,
+    "h": 72,
+    "text": "Concrete recommendations for Action"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 2054,
+    "w": 264,
+    "h": 98,
+    "text": "You receive a customized action plan with clear recommendations for your next st"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.button-group-buttons > p.button-wrapper > a.button.primary",
+    "x": 37,
+    "y": 2200,
+    "w": 286,
+    "h": 64,
+    "text": "free analysis voucher",
+    "href": "/en/campaigns/pim-voucher"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 2464,
+    "w": 312,
+    "h": 271,
+    "text": "two people in a warehouse setting, one holding a tablet and ",
+    "file": "media_1d7c43ca3c0bee93693fac8c11e292b3fb"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#why-pim",
+    "x": 24,
+    "y": 2338,
+    "w": 127,
+    "h": 24,
+    "level": 6,
+    "text": "why pim?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#product-data-makes-the-difference",
+    "x": 24,
+    "y": 2386,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "product data makes the difference"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 2755,
+    "w": 312,
+    "h": 168,
+    "text": "Growing product ranges, more demanding customers and more and more sales channel"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 3063,
+    "w": 180,
+    "h": 180,
+    "text": "four interlocking puzzle pieces, three white and one blue, s",
+    "file": "media_125d329f3f31617f7d7d3c32a1df53ad4b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 3259,
+    "w": 264,
+    "h": 48,
+    "text": "The right system but also the right processes."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 3323,
+    "w": 264,
+    "h": 176,
+    "text": "The right system is often the deciding factor. After all, not all PIMs are the s"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 3580,
+    "w": 180,
+    "h": 180,
+    "text": "performance icon",
+    "file": "media_16db39ad5a8d6cec24b1df19443968b0a1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 3776,
+    "w": 264,
+    "h": 24,
+    "text": "Faster Time-to-Market"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 3816,
+    "w": 264,
+    "h": 98,
+    "text": "With a PIM system, new products or updates can be rolled out to online stores, c"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 90,
+    "y": 3994,
+    "w": 180,
+    "h": 180,
+    "text": "doodle globe",
+    "file": "media_199cabc82ff7eba503c1b907ae8052994e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 48,
+    "y": 4190,
+    "w": 264,
+    "h": 48,
+    "text": "Scalability & Internationalization"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 48,
+    "y": 4254,
+    "w": 264,
+    "h": 98,
+    "text": "Languages, markets, requirements: A PIM system makes it possible to prepare your"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.button-group-buttons > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 4400,
+    "w": 312,
+    "h": 64,
+    "text": "learn more about pim and our services here",
+    "href": "/en/services/dxp/pim"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > h2#secure-your-voucher-now",
+    "x": 24,
+    "y": 4560,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "secure your voucher now!"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 4636,
+    "w": 312,
+    "h": 96,
+    "text": "Our voucher contingent is limited - secure your chance now for a non-binding PIM"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > span#fb-email_salutation_de_informal_1-1-lbl",
+    "x": 24,
+    "y": 4804,
+    "w": 312,
+    "h": 16,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 24,
+    "y": 4829,
+    "w": 100,
+    "h": 39,
+    "text": "Dear Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 140,
+    "y": 4829,
+    "w": 103,
+    "h": 39,
+    "text": "Dear Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 24,
+    "y": 4883,
+    "w": 103,
+    "h": 39,
+    "text": "Dear Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 4946,
+    "w": 312,
+    "h": 16,
+    "text": "First Name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 5026,
+    "w": 312,
+    "h": 16,
+    "text": "Last Name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 5107,
+    "w": 312,
+    "h": 16,
+    "text": "Email"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 5187,
+    "w": 312,
+    "h": 16,
+    "text": "Jobtitle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 5267,
+    "w": 312,
+    "h": 16,
+    "text": "Company"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 24,
+    "y": 5347,
+    "w": 312,
+    "h": 16,
+    "text": "Company Size"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > select#fb-0-2/unternehmensgro_e__umsatz_-7",
+    "x": 24,
+    "y": 5373,
+    "w": 312,
+    "h": 44,
+    "label": "company size",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-legal > div.hs-form-richtext > p",
+    "x": 24,
+    "y": 5461,
+    "w": 312,
+    "h": 134,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 5610,
+    "w": 268,
+    "h": 34,
+    "text": "Important information regarding your request and organizational updates - no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 60,
+    "y": 5655,
+    "w": 268,
+    "h": 34,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-legal > div.hs-form-richtext > p",
+    "x": 24,
+    "y": 5701,
+    "w": 312,
+    "h": 84,
+    "text": "By submitting this form, I confirm that I have read the Privacy Policy and conse"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > a",
+    "x": 136,
+    "y": 5769,
+    "w": 82,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > em",
+    "x": 24,
+    "y": 5803,
+    "w": 59,
+    "h": 14,
+    "text": "* required"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.hs-form > div.hs-form-actions > input.hs-form-submit",
+    "x": 24,
+    "y": 5844,
+    "w": 106,
+    "h": 48,
+    "text": "submit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 5984,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 5984,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 6036,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6137,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6181,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6225,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 6225,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 6225,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6269,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 6269,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6313,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 6313,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 6313,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6357,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 6357,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 6357,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6401,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 6401,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 6401,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 6485,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 6529,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 6606,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 6606,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 6606,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 6667,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 74,
+    "controls": 37,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "identify your pim potential – get your free analysis now",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "your free pim deep dive includes",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 14,
+    "image": 7
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 7,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "secure your voucher now!",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 16,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 16,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"identify your pim potential – get your free analysis now\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"product data makes the difference\" (y 2386) has no origin heading",
+   "text": "product data makes the difference"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 2,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 241,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 265,
+    "w": 133,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 309,
+    "w": 295,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 348,
+    "w": 252,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 388,
+    "w": 307,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 427,
+    "w": 77,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 487,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 511,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 535,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 559,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 583,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 607,
+    "w": 150,
+    "h": 18
+   },
+   {
+    "x": 88,
+    "y": 659,
+    "w": 184,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 772,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 772,
+    "w": 73,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 872,
+    "w": 274,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 901,
+    "w": 93,
+    "h": 28
+   },
+   {
+    "x": 55,
+    "y": 1178,
+    "w": 250,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 1227,
+    "w": 233,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1246,
+    "w": 218,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1266,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1285,
+    "w": 208,
+    "h": 16
+   },
+   {
+    "x": 92,
+    "y": 1580,
+    "w": 176,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 1629,
+    "w": 264,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1649,
+    "w": 261,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1668,
+    "w": 233,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1688,
+    "w": 94,
+    "h": 16
+   },
+   {
+    "x": 52,
+    "y": 1982,
+    "w": 256,
+    "h": 23
+   },
+   {
+    "x": 133,
+    "y": 2006,
+    "w": 94,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 2055,
+    "w": 253,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2075,
+    "w": 249,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2095,
+    "w": 222,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2114,
+    "w": 190,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2134,
+    "w": 227,
+    "h": 16
+   },
+   {
+    "x": 78,
+    "y": 2220,
+    "w": 205,
+    "h": 23
+   },
+   {
+    "x": 56,
+    "y": 2338,
+    "w": 94,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 2386,
+    "w": 269,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2415,
+    "w": 120,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2758,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2782,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2806,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2830,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2854,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2878,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2902,
+    "w": 154,
+    "h": 18
+   },
+   {
+    "x": 62,
+    "y": 3259,
+    "w": 235,
+    "h": 23
+   },
+   {
+    "x": 88,
+    "y": 3283,
+    "w": 185,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 3332,
+    "w": 259,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3352,
+    "w": 240,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3372,
+    "w": 225,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3391,
+    "w": 232,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3411,
+    "w": 213,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3430,
+    "w": 260,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3450,
+    "w": 249,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3469,
+    "w": 220,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3489,
+    "w": 60,
+    "h": 16
+   },
+   {
+    "x": 76,
+    "y": 3784,
+    "w": 209,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 3833,
+    "w": 245,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3852,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3872,
+    "w": 263,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3891,
+    "w": 255,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3911,
+    "w": 131,
+    "h": 16
+   },
+   {
+    "x": 121,
+    "y": 4206,
+    "w": 119,
+    "h": 23
+   },
+   {
+    "x": 89,
+    "y": 4230,
+    "w": 182,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 4279,
+    "w": 252,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4298,
+    "w": 218,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4318,
+    "w": 259,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4337,
+    "w": 206,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4357,
+    "w": 67,
+    "h": 16
+   },
+   {
+    "x": 75,
+    "y": 4432,
+    "w": 210,
+    "h": 23
+   },
+   {
+    "x": 76,
+    "y": 4456,
+    "w": 207,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4584,
+    "w": 288,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4663,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4687,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4711,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4735,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4829,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 4829,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 4863,
+    "w": 63,
+    "h": 18
+   },
+   {
+    "x": 154,
+    "y": 4863,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 41,
+    "y": 4917,
+    "w": 67,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4971,
+    "w": 60,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5051,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 5051,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5132,
+    "w": 30,
+    "h": 14
+   },
+   {
+    "x": 54,
+    "y": 5132,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5212,
+    "w": 44,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5292,
+    "w": 52,
+    "h": 14
+   },
+   {
+    "x": 76,
+    "y": 5292,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5372,
+    "w": 79,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5486,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5503,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5520,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5537,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5554,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5587,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5604,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5635,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5651,
+    "w": 250,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5635,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5680,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5697,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5680,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5726,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5743,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5759,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5776,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5793,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 5793,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 5793,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5827,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 6008,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 6008,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6059,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 6092,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 6161,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6205,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6249,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 6249,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 6249,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6293,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 6293,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6337,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 6337,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 6337,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6381,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 6381,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 6381,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6425,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 6425,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 6425,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6507,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 6510,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6554,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 241,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 265,
+    "w": 133,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 309,
+    "w": 284,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 348,
+    "w": 249,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 388,
+    "w": 312,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 427,
+    "w": 74,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 487,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 511,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 535,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 559,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 583,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 607,
+    "w": 150,
+    "h": 18
+   },
+   {
+    "x": 88,
+    "y": 659,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 772,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 86,
+    "y": 772,
+    "w": 72,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 872,
+    "w": 280,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 901,
+    "w": 92,
+    "h": 27
+   },
+   {
+    "x": 51,
+    "y": 1179,
+    "w": 258,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 1219,
+    "w": 233,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1238,
+    "w": 218,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1258,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1277,
+    "w": 208,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 1573,
+    "w": 182,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 1613,
+    "w": 264,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1633,
+    "w": 261,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1652,
+    "w": 233,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 1672,
+    "w": 94,
+    "h": 16
+   },
+   {
+    "x": 136,
+    "y": 1967,
+    "w": 89,
+    "h": 22
+   },
+   {
+    "x": 78,
+    "y": 1991,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 149,
+    "y": 2015,
+    "w": 61,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 2055,
+    "w": 253,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2075,
+    "w": 249,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2095,
+    "w": 222,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2114,
+    "w": 190,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 2134,
+    "w": 227,
+    "h": 16
+   },
+   {
+    "x": 77,
+    "y": 2221,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 56,
+    "y": 2339,
+    "w": 95,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 2386,
+    "w": 265,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2415,
+    "w": 113,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2758,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2782,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2806,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2830,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2854,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2878,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2902,
+    "w": 154,
+    "h": 18
+   },
+   {
+    "x": 57,
+    "y": 3260,
+    "w": 245,
+    "h": 22
+   },
+   {
+    "x": 84,
+    "y": 3284,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 3324,
+    "w": 259,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3344,
+    "w": 240,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3364,
+    "w": 225,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3383,
+    "w": 232,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3403,
+    "w": 213,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3422,
+    "w": 260,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3442,
+    "w": 249,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3461,
+    "w": 220,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3481,
+    "w": 60,
+    "h": 16
+   },
+   {
+    "x": 70,
+    "y": 3777,
+    "w": 219,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 3817,
+    "w": 245,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3836,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3856,
+    "w": 263,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3875,
+    "w": 255,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 3895,
+    "w": 131,
+    "h": 16
+   },
+   {
+    "x": 122,
+    "y": 4191,
+    "w": 117,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 4215,
+    "w": 184,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 4255,
+    "w": 252,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4274,
+    "w": 218,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4294,
+    "w": 259,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4313,
+    "w": 206,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4333,
+    "w": 67,
+    "h": 16
+   },
+   {
+    "x": 77,
+    "y": 4409,
+    "w": 207,
+    "h": 22
+   },
+   {
+    "x": 75,
+    "y": 4433,
+    "w": 210,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4560,
+    "w": 287,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4639,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4663,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4687,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4711,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4805,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 82,
+    "y": 4805,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 41,
+    "y": 4839,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 157,
+    "y": 4839,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 41,
+    "y": 4893,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4947,
+    "w": 61,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5027,
+    "w": 60,
+    "h": 14
+   },
+   {
+    "x": 86,
+    "y": 5027,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5108,
+    "w": 31,
+    "h": 14
+   },
+   {
+    "x": 57,
+    "y": 5108,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5188,
+    "w": 40,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5268,
+    "w": 53,
+    "h": 14
+   },
+   {
+    "x": 79,
+    "y": 5268,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5348,
+    "w": 81,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5462,
+    "w": 294,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5479,
+    "w": 288,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5496,
+    "w": 310,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5513,
+    "w": 245,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5530,
+    "w": 100,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5563,
+    "w": 305,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5580,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5611,
+    "w": 262,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5627,
+    "w": 250,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5611,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5656,
+    "w": 251,
+    "h": 14
+   },
+   {
+    "x": 60,
+    "y": 5673,
+    "w": 151,
+    "h": 14
+   },
+   {
+    "x": 330,
+    "y": 5656,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5702,
+    "w": 292,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5719,
+    "w": 304,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5735,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5752,
+    "w": 309,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5769,
+    "w": 112,
+    "h": 14
+   },
+   {
+    "x": 136,
+    "y": 5769,
+    "w": 82,
+    "h": 14
+   },
+   {
+    "x": 218,
+    "y": 5769,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5803,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 5984,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 5984,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6036,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 6069,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 6137,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6181,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6225,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 6225,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 6225,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6269,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 6269,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6313,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 6313,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 6313,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6357,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 6357,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 6357,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6401,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 6401,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 6401,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 6483,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 6486,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 6530,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

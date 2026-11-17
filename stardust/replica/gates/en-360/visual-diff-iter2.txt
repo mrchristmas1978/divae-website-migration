@@ -1,0 +1,1678 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/en-360/vdiff-iter2/
+
+build red flags (advisory): 
+  • FONT MISMATCH: heading "Empowering the Evolution of Expe" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Our Goal: Your Long-Term Success" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Our Services" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Our projects" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Our stories" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "We" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "our partners" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Our certifications & seals" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Get in touch!" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FLUSH-LEFT TEXT: <p> "Development of the ZEISS VIS" sits at left -2976px (no padding). Left-anchored text at the viewport edge — likely a dropped max-width / centering container.
+  • FLUSH-LEFT TEXT: <p> "Flexible e-food platform for" sits at left -2640px (no padding). Left-anchored text at the viewport edge — likely a dropped max-width / centering container.
+  • FLUSH-LEFT TEXT: <p> "Digital platforms & agile so" sits at left -2304px (no padding). Left-anchored text at the viewport edge — likely a dropped max-width / centering container.
+  • FLUSH-LEFT TEXT: <p> "With over 140 experiments an" sits at left -1632px (no padding). Left-anchored text at the viewport edge — likely a dropped max-width / centering container.
+  • FLUSH-LEFT TEXT: <p> "diva-e Conclusion has been s" sits at left -1296px (no padding). Left-anchored text at the viewport edge — likely a dropped max-width / centering container.
+  • FLUSH-LEFT TEXT: <p> "Development of an innovative" sits at left -960px (no padding). Left-anchored text at the viewport edge — likely a dropped max-width / centering container.
+  • FLUSH-LEFT TEXT: <p> "Mobile-first CMS relaunch fo" sits at left -624px (no padding). Left-anchored text at the viewport edge — likely a dropped max-width / centering container.
+  • FLUSH-LEFT TEXT: <p> "Development of the myViega H" sits at left -288px (no padding). Left-anchored text at the viewport edge — likely a dropped max-width / centering container.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 7443,
+  "textLen": 7449,
+  "images": [
+   {
+    "src": "800x0",
+    "natural": "800x939",
+    "rendered": "360x202",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "aldi_sud_2017_logo-svg.png",
+    "natural": "0x0",
+    "rendered": "150x150",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "viega_logo.png",
+    "natural": "0x0",
+    "rendered": "150x150",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "774x",
+    "natural": "0x0",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "adobe-logo.webp",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "spryker-partner-badge_platinum_2021.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "salesforce_logo_rgb_1797c0_8_13_14.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sap-gold.svg",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "logo_msft.webp",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "google-partner-premier-2024.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "adobe-logo.webp",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "spryker-partner-badge_platinum_2021.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "salesforce_logo_rgb_1797c0_8_13_14.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sap-gold.svg",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "logo_msft.webp",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "google-partner-premier-2024.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "adobe-logo.webp",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "spryker-partner-badge_platinum_2021.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "salesforce_logo_rgb_1797c0_8_13_14.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "sap-gold.svg",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "logo_msft.webp",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "google-partner-premier-2024.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "logo_akeneo_500x500px.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "commercetools-474x267.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "scayle-logo.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "vtex-474x267.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "stibo-systems-474x267.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "bloomreach-primary-linear-logo.svg",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "crownpeak_full-color.webp",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "en_storyblok-platinum-partner-badge.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "dotcms_logo_900x505.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "logo-pimcore.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "algolia-logo-300x74px.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "logo_akeneo_500x500px.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "commercetools-474x267.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "scayle-logo.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "vtex-474x267.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "stibo-systems-474x267.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "bloomreach-primary-linear-logo.svg",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "crownpeak_full-color.webp",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "en_storyblok-platinum-partner-badge.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "dotcms_logo_900x505.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "logo-pimcore.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "algolia-logo-300x74px.png",
+    "natural": "0x0",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "",
+    "natural": "0x0",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": true
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Empowering the Evolution of Expe",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our Goal: Your Long-Term Success",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "30px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our Services",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our projects",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our stories",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "We",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "30px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "our partners",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "30px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our certifications & seals",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Get in touch!",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "hero__description",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "text__headline",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "text__description",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__row-paragraph--large",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "teaser-slider__label",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "teaser-slider-item__text",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "teaser-slider-item__text",
+    "width": 312,
+    "left": 360
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 7460,
+  "textLen": 8511,
+  "images": [
+   {
+    "src": "strategic-technology-decisions-with-fore-5246-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "financeguide_en_956x554-6a25-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-600x.png",
+    "natural": "600x338",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "interamt_956x554px-ba20-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en-security-guide_956x554-c39f-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-playbook_956x554px-0c00-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "mobile2-modified-1696-800x0.jpg",
+    "natural": "800x939",
+    "rendered": "360x202",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "carl-zeiss-ag-referenz-diva-e-adobe-targ-bdd8-500x0.webp",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "800x800_edeka_alle_projekte_projektueber-f2b5-500x0.jpeg",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "diva-e-dmtech-182e-500x0.webp",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "image-1-9ca4-500x0.png",
+    "natural": "500x333",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "aldi_sud_2017_logo-svg-5027.png",
+    "natural": "164x198",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "e-on-referenz-diva-e-adobe-target-c9b3-500x0.png",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "weleda-b661-500x0.png",
+    "natural": "500x330",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "800x800_schott_alle_projekte_projektuebe-58af-500x0.webp",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "quadrat_fcb_800x8000px-887c-500x0.png",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1093678798-f454-500x0.jpg",
+    "natural": "500x333",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "viega_logo-cecb.png",
+    "natural": "1920x1633",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "carl-zeiss-ag-referenz-diva-e-adobe-targ-bdd8-500x0.webp",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "800x800_edeka_alle_projekte_projektueber-f2b5-500x0.jpeg",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "diva-e-dmtech-182e-500x0.webp",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "image-1-9ca4-500x0.png",
+    "natural": "500x333",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "aldi_sud_2017_logo-svg-5027.png",
+    "natural": "164x198",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "e-on-referenz-diva-e-adobe-target-c9b3-500x0.png",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "weleda-b661-500x0.png",
+    "natural": "500x330",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "800x800_schott_alle_projekte_projektuebe-58af-500x0.webp",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "quadrat_fcb_800x8000px-887c-500x0.png",
+    "natural": "500x500",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1093678798-f454-500x0.jpg",
+    "natural": "500x333",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "viega_logo-cecb.png",
+    "natural": "1920x1633",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "kyowa-news-ad6c-500x0.png",
+    "natural": "500x292",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sirko_474x267-274f-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "marketplace-news-2_474x267-c1f5-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stackit_474x267px-8-39c4-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "aumovio-news-7225-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sap-partner-grouping-c373-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "munich-headquarter_474x267px-df7d-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "google-partner-status-news-2026-ed70-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "adobe-solution-partner-platinum-2378-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "kyowa-news-ad6c-500x0.png",
+    "natural": "500x292",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sirko_474x267-274f-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "marketplace-news-2_474x267-c1f5-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stackit_474x267px-8-39c4-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "aumovio-news-7225-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sap-partner-grouping-c373-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "munich-headquarter_474x267px-df7d-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "google-partner-status-news-2026-ed70-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "adobe-solution-partner-platinum-2378-500x0.png",
+    "natural": "500x282",
+    "rendered": "219x123",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "adobe-logo-a800.webp",
+    "natural": "1024x576",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "spryker-partner-badge_platinum_2021-c3c6.png",
+    "natural": "247x100",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "salesforce_logo_rgb_1797c0_8_13_14-fe18.png",
+    "natural": "1134x794",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sap-gold-41b3.svg",
+    "natural": "300x120",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo_msft-82e4.webp",
+    "natural": "1536x660",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "google-partner-premier-2024-0fd0.png",
+    "natural": "317x304",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "adobe-logo-a800.webp",
+    "natural": "1024x576",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "spryker-partner-badge_platinum_2021-c3c6.png",
+    "natural": "247x100",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "salesforce_logo_rgb_1797c0_8_13_14-fe18.png",
+    "natural": "1134x794",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sap-gold-41b3.svg",
+    "natural": "300x120",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo_msft-82e4.webp",
+    "natural": "1536x660",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "google-partner-premier-2024-0fd0.png",
+    "natural": "317x304",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "adobe-logo-a800.webp",
+    "natural": "1024x576",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "spryker-partner-badge_platinum_2021-c3c6.png",
+    "natural": "247x100",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "salesforce_logo_rgb_1797c0_8_13_14-fe18.png",
+    "natural": "1134x794",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "sap-gold-41b3.svg",
+    "natural": "300x120",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo_msft-82e4.webp",
+    "natural": "1536x660",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "google-partner-premier-2024-0fd0.png",
+    "natural": "317x304",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo_akeneo_500x500px-b23f.png",
+    "natural": "500x500",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "commercetools-474x267-be8f.png",
+    "natural": "474x267",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "scayle-logo-f041.png",
+    "natural": "720x346",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "vtex-474x267-af34.png",
+    "natural": "474x267",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stibo-systems-474x267-a0e7.png",
+    "natural": "474x267",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bloomreach-primary-linear-logo-1dd2.svg",
+    "natural": "300x65",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "crownpeak_full-color-f2c4.webp",
+    "natural": "1536x480",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en_storyblok-platinum-partner-badge-8d3c.png",
+    "natural": "2904x1000",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dotcms_logo_900x505-9c8e.png",
+    "natural": "900x505",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo-pimcore-b2e0.png",
+    "natural": "666x375",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "algolia-logo-300x74px-5bdd.png",
+    "natural": "300x74",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo_akeneo_500x500px-b23f.png",
+    "natural": "500x500",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "commercetools-474x267-be8f.png",
+    "natural": "474x267",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "scayle-logo-f041.png",
+    "natural": "720x346",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "vtex-474x267-af34.png",
+    "natural": "474x267",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "stibo-systems-474x267-a0e7.png",
+    "natural": "474x267",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "bloomreach-primary-linear-logo-1dd2.svg",
+    "natural": "300x65",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "crownpeak_full-color-f2c4.webp",
+    "natural": "1536x480",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en_storyblok-platinum-partner-badge-8d3c.png",
+    "natural": "2904x1000",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dotcms_logo_900x505-9c8e.png",
+    "natural": "900x505",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo-pimcore-b2e0.png",
+    "natural": "666x375",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "algolia-logo-300x74px-5bdd.png",
+    "natural": "300x74",
+    "rendered": "101x101",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "iso-27001-ef8b.png",
+    "natural": "227x207",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "tisax-c0dc.png",
+    "natural": "227x207",
+    "rendered": "180x180",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Empowering the Evolution of Expe",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Our Goal: Your Long-Term Success",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "30px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Our Services",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Our projects",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Our stories",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "We",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "30px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "our partners",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "30px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Our certifications & seals",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Get in touch!",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [
+   {
+    "tag": "p",
+    "text": "Development of the ZEISS VIS",
+    "left": -2976
+   },
+   {
+    "tag": "p",
+    "text": "Flexible e-food platform for",
+    "left": -2640
+   },
+   {
+    "tag": "p",
+    "text": "Digital platforms & agile so",
+    "left": -2304
+   },
+   {
+    "tag": "p",
+    "text": "With over 140 experiments an",
+    "left": -1632
+   },
+   {
+    "tag": "p",
+    "text": "diva-e Conclusion has been s",
+    "left": -1296
+   },
+   {
+    "tag": "p",
+    "text": "Development of an innovative",
+    "left": -960
+   },
+   {
+    "tag": "p",
+    "text": "Mobile-first CMS relaunch fo",
+    "left": -624
+   },
+   {
+    "tag": "p",
+    "text": "Development of the myViega H",
+    "left": -288
+   }
+  ],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "hero__description",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "text__description",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__paragraph",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "teaser-slider__header",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "teaser-item__text",
+    "width": 312,
+    "left": -3000
+   },
+   {
+    "sel": "teaser-item__text",
+    "width": 312,
+    "left": -2664
+   },
+   {
+    "sel": "teaser-item__text",
+    "width": 312,
+    "left": -2328
+   }
+  ]
+ }
+}

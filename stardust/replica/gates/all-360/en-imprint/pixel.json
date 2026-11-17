@@ -1,0 +1,76 @@
+{
+  "a": "stardust/replica/gates/all-360/en-imprint/origin.png",
+  "b": "stardust/replica/gates/all-360/en-imprint/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 4964,
+    "mode": "overlap"
+  },
+  "heightDelta": 96,
+  "differingPixels": 139706,
+  "pct": 7.82,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/en-imprint/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 14.48,
+  "textBoxes": 165,
+  "textPixels": 594510,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 4.1
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 5.3
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 4.6
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 4.7
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 4.4
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 8.4
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 8.4
+    },
+    {
+      "y0": 3500,
+      "y1": 4000,
+      "pct": 8.4
+    },
+    {
+      "y0": 4000,
+      "y1": 4500,
+      "pct": 23.9
+    },
+    {
+      "y0": 4500,
+      "y1": 4964,
+      "pct": 5.9
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a608424f--aemcoder.aem.page/en/imprint"
+  }
+}

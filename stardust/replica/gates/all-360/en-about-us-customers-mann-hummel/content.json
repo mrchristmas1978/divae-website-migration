@@ -1,0 +1,4740 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T05:24:38.876Z",
+  "width": 360,
+  "variable": [
+   ".tags-carousel__container"
+  ],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/about-us/customers/mann-hummel/",
+  "at": "2026-11-14T05:24:11.499Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8384,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Headless commerce & platform architecture for agile scaling"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "mann+hummel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-title > div.hero__description.richtext > p",
+    "x": 24,
+    "y": 386,
+    "w": 312,
+    "h": 24,
+    "text": "Case study from filtration technology"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-container > picture > img.hero__image",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "maschine schlägt funken und bewegt sich",
+    "file": "900x0"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 490,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 490,
+    "w": 52,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 161,
+    "y": 490,
+    "w": 61,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 44,
+    "y": 520,
+    "w": 97,
+    "h": 24,
+    "text": "mann+hummel",
+    "href": "/en/about-us/customers/mann-hummel/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 648,
+    "w": 312,
+    "h": 86,
+    "text": "Successful digital transformation: efficiency, scalability and innovation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 783,
+    "w": 312,
+    "h": 408,
+    "text": "For , diva-e Conclusion has taken on the design and implementation of various so"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 54,
+    "y": 786,
+    "w": 133,
+    "h": 18,
+    "text": "mann+hummel",
+    "href": "/de.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 1297,
+    "w": 75,
+    "h": 24,
+    "level": 6,
+    "text": "goal"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 1345,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "creating consistent customer experiences"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 1422,
+    "w": 312,
+    "h": 271,
+    "text": "foto von einer großen industrieanlage",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 1714,
+    "w": 312,
+    "h": 600,
+    "text": "The aim of the joint project is to continuously optimize the existing headless a"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 2404,
+    "w": 136,
+    "h": 24,
+    "level": 6,
+    "text": "realisation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 2452,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "making systems future-proof & scalable"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 2529,
+    "w": 312,
+    "h": 271,
+    "text": "foto von einer industrieanlage unter blauem himmel",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 2821,
+    "w": 312,
+    "h": 456,
+    "text": "The establishment of diva-e Conclusion as a service provider and partner began w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 3389,
+    "w": 312,
+    "h": 2256,
+    "text": "In the agile process, it was now necessary to record the wishes of all stakehold"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 5711,
+    "w": 92,
+    "h": 24,
+    "level": 6,
+    "text": "result"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 5759,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "setting standards"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 5807,
+    "w": 312,
+    "h": 271,
+    "text": "aerial view of vehicles on a highway bridge surrounded by lu",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 6099,
+    "w": 312,
+    "h": 312,
+    "text": "The project setup makes it possible to respond to different stakeholder requirem"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-quote > div.no-heading",
+    "x": 24,
+    "y": 6579,
+    "w": 312,
+    "h": 456,
+    "text": "diva-e Conclusion impressed us right from the initial discussions with its exten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.author",
+    "x": 24,
+    "y": 7067,
+    "w": 312,
+    "h": 24,
+    "text": "Julia Remmele"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.position",
+    "x": 24,
+    "y": 7091,
+    "w": 312,
+    "h": 48,
+    "text": "MANN+HUMMEL | Vice President Customer Experience"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.tags-carousel__title > h2",
+    "x": 24,
+    "y": 7323,
+    "w": 312,
+    "h": 66,
+    "level": 2,
+    "text": "diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": 345,
+    "y": 7420,
+    "w": 225,
+    "h": 73,
+    "text": "go to consulting & innovation",
+    "href": "/en/services/digital-consulting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": 109,
+    "y": 7429,
+    "w": 227,
+    "h": 73,
+    "text": "solutions & experiences",
+    "href": "/en/services/total-experience/"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": -136,
+    "y": 7438,
+    "w": 235,
+    "h": 73,
+    "text": "marketing & performance",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 7601,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 7601,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 7653,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7754,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7798,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7842,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 7842,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 7842,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7886,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 7886,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7930,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 7930,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 7930,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7974,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 7974,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 7974,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8018,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 8018,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 8018,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 8099,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 8102,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 8146,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 8223,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 8223,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 8223,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 8284,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 25,
+    "textNodes": 79,
+    "controls": 50,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div#swiper-wrapper-fe404d7d6f8bc34b > div.swiper-slide.tags-carousel__slider-frame > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+     "text": "consulting & innovation",
+     "cutMin": 136,
+     "cutMax": 210
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn > span.text",
+     "text": "marketing & performance",
+     "cutMin": 103,
+     "cutMax": 103
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/mann-hummel",
+  "at": "2026-11-14T05:24:38.638Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8384,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Headless commerce & platform architecture for agile scaling"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#mannhummel",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "mann+hummel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-description > p",
+    "x": 24,
+    "y": 386,
+    "w": 312,
+    "h": 24,
+    "text": "Case study from filtration technology"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-image-container > picture > img",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "maschine schlägt funken und bewegt sich",
+    "file": "media_11fef3f37c1e69325317776e9338810cc7"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 490,
+    "w": 31,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 83,
+    "y": 490,
+    "w": 45,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 157,
+    "y": 490,
+    "w": 56,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 46,
+    "y": 520,
+    "w": 92,
+    "h": 24,
+    "text": "mann+hummel",
+    "href": "/en/about-us/customers/mann-hummel"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 648,
+    "w": 312,
+    "h": 86,
+    "text": "Successful digital transformation: efficiency, scalability and innovation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 783,
+    "w": 312,
+    "h": 408,
+    "text": "For , diva-e Conclusion has taken on the design and implementation of various so"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 54,
+    "y": 786,
+    "w": 133,
+    "h": 18,
+    "text": "mann+hummel",
+    "href": "/de.html"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 1422,
+    "w": 312,
+    "h": 271,
+    "text": "foto von einer großen industrieanlage",
+    "file": "media_145e03f34980aa9a432455b6edfdbf8151"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#goal",
+    "x": 24,
+    "y": 1297,
+    "w": 76,
+    "h": 24,
+    "level": 6,
+    "text": "goal"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#creating-consistent-customer-experiences",
+    "x": 24,
+    "y": 1345,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "creating consistent customer experiences"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 1714,
+    "w": 312,
+    "h": 600,
+    "text": "The aim of the joint project is to continuously optimize the existing headless a"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 2529,
+    "w": 312,
+    "h": 271,
+    "text": "foto von einer industrieanlage unter blauem himmel",
+    "file": "media_15a548696c73b1fbada133b8e7a5b31e44"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#realisation",
+    "x": 24,
+    "y": 2404,
+    "w": 135,
+    "h": 24,
+    "level": 6,
+    "text": "realisation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#making-systems-future-proof--scalable",
+    "x": 24,
+    "y": 2452,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "making systems future-proof & scalable"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 2821,
+    "w": 312,
+    "h": 456,
+    "text": "The establishment of diva-e Conclusion as a service provider and partner began w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 3389,
+    "w": 312,
+    "h": 2256,
+    "text": "In the agile process, it was now necessary to record the wishes of all stakehold"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 5807,
+    "w": 312,
+    "h": 271,
+    "text": "aerial view of vehicles on a highway bridge surrounded by lu",
+    "file": "media_147f8da25e7aea070dfae8042100589f1e"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#result",
+    "x": 24,
+    "y": 5711,
+    "w": 91,
+    "h": 24,
+    "level": 6,
+    "text": "result"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#setting-standards",
+    "x": 24,
+    "y": 5759,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "setting standards"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 6099,
+    "w": 312,
+    "h": 312,
+    "text": "The project setup makes it possible to respond to different stakeholder requirem"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figure.single-quote-container > blockquote.single-quote-text > p",
+    "x": 24,
+    "y": 6579,
+    "w": 312,
+    "h": 456,
+    "text": "diva-e Conclusion impressed us right from the initial discussions with its exten"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-name > p",
+    "x": 24,
+    "y": 7067,
+    "w": 312,
+    "h": 24,
+    "text": "Julia Remmele"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-position > p",
+    "x": 24,
+    "y": 7091,
+    "w": 312,
+    "h": 48,
+    "text": "MANN+HUMMEL | Vice President Customer Experience"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags-carousel-grid > div.tags-carousel-title > h2#diva-e-conclusion-services-in-the-project",
+    "x": 24,
+    "y": 7323,
+    "w": 312,
+    "h": 66,
+    "level": 2,
+    "text": "diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 153,
+    "y": 7427,
+    "w": 225,
+    "h": 73,
+    "text": "solutions & experiences",
+    "href": "/en/services/total-experience"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li.is-active > a",
+    "x": -101,
+    "y": 7437,
+    "w": 232,
+    "h": 73,
+    "text": "marketing & performance",
+    "href": "/en/services/digital-marketing"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 7601,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 7601,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 7653,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7754,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7798,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7842,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 7842,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 7842,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7886,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 7886,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7930,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 7930,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 7930,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7974,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 7974,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 7974,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8018,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 8018,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 8018,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 8102,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8146,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 8223,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 8223,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 8223,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 8284,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 26,
+    "textNodes": 79,
+    "controls": 49,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "solutions & experiences",
+     "cutMin": 23,
+     "cutMax": 97
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li.is-active > a",
+     "text": "marketing & performance",
+     "cutMin": 64,
+     "cutMax": 64
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 23,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "solutions & experiences",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": 157,
+      "t": 7427,
+      "r": 383,
+      "b": 7500,
+      "w": 225,
+      "h": 73
+     },
+     "clip": {
+      "l": 0,
+      "t": 7283,
+      "r": 360,
+      "b": 7557,
+      "w": 360,
+      "h": 274
+     }
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 97,
+     "path": "div.tags-carousel-track > ul > li.is-active > a",
+     "text": "marketing & performance",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -97,
+      "t": 7437,
+      "r": 136,
+      "b": 7510,
+      "w": 232,
+      "h": 73
+     },
+     "clip": {
+      "l": 0,
+      "t": 7283,
+      "r": 360,
+      "b": 7557,
+      "w": 360,
+      "h": 274
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 64,
+     "path": "div.tags-carousel-track > ul > li.is-active > a",
+     "text": "marketing & performance",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -64,
+      "t": 7462,
+      "r": 103,
+      "b": 7484,
+      "w": 167,
+      "h": 23
+     },
+     "clip": {
+      "l": 0,
+      "t": 7283,
+      "r": 360,
+      "b": 7557,
+      "w": 360,
+      "h": 274
+     },
+     "lines": 1
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "mann+hummel",
+   "variable": false,
+   "origin": {
+    "link": 5,
+    "button": 1,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "creating consistent customer experiences",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "making systems future-proof & scalable",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "setting standards",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "diva-e conclusion services in the project",
+   "variable": true,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"mann+hummel\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"marketing & performance\" served in band \"diva-e conclusion services in the project\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "marketing & performance"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 1,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 2,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 227,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 194,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 389,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 494,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 494,
+    "w": 52,
+    "h": 14
+   },
+   {
+    "x": 161,
+    "y": 494,
+    "w": 61,
+    "h": 14
+   },
+   {
+    "x": 44,
+    "y": 524,
+    "w": 97,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 648,
+    "w": 199,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 677,
+    "w": 296,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 706,
+    "w": 285,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 786,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 786,
+    "w": 133,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 786,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 810,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 834,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 858,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 882,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 906,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 930,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 954,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 978,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1002,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1026,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1050,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1074,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1122,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1146,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1170,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 1297,
+    "w": 43,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1345,
+    "w": 217,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1373,
+    "w": 243,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1717,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1741,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1765,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1789,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1813,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1837,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1861,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1885,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1909,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1957,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1981,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2005,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2029,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2053,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2077,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2101,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2125,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2149,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2197,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2221,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2245,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2269,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2293,
+    "w": 210,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2404,
+    "w": 104,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 2452,
+    "w": 262,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2480,
+    "w": 184,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2824,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2848,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2872,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2896,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2920,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2944,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2968,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3016,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3040,
+    "w": 195,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3064,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3088,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3112,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3136,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3160,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3184,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3208,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3232,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3256,
+    "w": 141,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3392,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3416,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3464,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3488,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3512,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3536,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3560,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3584,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3608,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3632,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3656,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3680,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3728,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3752,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3776,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3800,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3824,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3848,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3872,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3920,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3944,
+    "w": 145,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3992,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4016,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4040,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4064,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4088,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4112,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4136,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4160,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4184,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4208,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4232,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4256,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4304,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4328,
+    "w": 158,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4376,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4400,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4424,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4448,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4472,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4496,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4520,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4544,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4568,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4592,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4616,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4640,
+    "w": 119,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4688,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4712,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4736,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4760,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4784,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4832,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4856,
+    "w": 57,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4904,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4928,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4952,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4976,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5000,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5024,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5048,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5072,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5096,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5120,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5144,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5168,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5192,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5216,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5240,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5264,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5288,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5312,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5360,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5384,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5408,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5456,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5480,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5504,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5528,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5552,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5576,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5600,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5624,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 5711,
+    "w": 60,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5759,
+    "w": 199,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 6102,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6126,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6150,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6174,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6198,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6222,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6246,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6270,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6294,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6318,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6342,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6366,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6390,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6579,
+    "w": 295,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6603,
+    "w": 303,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6627,
+    "w": 297,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6651,
+    "w": 292,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6675,
+    "w": 223,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6699,
+    "w": 286,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6723,
+    "w": 231,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6747,
+    "w": 266,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6771,
+    "w": 296,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6795,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6819,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6843,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6867,
+    "w": 302,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6891,
+    "w": 201,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6915,
+    "w": 307,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6939,
+    "w": 238,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6963,
+    "w": 304,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6987,
+    "w": 300,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 7011,
+    "w": 191,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 7070,
+    "w": 118,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7094,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7118,
+    "w": 166,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7322,
+    "w": 247,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7355,
+    "w": 306,
+    "h": 35
+   },
+   {
+    "x": 141,
+    "y": 7453,
+    "w": 161,
+    "h": 23
+   },
+   {
+    "x": -103,
+    "y": 7462,
+    "w": 170,
+    "h": 24
+   },
+   {
+    "x": 24,
+    "y": 7601,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 7601,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7652,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7685,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7754,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7798,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7842,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 7842,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 7842,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7886,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 7886,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7930,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 7930,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 7930,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7974,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 7974,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 7974,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8018,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 8018,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 8018,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8100,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 8103,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8147,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 227,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 194,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 389,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 494,
+    "w": 31,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 494,
+    "w": 45,
+    "h": 14
+   },
+   {
+    "x": 157,
+    "y": 494,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 46,
+    "y": 524,
+    "w": 92,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 648,
+    "w": 194,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 677,
+    "w": 284,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 706,
+    "w": 279,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 786,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 54,
+    "y": 786,
+    "w": 133,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 786,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 810,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 834,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 858,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 882,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 906,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 930,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 954,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 978,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1002,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1026,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1050,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1074,
+    "w": 98,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1122,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1146,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1170,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 1298,
+    "w": 44,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 1345,
+    "w": 212,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1373,
+    "w": 241,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1717,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1741,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1765,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1789,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1813,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1837,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1861,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1885,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1909,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1957,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1981,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2005,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2029,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2053,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2077,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2101,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2125,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2149,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2197,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2221,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2245,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2269,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2293,
+    "w": 210,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2405,
+    "w": 103,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 2452,
+    "w": 311,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2480,
+    "w": 114,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2824,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2848,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2872,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2896,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2920,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2944,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2968,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3016,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3040,
+    "w": 195,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3064,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3088,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3112,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3136,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3160,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3184,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3208,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3232,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3256,
+    "w": 141,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3392,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3416,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3464,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3488,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3512,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3536,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3560,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3584,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3608,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3632,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3656,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3680,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3728,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3752,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3776,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3800,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3824,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3848,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3872,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3920,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3944,
+    "w": 145,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3992,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4016,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4040,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4064,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4088,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4112,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4136,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4160,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4184,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4208,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4232,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4256,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4304,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4328,
+    "w": 158,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4376,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4400,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4424,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4448,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4472,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4496,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4520,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4544,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4568,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4592,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4616,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4640,
+    "w": 119,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4688,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4712,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4736,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4760,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4784,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4832,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4856,
+    "w": 57,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4904,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4928,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4952,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4976,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5000,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5024,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5048,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5072,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5096,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5120,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5144,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5168,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5192,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5216,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5240,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5264,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5288,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5312,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5360,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5384,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5408,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5456,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5480,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5504,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5528,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5552,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5576,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5600,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5624,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 5712,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5759,
+    "w": 192,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 6102,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6126,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6150,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6174,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6198,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6222,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6246,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6270,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6294,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6318,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6342,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6366,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6390,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6580,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6604,
+    "w": 289,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6628,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6652,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6676,
+    "w": 216,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6700,
+    "w": 283,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6724,
+    "w": 218,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6748,
+    "w": 255,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6772,
+    "w": 287,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6796,
+    "w": 296,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6820,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6844,
+    "w": 306,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6868,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6892,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6916,
+    "w": 299,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6940,
+    "w": 244,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6964,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6988,
+    "w": 284,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 7012,
+    "w": 186,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 7070,
+    "w": 118,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7094,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7118,
+    "w": 166,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7323,
+    "w": 250,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7356,
+    "w": 306,
+    "h": 33
+   },
+   {
+    "x": 190,
+    "y": 7452,
+    "w": 160,
+    "h": 22
+   },
+   {
+    "x": -64,
+    "y": 7462,
+    "w": 167,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 7601,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 7601,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7653,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7686,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7754,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7798,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7842,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 7842,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 7842,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7886,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 7886,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7930,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 7930,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 7930,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7974,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 7974,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 7974,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8018,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 8018,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 8018,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8100,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 8103,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8147,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

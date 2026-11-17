@@ -1,0 +1,135 @@
+[live-session] waiting to pace live navigations to www.diva-e.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Content diff @ 360px (profile "generic", roots: .page, header, footer)
+root ".page"
+  source: 41 text nodes — 18 headings, 0 eyebrows, 6 CTAs, 17 body; 0 img
+  build: 41 text nodes — 18 headings, 0 eyebrows, 6 CTAs, 17 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 36 / build 36
+  attributes (placeholder/aria-label/title): source 2 / build 3; icons: source 0 / build 0
+root "header"
+  source: 12 text nodes — 0 headings, 0 eyebrows, 4 CTAs, 8 body; 0 img
+  build: 72 text nodes — 0 headings, 0 eyebrows, 58 CTAs, 14 body; 6 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 17 / build 69; icons: source 3 / build 3
+root "footer"
+  source: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  build: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 30 / build 30; icons: source 4 / build 4
+
+Findings: 114 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 114
+  🟠 FONT FORK [.page]: 2 matched line(s) render a DIFFERENT face: heading "Frankfurt": source GT Planar VF vs build GT Planar VF→sys (-10%); heading "Stuttgart": source GT Planar VF vs build GT Planar VF→sys (-12%). A matched line renders a different typeface. A "→sys" on the source side means it named a font it never loaded; confirm the substitution is intended, else load the missing face.
+  🟠 EXTRA [header]: build cta "Digital Consulting" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Audits" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Digital Business Consulting" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Technology & Architecture Consulting" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "diva-e AI" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Strategic transformation with the 9-Grid model" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "User Experience" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Data Analytics & Business Intelligence" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Digital Experience Platforms" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "E-Commerce Platforms" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Content Management System" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Karriereportal" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Customer Data Platform" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Product Information Management" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "System Integration" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Customer Relationship Management" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Digital Marketing" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "GAIO / GEO" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Content" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "SEO" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Paid Advertising" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Omnichannel Marketing" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Application Management Service" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Application Management Service" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Cloud Consulting" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Cloudsecurity" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Cybersecurity" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Total Experience" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Tech Guide: Evaluate systems smartly" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Download now!" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Financial Services Guide: Winning Customers Safe" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Read now!" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Automotive" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "B2B Manufacturing" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Retail" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Financial Services" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "diva-e Conclusion remains market leader in DXS" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Download" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our Latest Success Story: Interamt" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Read success story" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "About us" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Management" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Location" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Success Stories" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Press" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Cyber Guide: How Firms Stay Safe" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Download now!" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "AI Search Guide: Ensure visibility!" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Download now!" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "News" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Events & Webinars" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Blog" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "References" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Downloads" has no source source — Unexpected node with no source.
+  🟡 EXTRA ARIA-LABEL [.page]: build <nav> aria-label="Breadcrumb" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA [header]: build body "Compare ROI, TCO and business value with clarity" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Digital experiences that build trust and strengt" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Lünendonk once again confirms our role as market" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Optimized platform, improved UX, modern recruiti" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Opportunities & Risks in Cybersecurity" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Strategic visibility in AI searches!" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA ARIA-LABEL [header]: build <button> aria-label="Open Services Submenu" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Digital Consulting" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Audits" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Digital Business Consulting" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Technology & Architecture Consulting" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to diva-e AI" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Strategic transformation with the 9-Grid m" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to User Experience" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Data Analytics & Business Intelligence" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Digital Experience Platforms" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to E-Commerce Platforms" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Content Management System" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Karriereportal" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Customer Data Platform" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Product Information Management" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to System Integration" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Customer Relationship Management" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Digital Marketing" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to GAIO / GEO" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Content" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to SEO" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Paid Advertising" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Omnichannel Marketing" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Application Management Service" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Application Management Service" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Cloud Consulting" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Cloudsecurity" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Cybersecurity" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Total Experience" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <button> aria-label="Open Industries Submenu" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Tech Guide: Evaluate systems smartly" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Financial Services Guide: Winning Customer" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Automotive" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to B2B Manufacturing" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Retail" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Financial Services" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <button> aria-label="Open About us Submenu" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to diva-e Conclusion remains market leader in" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Our Latest Success Story: Interamt" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to About us" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Management" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Location" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Success Stories" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Press" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <button> aria-label="Open Insights Submenu" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Cyber Guide: How Firms Stay Safe" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to AI Search Guide: Ensure visibility!" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to News" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Events & Webinars" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Blog" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to References" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <a> aria-label="Go to Downloads" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).

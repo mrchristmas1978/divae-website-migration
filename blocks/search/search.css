@@ -1,0 +1,359 @@
+/* search — source GlobalSearch (search box, Popular Searches card, results + type sidebar) */
+.search {
+  padding: 110px 24px 40px;
+}
+
+.search .search-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.search .search-form {
+  position: relative;
+}
+
+.search .search-input {
+  width: 100%;
+  height: 56px;
+  margin: 0;
+  padding: 16px;
+  border: none;
+  border-radius: 52px;
+  background-color: var(--white);
+  color: var(--navy);
+  font-family: var(--font-body);
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  appearance: none;
+}
+
+.search .search-input::placeholder {
+  color: var(--grey-text);
+}
+
+.search .search-input::-webkit-search-cancel-button {
+  appearance: none;
+}
+
+.search .search-submit {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  height: 40px;
+  min-height: 48px;
+  margin: 0;
+  padding: 4px 28px;
+  border: 0;
+  border-radius: 50px;
+  background: none;
+  box-shadow: inset 0 0 0 2px var(--navy);
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-variation-settings: "slnt" 0;
+  cursor: pointer;
+  transform: translateY(-50%);
+  transition: var(--ease);
+}
+
+.search .search-submit::before {
+  content: "";
+  display: block;
+  width: 20px;
+  height: 20px;
+  background: url("../../icons/search.svg") no-repeat 50%;
+  background-size: 20px;
+}
+
+.search .search-submit:hover {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.search .search-popular {
+  margin-top: 40px;
+  padding: 32px;
+  border-radius: 32px;
+  background-color: var(--white);
+}
+
+.search .search-popular[hidden],
+.search .search-no-results[hidden],
+.search .search-sidebar[hidden] {
+  display: none;
+}
+
+.search .search-popular :is(h1, h2, h3) {
+  margin: 0;
+  font-size: 2rem;
+  line-height: 140%;
+  text-wrap: balance;
+}
+
+.search .search-popular ul {
+  margin: 24px 0 0;
+  padding: 0 0 0 27px;
+  list-style: none;
+}
+
+.search .search-popular li {
+  position: relative;
+  margin: 16px 0 0;
+}
+
+.search .search-popular li::before {
+  content: "";
+  position: absolute;
+  top: calc(0.75em - 4px);
+  left: -27px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--blue);
+}
+
+.search .search-popular a:any-link {
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-variation-settings: "slnt" 0;
+  line-height: 120%;
+  text-decoration: underline;
+  text-decoration-color: var(--blue);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  transition: var(--ease);
+}
+
+.search .search-popular a:any-link:hover {
+  font-variation-settings: "slnt" 30;
+}
+
+.search .search-stats {
+  margin: 20px 0 0;
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  line-height: 130%;
+}
+
+.search .search-stats:empty {
+  display: none;
+}
+
+.search .search-grid {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+}
+
+.search .search-no-results,
+.search .search-results {
+  width: 100%;
+}
+
+.search .search-no-results {
+  margin-top: 24px;
+}
+
+.search .search-no-results :is(h1, h2, h3) {
+  margin: 0 0 44px;
+}
+
+.search .search-no-results p {
+  margin: 0;
+}
+
+.search .search-result {
+  position: relative;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.search .search-result-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.search .search-result-type {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--grey-text);
+  font-size: 1.4rem;
+}
+
+.search .search-result-title {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  line-height: 120%;
+}
+
+.search .search-result:hover .search-result-title {
+  color: var(--blue);
+}
+
+.search .search-result-subline {
+  margin: 12px 0 0;
+}
+
+.search .search-result-breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 12px 0 0;
+  padding: 0;
+  color: var(--grey-text);
+  font-size: 1.4rem;
+  list-style: none;
+}
+
+.search .search-result-breadcrumb li + li::before {
+  content: "→";
+  margin: 0 6px;
+}
+
+.search .search-sidebar {
+  order: -1;
+  height: fit-content;
+  margin: 48px 0 24px;
+  padding: 16px 16px 8px;
+  border-radius: 12px;
+  background-color: var(--white);
+}
+
+.search .search-filter-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0;
+  padding: 0 0 8px;
+  border: 0;
+  background: none;
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+
+.search .search-sidebar.is-open .search-filter-toggle {
+  padding-bottom: 16px;
+  color: var(--blue);
+}
+
+.search .search-filters {
+  display: none;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 0 0 8px;
+  padding: 0;
+  list-style: none;
+}
+
+.search .search-sidebar.is-open .search-filters {
+  display: flex;
+}
+
+.search .search-filter {
+  height: 40px;
+  min-height: 40px;
+  padding: 0 16px;
+  border: 0;
+  border-radius: 6px;
+  background: none;
+  box-shadow: inset 0 0 0 2px var(--navy);
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  cursor: pointer;
+  transition: var(--ease);
+}
+
+.search .search-filter:hover {
+  box-shadow: inset 0 0 0 2px var(--blue);
+}
+
+.search .search-filter.active {
+  background-color: var(--blue);
+  box-shadow: inset 0 0 0 2px var(--blue);
+  color: var(--white);
+}
+
+@media (width >= 768px) {
+  .search {
+    padding: 112px 64px 64px;
+  }
+}
+
+@media (width >= 950px) {
+  .search .search-input {
+    height: 80px;
+    padding: 25px 8px 25px 32px;
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+
+  .search .search-submit {
+    min-height: 64px;
+    padding: 4px 40px;
+    font-size: 20px;
+  }
+
+  .search .search-popular {
+    margin-top: 72px;
+    padding: 48px;
+  }
+
+  .search .search-no-results {
+    margin-top: 88px;
+  }
+
+  .search .search-no-results,
+  .search .search-results {
+    width: calc(700% / 10 - 3 * 24px / 10);
+    padding-right: 64px;
+  }
+
+  .search .search-sidebar {
+    order: 1;
+    width: calc(300% / 10 - 7 * 24px / 10);
+    margin: 0;
+    padding: 32px 32px 16px;
+    border-radius: 32px;
+  }
+
+  .search .search-stats {
+    margin: 36px 0 48px;
+    font-size: 2rem;
+    line-height: 120%;
+  }
+}
+
+@media (width >= 1200px) {
+  .search {
+    padding-top: 168px;
+    padding-bottom: 120px;
+  }
+
+  .search .search-container {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+
+  .search .search-popular :is(h1, h2, h3) {
+    font-size: 3.4rem;
+  }
+
+  .search .search-filter {
+    height: 48px;
+    min-height: 48px;
+    padding: 0 24px;
+  }
+}
+
+@media (width >= 1280px) {
+  .search {
+    padding-top: 258px;
+  }
+}

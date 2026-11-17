@@ -1,0 +1,5156 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T06:50:25.093Z",
+  "width": 360,
+  "variable": [
+   ".tags-carousel__container"
+  ],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/about-us/customers/telefonica/",
+  "at": "2026-11-14T06:49:56.337Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8845,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Implementation of a proof of concept with the Adobe Experience Platform"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "o2 telefónica germany"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 426,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 426,
+    "w": 52,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 161,
+    "y": 426,
+    "w": 61,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 44,
+    "y": 456,
+    "w": 152,
+    "h": 24,
+    "text": "o2 telefónica deutschland",
+    "href": "/en/about-us/customers/telefonica/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > h2",
+    "x": 24,
+    "y": 584,
+    "w": 312,
+    "h": 115,
+    "level": 2,
+    "text": "opportunities & challenges of the introduction of a customer data platform (cdp)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 747,
+    "w": 312,
+    "h": 360,
+    "text": "The German telecommunications provider o2 Telefónica Deutschland was faced with "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__row-headline > div.dot-blur--16.label",
+    "x": 24,
+    "y": 1235,
+    "w": 75,
+    "h": 30,
+    "text": "Goal"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 1305,
+    "w": 312,
+    "h": 58,
+    "text": "One central system for all customer data"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 1411,
+    "w": 312,
+    "h": 1176,
+    "text": "For this reason, o2 Telefónica Deutschland decided to implement a proof of conce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2603,
+    "w": 285,
+    "h": 24,
+    "text": "Data protection"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2643,
+    "w": 285,
+    "h": 24,
+    "text": "Technical setup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 2683,
+    "w": 285,
+    "h": 24,
+    "text": "Structures and processes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__row-headline > div.dot-blur--16.label",
+    "x": 24,
+    "y": 2771,
+    "w": 162,
+    "h": 30,
+    "text": "The challenge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 2841,
+    "w": 175,
+    "h": 29,
+    "text": "Data protection"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 2918,
+    "w": 312,
+    "h": 792,
+    "text": "Since CRM data is stored in the AEP, among other things, one of the first prereq"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-quote > div.no-heading",
+    "x": 24,
+    "y": 3854,
+    "w": 312,
+    "h": 312,
+    "text": "\"There is no such thing as a typical customer journey; customers move across a w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.author",
+    "x": 24,
+    "y": 4198,
+    "w": 312,
+    "h": 24,
+    "text": "Philip Dietrich"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.position",
+    "x": 24,
+    "y": 4222,
+    "w": 312,
+    "h": 48,
+    "text": "o2 Telefónica Deutschland | Manager Web Analytics & Testing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__row-headline > div.dot-blur--16.label",
+    "x": 24,
+    "y": 4414,
+    "w": 179,
+    "h": 30,
+    "text": "Implementation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 4484,
+    "w": 219,
+    "h": 29,
+    "text": "The technical setup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 4561,
+    "w": 312,
+    "h": 936,
+    "text": "For the collection of the web data, the first step was to implement the Adobe We"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__row-headline > div.dot-blur--16.label",
+    "x": 24,
+    "y": 5561,
+    "w": 162,
+    "h": 30,
+    "text": "The challenge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 5631,
+    "w": 312,
+    "h": 58,
+    "text": "The right structures and processes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 5736,
+    "w": 312,
+    "h": 840,
+    "text": "In addition to the technical testing of a CDP, the processes and structures of t"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__row-headline > div.dot-blur--16.label",
+    "x": 24,
+    "y": 6640,
+    "w": 92,
+    "h": 30,
+    "text": "Result"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 6710,
+    "w": 246,
+    "h": 29,
+    "text": "Investing in the future"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 6787,
+    "w": 312,
+    "h": 480,
+    "text": "Finally, o2 Telefónica Deutschland can successfully implement the proof of conce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.tags-carousel__title > div.no-heading",
+    "x": 24,
+    "y": 7371,
+    "w": 312,
+    "h": 99,
+    "text": "Related diva-e Conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": 201,
+    "y": 7509,
+    "w": 169,
+    "h": 70,
+    "text": "aep consulting",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/adobe-experience-platform/"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": -206,
+    "y": 7516,
+    "w": 397,
+    "h": 79,
+    "text": "data architecture & data management consulting",
+    "href": "/en/services/digital-consulting/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 7702,
+    "w": 239,
+    "h": 29,
+    "text": "Partner in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 24,
+    "y": 7933,
+    "w": 300,
+    "h": 18,
+    "text": "adobe logo",
+    "href": "/en/ueber-uns/partner/adobe/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img",
+    "x": 24,
+    "y": 7779,
+    "w": 300,
+    "h": 168,
+    "text": "adobe logo",
+    "file": "adobe-logo-300x168px"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 8062,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 8062,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 8114,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8215,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8259,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8303,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 8303,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 8303,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8347,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 8347,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8391,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 8391,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 8391,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8435,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 8435,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 8435,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 8479,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 8479,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 8479,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 8560,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 8563,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 8607,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 8684,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 8684,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 8684,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 8745,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 28,
+    "textNodes": 81,
+    "controls": 51,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div#swiper-wrapper-f941ddfc7e845a54 > div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+     "text": "aep consulting",
+     "cutMin": 12,
+     "cutMax": 203
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn > span.text",
+     "text": "data architecture & data management consulting",
+     "cutMin": 171,
+     "cutMax": 171
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/telefonica",
+  "at": "2026-11-14T06:50:24.840Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8845,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Implementation of a proof of concept with the Adobe Experience Platform"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#o2-telefónica-germany",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "o2 telefónica germany"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 426,
+    "w": 31,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 83,
+    "y": 426,
+    "w": 45,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 157,
+    "y": 426,
+    "w": 56,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 46,
+    "y": 456,
+    "w": 135,
+    "h": 24,
+    "text": "o2 telefónica deutschland",
+    "href": "/en/about-us/customers/telefonica"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > h2#opportunities--challenges-of-the-introduction-of-a-customer-data-platform-cdp",
+    "x": 24,
+    "y": 584,
+    "w": 312,
+    "h": 115,
+    "level": 2,
+    "text": "opportunities & challenges of the introduction of a customer data platform (cdp)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 747,
+    "w": 312,
+    "h": 360,
+    "text": "The German telecommunications provider o2 Telefónica Deutschland was faced with "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h6#goal",
+    "x": 24,
+    "y": 1235,
+    "w": 76,
+    "h": 30,
+    "level": 6,
+    "text": "goal"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1305,
+    "w": 312,
+    "h": 58,
+    "text": "One central system for all customer data"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1411,
+    "w": 312,
+    "h": 1176,
+    "text": "For this reason, o2 Telefónica Deutschland decided to implement a proof of conce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2603,
+    "w": 285,
+    "h": 24,
+    "text": "Data protection"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2643,
+    "w": 285,
+    "h": 24,
+    "text": "Technical setup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 51,
+    "y": 2683,
+    "w": 285,
+    "h": 24,
+    "text": "Structures and processes"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h6#the-challenge",
+    "x": 24,
+    "y": 2771,
+    "w": 163,
+    "h": 30,
+    "level": 6,
+    "text": "the challenge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 2841,
+    "w": 312,
+    "h": 29,
+    "text": "Data protection"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 2918,
+    "w": 312,
+    "h": 792,
+    "text": "Since CRM data is stored in the AEP, among other things, one of the first prereq"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figure.single-quote-container > blockquote.single-quote-text > p",
+    "x": 24,
+    "y": 3854,
+    "w": 312,
+    "h": 312,
+    "text": "\"There is no such thing as a typical customer journey; customers move across a w"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-name > p",
+    "x": 24,
+    "y": 4198,
+    "w": 312,
+    "h": 24,
+    "text": "Philip Dietrich"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-position > p",
+    "x": 24,
+    "y": 4222,
+    "w": 312,
+    "h": 48,
+    "text": "o2 Telefónica Deutschland | Manager Web Analytics & Testing"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h6#implementation",
+    "x": 24,
+    "y": 4414,
+    "w": 174,
+    "h": 30,
+    "level": 6,
+    "text": "implementation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 4484,
+    "w": 312,
+    "h": 29,
+    "text": "The technical setup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 4561,
+    "w": 312,
+    "h": 936,
+    "text": "For the collection of the web data, the first step was to implement the Adobe We"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h6#the-challenge-1",
+    "x": 24,
+    "y": 5561,
+    "w": 163,
+    "h": 30,
+    "level": 6,
+    "text": "the challenge"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 5631,
+    "w": 312,
+    "h": 58,
+    "text": "The right structures and processes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 5736,
+    "w": 312,
+    "h": 840,
+    "text": "In addition to the technical testing of a CDP, the processes and structures of t"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h6#result",
+    "x": 24,
+    "y": 6640,
+    "w": 91,
+    "h": 30,
+    "level": 6,
+    "text": "result"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 6710,
+    "w": 312,
+    "h": 29,
+    "text": "Investing in the future"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 6787,
+    "w": 312,
+    "h": 480,
+    "text": "Finally, o2 Telefónica Deutschland can successfully implement the proof of conce"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags-carousel-grid > div.tags-carousel-title > h2#related-diva-e-conclusion-services-in-the-project",
+    "x": 24,
+    "y": 7371,
+    "w": 312,
+    "h": 99,
+    "level": 2,
+    "text": "related diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 268,
+    "y": 7506,
+    "w": 169,
+    "h": 70,
+    "text": "aep consulting",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/adobe-experience-platform/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li.is-active > a",
+    "x": -144,
+    "y": 7513,
+    "w": 391,
+    "h": 79,
+    "text": "data architecture & data management consulting",
+    "href": "/en/services/digital-consulting"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 7702,
+    "w": 312,
+    "h": 29,
+    "text": "Partner in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 24,
+    "y": 7933,
+    "w": 300,
+    "h": 18,
+    "text": "adobe logo",
+    "href": "/en/ueber-uns/partner/adobe/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 24,
+    "y": 7779,
+    "w": 300,
+    "h": 168,
+    "text": "adobe logo",
+    "file": "media_1a46b40e686bdffd37b4a0567209aa1f0b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 8062,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 8062,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 8114,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8215,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8259,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8303,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 8303,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 8303,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8347,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 8347,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8391,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 8391,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 8391,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8435,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 8435,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 8435,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8479,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 8479,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 8479,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 8563,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 8607,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 8684,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 8684,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 8684,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 8745,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 4,
+    "offPage": 20,
+    "textNodes": 77,
+    "controls": 46,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "aep consulting",
+     "cutMin": 79,
+     "cutMax": 142
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "aep consulting",
+     "cutMin": 46,
+     "cutMax": 109
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 79,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "aep consulting",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": 270,
+      "t": 7506,
+      "r": 439,
+      "b": 7576,
+      "w": 169,
+      "h": 70
+     },
+     "clip": {
+      "l": 0,
+      "t": 7331,
+      "r": 360,
+      "b": 7638,
+      "w": 360,
+      "h": 307
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 46,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "aep consulting",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": 303,
+      "t": 7531,
+      "r": 406,
+      "b": 7551,
+      "w": 103,
+      "h": 20
+     },
+     "clip": {
+      "l": 0,
+      "t": 7331,
+      "r": 360,
+      "b": 7638,
+      "w": 360,
+      "h": 307
+     },
+     "lines": 1
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 142,
+     "path": "div.tags-carousel-track > ul > li.is-active > a",
+     "text": "data architecture & data management consulting",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -142,
+      "t": 7513,
+      "r": 249,
+      "b": 7592,
+      "w": 391,
+      "h": 79
+     },
+     "clip": {
+      "l": 0,
+      "t": 7331,
+      "r": 360,
+      "b": 7638,
+      "w": 360,
+      "h": 307
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 109,
+     "path": "div.tags-carousel-track > ul > li.is-active > a",
+     "text": "data architecture & data management consulting",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -109,
+      "t": 7538,
+      "r": 216,
+      "b": 7567,
+      "w": 325,
+      "h": 29
+     },
+     "clip": {
+      "l": 0,
+      "t": 7331,
+      "r": 360,
+      "b": 7638,
+      "w": 360,
+      "h": 307
+     },
+     "lines": 1
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "o2 telefónica germany",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "opportunities & challenges of the introduction of a customer data platform (cdp)",
+   "variable": true,
+   "origin": {
+    "link": 2,
+    "button": 1,
+    "text": 24,
+    "image": 1
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 18,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "MISSING BUTTON"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"opportunities & challenges of the introduction of a customer data platform (cdp)\" (origin y 832) not on the served page",
+   "band": 2,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"related diva-e conclusion services in the project\" (y 7371) has no origin heading",
+   "text": "related diva-e conclusion services in the project"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"data architecture & data management consulting\" served in band \"opportunities & challenges of the introduction of a customer data platform (cdp)\", no origin link or button",
+   "band": 2,
+   "n": 1,
+   "text": "data architecture & data management consulting"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 1,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 3,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 256,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 430,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 430,
+    "w": 52,
+    "h": 14
+   },
+   {
+    "x": 161,
+    "y": 430,
+    "w": 61,
+    "h": 14
+   },
+   {
+    "x": 44,
+    "y": 460,
+    "w": 152,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 584,
+    "w": 308,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 613,
+    "w": 261,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 642,
+    "w": 270,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 671,
+    "w": 68,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 750,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 774,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 798,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 822,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 846,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 870,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 894,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 918,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 942,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 966,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 990,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1014,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1038,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1062,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1086,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 1238,
+    "w": 43,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1305,
+    "w": 286,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1334,
+    "w": 160,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1414,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1438,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1462,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1486,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1510,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1534,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1558,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1582,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1606,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1630,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1654,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1678,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1702,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1726,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1750,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1774,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1798,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1822,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1846,
+    "w": 151,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1894,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1918,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1942,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1966,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1990,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2014,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2038,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2062,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2086,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2110,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2134,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2158,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2182,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2206,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2230,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2254,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2302,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2326,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2350,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2374,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2398,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2422,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2446,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2470,
+    "w": 160,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2518,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2542,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2566,
+    "w": 134,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2606,
+    "w": 121,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2646,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2686,
+    "w": 199,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2774,
+    "w": 130,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 2841,
+    "w": 175,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2921,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2945,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2969,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2993,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3017,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3041,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3065,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3089,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3113,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3137,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3161,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3185,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3209,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3233,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3257,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3281,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3305,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3353,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3377,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3401,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3425,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3449,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3473,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3497,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3521,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3545,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3569,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3593,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3617,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3641,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3665,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3689,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3854,
+    "w": 257,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3878,
+    "w": 239,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3902,
+    "w": 284,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3926,
+    "w": 226,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3950,
+    "w": 301,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3974,
+    "w": 261,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3998,
+    "w": 250,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4022,
+    "w": 293,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4046,
+    "w": 279,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4070,
+    "w": 301,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4094,
+    "w": 303,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4118,
+    "w": 284,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4142,
+    "w": 205,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4201,
+    "w": 114,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4225,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4249,
+    "w": 186,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 4417,
+    "w": 147,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 4484,
+    "w": 219,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4564,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4588,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4612,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4636,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4660,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4684,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4708,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4732,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4756,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4780,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4804,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4828,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4852,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4876,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4900,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4924,
+    "w": 73,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4972,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4996,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5020,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5044,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5068,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5092,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5116,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5140,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5164,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5188,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5236,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5260,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5284,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5308,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5332,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5356,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5380,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5404,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5428,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5452,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5476,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 5564,
+    "w": 130,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5631,
+    "w": 267,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 5659,
+    "w": 112,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 5739,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5763,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5787,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5811,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5835,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5859,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5883,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5907,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5955,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5979,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6003,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6027,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6051,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6075,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6099,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6123,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6147,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6171,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6195,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6219,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6267,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6291,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6315,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6339,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6363,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6387,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6411,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6435,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6459,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6483,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6507,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6531,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6555,
+    "w": 121,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 6643,
+    "w": 60,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 6710,
+    "w": 246,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 6790,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6814,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6838,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6862,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6886,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6910,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6934,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6958,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6982,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7006,
+    "w": 199,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7054,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7078,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7102,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7126,
+    "w": 186,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7174,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7198,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7222,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7246,
+    "w": 212,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7370,
+    "w": 201,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7403,
+    "w": 307,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7436,
+    "w": 152,
+    "h": 35
+   },
+   {
+    "x": 236,
+    "y": 7533,
+    "w": 103,
+    "h": 21
+   },
+   {
+    "x": -171,
+    "y": 7540,
+    "w": 331,
+    "h": 30
+   },
+   {
+    "x": 24,
+    "y": 7702,
+    "w": 239,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 8062,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 8062,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8113,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 8146,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 8215,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8259,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8303,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 8303,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 8303,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8347,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 8347,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8391,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 8391,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 8391,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8435,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 8435,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 8435,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8479,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 8479,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 8479,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 8561,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 8564,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8608,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 256,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 430,
+    "w": 31,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 430,
+    "w": 45,
+    "h": 14
+   },
+   {
+    "x": 157,
+    "y": 430,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 46,
+    "y": 460,
+    "w": 135,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 584,
+    "w": 305,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 613,
+    "w": 250,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 642,
+    "w": 268,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 671,
+    "w": 69,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 750,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 774,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 798,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 822,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 846,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 870,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 894,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 918,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 942,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 966,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 990,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1014,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1038,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1062,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1086,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 1239,
+    "w": 44,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 1305,
+    "w": 285,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1334,
+    "w": 158,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1414,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1438,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1462,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1486,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1510,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1534,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1558,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1582,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1606,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1630,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1654,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1678,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1702,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1726,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1750,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1774,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1798,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1822,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1846,
+    "w": 151,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1894,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1918,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1942,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1966,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1990,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2014,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2038,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2062,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2086,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2110,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2134,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2158,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2182,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2206,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2230,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2254,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2302,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2326,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2350,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2374,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2398,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2422,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2446,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2470,
+    "w": 160,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2518,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2542,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2566,
+    "w": 134,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2606,
+    "w": 121,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2646,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 2686,
+    "w": 199,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2775,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 2841,
+    "w": 170,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2921,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2945,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2969,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2993,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3017,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3041,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3065,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3089,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3113,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3137,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3161,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3185,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3209,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3233,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3257,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3281,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3305,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3353,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3377,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3401,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3425,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3449,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3473,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3497,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3521,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3545,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3569,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3593,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3617,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3641,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3665,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3689,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3855,
+    "w": 256,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3879,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3903,
+    "w": 284,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3927,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3951,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3975,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3999,
+    "w": 248,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4023,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4047,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4071,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4095,
+    "w": 262,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4119,
+    "w": 301,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4143,
+    "w": 90,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4201,
+    "w": 114,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4225,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4249,
+    "w": 186,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 4418,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4484,
+    "w": 217,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4564,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4588,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4612,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4636,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4660,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4684,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4708,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4732,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4756,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4780,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4804,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4828,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4852,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4876,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4900,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4924,
+    "w": 73,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4972,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4996,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5020,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5044,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5068,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5092,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5116,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5140,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5164,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5188,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5236,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5260,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5284,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5308,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5332,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5356,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5380,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5404,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5428,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5452,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5476,
+    "w": 107,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 5565,
+    "w": 131,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5631,
+    "w": 265,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 5659,
+    "w": 114,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 5739,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5763,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5787,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5811,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5835,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5859,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5883,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5907,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5955,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5979,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6003,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6027,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6051,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6075,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6099,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6123,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6147,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6171,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6195,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6219,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6267,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6291,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6315,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6339,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6363,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6387,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6411,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6435,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6459,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6483,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6507,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6531,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6555,
+    "w": 121,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 6644,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6710,
+    "w": 241,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 6790,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6814,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6838,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6862,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6886,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6910,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6934,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6958,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6982,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7006,
+    "w": 199,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7054,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7078,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7102,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7126,
+    "w": 186,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7174,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7198,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7222,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7246,
+    "w": 212,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7371,
+    "w": 203,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7404,
+    "w": 280,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7437,
+    "w": 181,
+    "h": 33
+   },
+   {
+    "x": 303,
+    "y": 7531,
+    "w": 103,
+    "h": 20
+   },
+   {
+    "x": -109,
+    "y": 7538,
+    "w": 325,
+    "h": 29
+   },
+   {
+    "x": 24,
+    "y": 7702,
+    "w": 233,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 8062,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 8062,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8114,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 8147,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 8215,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8259,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8303,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 8303,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 8303,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8347,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 8347,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8391,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 8391,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 8391,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8435,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 8435,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 8435,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8479,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 8479,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 8479,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 8561,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 8564,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 8608,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

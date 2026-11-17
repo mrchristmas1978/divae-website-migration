@@ -1,0 +1,3481 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/plan",
+    "writtenAt": "2026-11-13T12:36:19.553Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-13T12:36:19.553Z",
+  "fragments": [],
+  "deliveryOrder": [
+    "en-insights-edge-ai-radar-october",
+    "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum",
+    "en-insights-edge-5-fragen-plattformentscheidung",
+    "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+    "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+    "en-insights-edge-agentic-commerce",
+    "en-insights-edge-ai-foundation",
+    "en-insights-edge-ai-product-advisor-smart-search",
+    "en-insights-edge-ai-radar-human-in-the-loop",
+    "en-insights-edge-ai-radar-pilots",
+    "en-insights-edge-ai-radar-september",
+    "en-insights-edge-cdp-evaluation",
+    "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+    "en-insights-edge-commerce-platform-evaluation",
+    "en-insights-edge-conclusion-connect-recap",
+    "en-insights-edge-crm-auswaehlen-leitfaden",
+    "en-insights-edge-cypress-playwright-selenium",
+    "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+    "en-insights-edge-from-data-silos-to-digital-commerce",
+    "en-insights-edge-geo-gaio-gaps",
+    "en-insights-edge-geo-ymyl",
+    "en-insights-edge-greenwashing-retail",
+    "en-insights-edge-ifm-ai-product-advisor",
+    "en-insights-edge-industry-trends-2026",
+    "en-insights-edge-innovation-marketplace",
+    "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+    "en-insights-edge-ki-in-der-qualitaetssicherung",
+    "en-insights-edge-lead-to-cash-in-sap",
+    "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+    "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+    "en-insights-edge-projekt-recap-aus-der-praxis",
+    "en-insights-edge-qa-sap-ai",
+    "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+    "en-insights-edge-salesforce-partner-day-recap",
+    "en-insights-edge-sap-joule-und-die-business-data-cloud",
+    "en-insights-edge-security-anomaly-agent-use-case",
+    "en-insights-edge-tech-evaluation-short-list",
+    "en-insights-edge-tech-reality-check-ai",
+    "en-insights-edge-tech-reality-check-technical-debt",
+    "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+    "en-insights-edge-vendor-lab-day",
+    "en-about-us-customers-mann-hummel",
+    "en-about-us-customers-baby-walz",
+    "en-about-us-customers-best4tires",
+    "en-about-us-customers-doerrenberg",
+    "en-about-us-customers-fressnapf",
+    "en-about-us-customers-hd-plus",
+    "en-about-us-customers-interamt",
+    "en-about-us-customers-medi",
+    "en-about-us-customers-multivac",
+    "en-about-us-customers-postbank",
+    "en-about-us-customers-ravensburger",
+    "en-about-us-customers-seat",
+    "en-about-us-customers-siemens",
+    "en-about-us-customers-sma",
+    "en-about-us-customers-spinner",
+    "en-about-us-customers-telefonica",
+    "en-about-us-customers-terra-canis",
+    "en-about-us-customers-unitymedia",
+    "en-about-us-customers-vwfs",
+    "en-about-us-customers-wilo",
+    "en-services-crm",
+    "en-campaigns-next-gen-crm-pharma",
+    "en-campaigns-pim-voucher",
+    "en-industries-automotive",
+    "en-industries-b2b-manufacturing",
+    "en-industries-financial-services",
+    "en-industries-pharma",
+    "en-industries-pharma-and-healthcare",
+    "en-industries-retail",
+    "en-services-ai",
+    "en-services-ams",
+    "en-services-digital-consulting",
+    "en-services-digital-marketing",
+    "en-services-digital-produktpass-audit",
+    "en-services-dxp",
+    "en-services-total-experience",
+    "en-insights-edge",
+    "en-about-us-customers",
+    "en-about-us-locations",
+    "en-about-us-partner",
+    "en-insights-downloads",
+    "en-insights-events",
+    "en-insights-news",
+    "en-insights-press",
+    "en-marketplace",
+    "en-contact",
+    "en-loyalty-quiz",
+    "en-newsletter",
+    "en-search",
+    "en-security-quiz",
+    "en-security-quiz-security-questions",
+    "en-imprint",
+    "en-about-us",
+    "en-about-us-ai-manifest",
+    "en-about-us-management",
+    "en-data-privacy",
+    "en",
+    "index",
+    "en-connect"
+  ],
+  "steps": [
+    {
+      "slug": "en-insights-edge-ai-radar-october",
+      "path": "/en/insights/edge/ai-radar-october",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum",
+      "path": "/en/insights/edge/5-anzeichen-digitale-plattform-bremst-wachstum",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-5-fragen-plattformentscheidung",
+      "path": "/en/insights/edge/5-fragen-plattformentscheidung",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+      "path": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+      "path": "/en/insights/edge/agentic-ai-unternehmen-ki-agenten",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-agentic-commerce",
+      "path": "/en/insights/edge/agentic-commerce",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-ai-foundation",
+      "path": "/en/insights/edge/ai-foundation",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-ai-product-advisor-smart-search",
+      "path": "/en/insights/edge/ai-product-advisor-smart-search",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-human-in-the-loop",
+      "path": "/en/insights/edge/ai-radar-human-in-the-loop",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-pilots",
+      "path": "/en/insights/edge/ai-radar-pilots",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-september",
+      "path": "/en/insights/edge/ai-radar-september",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-cdp-evaluation",
+      "path": "/en/insights/edge/cdp-evaluation",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+      "path": "/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-commerce-platform-evaluation",
+      "path": "/en/insights/edge/commerce-platform-evaluation",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-conclusion-connect-recap",
+      "path": "/en/insights/edge/conclusion-connect-recap",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-crm-auswaehlen-leitfaden",
+      "path": "/en/insights/edge/crm-auswaehlen-leitfaden",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-cypress-playwright-selenium",
+      "path": "/en/insights/edge/cypress-playwright-selenium",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+      "path": "/en/insights/edge/digital-product-passport-dpp-readiness-audit",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-from-data-silos-to-digital-commerce",
+      "path": "/en/insights/edge/from-data-silos-to-digital-commerce",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-geo-gaio-gaps",
+      "path": "/en/insights/edge/geo-gaio-gaps",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-geo-ymyl",
+      "path": "/en/insights/edge/geo-ymyl",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-greenwashing-retail",
+      "path": "/en/insights/edge/greenwashing-retail",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-ifm-ai-product-advisor",
+      "path": "/en/insights/edge/ifm-ai-product-advisor",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-industry-trends-2026",
+      "path": "/en/insights/edge/industry-trends-2026",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-innovation-marketplace",
+      "path": "/en/insights/edge/innovation-marketplace",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+      "path": "/en/insights/edge/ki-agenten-fertigung-dreamforce-2026",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-ki-in-der-qualitaetssicherung",
+      "path": "/en/insights/edge/ki-in-der-qualitaetssicherung",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-lead-to-cash-in-sap",
+      "path": "/en/insights/edge/lead-to-cash-in-sap",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+      "path": "/en/insights/edge/millionenstrafe-wegen-fehlender-barrierefreiheit",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+      "path": "/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-projekt-recap-aus-der-praxis",
+      "path": "/en/insights/edge/projekt-recap-aus-der-praxis",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-qa-sap-ai",
+      "path": "/en/insights/edge/QA_SAP_AI",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+      "path": "/en/insights/edge/salesforce-marketing-cloud-engagement-gartner",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-salesforce-partner-day-recap",
+      "path": "/en/insights/edge/salesforce-partner-day-recap",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-sap-joule-und-die-business-data-cloud",
+      "path": "/en/insights/edge/sap-joule-und-die-business-data-cloud",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-security-anomaly-agent-use-case",
+      "path": "/en/insights/edge/security-anomaly-agent-use-case",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-tech-evaluation-short-list",
+      "path": "/en/insights/edge/tech-evaluation-short-list",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-ai",
+      "path": "/en/insights/edge/tech-reality-check-ai",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-technical-debt",
+      "path": "/en/insights/edge/tech-reality-check-technical-debt",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+      "path": "/en/insights/edge/the-electronic-withdrawal-button-is-coming-in-june-2026",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge-vendor-lab-day",
+      "path": "/en/insights/edge/vendor-lab-day",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "read-progress",
+          "edsBlockName": "read-progress",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "article-hero",
+          "edsBlockName": "article-hero",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "topics",
+          "edsBlockName": "topics",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "author-card",
+          "edsBlockName": "author-card",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        },
+        {
+          "id": "related",
+          "edsBlockName": "related",
+          "convertedBy": "en-insights-edge-ai-radar-october"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-mann-hummel",
+      "path": "/en/about-us/customers/mann-hummel",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "en-about-us-customers-baby-walz",
+      "path": "/en/about-us/customers/baby-walz",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-best4tires",
+      "path": "/en/about-us/customers/best4tires",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-doerrenberg",
+      "path": "/en/about-us/customers/doerrenberg",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-fressnapf",
+      "path": "/en/about-us/customers/fressnapf",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-hd-plus",
+      "path": "/en/about-us/customers/hd-plus",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-interamt",
+      "path": "/en/about-us/customers/interamt",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-medi",
+      "path": "/en/about-us/customers/medi",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-multivac",
+      "path": "/en/about-us/customers/multivac",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-postbank",
+      "path": "/en/about-us/customers/postbank",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-ravensburger",
+      "path": "/en/about-us/customers/ravensburger",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-seat",
+      "path": "/en/about-us/customers/seat",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-siemens",
+      "path": "/en/about-us/customers/siemens",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-sma",
+      "path": "/en/about-us/customers/sma",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-spinner",
+      "path": "/en/about-us/customers/spinner",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-telefonica",
+      "path": "/en/about-us/customers/telefonica",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-terra-canis",
+      "path": "/en/about-us/customers/terra-canis",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-unitymedia",
+      "path": "/en/about-us/customers/unitymedia",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-vwfs",
+      "path": "/en/about-us/customers/vwfs",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers-wilo",
+      "path": "/en/about-us/customers/wilo",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "single-quote",
+          "edsBlockName": "single-quote",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "tags-carousel",
+          "edsBlockName": "tags-carousel",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-services-crm",
+      "path": "/en/services/crm",
+      "templateId": "en-services-crm",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-campaigns-next-gen-crm-pharma",
+      "path": "/en/campaigns/next-gen-crm-pharma",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-campaigns-pim-voucher",
+      "path": "/en/campaigns/pim-voucher",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-industries-automotive",
+      "path": "/en/industries/automotive",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-industries-b2b-manufacturing",
+      "path": "/en/industries/b2b-manufacturing",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-industries-financial-services",
+      "path": "/en/industries/financial-services",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-industries-pharma",
+      "path": "/en/industries/pharma",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-industries-pharma-and-healthcare",
+      "path": "/en/industries/pharma-and-healthcare",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-industries-retail",
+      "path": "/en/industries/retail",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-services-ai",
+      "path": "/en/services/ai",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-services-ams",
+      "path": "/en/services/ams",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-services-digital-consulting",
+      "path": "/en/services/digital-consulting",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-services-digital-marketing",
+      "path": "/en/services/digital-marketing",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-services-digital-produktpass-audit",
+      "path": "/en/services/digital-produktpass-audit",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-services-dxp",
+      "path": "/en/services/dxp",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-services-total-experience",
+      "path": "/en/services/total-experience",
+      "templateId": "en-services-crm",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "image-caption",
+          "edsBlockName": "image-caption",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "button-group",
+          "edsBlockName": "button-group",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-edge",
+      "path": "/en/insights/edge",
+      "templateId": "en-insights-edge",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "article-list",
+          "edsBlockName": "article-list"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-customers",
+      "path": "/en/about-us/customers",
+      "templateId": "en-insights-edge",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "article-list",
+          "edsBlockName": "article-list",
+          "convertedBy": "en-insights-edge"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-locations",
+      "path": "/en/about-us/locations",
+      "templateId": "en-insights-edge",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "article-list",
+          "edsBlockName": "article-list",
+          "convertedBy": "en-insights-edge"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-partner",
+      "path": "/en/about-us/partner",
+      "templateId": "en-insights-edge",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "article-list",
+          "edsBlockName": "article-list",
+          "convertedBy": "en-insights-edge"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-downloads",
+      "path": "/en/insights/downloads",
+      "templateId": "en-insights-edge",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "article-list",
+          "edsBlockName": "article-list",
+          "convertedBy": "en-insights-edge"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-events",
+      "path": "/en/insights/events",
+      "templateId": "en-insights-edge",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "article-list",
+          "edsBlockName": "article-list",
+          "convertedBy": "en-insights-edge"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-news",
+      "path": "/en/insights/news",
+      "templateId": "en-insights-edge",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "article-list",
+          "edsBlockName": "article-list",
+          "convertedBy": "en-insights-edge"
+        }
+      ]
+    },
+    {
+      "slug": "en-insights-press",
+      "path": "/en/insights/press",
+      "templateId": "en-insights-edge",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "article-list",
+          "edsBlockName": "article-list",
+          "convertedBy": "en-insights-edge"
+        }
+      ]
+    },
+    {
+      "slug": "en-marketplace",
+      "path": "/en/marketplace",
+      "templateId": "en-insights-edge",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "article-list",
+          "edsBlockName": "article-list",
+          "convertedBy": "en-insights-edge"
+        }
+      ]
+    },
+    {
+      "slug": "en-contact",
+      "path": "/en/contact",
+      "templateId": "en-contact",
+      "status": "pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-loyalty-quiz",
+      "path": "/en/loyalty-quiz",
+      "templateId": "en-contact",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-newsletter",
+      "path": "/en/newsletter",
+      "templateId": "en-contact",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-search",
+      "path": "/en/search",
+      "templateId": "en-contact",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-security-quiz",
+      "path": "/en/security-quiz",
+      "templateId": "en-contact",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-security-quiz-security-questions",
+      "path": "/en/security-quiz/security-questions",
+      "templateId": "en-contact",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-imprint",
+      "path": "/en/imprint",
+      "templateId": "en-imprint",
+      "status": "pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us",
+      "path": "/en/about-us",
+      "templateId": "en-imprint",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-ai-manifest",
+      "path": "/en/about-us/ai-manifest",
+      "templateId": "en-imprint",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-about-us-management",
+      "path": "/en/about-us/management",
+      "templateId": "en-imprint",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en-data-privacy",
+      "path": "/en/data-privacy",
+      "templateId": "en-imprint",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        }
+      ]
+    },
+    {
+      "slug": "en",
+      "path": "/en",
+      "templateId": "en",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "slider-cards",
+          "edsBlockName": "slider-cards"
+        },
+        {
+          "id": "partners-bar",
+          "edsBlockName": "partners-bar"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "index",
+      "path": "/",
+      "templateId": "en",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "teaser-slider",
+          "edsBlockName": "teaser-slider",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "slider-cards",
+          "edsBlockName": "slider-cards",
+          "convertedBy": "en"
+        },
+        {
+          "id": "partners-bar",
+          "edsBlockName": "partners-bar",
+          "convertedBy": "en"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    },
+    {
+      "slug": "en-connect",
+      "path": "/en/connect",
+      "templateId": "en-connect",
+      "status": "pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "breadcrumbs",
+          "edsBlockName": "breadcrumbs",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "cards",
+          "edsBlockName": "cards",
+          "convertedBy": "en-services-crm"
+        },
+        {
+          "id": "mixed-media",
+          "edsBlockName": "mixed-media",
+          "convertedBy": "en-about-us-customers-mann-hummel"
+        },
+        {
+          "id": "partners-bar",
+          "edsBlockName": "partners-bar",
+          "convertedBy": "en"
+        },
+        {
+          "id": "form-block",
+          "edsBlockName": "form-block",
+          "convertedBy": "en-services-crm"
+        }
+      ]
+    }
+  ]
+}

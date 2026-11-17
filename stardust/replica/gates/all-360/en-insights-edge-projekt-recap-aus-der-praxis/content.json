@@ -1,0 +1,5452 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T06:45:23.648Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/insights/edge/projekt-recap-aus-der-praxis/",
+  "at": "2026-11-14T06:44:56.893Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7931,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__img > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "scrum",
+    "file": "0x900"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span.hero-banner__box-category",
+    "x": 76,
+    "y": 613,
+    "w": 125,
+    "h": 24,
+    "text": "Total Experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span",
+    "x": 201,
+    "y": 613,
+    "w": 103,
+    "h": 24,
+    "text": "3 Jun 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-headline > h1.h3",
+    "x": 52,
+    "y": 661,
+    "w": 256,
+    "h": 58,
+    "level": 1,
+    "text": "project recap from practice"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-subtitle > p",
+    "x": 52,
+    "y": 735,
+    "w": 256,
+    "h": 54,
+    "text": "Strong Delivery, Weak Impact?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box-author-img > picture > img",
+    "x": 52,
+    "y": 825,
+    "w": 32,
+    "h": 32,
+    "text": "anna maether",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-author > div.hero-banner__box-author-name",
+    "x": 100,
+    "y": 829,
+    "w": 106,
+    "h": 24,
+    "text": "Anna Maether"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__sidebar > div.intro-side-anchor-text__sidebar-anchor > div.dot-blur--16.no-heading",
+    "x": 24,
+    "y": 962,
+    "w": 130,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1016,
+    "w": 312,
+    "h": 48,
+    "text": "when delivery works – but nothing really changes",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1081,
+    "w": 291,
+    "h": 24,
+    "text": "a working process – with small fractures",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1123,
+    "w": 235,
+    "h": 24,
+    "text": "what the delivery audit revealed",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1165,
+    "w": 215,
+    "h": 24,
+    "text": "levers that emerged from this",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1207,
+    "w": 208,
+    "h": 24,
+    "text": "what this project made clear",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1249,
+    "w": 80,
+    "h": 24,
+    "text": "conclusion",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > span > b",
+    "x": 24,
+    "y": 1325,
+    "w": 293,
+    "h": 74,
+    "text": "Why delivery problems rarely arise where you expect them – a short story from a "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__paragraph.richtext > p > span",
+    "x": 24,
+    "y": 1433,
+    "w": 309,
+    "h": 209,
+    "text": "“Everything is running quite well.” That’s how the conversation with the team in"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__paragraph.richtext > p > span",
+    "x": 24,
+    "y": 1676,
+    "w": 306,
+    "h": 101,
+    "text": "Shortly after, another conversation – this time with management: “We’re investin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__paragraph.richtext > p > span",
+    "x": 24,
+    "y": 1811,
+    "w": 293,
+    "h": 74,
+    "text": "Two perspectives that contradict each other. And yet, both reflected reality."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#1 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 1997,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "when delivery works – but nothing really changes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2069,
+    "w": 307,
+    "h": 138,
+    "text": "The team delivered reliably. Stories were implemented, releases shipped regularl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2237,
+    "w": 297,
+    "h": 42,
+    "text": "And yet the question remained: why is so little changing?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2309,
+    "w": 224,
+    "h": 18,
+    "text": "The first signals were subtle."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2357,
+    "w": 290,
+    "h": 66,
+    "text": "Within the team, someone said: “Sometimes it’s not entirely clear why we’re buil"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2453,
+    "w": 300,
+    "h": 66,
+    "text": "On the stakeholder side, it sounded similar: “This doesn’t quite match what we a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2549,
+    "w": 286,
+    "h": 42,
+    "text": "No clear problem – but a recurring sense that something didn’t quite fit."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#2 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 2622,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "a working process – with small fractures"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2694,
+    "w": 289,
+    "h": 162,
+    "text": "The process itself seemed coherent. Requirements were defined, documented, and h"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 2886,
+    "w": 307,
+    "h": 138,
+    "text": "During implementation, questions came up – small ones at first: What exactly is "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3054,
+    "w": 306,
+    "h": 66,
+    "text": "In the review, a familiar picture emerged: things worked – but not quite as they"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3150,
+    "w": 292,
+    "h": 114,
+    "text": "So adjustments were made. A tweak here, a correction there. Nothing dramatic, bu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3294,
+    "w": 290,
+    "h": 114,
+    "text": "Features were technically correct but didn’t always meet the actual need. Things"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3438,
+    "w": 302,
+    "h": 18,
+    "text": "No failure – but no real progress either."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#3 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 3487,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "what the delivery audit revealed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3559,
+    "w": 266,
+    "h": 42,
+    "text": "Only in the delivery audit did the underlying issue become tangible."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3631,
+    "w": 308,
+    "h": 90,
+    "text": "The team worked well. Processes functioned. Tools provided the expected data. An"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3751,
+    "w": 278,
+    "h": 42,
+    "text": "What was missing wasn’t output – it was shared understanding."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3823,
+    "w": 301,
+    "h": 138,
+    "text": "Requirements were handed over, but not truly understood together. Questions were"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 3991,
+    "w": 301,
+    "h": 42,
+    "text": "Everyone was working – just not at the same time on the same problem."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 4063,
+    "w": 305,
+    "h": 162,
+    "text": "The real friction often arose exactly where work passed from one group to anothe"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#4 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 4256,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "levers that emerged from this"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 4328,
+    "w": 309,
+    "h": 66,
+    "text": "This analysis didn’t lead to major transformations, but to targeted, simple chan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 4424,
+    "w": 79,
+    "h": 18,
+    "text": "Examples:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4464,
+    "w": 260,
+    "h": 114,
+    "text": "Handovers are deliberately broken up to align earlier on what really matters – n"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4600,
+    "w": 262,
+    "h": 114,
+    "text": "It can also help to introduce short alignment moments during implementation – no"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li > p > span",
+    "x": 71,
+    "y": 4736,
+    "w": 246,
+    "h": 114,
+    "text": "At the same time, the focus of conversations shifts: away from what exactly shou"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 4880,
+    "w": 307,
+    "h": 66,
+    "text": "This shift alone has the potential to make decisions clearer and discussions mor"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#5 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 4977,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "what this project made clear"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5048,
+    "w": 301,
+    "h": 114,
+    "text": "In this case, the problems did not lie in execution itself. They emerged in the "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5192,
+    "w": 296,
+    "h": 90,
+    "text": "These areas are hard to see when looking at individual parts. Only when viewing "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5312,
+    "w": 305,
+    "h": 90,
+    "text": "This is exactly where a delivery audit comes in: it makes these connections visi"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#6 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 5433,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5479,
+    "w": 310,
+    "h": 18,
+    "text": "It’s not about improving individual parts."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5503,
+    "w": 278,
+    "h": 66,
+    "text": "It’s about understanding how the system works as a whole – and how well its elem"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5599,
+    "w": 303,
+    "h": 42,
+    "text": "That’s where it’s decided whether work actually creates impact."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > span > b",
+    "x": 24,
+    "y": 5671,
+    "w": 155,
+    "h": 18,
+    "text": "So what to do now?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5719,
+    "w": 291,
+    "h": 114,
+    "text": "Especially when delivery seems to be working well at first glance, it’s worth ta"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5863,
+    "w": 291,
+    "h": 18,
+    "text": "Where requirements are handed over."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5887,
+    "w": 234,
+    "h": 18,
+    "text": "Where assumptions are made."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 5911,
+    "w": 300,
+    "h": 66,
+    "text": "And where it often only becomes clear too late that something was built – but no"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6007,
+    "w": 300,
+    "h": 42,
+    "text": "This is where untapped potential often lies."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6079,
+    "w": 185,
+    "h": 18,
+    "text": "The key question is not:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6103,
+    "w": 204,
+    "h": 18,
+    "text": "“Where is it going wrong?”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6151,
+    "w": 31,
+    "h": 18,
+    "text": "But:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6175,
+    "w": 285,
+    "h": 42,
+    "text": "“Where could it be significantly more effective?”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > span",
+    "x": 24,
+    "y": 6247,
+    "w": 309,
+    "h": 66,
+    "text": "A delivery audit helps make these patterns visible – and to act precisely where "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 24,
+    "y": 6372,
+    "w": 243,
+    "h": 64,
+    "text": "explore the audit",
+    "href": "/en/services/digital-consulting/delivery-audit/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column.avatar > picture > img",
+    "x": 48,
+    "y": 6596,
+    "w": 112,
+    "h": 112,
+    "text": "anna maether",
+    "file": "176x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column.avatar > div.author-card__name",
+    "x": 48,
+    "y": 6724,
+    "w": 264,
+    "h": 28,
+    "text": "Anna Maether"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column > div.author-card__bio > p",
+    "x": 48,
+    "y": 6776,
+    "w": 264,
+    "h": 176,
+    "text": "Anna has been working as an Agile Coach at diva-e Conclusion since 2018, guiding"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column > a.author-card__link.btn--link",
+    "x": 48,
+    "y": 6976,
+    "w": 111,
+    "h": 24,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/anna-maether/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 7148,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 7148,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 7200,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7301,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7345,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7389,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 7389,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 7389,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7433,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 7433,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7477,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 7477,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 7477,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7521,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 7521,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 7521,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 7565,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 7565,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 7565,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 7646,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 7649,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 7693,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 7770,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 7770,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 7770,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 7831,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 92,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/projekt-recap-aus-der-praxis",
+  "at": "2026-11-14T06:45:23.462Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7938,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "scrum",
+    "file": "media_1414ca2905dbb396bfcb43bd4398988ad1"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 76,
+    "y": 613,
+    "w": 123,
+    "h": 24,
+    "text": "Total Experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 199,
+    "y": 613,
+    "w": 103,
+    "h": 24,
+    "text": "3 Jun 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-title > h1#project-recap-from-practice",
+    "x": 52,
+    "y": 661,
+    "w": 256,
+    "h": 58,
+    "level": 1,
+    "text": "project recap from practice"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-subtitle > p",
+    "x": 52,
+    "y": 735,
+    "w": 256,
+    "h": 54,
+    "text": "Strong Delivery, Weak Impact?"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 52,
+    "y": 825,
+    "w": 32,
+    "h": 32,
+    "text": "anna maether",
+    "file": "media_1d67d42f5d1e69ee5b771cf052ffae8926"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 100,
+    "y": 829,
+    "w": 104,
+    "h": 24,
+    "text": "Anna Maether"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-paragraph > p > strong",
+    "x": 24,
+    "y": 1332,
+    "w": 293,
+    "h": 74,
+    "text": "Why delivery problems rarely arise where you expect them – a short story from a "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1437,
+    "w": 312,
+    "h": 216,
+    "text": "“Everything is running quite well.” That’s how the conversation with the team in"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1680,
+    "w": 312,
+    "h": 108,
+    "text": "Shortly after, another conversation – this time with management: “We’re investin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1815,
+    "w": 312,
+    "h": 81,
+    "text": "Two perspectives that contradict each other. And yet, both reflected reality."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-sidebar > div.intro-side-anchor > p.anchor-title",
+    "x": 24,
+    "y": 962,
+    "w": 125,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1019,
+    "w": 287,
+    "h": 47,
+    "text": "when delivery works – but nothing really changes",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1091,
+    "w": 285,
+    "h": 17,
+    "text": "a working process – with small fractures",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1133,
+    "w": 229,
+    "h": 17,
+    "text": "what the delivery audit revealed",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1175,
+    "w": 213,
+    "h": 17,
+    "text": "levers that emerged from this",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1217,
+    "w": 203,
+    "h": 17,
+    "text": "what this project made clear",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1259,
+    "w": 79,
+    "h": 17,
+    "text": "conclusion",
+    "href": "/en/insights/edge/projekt-recap-aus-der-praxis"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#when-delivery-works--but-nothing-really-changes",
+    "x": 24,
+    "y": 2004,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "when delivery works – but nothing really changes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2073,
+    "w": 312,
+    "h": 144,
+    "text": "The team delivered reliably. Stories were implemented, releases shipped regularl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2241,
+    "w": 312,
+    "h": 48,
+    "text": "And yet the question remained: why is so little changing?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2313,
+    "w": 312,
+    "h": 24,
+    "text": "The first signals were subtle."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2361,
+    "w": 312,
+    "h": 72,
+    "text": "Within the team, someone said: “Sometimes it’s not entirely clear why we’re buil"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2457,
+    "w": 312,
+    "h": 72,
+    "text": "On the stakeholder side, it sounded similar: “This doesn’t quite match what we a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2553,
+    "w": 312,
+    "h": 48,
+    "text": "No clear problem – but a recurring sense that something didn’t quite fit."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#a-working-process--with-small-fractures",
+    "x": 24,
+    "y": 2629,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "a working process – with small fractures"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2698,
+    "w": 312,
+    "h": 168,
+    "text": "The process itself seemed coherent. Requirements were defined, documented, and h"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2890,
+    "w": 312,
+    "h": 144,
+    "text": "During implementation, questions came up – small ones at first: What exactly is "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3058,
+    "w": 312,
+    "h": 72,
+    "text": "In the review, a familiar picture emerged: things worked – but not quite as they"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3154,
+    "w": 312,
+    "h": 120,
+    "text": "So adjustments were made. A tweak here, a correction there. Nothing dramatic, bu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3298,
+    "w": 312,
+    "h": 120,
+    "text": "Features were technically correct but didn’t always meet the actual need. Things"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3442,
+    "w": 312,
+    "h": 24,
+    "text": "No failure – but no real progress either."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#what-the-delivery-audit-revealed",
+    "x": 24,
+    "y": 3494,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "what the delivery audit revealed"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3563,
+    "w": 312,
+    "h": 48,
+    "text": "Only in the delivery audit did the underlying issue become tangible."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3635,
+    "w": 312,
+    "h": 96,
+    "text": "The team worked well. Processes functioned. Tools provided the expected data. An"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3755,
+    "w": 312,
+    "h": 48,
+    "text": "What was missing wasn’t output – it was shared understanding."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3827,
+    "w": 312,
+    "h": 144,
+    "text": "Requirements were handed over, but not truly understood together. Questions were"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3995,
+    "w": 312,
+    "h": 48,
+    "text": "Everyone was working – just not at the same time on the same problem."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4067,
+    "w": 312,
+    "h": 168,
+    "text": "The real friction often arose exactly where work passed from one group to anothe"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#levers-that-emerged-from-this",
+    "x": 24,
+    "y": 4263,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "levers that emerged from this"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4332,
+    "w": 312,
+    "h": 72,
+    "text": "This analysis didn’t lead to major transformations, but to targeted, simple chan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4428,
+    "w": 312,
+    "h": 24,
+    "text": "Examples:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4468,
+    "w": 265,
+    "h": 120,
+    "text": "Handovers are deliberately broken up to align earlier on what really matters – n"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4604,
+    "w": 265,
+    "h": 120,
+    "text": "It can also help to introduce short alignment moments during implementation – no"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4740,
+    "w": 265,
+    "h": 120,
+    "text": "At the same time, the focus of conversations shifts: away from what exactly shou"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4884,
+    "w": 312,
+    "h": 72,
+    "text": "This shift alone has the potential to make decisions clearer and discussions mor"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#what-this-project-made-clear",
+    "x": 24,
+    "y": 4984,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "what this project made clear"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5052,
+    "w": 312,
+    "h": 120,
+    "text": "In this case, the problems did not lie in execution itself. They emerged in the "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5196,
+    "w": 312,
+    "h": 96,
+    "text": "These areas are hard to see when looking at individual parts. Only when viewing "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5316,
+    "w": 312,
+    "h": 96,
+    "text": "This is exactly where a delivery audit comes in: it makes these connections visi"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#conclusion",
+    "x": 24,
+    "y": 5440,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5483,
+    "w": 312,
+    "h": 96,
+    "text": "It’s not about improving individual parts. It’s about understanding how the syst"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5603,
+    "w": 312,
+    "h": 48,
+    "text": "That’s where it’s decided whether work actually creates impact."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > strong",
+    "x": 24,
+    "y": 5678,
+    "w": 155,
+    "h": 18,
+    "text": "So what to do now?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5723,
+    "w": 312,
+    "h": 120,
+    "text": "Especially when delivery seems to be working well at first glance, it’s worth ta"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5867,
+    "w": 312,
+    "h": 120,
+    "text": "Where requirements are handed over. Where assumptions are made. And where it oft"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 6011,
+    "w": 312,
+    "h": 48,
+    "text": "This is where untapped potential often lies."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 6083,
+    "w": 312,
+    "h": 48,
+    "text": "The key question is not: “Where is it going wrong?”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 6155,
+    "w": 312,
+    "h": 72,
+    "text": "But: “Where could it be significantly more effective?”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 6251,
+    "w": 312,
+    "h": 72,
+    "text": "A delivery audit helps make these patterns visible – and to act precisely where "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-buttons > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 6379,
+    "w": 237,
+    "h": 64,
+    "text": "explore the audit",
+    "href": "/en/services/digital-consulting/delivery-audit"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 48,
+    "y": 6603,
+    "w": 112,
+    "h": 112,
+    "text": "anna maether",
+    "file": "media_19044cb4985b751faac1b7f41ed82ea3b9"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col.author-col-avatar > div.author-name > p",
+    "x": 48,
+    "y": 6731,
+    "w": 264,
+    "h": 28,
+    "text": "Anna Maether"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col > div.author-bio > p",
+    "x": 48,
+    "y": 6783,
+    "w": 264,
+    "h": 176,
+    "text": "Anna has been working as an Agile Coach at diva-e Conclusion since 2018, guiding"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-link > p.link-only > a",
+    "x": 48,
+    "y": 6986,
+    "w": 109,
+    "h": 17,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/anna-maether"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 7155,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 7155,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 7207,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7308,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7352,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7396,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 7396,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 7396,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7440,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 7440,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7484,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 7484,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 7484,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7528,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 7528,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 7528,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7572,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 7572,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 7572,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 7656,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 7700,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 7777,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 7777,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 7777,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 7838,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 91,
+    "controls": 37,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "project recap from practice",
+   "variable": false,
+   "origin": {
+    "link": 6,
+    "button": 1,
+    "text": 7,
+    "image": 1
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 7,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "when delivery works – but nothing really changes",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "a working process – with small fractures",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "what the delivery audit revealed",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "levers that emerged from this",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "what this project made clear",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "conclusion",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 16,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 11,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "COUNT TEXT"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"project recap from practice\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT TEXT",
+   "msg": "band \"conclusion\": 16 origin → 11 served visible",
+   "band": 7,
+   "origin": 16,
+   "eds": 11,
+   "hidden": 0
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 2,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 76,
+    "y": 616,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 201,
+    "y": 616,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 211,
+    "y": 616,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 661,
+    "w": 217,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 690,
+    "w": 93,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 738,
+    "w": 191,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 765,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 832,
+    "w": 106,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 98,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1043,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1084,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1126,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1168,
+    "w": 215,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1210,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1252,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1325,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1352,
+    "w": 279,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1379,
+    "w": 255,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1433,
+    "w": 278,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1460,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1487,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1514,
+    "w": 286,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1541,
+    "w": 271,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1568,
+    "w": 283,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1595,
+    "w": 302,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1622,
+    "w": 153,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1676,
+    "w": 306,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1703,
+    "w": 290,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1730,
+    "w": 294,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1757,
+    "w": 93,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1811,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1838,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1865,
+    "w": 55,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1996,
+    "w": 294,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2023,
+    "w": 250,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2069,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2093,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2117,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2141,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2165,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2189,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2237,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2261,
+    "w": 141,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2309,
+    "w": 224,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2357,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2381,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2405,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2453,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2477,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2501,
+    "w": 161,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2549,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2573,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2621,
+    "w": 277,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2648,
+    "w": 166,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2694,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2718,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2742,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2766,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2790,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2814,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2838,
+    "w": 63,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2886,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2910,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2934,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2958,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2982,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3006,
+    "w": 82,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3054,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3078,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3102,
+    "w": 118,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3150,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3174,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3198,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3222,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3246,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3294,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3318,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3342,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3366,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3390,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3438,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3486,
+    "w": 261,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3512,
+    "w": 95,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3559,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3583,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3631,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3655,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3679,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3703,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3751,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3775,
+    "w": 210,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3823,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3847,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3871,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3895,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3919,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3943,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3991,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4015,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4063,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4087,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4111,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4135,
+    "w": 217,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4159,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4183,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4207,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4255,
+    "w": 285,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4281,
+    "w": 42,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4328,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4352,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4376,
+    "w": 70,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4424,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4464,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4488,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4512,
+    "w": 192,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4536,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4560,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4600,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4624,
+    "w": 206,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4648,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4672,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4696,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4736,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4760,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4784,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4808,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4832,
+    "w": 147,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4880,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4904,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4928,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4976,
+    "w": 259,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 5002,
+    "w": 55,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 5048,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5072,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5096,
+    "w": 212,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5120,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5144,
+    "w": 227,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5192,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5216,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5240,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5264,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5312,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5336,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5360,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5384,
+    "w": 206,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5432,
+    "w": 123,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 5479,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5503,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5527,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5551,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5599,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5623,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5671,
+    "w": 155,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5719,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5743,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5767,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5791,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5815,
+    "w": 167,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5863,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5887,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5911,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5935,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5959,
+    "w": 145,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6007,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6031,
+    "w": 31,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6079,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6103,
+    "w": 204,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6151,
+    "w": 31,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6175,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6199,
+    "w": 83,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6247,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6271,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6295,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 6392,
+    "w": 163,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 6726,
+    "w": 132,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 6777,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6796,
+    "w": 228,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6816,
+    "w": 248,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6836,
+    "w": 236,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6855,
+    "w": 254,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6875,
+    "w": 212,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6894,
+    "w": 192,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6914,
+    "w": 219,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6934,
+    "w": 219,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6979,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7148,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 7148,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7199,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7232,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 7301,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7345,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7389,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 7389,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 7389,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7433,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 7433,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7477,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 7477,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 7477,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7521,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 7521,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 7521,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7565,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 7565,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 7565,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 7647,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 7650,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7694,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 76,
+    "y": 616,
+    "w": 123,
+    "h": 17
+   },
+   {
+    "x": 214,
+    "y": 616,
+    "w": 88,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 661,
+    "w": 214,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 690,
+    "w": 91,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 738,
+    "w": 191,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 765,
+    "w": 69,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 832,
+    "w": 104,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1332,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1359,
+    "w": 279,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1386,
+    "w": 255,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1440,
+    "w": 278,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1467,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1494,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1521,
+    "w": 286,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1548,
+    "w": 271,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1575,
+    "w": 283,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1602,
+    "w": 302,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1629,
+    "w": 153,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1683,
+    "w": 306,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1710,
+    "w": 290,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1737,
+    "w": 294,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1764,
+    "w": 93,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1818,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1845,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1872,
+    "w": 55,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 93,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 287,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1049,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1091,
+    "w": 285,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1133,
+    "w": 229,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1175,
+    "w": 213,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1217,
+    "w": 203,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1259,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2003,
+    "w": 289,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2030,
+    "w": 247,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2076,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2100,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2124,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2148,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2172,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2196,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2244,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2268,
+    "w": 141,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2316,
+    "w": 224,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2364,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2388,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2412,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2460,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2484,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2508,
+    "w": 161,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2556,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2580,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2628,
+    "w": 272,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2655,
+    "w": 161,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2701,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2725,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2749,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2773,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2797,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2821,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2845,
+    "w": 63,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2893,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2917,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2941,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2965,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2989,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3013,
+    "w": 82,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3061,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3085,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3109,
+    "w": 118,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3157,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3181,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3205,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3229,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3253,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3301,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3325,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3349,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3373,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3397,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3445,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3493,
+    "w": 252,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3519,
+    "w": 95,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3566,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3590,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3638,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3662,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3686,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3710,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3758,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3782,
+    "w": 210,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3830,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3854,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3878,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3902,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3926,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3950,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3998,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4022,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4070,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4094,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4118,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4142,
+    "w": 217,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4166,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4190,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4214,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4262,
+    "w": 282,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4288,
+    "w": 39,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4335,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4359,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4383,
+    "w": 70,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4431,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4471,
+    "w": 209,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4495,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4519,
+    "w": 192,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4543,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4567,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4607,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4631,
+    "w": 206,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4655,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4679,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4703,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4743,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4767,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4791,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4815,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4839,
+    "w": 147,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4887,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4911,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4935,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4983,
+    "w": 252,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 5009,
+    "w": 54,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 5055,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5079,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5103,
+    "w": 212,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5127,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5151,
+    "w": 227,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5199,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5223,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5247,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5271,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5319,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5343,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5367,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5391,
+    "w": 206,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5439,
+    "w": 122,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 5486,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5510,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5534,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5558,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5606,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5630,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5678,
+    "w": 155,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5726,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5750,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5774,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5798,
+    "w": 248,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5822,
+    "w": 167,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5870,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5894,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5918,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5942,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5966,
+    "w": 145,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6014,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6038,
+    "w": 31,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6086,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6110,
+    "w": 204,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6158,
+    "w": 31,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6182,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6206,
+    "w": 83,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6254,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6278,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 6302,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 6400,
+    "w": 157,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 6734,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 6784,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6803,
+    "w": 228,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6823,
+    "w": 248,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6843,
+    "w": 236,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6862,
+    "w": 254,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6882,
+    "w": 212,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6901,
+    "w": 192,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6921,
+    "w": 219,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6941,
+    "w": 219,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 6986,
+    "w": 109,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7155,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 7155,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7207,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7240,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 7308,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7352,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7396,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 7396,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 7396,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7440,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 7440,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7484,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 7484,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 7484,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7528,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 7528,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 7528,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7572,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 7572,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 7572,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 7654,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 7657,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 7701,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

@@ -1,0 +1,4092 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T06:53:55.952Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/insights/edge/ki-in-der-qualitaetssicherung/",
+  "at": "2026-11-14T06:53:31.508Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6046,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__img > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "qa team",
+    "file": "0x900"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span.hero-banner__box-category",
+    "x": 105,
+    "y": 589,
+    "w": 125,
+    "h": 24,
+    "text": "Total Experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span",
+    "x": 52,
+    "y": 613,
+    "w": 115,
+    "h": 24,
+    "text": "21 May 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-headline > h1.h3",
+    "x": 52,
+    "y": 661,
+    "w": 256,
+    "h": 58,
+    "level": 1,
+    "text": "ai makes qa faster than ever"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-subtitle > p",
+    "x": 52,
+    "y": 735,
+    "w": 256,
+    "h": 54,
+    "text": "Why real quality still requires human experience"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box-author-img > picture > img",
+    "x": 52,
+    "y": 825,
+    "w": 32,
+    "h": 32,
+    "text": "ronny walther",
+    "file": "32x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-author > div.hero-banner__box-author-name",
+    "x": 100,
+    "y": 829,
+    "w": 110,
+    "h": 24,
+    "text": "Ronny Walther"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__sidebar > div.intro-side-anchor-text__sidebar-anchor > div.dot-blur--16.no-heading",
+    "x": 24,
+    "y": 962,
+    "w": 130,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1016,
+    "w": 297,
+    "h": 24,
+    "text": "ai has already become a productive tool",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1058,
+    "w": 233,
+    "h": 24,
+    "text": "where ai still reaches its limits",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1100,
+    "w": 312,
+    "h": 48,
+    "text": "why quality assurance is more than checking requirements",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1165,
+    "w": 303,
+    "h": 24,
+    "text": "the real strength lies in the combination",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1207,
+    "w": 80,
+    "h": 24,
+    "text": "conclusion",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+    "x": 24,
+    "y": 1280,
+    "w": 312,
+    "h": 243,
+    "text": "Artificial intelligence has long been part of everyday work, especially in IT. I"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__paragraph.richtext > p > a",
+    "x": 24,
+    "y": 1364,
+    "w": 210,
+    "h": 47,
+    "text": "test automation",
+    "href": "/en/insights/edge/speed-vs-stability-in-test-automation/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+    "x": 24,
+    "y": 1550,
+    "w": 312,
+    "h": 108,
+    "text": "But the more powerful these tools become, the more often one key question arises"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#1 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 1766,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "ai has already become a productive tool"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#1 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 1835,
+    "w": 312,
+    "h": 192,
+    "text": "There is hardly any debate left about AI creating real value. Many tasks can now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#1 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2051,
+    "w": 312,
+    "h": 168,
+    "text": "That is a major step forward. It allows teams to work more efficiently and reach"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#2 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 2247,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "where ai still reaches its limits"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#2 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2316,
+    "w": 312,
+    "h": 192,
+    "text": "As helpful as AI is in day-to-day work, its limitations are just as visible in p"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#2 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2532,
+    "w": 312,
+    "h": 240,
+    "text": "That is exactly where a major risk lies: AI often delivers a solution quickly, b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#3 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 2800,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "why quality assurance is more than checking requirements"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#3 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2895,
+    "w": 312,
+    "h": 264,
+    "text": "Quality assurance in particular shows why human experience remains so important."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#3 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3183,
+    "w": 312,
+    "h": 192,
+    "text": "This is where experience, contextual understanding, and common sense play a cent"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#4 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 3403,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "the real strength lies in the combination"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3472,
+    "w": 312,
+    "h": 120,
+    "text": "That is why the key question is not whether AI will replace people. The more int"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3616,
+    "w": 312,
+    "h": 168,
+    "text": "The potential is especially high in test automation. AI can support teams by cre"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3808,
+    "w": 312,
+    "h": 72,
+    "text": "The greatest benefit arises where AI is treated not as a replacement for human w"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#5 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 3908,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3950,
+    "w": 312,
+    "h": 144,
+    "text": "AI will continue to change the world of work, including IT and quality assurance"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 4118,
+    "w": 312,
+    "h": 144,
+    "text": "At the same time, there is currently little evidence to suggest that it will ful"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > b",
+    "x": 24,
+    "y": 4289,
+    "w": 308,
+    "h": 90,
+    "text": "AI is a powerful tool. But responsibility for delivering good results still lies"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 24,
+    "y": 4454,
+    "w": 195,
+    "h": 64,
+    "text": "get in touch",
+    "href": "/en/services/dxp/system-integration/qa/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box-column.avatar > picture > img",
+    "x": 48,
+    "y": 4710,
+    "w": 112,
+    "h": 112,
+    "text": "ronny walther",
+    "file": "176x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column.avatar > div.author-card__name",
+    "x": 48,
+    "y": 4838,
+    "w": 264,
+    "h": 28,
+    "text": "Ronny Walther"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__bio > p > span",
+    "x": 48,
+    "y": 4891,
+    "w": 261,
+    "h": 173,
+    "text": "Ronny has been with diva-e Conclusion for ten years and has built extensive expe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.author-card__box > div.author-card__box-column > a.author-card__link.btn--link",
+    "x": 48,
+    "y": 5091,
+    "w": 111,
+    "h": 24,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/ronny-walther/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 5263,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 5263,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 5315,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5416,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5460,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5504,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 5504,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 5504,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5548,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 5548,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5592,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 5592,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 5592,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5636,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 5636,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 5636,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5680,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 5680,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 5680,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 5761,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 5764,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 5808,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 5885,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 5885,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 5885,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 5946,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 66,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ki-in-der-qualitaetssicherung",
+  "at": "2026-11-14T06:53:55.765Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6053,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "qa team",
+    "file": "media_1663c3e1bb3bd6c0aa10a93d99627a5382"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 106,
+    "y": 589,
+    "w": 123,
+    "h": 24,
+    "text": "Total Experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 52,
+    "y": 613,
+    "w": 115,
+    "h": 24,
+    "text": "21 May 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-title > h1#ai-makes-qa-faster-than-ever",
+    "x": 52,
+    "y": 661,
+    "w": 256,
+    "h": 58,
+    "level": 1,
+    "text": "ai makes qa faster than ever"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-subtitle > p",
+    "x": 52,
+    "y": 735,
+    "w": 256,
+    "h": 54,
+    "text": "Why real quality still requires human experience"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 52,
+    "y": 825,
+    "w": 32,
+    "h": 32,
+    "text": "ronny walther",
+    "file": "media_1abbd9be1605df2cb5fb75cf813ab18f54"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-author > div.author-name > p",
+    "x": 100,
+    "y": 829,
+    "w": 109,
+    "h": 24,
+    "text": "Ronny Walther"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1287,
+    "w": 312,
+    "h": 243,
+    "text": "Artificial intelligence has long been part of everyday work, especially in IT. I"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-paragraph > p > a",
+    "x": 24,
+    "y": 1371,
+    "w": 210,
+    "h": 47,
+    "text": "test automation",
+    "href": "/en/insights/edge/speed-vs-stability-in-test-automation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1557,
+    "w": 312,
+    "h": 108,
+    "text": "But the more powerful these tools become, the more often one key question arises"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-sidebar > div.intro-side-anchor > p.anchor-title",
+    "x": 24,
+    "y": 962,
+    "w": 125,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1019,
+    "w": 296,
+    "h": 17,
+    "text": "ai has already become a productive tool",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1061,
+    "w": 231,
+    "h": 17,
+    "text": "where ai still reaches its limits",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1103,
+    "w": 264,
+    "h": 47,
+    "text": "why quality assurance is more than checking requirements",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1175,
+    "w": 302,
+    "h": 17,
+    "text": "the real strength lies in the combination",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1217,
+    "w": 79,
+    "h": 17,
+    "text": "conclusion",
+    "href": "/en/insights/edge/ki-in-der-qualitaetssicherung"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#ai-has-already-become-a-productive-tool",
+    "x": 24,
+    "y": 1773,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "ai has already become a productive tool"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 1842,
+    "w": 312,
+    "h": 192,
+    "text": "There is hardly any debate left about AI creating real value. Many tasks can now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2058,
+    "w": 312,
+    "h": 168,
+    "text": "That is a major step forward. It allows teams to work more efficiently and reach"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#where-ai-still-reaches-its-limits",
+    "x": 24,
+    "y": 2254,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "where ai still reaches its limits"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2323,
+    "w": 312,
+    "h": 192,
+    "text": "As helpful as AI is in day-to-day work, its limitations are just as visible in p"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2539,
+    "w": 312,
+    "h": 240,
+    "text": "That is exactly where a major risk lies: AI often delivers a solution quickly, b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#why-quality-assurance-is-more-than-checking-requirements",
+    "x": 24,
+    "y": 2807,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "why quality assurance is more than checking requirements"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2902,
+    "w": 312,
+    "h": 264,
+    "text": "Quality assurance in particular shows why human experience remains so important."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3190,
+    "w": 312,
+    "h": 192,
+    "text": "This is where experience, contextual understanding, and common sense play a cent"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#the-real-strength-lies-in-the-combination",
+    "x": 24,
+    "y": 3410,
+    "w": 312,
+    "h": 53,
+    "level": 2,
+    "text": "the real strength lies in the combination"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3479,
+    "w": 312,
+    "h": 120,
+    "text": "That is why the key question is not whether AI will replace people. The more int"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3623,
+    "w": 312,
+    "h": 168,
+    "text": "The potential is especially high in test automation. AI can support teams by cre"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3815,
+    "w": 312,
+    "h": 72,
+    "text": "The greatest benefit arises where AI is treated not as a replacement for human w"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#conclusion",
+    "x": 24,
+    "y": 3915,
+    "w": 312,
+    "h": 26,
+    "level": 2,
+    "text": "conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3957,
+    "w": 312,
+    "h": 144,
+    "text": "AI will continue to change the world of work, including IT and quality assurance"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4125,
+    "w": 312,
+    "h": 144,
+    "text": "At the same time, there is currently little evidence to suggest that it will ful"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > strong",
+    "x": 24,
+    "y": 4296,
+    "w": 308,
+    "h": 90,
+    "text": "AI is a powerful tool. But responsibility for delivering good results still lies"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-buttons > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 4461,
+    "w": 192,
+    "h": 64,
+    "text": "get in touch",
+    "href": "/en/services/dxp/system-integration/qa"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-img > picture > img",
+    "x": 48,
+    "y": 4717,
+    "w": 112,
+    "h": 112,
+    "text": "ronny walther",
+    "file": "media_134b9c434e81b75c1ae7022b7392c8d4b7"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col.author-col-avatar > div.author-name > p",
+    "x": 48,
+    "y": 4845,
+    "w": 264,
+    "h": 28,
+    "text": "Ronny Walther"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-col > div.author-bio > p",
+    "x": 48,
+    "y": 4897,
+    "w": 264,
+    "h": 176,
+    "text": "Ronny has been with diva-e Conclusion for ten years and has built extensive expe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.author-link > p.link-only > a",
+    "x": 48,
+    "y": 5101,
+    "w": 109,
+    "h": 17,
+    "text": "see all articles",
+    "href": "/en/insights/edge/authors/ronny-walther"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 5270,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 5270,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 5322,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5423,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5467,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5511,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 5511,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 5511,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5555,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 5555,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5599,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 5599,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 5599,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5643,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 5643,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 5643,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5687,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 5687,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 5687,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 5771,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5815,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 5892,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 5892,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 5892,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 5953,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 64,
+    "controls": 37,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "ai makes qa faster than ever",
+   "variable": false,
+   "origin": {
+    "link": 6,
+    "button": 1,
+    "text": 5,
+    "image": 1
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "ai has already become a productive tool",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "where ai still reaches its limits",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "why quality assurance is more than checking requirements",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "the real strength lies in the combination",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "conclusion",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 5,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"ai makes qa faster than ever\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 76,
+    "y": 592,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 96,
+    "y": 592,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 105,
+    "y": 592,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 616,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 62,
+    "y": 616,
+    "w": 105,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 661,
+    "w": 216,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 690,
+    "w": 106,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 738,
+    "w": 249,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 765,
+    "w": 160,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 832,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 98,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1061,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1103,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1127,
+    "w": 170,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1168,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1210,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1283,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1310,
+    "w": 297,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1337,
+    "w": 285,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1364,
+    "w": 178,
+    "h": 20
+   },
+   {
+    "x": 202,
+    "y": 1364,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1391,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 119,
+    "y": 1391,
+    "w": 205,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1418,
+    "w": 278,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1445,
+    "w": 267,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1472,
+    "w": 241,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1499,
+    "w": 104,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1553,
+    "w": 286,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1580,
+    "w": 273,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1607,
+    "w": 137,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 1607,
+    "w": 150,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1634,
+    "w": 220,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1765,
+    "w": 278,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1792,
+    "w": 174,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1838,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1862,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1886,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1910,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1934,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1958,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1982,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2006,
+    "w": 141,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2054,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2078,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2102,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2126,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2150,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2174,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2198,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2246,
+    "w": 288,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2273,
+    "w": 66,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2319,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2343,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2367,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2391,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2415,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2439,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2463,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2487,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2535,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2559,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2583,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2607,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2631,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2655,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2679,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 83,
+    "y": 2679,
+    "w": 220,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2703,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2727,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2751,
+    "w": 78,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2799,
+    "w": 282,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2825,
+    "w": 226,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2852,
+    "w": 153,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2898,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2922,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2946,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2970,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2994,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3018,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3042,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3066,
+    "w": 198,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3090,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3114,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3138,
+    "w": 47,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3186,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3210,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3234,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3258,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3282,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3306,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3330,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3354,
+    "w": 213,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3402,
+    "w": 278,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3429,
+    "w": 185,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3475,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3499,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3523,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 249,
+    "y": 3523,
+    "w": 60,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3547,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3571,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3619,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3643,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3667,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3691,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3715,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3739,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3763,
+    "w": 169,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3811,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3835,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3859,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3907,
+    "w": 123,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3953,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3977,
+    "w": 227,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4001,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4025,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4049,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4073,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4121,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4145,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4169,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4193,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4217,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4241,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4289,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4313,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4337,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4361,
+    "w": 99,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 4474,
+    "w": 115,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 4840,
+    "w": 137,
+    "h": 23
+   },
+   {
+    "x": 48,
+    "y": 4891,
+    "w": 189,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4911,
+    "w": 257,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4931,
+    "w": 198,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4950,
+    "w": 217,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4970,
+    "w": 246,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4989,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 5009,
+    "w": 255,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 5029,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 5048,
+    "w": 261,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 5094,
+    "w": 111,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5263,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 5263,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5314,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5347,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5416,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5460,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5504,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 5504,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 5504,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5548,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 5548,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5592,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 5592,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 5592,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5636,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 5636,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 5636,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5680,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 5680,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 5680,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5762,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 5765,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5809,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 76,
+    "y": 592,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 592,
+    "w": 123,
+    "h": 17
+   },
+   {
+    "x": 67,
+    "y": 616,
+    "w": 100,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 661,
+    "w": 215,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 690,
+    "w": 104,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 738,
+    "w": 249,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 765,
+    "w": 160,
+    "h": 20
+   },
+   {
+    "x": 100,
+    "y": 832,
+    "w": 109,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1290,
+    "w": 293,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1317,
+    "w": 297,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1344,
+    "w": 285,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1371,
+    "w": 178,
+    "h": 20
+   },
+   {
+    "x": 202,
+    "y": 1371,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1398,
+    "w": 95,
+    "h": 20
+   },
+   {
+    "x": 119,
+    "y": 1398,
+    "w": 205,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1425,
+    "w": 278,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1452,
+    "w": 267,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1479,
+    "w": 241,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1506,
+    "w": 104,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1560,
+    "w": 286,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1587,
+    "w": 273,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1614,
+    "w": 137,
+    "h": 20
+   },
+   {
+    "x": 161,
+    "y": 1614,
+    "w": 150,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1641,
+    "w": 220,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 93,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 296,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1061,
+    "w": 231,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1103,
+    "w": 264,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1133,
+    "w": 171,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1175,
+    "w": 302,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1217,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1772,
+    "w": 281,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1799,
+    "w": 168,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1845,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1869,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1893,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1917,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1941,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1965,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1989,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2013,
+    "w": 141,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2061,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2085,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2109,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2133,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2157,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2181,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2205,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2253,
+    "w": 286,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2280,
+    "w": 65,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2326,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2350,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2374,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2398,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2422,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2446,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2470,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2494,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2542,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2566,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2590,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2614,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2638,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2662,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2686,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 83,
+    "y": 2686,
+    "w": 220,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2710,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2734,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2758,
+    "w": 78,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2806,
+    "w": 281,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2832,
+    "w": 228,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2859,
+    "w": 153,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2905,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2929,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2953,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2977,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3001,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3025,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3049,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3073,
+    "w": 198,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3097,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3121,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3145,
+    "w": 47,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3193,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3217,
+    "w": 309,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3241,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3265,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3289,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3313,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3337,
+    "w": 296,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3361,
+    "w": 213,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3409,
+    "w": 279,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3436,
+    "w": 180,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3482,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3506,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3530,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 249,
+    "y": 3530,
+    "w": 60,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3554,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3578,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3626,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3650,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3674,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3698,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3722,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3746,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3770,
+    "w": 169,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3818,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3842,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3866,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3914,
+    "w": 122,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3960,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3984,
+    "w": 227,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4008,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4032,
+    "w": 298,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4056,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4080,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4128,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4152,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4176,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4200,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4224,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4248,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4296,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4320,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4344,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4368,
+    "w": 99,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 4482,
+    "w": 112,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 4848,
+    "w": 136,
+    "h": 22
+   },
+   {
+    "x": 48,
+    "y": 4898,
+    "w": 189,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4918,
+    "w": 257,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4938,
+    "w": 198,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4957,
+    "w": 217,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4977,
+    "w": 246,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 4996,
+    "w": 251,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 5016,
+    "w": 255,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 5036,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 5055,
+    "w": 261,
+    "h": 16
+   },
+   {
+    "x": 48,
+    "y": 5101,
+    "w": 109,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5270,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 5270,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5322,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5355,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5423,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5467,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5511,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 5511,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 5511,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5555,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 5555,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5599,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 5599,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 5599,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5643,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 5643,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 5643,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5687,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 5687,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 5687,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5769,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 5772,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5816,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

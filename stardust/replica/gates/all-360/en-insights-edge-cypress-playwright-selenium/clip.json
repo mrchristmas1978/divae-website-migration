@@ -1,0 +1,117 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/cypress-playwright-selenium",
+ "at": "2026-11-14T05:52:27.936Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 2,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 42,
+  "offPage": 11,
+  "textNodes": 120,
+  "controls": 44,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 20,
+   "clipper": "main",
+   "path": "div.intro-side-column > div.intro-side-intro > div.intro-side-paragraph > p",
+   "text": "anyone working in test automation will eventually face this ",
+   "cutMin": 114,
+   "cutMax": 820
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 14,
+   "clipper": "main",
+   "path": "div.topic > div.topic-body > ul > li",
+   "text": "how well does the framework fit the system landscape?",
+   "cutMin": 30,
+   "cutMax": 1152
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 4,
+   "clipper": "main",
+   "path": "div.topic > div.topic-body > p > strong",
+   "text": "that is real progress — but it is still not enough to justif",
+   "cutMin": 46,
+   "cutMax": 277
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 2,
+   "clipper": "p",
+   "path": "div.related-slide > article.article-card > div.card-teaser > p",
+   "text": "60% see technical debt as a brake on innovation, but only 18",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.card-media",
+   "path": "div.related-slide > article.article-card > div.card-media > a.card-media-link",
+   "text": "link",
+   "cutMin": 248,
+   "cutMax": 248
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.article-meta.has-cats > div.meta-cats > ul > li",
+   "text": "transformation",
+   "cutMin": 105,
+   "cutMax": 105
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.related-slide > article.article-card > div.card-title > a.card-link",
+   "text": "go to how to find the right pim system for your business",
+   "cutMin": 248,
+   "cutMax": 248
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.related-slide > article.article-card > div.card-title > h3#how-to-find-the-right-pim-system-for-your-business",
+   "text": "how to find the right pim system for your business",
+   "cutMin": 211,
+   "cutMax": 211
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 2,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 53,
+   "offPage": 22,
+   "textNodes": 133,
+   "controls": 45,
+   "total": 0
+  }
+ }
+}

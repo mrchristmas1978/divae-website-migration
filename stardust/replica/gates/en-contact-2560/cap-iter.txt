@@ -1,0 +1,13 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://www.diva-e.com/en/contact/
+  modules  3 sections: capped 1040 ×1 · full-bleed ×2
+  contentMaxWidth 1040px (module) · shellMaxWidth fluid · root body > div > div > div.page.storyblok__outline
+build  http://localhost:8791/en-contact-proposed.html
+  modules  3 sections: capped 1040 ×1 · full-bleed ×2
+  contentMaxWidth 1040px (module) · shellMaxWidth fluid · root body > main.page
+rows
+  ✓ content cap: live 1040px = build 1040px (±20, shared module cap)
+  ✓ module 1/3: 1040px = 1040px
+  ✓ module 2/3: full-bleed on both
+  ✓ module 3/3: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 4 rows failed (evidence stardust/replica/gates/en-contact-2560/cap-iter.json)

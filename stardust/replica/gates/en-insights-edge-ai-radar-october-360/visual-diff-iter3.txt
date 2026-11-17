@@ -1,0 +1,476 @@
+[live-session] waiting to pace live navigations to www.diva-e.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 446 ms
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/en-insights-edge-ai-radar-october-360/vdiff-iter3/
+
+build red flags (advisory): 
+  • FONT MISMATCH: heading "The Interface Is Dying. The Invo" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "A new pricing model. No price ye" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Benioff said the quiet part out " wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Follow the money" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading ""Our people won't stop using the" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Headless used to be a commerce w" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Nobody is clicking" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Recommended Reads" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Are You Ready for the Digital Pr" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Choosing the Right CRM" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "How to Find the Right Customer D" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • STRETCHED IMAGE: jasmin-guthmann-dbae-176x.png natural 176x154 → rendered 112x112. Image aspect ratio differs from its natural ratio — constrain one dimension (e.g. height:auto), or use the source's object-fit when it crops.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": true,
+  "mainHeight": 0,
+  "textLen": 0,
+  "images": [
+   {
+    "src": "0x900",
+    "natural": "1464x900",
+    "rendered": "360x880",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "32x",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "176x",
+    "natural": "0x0",
+    "rendered": "112x112",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "279x156",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "0x0",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "279x156",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "0x0",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "750x",
+    "natural": "0x0",
+    "rendered": "279x156",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "32x",
+    "natural": "0x0",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "The Interface Is Dying. The Invo",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "A new pricing model. No price ye",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Benioff said the quiet part out ",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Follow the money",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "\"Our people won't stop using the",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Headless used to be a commerce w",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Nobody is clicking",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Recommended Reads",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Are You Ready for the Digital Pr",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Choosing the Right CRM",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "How to Find the Right Customer D",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": []
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 7235,
+  "textLen": 6934,
+  "images": [
+   {
+    "src": "strategic-technology-decisions-with-fore-5246-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "financeguide_en_956x554-6a25-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-600x.png",
+    "natural": "600x338",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "interamt_956x554px-ba20-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en-security-guide_956x554-c39f-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-playbook_956x554px-0c00-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "agentic-perspectibes-2-8d3c-0x900.jpg",
+    "natural": "1464x900",
+    "rendered": "360x880",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "jasmin-guthmann-dbae-32x.png",
+    "natural": "32x28",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "jasmin-guthmann-dbae-176x.png",
+    "natural": "176x154",
+    "rendered": "112x112",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1336136316-2-c79e-750x.jpg",
+    "natural": "750x500",
+    "rendered": "279x156",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2183118552-ad6b-750x.jpg",
+    "natural": "750x396",
+    "rendered": "279x156",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "dorothee-haensch-0c9c-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-2231952003-e4ca-750x.jpg",
+    "natural": "750x500",
+    "rendered": "279x156",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "anne-brosch-en-893e-32x.jpeg",
+    "natural": "32x32",
+    "rendered": "32x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "The Interface Is Dying. The Invo",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "A new pricing model. No price ye",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Benioff said the quiet part out ",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Follow the money",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "\"Our people won't stop using the",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Headless used to be a commerce w",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Nobody is clicking",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Recommended Reads",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Are You Ready for the Digital Pr",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "Choosing the Right CRM",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "How to Find the Right Customer D",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "20px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "article-hero__box",
+    "width": 336,
+    "left": 12
+   },
+   {
+    "sel": "topic__body",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "topic__body",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "topic__body",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "topic__body",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "topic__body",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "topic__body",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "topic__body",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "author-card__bio",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "article-card__title",
+    "width": 279,
+    "left": 27
+   },
+   {
+    "sel": "article-card__title",
+    "width": 279,
+    "left": 330
+   },
+   {
+    "sel": "article-card__title",
+    "width": 279,
+    "left": 632
+   }
+  ]
+ }
+}

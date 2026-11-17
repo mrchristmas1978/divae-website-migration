@@ -1,0 +1,179 @@
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/en-contact-1440/vdiff-iter2/
+
+build red flags (advisory): 
+  • FONT MISMATCH: heading "Contact" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 2242,
+  "textLen": 1000,
+  "images": [
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x338",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Contact",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "65px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 1089,
+    "left": 145
+   },
+   {
+    "sel": "hero__description",
+    "width": 1040,
+    "left": 175
+   },
+   {
+    "sel": "form-block__container",
+    "width": 1089,
+    "left": 175
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 2242,
+  "textLen": 1000,
+  "images": [
+   {
+    "src": "strategic-technology-decisions-with-fore-5246-600x.jpg",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "financeguide_en_956x554-6a25-600x.jpg",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-600x.png",
+    "natural": "600x338",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "interamt_956x554px-ba20-600x.png",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en-security-guide_956x554-c39f-600x.jpg",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-playbook_956x554px-0c00-600x.png",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Contact",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "65px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 1089,
+    "left": 145
+   },
+   {
+    "sel": "hero__description",
+    "width": 1040,
+    "left": 175
+   },
+   {
+    "sel": "form-block__container",
+    "width": 1089,
+    "left": 175
+   }
+  ]
+ }
+}

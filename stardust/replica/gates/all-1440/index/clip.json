@@ -1,0 +1,97 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/",
+ "at": "2026-11-14T04:18:27.939Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 11,
+  "offPage": 86,
+  "textNodes": 148,
+  "controls": 142,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+   "text": "go to kyowa kirin – pharmazeutischen vertrieb neu denken: vo",
+   "cutMin": 116,
+   "cutMax": 118
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+   "text": "link",
+   "cutMin": 112,
+   "cutMax": 116
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-track > div.story-card > div.story-card-title.h5 > p.link-only",
+   "text": "kyowa kirin – pharmazeutischen vertrieb neu denken: vom acco",
+   "cutMin": 108,
+   "cutMax": 110
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.partners-bar-row.partners-bar-row-top",
+   "path": "div.partners-bar-track > div.partners-bar-slide > p > a",
+   "text": "",
+   "cutMin": 66,
+   "cutMax": 121
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.partners-bar-row.partners-bar-row-bottom",
+   "path": "div.partners-bar-track > div.partners-bar-slide > p > a",
+   "text": "",
+   "cutMin": 66,
+   "cutMax": 121
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.story-card > div.story-card-name.dot-blur > div.story-card-date > p",
+   "text": "8 jan 2026",
+   "cutMin": 77,
+   "cutMax": 77
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 1,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 21,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 2,
+   "offPage": 86,
+   "textNodes": 150,
+   "controls": 143,
+   "total": 22
+  }
+ }
+}

@@ -1,0 +1,3014 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T06:42:43.605Z",
+  "width": 360,
+  "variable": [
+   ".tags-carousel__container"
+  ],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/about-us/customers/postbank/",
+  "at": "2026-11-14T06:42:20.788Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4682,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 72,
+    "text": "Digital magazine portal ‘Themenwelten’ for complex financial topics."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 344,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "postbank"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-container > picture > img.hero__image",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "",
+    "file": "900x0"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 450,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 450,
+    "w": 52,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 161,
+    "y": 450,
+    "w": 61,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 248,
+    "y": 450,
+    "w": 54,
+    "h": 24,
+    "text": "postbank",
+    "href": "/en/about-us/customers/postbank/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 80,
+    "y": 570,
+    "w": 201,
+    "h": 17,
+    "text": "1,678 hours development time"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 78,
+    "y": 630,
+    "w": 204,
+    "h": 17,
+    "text": "562,416 characters in all posts"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 110,
+    "y": 690,
+    "w": 139,
+    "h": 17,
+    "text": "16 persons Team size"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 804,
+    "w": 268,
+    "h": 24,
+    "level": 6,
+    "text": "introduction & challenge"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 852,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "relaunch of postbank \"themenwelten\""
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 930,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 1221,
+    "w": 312,
+    "h": 384,
+    "text": "For Postbank, we developed a digital and personal platform that covered all fina"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 1695,
+    "w": 133,
+    "h": 24,
+    "level": 6,
+    "text": "resolution"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 1743,
+    "w": 312,
+    "h": 144,
+    "level": 2,
+    "text": "the postbank \"themenwelten\" reflect an important part of diva-e conclusion's range of services"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 1907,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 2199,
+    "w": 312,
+    "h": 168,
+    "text": "With a topic-specific adapted format variety including advice texts, top lists, "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 2457,
+    "w": 179,
+    "h": 24,
+    "level": 6,
+    "text": "implementation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 2505,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 2796,
+    "w": 312,
+    "h": 264,
+    "text": "Through SE-optimized content, occupation of traffic-relevant ranking positions, "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-quote > div.no-heading",
+    "x": 24,
+    "y": 3228,
+    "w": 312,
+    "h": 96,
+    "text": "I think that Postbank benefited enormously from the fact that everything came fr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.author",
+    "x": 24,
+    "y": 3356,
+    "w": 312,
+    "h": 24,
+    "text": "Andreas Strobl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.single-quote__text > div.single-quote__text-author > span.position",
+    "x": 24,
+    "y": 3380,
+    "w": 312,
+    "h": 24,
+    "text": "Creative Director"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.tags-carousel__title > h2",
+    "x": 24,
+    "y": 3588,
+    "w": 312,
+    "h": 99,
+    "level": 2,
+    "text": "related diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": 281,
+    "y": 3721,
+    "w": 209,
+    "h": 72,
+    "text": "user experience (ux)",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": -36,
+    "y": 3730,
+    "w": 307,
+    "h": 76,
+    "text": "content optimization in e-commerce",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 3899,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 3899,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 3951,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4052,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4096,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4140,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 4140,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 4140,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4184,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 4184,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4228,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 4228,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 4228,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4272,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 4272,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 4272,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 4316,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 4316,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 4316,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 4397,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 4400,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 4444,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 4521,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 4521,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 4521,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 4582,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 20,
+    "textNodes": 57,
+    "controls": 46,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div#swiper-wrapper-eee3dae627dcdee8 > div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+     "text": "user experience (ux)",
+     "cutMin": 32,
+     "cutMax": 133
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn > span.text",
+     "text": "user experience (ux)",
+     "cutMin": 100,
+     "cutMax": 100
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/postbank",
+  "at": "2026-11-14T06:42:43.422Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4681,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 72,
+    "text": "Digital magazine portal ‘Themenwelten’ for complex financial topics."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#postbank",
+    "x": 24,
+    "y": 344,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "postbank"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-image-container > picture > img",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "",
+    "file": "media_13eb65751e36041a6bf23d29ad1373dc99"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 450,
+    "w": 31,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 83,
+    "y": 450,
+    "w": 45,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 157,
+    "y": 450,
+    "w": 56,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 241,
+    "y": 450,
+    "w": 48,
+    "h": 24,
+    "text": "postbank",
+    "href": "/en/about-us/customers/postbank"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 554,
+    "w": 312,
+    "h": 48,
+    "text": "1,678 hours development time"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 614,
+    "w": 312,
+    "h": 48,
+    "text": "562,416 characters in all posts"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 674,
+    "w": 312,
+    "h": 48,
+    "text": "16 persons Team size"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 930,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "media_1843d90b9645b2d905a696d6dad3de4b7e"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#introduction--challenge",
+    "x": 24,
+    "y": 804,
+    "w": 261,
+    "h": 24,
+    "level": 6,
+    "text": "introduction & challenge"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#relaunch-of-postbank-themenwelten",
+    "x": 24,
+    "y": 852,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "relaunch of postbank \"themenwelten\""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 1221,
+    "w": 312,
+    "h": 384,
+    "text": "For Postbank, we developed a digital and personal platform that covered all fina"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 1907,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "media_1253e187efca64e640728c783708c5b9af"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#resolution",
+    "x": 24,
+    "y": 1695,
+    "w": 131,
+    "h": 24,
+    "level": 6,
+    "text": "resolution"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#the-postbank-themenwelten-reflect-an-important-part-of-diva-e-conclusions-range-of-services",
+    "x": 24,
+    "y": 1743,
+    "w": 312,
+    "h": 144,
+    "level": 2,
+    "text": "the postbank \"themenwelten\" reflect an important part of diva-e conclusion's range of services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 2199,
+    "w": 312,
+    "h": 168,
+    "text": "With a topic-specific adapted format variety including advice texts, top lists, "
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 2503,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "media_111df46dfeab19a7ef0ef53bc61b76e6ca"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h6#implementation",
+    "x": 24,
+    "y": 2455,
+    "w": 312,
+    "h": 29,
+    "level": 6,
+    "text": "implementation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 2795,
+    "w": 312,
+    "h": 264,
+    "text": "Through SE-optimized content, occupation of traffic-relevant ranking positions, "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figure.single-quote-container > blockquote.single-quote-text > p",
+    "x": 24,
+    "y": 3227,
+    "w": 312,
+    "h": 96,
+    "text": "I think that Postbank benefited enormously from the fact that everything came fr"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-name > p",
+    "x": 24,
+    "y": 3355,
+    "w": 312,
+    "h": 24,
+    "text": "Andreas Strobl"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "figcaption.single-quote-author > div.single-quote-position > p",
+    "x": 24,
+    "y": 3379,
+    "w": 312,
+    "h": 24,
+    "text": "Creative Director"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags-carousel-grid > div.tags-carousel-title > h2#related-diva-e-conclusion-services-in-the-project",
+    "x": 24,
+    "y": 3587,
+    "w": 312,
+    "h": 99,
+    "level": 2,
+    "text": "related diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 62,
+    "y": 3725,
+    "w": 301,
+    "h": 76,
+    "text": "content optimization in e-commerce",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li.is-active > a",
+    "x": -146,
+    "y": 3737,
+    "w": 186,
+    "h": 71,
+    "text": "content marketing",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 3898,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 3898,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 3950,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4051,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4095,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4139,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 4139,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 4139,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4183,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 4183,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4227,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 4227,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 4227,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4271,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 4271,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 4271,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4315,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 4315,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 4315,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 4399,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 4443,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 4520,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 4520,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 4520,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 4581,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 20,
+    "textNodes": 57,
+    "controls": 45,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "content optimization in e-commerce",
+     "cutMin": 7,
+     "cutMax": 142
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li.is-active > a",
+     "text": "content marketing",
+     "cutMin": 109,
+     "cutMax": 109
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 7,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "content optimization in e-commerce",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": 66,
+      "t": 3725,
+      "r": 367,
+      "b": 3800,
+      "w": 301,
+      "h": 76
+     },
+     "clip": {
+      "l": 0,
+      "t": 3547,
+      "r": 360,
+      "b": 3854,
+      "w": 360,
+      "h": 307
+     }
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 142,
+     "path": "div.tags-carousel-track > ul > li.is-active > a",
+     "text": "content marketing",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -142,
+      "t": 3737,
+      "r": 45,
+      "b": 3808,
+      "w": 186,
+      "h": 71
+     },
+     "clip": {
+      "l": 0,
+      "t": 3547,
+      "r": 360,
+      "b": 3854,
+      "w": 360,
+      "h": 307
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 109,
+     "path": "div.tags-carousel-track > ul > li.is-active > a",
+     "text": "content marketing",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -109,
+      "t": 3762,
+      "r": 12,
+      "b": 3783,
+      "w": 120,
+      "h": 21
+     },
+     "clip": {
+      "l": 0,
+      "t": 3547,
+      "r": 360,
+      "b": 3854,
+      "w": 360,
+      "h": 307
+     },
+     "lines": 1
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "postbank",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 1,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "relaunch of postbank \"themenwelten\"",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "the postbank \"themenwelten\" reflect an important part of diva-e conclusion's range of services",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 5,
+    "image": 2
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "related diva-e conclusion services in the project",
+   "variable": true,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 1,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "HIDDEN LINK"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🔴",
+   "kind": "HIDDEN LINK",
+   "msg": "×1 links clipped away inside the session-variable region of band \"related diva-e conclusion services in the project\"",
+   "band": 4,
+   "n": 1,
+   "variable": true
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"postbank\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 1,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 2,
+  "structural": 1,
+  "missing": 0,
+  "hidden": 1
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 183,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 299,
+    "w": 54,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 343,
+    "w": 104,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 454,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 454,
+    "w": 52,
+    "h": 14
+   },
+   {
+    "x": 161,
+    "y": 454,
+    "w": 61,
+    "h": 14
+   },
+   {
+    "x": 248,
+    "y": 454,
+    "w": 54,
+    "h": 14
+   },
+   {
+    "x": 80,
+    "y": 569,
+    "w": 201,
+    "h": 17
+   },
+   {
+    "x": 78,
+    "y": 629,
+    "w": 204,
+    "h": 17
+   },
+   {
+    "x": 110,
+    "y": 689,
+    "w": 139,
+    "h": 17
+   },
+   {
+    "x": 56,
+    "y": 804,
+    "w": 236,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 852,
+    "w": 244,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 881,
+    "w": 182,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1224,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1248,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1272,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1296,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1320,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1344,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1368,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1392,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1416,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1440,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1464,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1488,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1512,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1536,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1560,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1584,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 1695,
+    "w": 101,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1743,
+    "w": 152,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1772,
+    "w": 296,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1801,
+    "w": 269,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1830,
+    "w": 239,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1858,
+    "w": 91,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2202,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2226,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2250,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2274,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2298,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2322,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2346,
+    "w": 149,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2457,
+    "w": 147,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 2799,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2823,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2847,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2871,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2895,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2919,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2943,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2967,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2991,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3015,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3039,
+    "w": 155,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3228,
+    "w": 292,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3252,
+    "w": 282,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3276,
+    "w": 281,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3300,
+    "w": 309,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3359,
+    "w": 121,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3383,
+    "w": 132,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3587,
+    "w": 201,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 3620,
+    "w": 307,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 3653,
+    "w": 152,
+    "h": 35
+   },
+   {
+    "x": 317,
+    "y": 3745,
+    "w": 143,
+    "h": 23
+   },
+   {
+    "x": 0,
+    "y": 3754,
+    "w": 241,
+    "h": 26
+   },
+   {
+    "x": 24,
+    "y": 3899,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 3899,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 3950,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 3983,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 4052,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4096,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4140,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 4140,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 4140,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4184,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 4184,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4228,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 4228,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 4228,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4272,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 4272,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 4272,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4316,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 4316,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 4316,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4398,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 4401,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 4445,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 183,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 299,
+    "w": 54,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 343,
+    "w": 104,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 454,
+    "w": 31,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 454,
+    "w": 45,
+    "h": 14
+   },
+   {
+    "x": 157,
+    "y": 454,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 241,
+    "y": 454,
+    "w": 48,
+    "h": 14
+   },
+   {
+    "x": 81,
+    "y": 570,
+    "w": 197,
+    "h": 16
+   },
+   {
+    "x": 80,
+    "y": 630,
+    "w": 200,
+    "h": 16
+   },
+   {
+    "x": 109,
+    "y": 690,
+    "w": 142,
+    "h": 16
+   },
+   {
+    "x": 56,
+    "y": 805,
+    "w": 229,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 852,
+    "w": 241,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 881,
+    "w": 171,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1224,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1248,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1272,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1296,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1320,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1344,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1368,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1392,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1416,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1440,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1464,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1488,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1512,
+    "w": 312,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1536,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1560,
+    "w": 304,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1584,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 1696,
+    "w": 99,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 1743,
+    "w": 152,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1772,
+    "w": 280,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1801,
+    "w": 254,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1830,
+    "w": 237,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1858,
+    "w": 91,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2202,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2226,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2250,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2274,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2298,
+    "w": 271,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2322,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2346,
+    "w": 149,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2455,
+    "w": 169,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2798,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2822,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2846,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2870,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2894,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2918,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2942,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2966,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2990,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3014,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3038,
+    "w": 155,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3228,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3252,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3276,
+    "w": 276,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3300,
+    "w": 299,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3358,
+    "w": 121,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3382,
+    "w": 132,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3587,
+    "w": 203,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 3620,
+    "w": 280,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 3653,
+    "w": 181,
+    "h": 33
+   },
+   {
+    "x": 99,
+    "y": 3750,
+    "w": 235,
+    "h": 25
+   },
+   {
+    "x": -109,
+    "y": 3762,
+    "w": 120,
+    "h": 21
+   },
+   {
+    "x": 24,
+    "y": 3898,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 3898,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 3950,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 3983,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 4051,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4095,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4139,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 4139,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 4139,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4183,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 4183,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4227,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 4227,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 4227,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4271,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 4271,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 4271,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4315,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 4315,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 4315,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 4397,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 4400,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 4444,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

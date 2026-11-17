@@ -1,0 +1,13 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://www.diva-e.com/en/insights/edge/
+  modules  3 sections: capped 1413 ×1 · full-bleed ×2
+  contentMaxWidth 1413px (module) · shellMaxWidth fluid · root body
+build  http://localhost:8791/en-insights-edge-proposed.html
+  modules  2 sections: capped 1411 ×1 · full-bleed ×1
+  contentMaxWidth 1411px (module) · shellMaxWidth fluid · root body > main.page.page-edge
+rows
+  ✓ content cap: live 1413px = build 1411px (±20, shared module cap)
+  ⚠ sections: live 3 vs build 2 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ✓ module 1/3: full-bleed on both
+  ✓ module 2/3: 1413px = 1411px
+cap-probe: PASS at 2560 — 0 of 4 rows failed (evidence stardust/replica/gates/en-insights-edge-2560/cap-iter.json)

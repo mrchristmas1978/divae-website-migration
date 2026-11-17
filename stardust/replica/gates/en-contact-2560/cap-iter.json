@@ -1,0 +1,151 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T12:11:35.938Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.diva-e.com/en/contact/",
+      "http://localhost:8791/en-contact-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from stardust/current/DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.diva-e.com/en/contact/",
+    "http://localhost:8791/en-contact-proposed.html"
+  ],
+  "probeNote": "from stardust/current/DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > div > div > div.page.storyblok__outline",
+      "isBody": false,
+      "leaves": 26,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "max-width",
+        "selector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext",
+        "tier": 6,
+        "share": 0.04,
+        "section": 0,
+        "w1": 1040,
+        "maxWidth": "1040px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div > div > div.page.storyblok__outline > div.hero.storyblok__outline",
+        "px": 1040,
+        "capSelector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext"
+      },
+      {
+        "index": 1,
+        "selector": "div > div > div.page.storyblok__outline > div.layout-breadcrumbs.layout-breadcrumbs--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "#form",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1040,
+    "contentFrom": "module",
+    "maxCap": 1040,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 90
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.page",
+      "isBody": false,
+      "leaves": 26,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "max-width",
+        "selector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description",
+        "tier": 6,
+        "share": 0.04,
+        "section": 0,
+        "w1": 1040,
+        "maxWidth": "1040px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.page > section.hero.hero--plain",
+        "px": 1040,
+        "capSelector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description"
+      },
+      {
+        "index": 1,
+        "selector": "body > main.page > div.layout-breadcrumbs.layout-breadcrumbs--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "#form",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1040,
+    "contentFrom": "module",
+    "maxCap": 1040,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 74
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1040px = build 1040px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/3",
+        "detail": "1040px = 1040px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/3",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/3",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/en-contact-2560/cap-iter.json"
+}

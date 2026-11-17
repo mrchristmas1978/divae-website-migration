@@ -1,0 +1,1644 @@
+/* article-list — values lifted from the gated prototype
+   (stardust/prototypes/en-insights-edge.css § article-list, filter-buttons,
+   list-article-card, hover-button, list-pagination; entry.css utilities) */
+
+/* PageEdge header offset (INTERIM — foundation request: template-level rule); the listing
+   siblings (teaser / news / product variants) sit on the plain page shell */
+main:has(.article-list:not(.teaser, .news, .product)) {
+  padding-top: 86px;
+}
+
+@media (width >= 1500px) {
+  main:has(.article-list:not(.teaser, .news, .product)) {
+    padding-top: 128px;
+  }
+}
+
+.article-list {
+  padding: 40px var(--pad-x);
+}
+
+@media (width >= 768px) {
+  .article-list {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+}
+
+@media (width >= 1200px) {
+  .article-list {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+
+.article-list .article-list-inner {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  width: 100%;
+}
+
+@media (width >= 1600px) {
+  .article-list .article-list-inner {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+    margin: 0 auto;
+  }
+}
+
+/* entry.css utilities, scoped */
+.article-list .text-small,
+.article-list .text-xsmall {
+  font-family: var(--font-body);
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+}
+
+.article-list .text-small {
+  font-size: 2rem;
+}
+
+.article-list .text-xsmall {
+  font-size: 1.6rem;
+}
+
+.article-list .text-xsmall p {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.article-list .dot-blur-12 {
+  display: inline-flex;
+  align-items: center;
+}
+
+.article-list .dot-blur-12::before {
+  content: "";
+  width: 12px;
+  height: 12px;
+  margin-right: 12px;
+  border-radius: 100%;
+  background: var(--blue);
+  filter: blur(4px);
+}
+
+/* header: headline + filters */
+.article-list .article-list-headline {
+  margin-bottom: 40px;
+}
+
+.article-list .article-list-headline :is(h1, h2, h3) {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+@media (width >= 1200px) {
+  .article-list .article-list-headline :is(h1, h2, h3) {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  .article-list .article-list-headline :is(h1, h2, h3) {
+    font-size: 4.7rem;
+  }
+}
+
+.article-list .article-list-filters {
+  margin-bottom: 48px;
+}
+
+.article-list .article-list-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 0;
+  width: 100%;
+}
+
+@media (width >= 950px) {
+  .article-list .article-list-cards {
+    gap: 40px 64px;
+  }
+}
+
+@media (width >= 1200px) {
+  .article-list .article-list-cards {
+    gap: 48px 95px;
+  }
+}
+
+/* filter-buttons (pills; full-screen sheet below 768) */
+.article-list .filter-buttons-btn-mobile {
+  width: 100%;
+  color: var(--navy);
+  font-weight: 500;
+}
+
+.article-list .filter-buttons-btn-mobile span {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.article-list .filter-buttons-btn-mobile svg {
+  width: 19px;
+  transition: transform 0.2s ease-out;
+}
+
+.article-list .filter-buttons-btn-mobile[aria-expanded="true"] svg {
+  transform: rotateX(180deg);
+}
+
+.article-list .filter-buttons-btn-list {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  width: calc(100% - 32px);
+  height: calc(100% - 32px);
+  margin: auto;
+  padding: 0 24px;
+  overflow: hidden;
+  border-radius: 12px;
+  background-color: var(--white);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s ease-out, visibility 0.15s ease-out;
+}
+
+.article-list .filter-buttons-btn-list.is-open {
+  z-index: 20;
+  opacity: 1;
+  visibility: visible;
+  transition-duration: 0.35s;
+}
+
+.article-list .filter-buttons-close {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 36px;
+  font-weight: 500;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.article-list .filter-buttons-close svg {
+  width: 32px;
+  height: 32px;
+}
+
+.article-list .filter-buttons-pills {
+  max-height: calc(100% - 124px);
+  margin: 36px 0 0;
+  overflow: auto;
+}
+
+.article-list .filter-buttons-pill-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px 0;
+}
+
+.article-list .btn-filter {
+  min-height: 35px;
+  padding: 0;
+  border-radius: 16px;
+  box-shadow: none;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 120%;
+  letter-spacing: normal;
+  text-align: left;
+  transition: none;
+}
+
+.article-list .btn-filter.active span {
+  border-bottom: 3px solid var(--blue);
+  transform: skewX(-30deg);
+}
+
+@media (width >= 768px) {
+  .article-list .filter-buttons-open,
+  .article-list .filter-buttons-close {
+    display: none;
+  }
+
+  .article-list .filter-buttons-btn-list {
+    position: relative;
+    inset: auto;
+    z-index: auto;
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    overflow: visible;
+    border-radius: 0;
+    background: transparent;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .article-list .filter-buttons-pills {
+    max-height: 100%;
+    margin: 0;
+    overflow: visible;
+  }
+
+  .article-list .filter-buttons-pill-list {
+    flex-flow: row wrap;
+    gap: 20px;
+  }
+
+  .article-list .btn-filter {
+    height: 40px;
+    min-height: 40px;
+    padding: 0 16px;
+    border-radius: 6px;
+    box-shadow: inset 0 0 0 2px var(--navy);
+    font-size: 1.6rem;
+    transition: var(--ease);
+  }
+
+  .article-list .btn-filter:hover {
+    box-shadow: inset 0 0 0 2px var(--blue);
+  }
+
+  .article-list .btn-filter.active {
+    background-color: var(--blue);
+    box-shadow: inset 0 0 0 2px var(--blue);
+    color: var(--white);
+  }
+
+  .article-list .btn-filter.active span {
+    border-bottom: none;
+    transform: none;
+  }
+}
+
+@media (width >= 1200px) {
+  .article-list .btn-filter {
+    height: 48px;
+    min-height: 48px;
+    padding: 0 24px;
+  }
+}
+
+/* list-article-card */
+.article-list .list-article-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+@media (width >= 950px) {
+  .article-list .list-article-card {
+    width: calc(50% - 32px);
+  }
+}
+
+@media (width >= 1200px) {
+  .article-list .list-article-card {
+    width: calc(100% / 3 - 63.3333px);
+  }
+}
+
+.article-list .card-img-box,
+.article-list .card-img {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.article-list .card-img {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+}
+
+.article-list .card-img::before {
+  content: "";
+  display: block;
+  padding-bottom: 56%;
+}
+
+.article-list .card-img p {
+  position: absolute;
+  inset: 0;
+}
+
+.article-list .card-img img {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* label: blurred dot, categories (display face) | date (body face) */
+.article-list .card-label {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+.article-list .card-label ul {
+  display: contents;
+}
+
+.article-list .card-label li {
+  font-family: var(--font-display);
+  font-weight: 500;
+}
+
+.article-list .card-label li:not(:last-child)::after {
+  content: " |\a0";
+  white-space: pre;
+}
+
+.article-list .card-label.has-cats p::before {
+  content: "\a0| ";
+  white-space: pre;
+}
+
+.article-list .card-title {
+  position: relative;
+  padding: 20px 0;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 130%;
+  transition: var(--ease);
+}
+
+@media (width >= 1600px) {
+  .article-list .card-title {
+    font-size: 2.4rem;
+  }
+}
+
+.article-list .card-title p {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.article-list .card-title a:any-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.article-list .card-title:hover {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.article-list .card-teaser {
+  display: -webkit-box;
+  margin-top: auto;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+@media (width >= 1600px) {
+  .article-list .card-teaser {
+    font-size: 2rem;
+  }
+}
+
+.article-list .card-author {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.article-list .card-author-img {
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.article-list .card-author-img img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.article-list .card-author-img :is(p, picture) {
+  display: block;
+  height: 100%;
+  line-height: 0;
+}
+
+.article-list .card-author-name,
+.article-list .card-author-name p {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 150%;
+}
+
+/* hover-button ("View more" cursor disc over the card image) */
+.article-list .hover-button,
+.article-list .hover-button-link {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.article-list .hover-button-link {
+  z-index: 10;
+}
+
+.article-list .hover-button-cursor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 170px;
+  height: 170px;
+  margin: -85px 0 0 -85px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease-out;
+}
+
+.article-list .hover-button-cursor div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border-radius: 100%;
+  background-color: var(--blue);
+  color: var(--white);
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  font-style: italic;
+  line-height: 100%;
+  text-align: center;
+  transform: scale(0);
+  transition: transform 0.2s ease-out;
+}
+
+.article-list .hover-button-cursor-active {
+  opacity: 1;
+}
+
+.article-list .hover-button-cursor-active div {
+  transform: scale(1);
+}
+
+@media (width >= 1600px) {
+  .article-list .hover-button-cursor {
+    width: 220px;
+    height: 220px;
+    margin: -110px 0 0 -110px;
+  }
+}
+
+/* list-pagination (dark variant: navy text on the light canvas) */
+.article-list .list-pagination {
+  position: relative;
+  width: 100%;
+  margin: 40px 0;
+  padding: 0 24px;
+  color: var(--navy);
+}
+
+@media (width >= 768px) {
+  .article-list .list-pagination {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 64px;
+  }
+}
+
+@media (width >= 950px) {
+  .article-list .list-pagination {
+    margin: 64px 0;
+  }
+}
+
+@media (width >= 1200px) {
+  .article-list .list-pagination {
+    margin: 80px 0;
+  }
+}
+
+.article-list .list-pagination-pages {
+  display: flex;
+  justify-content: center;
+  margin: 0 -6px 6px;
+  padding: 0 40px;
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+}
+
+@media (width >= 768px) {
+  .article-list .list-pagination-pages {
+    padding: 0;
+  }
+}
+
+@media (width >= 1600px) {
+  .article-list .list-pagination-pages {
+    justify-content: flex-start;
+    margin: 10px -6px 6px;
+    font-size: 2rem;
+    line-height: 2.8rem;
+  }
+}
+
+.article-list .list-pagination-page {
+  position: relative;
+  display: flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  margin: 2px;
+}
+
+@media (width >= 1200px) {
+  .article-list .list-pagination-page {
+    width: 64px;
+    height: 64px;
+  }
+}
+
+.article-list .list-pagination-page-active {
+  border: 2px solid var(--blue);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.article-list .page-label {
+  font-weight: 300;
+  letter-spacing: normal;
+  transition: var(--ease);
+}
+
+.article-list .list-pagination-page-active .page-label,
+.article-list .list-pagination-page:hover .page-label {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.article-list .page-hit {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.article-list .list-pagination-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+@media (width >= 768px) {
+  .article-list .list-pagination-nav {
+    align-items: flex-end;
+  }
+}
+
+.article-list .list-pagination-nav button {
+  position: absolute;
+  top: 16px;
+  color: inherit;
+  font-family: var(--font-display);
+  font-size: 4.4rem;
+  font-weight: 400;
+  line-height: 4.8rem;
+  letter-spacing: normal;
+  font-variation-settings: "slnt" -30;
+}
+
+.article-list .list-pagination-nav .arrow-right {
+  right: 24px;
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.article-list .list-pagination-nav button:disabled {
+  opacity: 0.2;
+  cursor: default;
+}
+
+.article-list .list-pagination-nav .arrow-left {
+  left: 24px;
+}
+
+.article-list .list-pagination-nav .arrow-left .mobile-arrow svg {
+  transform: rotate(180deg);
+}
+
+.article-list .list-pagination-nav button span:first-child {
+  display: none;
+}
+
+.article-list .list-pagination-nav .mobile-arrow {
+  display: flex;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.article-list .list-pagination-nav .mobile-arrow svg {
+  width: 20px;
+  height: 20px;
+}
+
+.article-list .list-pagination-nav .mobile-arrow svg path {
+  fill: var(--navy);
+}
+
+@media (width >= 768px) {
+  .article-list .list-pagination-nav button {
+    position: static;
+    margin: 6px 0;
+  }
+
+  .article-list .list-pagination-nav button span:first-child {
+    display: inline-block;
+  }
+
+  .article-list .list-pagination-nav .mobile-arrow {
+    display: none;
+  }
+}
+
+/* INTERIM override of the reused mixed-media block (request filed in
+   stardust/rollout/foundation-requests.md): the source's MixedMedia--article keeps its media
+   column at 6 of 12 from 768 up — only the info column narrows to 5 of 12 at 950; and the
+   R-03 compensation of the gated prototype: below 768 the featured title is capped at 260px so
+   the Liberation Sans substitute wraps it onto two lines like GT Planar does */
+@media (width < 768px) {
+  main .mixed-media.article .mixed-media-info-title :is(h1, h2, h3) {
+    max-width: 260px;
+  }
+}
+
+@media (width >= 950px) {
+  main .mixed-media.article .mixed-media-media {
+    width: calc(600% / 12 - 6 * 24px / 12);
+  }
+}
+
+/* ---------------------------------------------------------------------------------------
+   listing siblings — variants teaser (source TeaserList), news (NewsList), product
+   (ProductList); values from the source modules' stylesheets (TeaserList, NewsList,
+   ListCard, ProductList) at the measured breakpoints
+   --------------------------------------------------------------------------------------- */
+.article-list:is(.teaser, .news, .product) {
+  padding-top: 0;
+  padding-bottom: 40px;
+}
+
+.article-list.news {
+  margin-bottom: 80px;
+  padding-bottom: 0;
+}
+
+.article-list:is(.teaser, .news) .article-list-inner {
+  display: block;
+  width: 100%;
+}
+
+.article-list:is(.teaser, .news) .article-list-filters {
+  margin-bottom: 0;
+}
+
+.article-list.teaser .article-list-header {
+  margin: 40px 0 80px;
+}
+
+.article-list.news .article-list-header {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
+}
+
+.article-list.news .article-list-filters {
+  width: 100%;
+}
+
+.article-list:is(.teaser, .news) .article-list-cards {
+  gap: 24px 0;
+  margin-top: 40px;
+}
+
+.article-list:is(.teaser, .news) .list-pagination {
+  padding: 0;
+}
+
+@media (width >= 768px) {
+  .article-list:is(.teaser, .product) {
+    padding-top: 0;
+    padding-bottom: 64px;
+  }
+
+  .article-list.news {
+    margin-bottom: 64px;
+  }
+
+  .article-list.teaser .article-list-header {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+    margin: 0 auto;
+    padding: 65px 0 48px;
+  }
+
+  .article-list.news .article-list-header {
+    width: calc(100% + 2 * var(--pad-x));
+    margin: 64px calc(-1 * var(--pad-x));
+  }
+
+  .article-list.news .article-list-filters {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+}
+
+@media (width >= 950px) {
+  .article-list:is(.teaser, .news) .article-list-cards {
+    gap: 64px;
+    width: calc(1000% / 12 - 2 * 24px / 12);
+    margin: 64px auto 0;
+  }
+}
+
+@media (width >= 1200px) {
+  .article-list.teaser {
+    padding-bottom: 80px;
+  }
+
+  .article-list.news {
+    margin-bottom: 80px;
+  }
+
+  .article-list.news .article-list-header {
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+
+  .article-list:is(.teaser, .news) .article-list-cards {
+    gap: 80px;
+    margin-top: 80px;
+  }
+}
+
+/* list-card */
+.article-list .list-card {
+  position: relative;
+  width: 100%;
+}
+
+@media (width >= 950px) {
+  .article-list .list-card {
+    width: calc(50% - 32px);
+  }
+}
+
+@media (width >= 1200px) {
+  .article-list .list-card {
+    width: calc(33.3333% - 53.3333px);
+  }
+}
+
+.article-list .list-card-card-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.article-list :is(.list-card-img-container, .list-card-img) {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.article-list .list-card-img::before {
+  content: "";
+  display: block;
+  padding-bottom: 56%;
+}
+
+.article-list .list-card-img img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.article-list .list-card-img.has-icon::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: #08123566;
+}
+
+.article-list .list-card-icon {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+.article-list .list-card-icon picture {
+  display: contents;
+}
+
+.article-list .list-card-name {
+  margin-top: 16px;
+}
+
+.article-list .list-card-name p {
+  font-weight: 700;
+}
+
+.article-list .dot-blur-16 {
+  display: inline-flex;
+  align-items: center;
+}
+
+.article-list .dot-blur-16::before {
+  content: "";
+  flex: none;
+  width: 16px;
+  height: 16px;
+  margin-right: 16px;
+  border-radius: 100%;
+  background: var(--blue);
+  filter: blur(4px);
+}
+
+.article-list .list-card-title {
+  margin-top: 20px;
+}
+
+.article-list .list-card-title p {
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 130%;
+  hyphens: auto;
+}
+
+.article-list .list-card-link {
+  position: relative;
+  z-index: 1;
+  display: block;
+  color: #000;
+  text-decoration: none;
+  font-variation-settings: "slnt" 0;
+  transition: 0.25s ease-in-out;
+}
+
+.article-list .list-card-link:hover {
+  font-variation-settings: "slnt" 30;
+}
+
+.article-list .list-card-teaser {
+  margin-top: 20px;
+}
+
+@media (width >= 1200px) {
+  .article-list .list-card-title p {
+    font-size: 2.4rem;
+  }
+}
+
+/* product (marketplace): sidebar filters, search, product cards */
+.article-list.product {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.article-list.product .article-list-inner {
+  display: block;
+}
+
+.article-list .product-list-layout {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: auto;
+}
+
+.article-list .product-list-sidebar {
+  display: none;
+}
+
+.article-list .product-list-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.article-list .product-list-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.article-list .product-list-search {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  height: 56px;
+  padding: 0 20px;
+  border-radius: 1000px;
+  background: var(--white);
+}
+
+.article-list .product-list-search-input {
+  flex: 1;
+  width: 100%;
+  padding: 0 8px 0 0;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: var(--navy);
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.article-list .product-list-search-input::placeholder {
+  color: var(--navy);
+  opacity: 1;
+}
+
+.article-list .product-list-search-icon {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+}
+
+.article-list .product-list-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 48px;
+  width: 100%;
+}
+
+.article-list .product-filter-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 20px 0;
+}
+
+.article-list .product-filter-title {
+  flex: 1;
+  font-family: var(--font-display);
+  font-size: 20px;
+  line-height: 1.3;
+}
+
+.article-list .product-filter-groups {
+  display: flex;
+  flex-direction: column;
+}
+
+.article-list .product-filter-group {
+  border-bottom: 1px solid #edf0fb;
+}
+
+.article-list .product-filter-group-head {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px 0;
+}
+
+.article-list .product-filter-group-label {
+  flex: 1;
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.article-list .product-filter-group-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.article-list .product-filter-chevron {
+  width: 16px;
+  height: 16px;
+  transform: rotate(180deg);
+  transition: transform 0.2s ease-out;
+}
+
+.article-list .product-filter-group-header[aria-expanded="false"] .product-filter-chevron {
+  transform: none;
+}
+
+.article-list .product-filter-options {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 0;
+  padding: 0 0 20px;
+  list-style: none;
+}
+
+.article-list .product-filter-group.is-collapsed .product-filter-options {
+  display: none;
+}
+
+.article-list .product-filter-option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+}
+
+.article-list .product-filter-checkbox {
+  position: relative;
+  width: 20px;
+  min-width: 20px;
+  height: 20px;
+  border: 1px solid var(--navy);
+  border-radius: 2.5px;
+  transition: background-color 0.2s ease-out, border-color 0.2s ease-out;
+}
+
+.article-list .product-filter-option.active .product-filter-checkbox {
+  border-color: var(--blue);
+  background-color: var(--blue);
+}
+
+.article-list .product-filter-check-label {
+  flex: 1;
+  color: var(--navy);
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.article-list .list-product-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.article-list .list-product-card-card-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+}
+
+.article-list :is(.list-product-card-img-container, .list-product-card-img) {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.article-list .list-product-card-img::before {
+  content: "";
+  display: block;
+  padding-bottom: 56%;
+}
+
+.article-list .list-product-card-img img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.article-list .list-product-card-info {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.article-list .list-product-card-text {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.article-list .list-product-card-title {
+  font-family: var(--font-display);
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 1.3;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.article-list .list-product-card-title a {
+  position: relative;
+  z-index: 1;
+  display: block;
+  color: var(--navy);
+  text-decoration: none;
+  font-variation-settings: "slnt" 0;
+  transition: 0.25s ease-in-out;
+}
+
+.article-list .list-product-card-title a:hover {
+  font-variation-settings: "slnt" 30;
+}
+
+.article-list :is(.list-product-card-description, .list-product-card-price) p {
+  color: var(--navy);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.article-list .list-product-card-description p {
+  font-weight: 300;
+}
+
+.article-list .list-product-card-price p {
+  font-weight: 500;
+}
+
+.article-list.product .list-pagination {
+  margin: 40px 0;
+  padding: 0;
+}
+
+.article-list.product .list-pagination-nav button {
+  margin: 0 0 8px;
+  font-size: 3.4rem;
+  line-height: 1.4;
+}
+
+@media (width >= 768px) {
+  .article-list.product {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+
+  .article-list .product-list-cards {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .article-list .list-product-card-title {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+
+  .article-list :is(.list-product-card-description, .list-product-card-price) p {
+    font-size: 20px;
+  }
+}
+
+@media (width >= 950px) {
+  .article-list .product-list-layout {
+    flex-direction: row;
+    gap: 24px;
+  }
+
+  .article-list .product-list-sidebar {
+    position: sticky;
+    top: 140px;
+    display: block;
+    align-self: flex-start;
+    width: 280px;
+    min-width: 280px;
+    padding: 16px 32px 32px;
+    border-radius: 32px;
+    background: var(--white);
+  }
+
+  .article-list .product-filter-header {
+    border-bottom: 1px solid #edf0fb;
+  }
+
+  .article-list .product-filter-title {
+    color: #6b7186;
+    font-size: 24px;
+  }
+
+  .article-list .product-list-toolbar {
+    margin-bottom: 48px;
+  }
+}
+
+@media (width >= 1200px) {
+  .article-list .product-list-layout {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+
+  .article-list .product-list-sidebar {
+    width: calc(300% / 10 - 7 * 24px / 10);
+  }
+}
+
+@media (width >= 1366px) {
+  .article-list .product-list-content {
+    padding-left: 64px;
+  }
+}
+
+/* stylelint-disable no-descending-specificity -- interim copies, independent properties */
+
+/* INTERIM copy (listing cluster; foundation queue in stardust/rollout/foundation-requests.md —
+   simple-text section styles belong in styles/styles.css): base rules as in blocks/hero/hero.css,
+   heading ramp + variants as in blocks/cards/cards.css (identical declarations), plus the
+   listing `label` variant (source simple-text__label: dot-blur display line above the
+   headline). Loads on listing pages that carry neither hero, cards nor form-block. */
+main > .section.simple-text {
+  padding: 0 var(--pad-x);
+}
+
+main > .section.simple-text.dark {
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+main > .section.simple-text.dark.headline {
+  padding-top: 64px;
+}
+
+main > .section.simple-text.dark.body {
+  padding-bottom: 64px;
+}
+
+main > .section.simple-text.light {
+  margin: 64px 0;
+}
+
+main > .section.simple-text > .default-content-wrapper {
+  width: 100%;
+  max-width: none;
+  margin: 0 auto;
+}
+
+main > .section.simple-text.headline > .default-content-wrapper {
+  margin-bottom: 48px;
+}
+
+main > .section.simple-text.headline p {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+@media (width >= 768px) {
+  main > .section.simple-text > .default-content-wrapper {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text.headline p {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+@media (width >= 1200px) {
+  main > .section.simple-text.headline p {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  main > .section.simple-text.headline p {
+    font-size: 4.7rem;
+  }
+}
+
+
+main > .section.simple-text.dark:not(.headline, .body) {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+main > .section.simple-text h2 {
+  max-width: 100%;
+  margin-bottom: 48px;
+  font-size: 2.4rem;
+  line-height: 120%;
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text h2 {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+@media (width >= 1200px) {
+  main > .section.simple-text h2 {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  main > .section.simple-text h2 {
+    font-size: 4.7rem;
+  }
+}
+
+/*
+ * simple-text section variants for the program siblings (INTERIM, same queue as above —
+ * stardust/rollout/foundation-requests.md): `no-top` / `no-bottom` drop the source module's
+ * missing top / bottom margin (light) or band padding (dark); `lead` = the source's no-heading
+ * display line authored as the section's first paragraph; inner h3 ramp of the source richtext.
+ * Kept identical in blocks/cards/cards.css and blocks/form-block/form-block.css (one of the two
+ * loads on every program page).
+ */
+main > .section.section.simple-text.light.no-top {
+  margin-top: 0;
+}
+
+main > .section.section.simple-text.light.no-bottom {
+  margin-bottom: 0;
+}
+
+main > .section.section.simple-text.dark.no-top {
+  padding-top: 0;
+}
+
+main > .section.section.simple-text.dark.no-bottom {
+  padding-bottom: 0;
+}
+
+main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+main > .section.simple-text h2 {
+  max-width: 100%;
+  margin-bottom: 48px;
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+/* the source richtext list (.richtext ul/ol): 27px indent, 16px item rhythm, blue 8px dot */
+main > .section.simple-text .default-content-wrapper :is(ul, ol) {
+  padding-left: 27px;
+  text-align: left;
+}
+
+main > .section.simple-text .default-content-wrapper li {
+  position: relative;
+  margin-top: 16px;
+}
+
+main > .section.simple-text .default-content-wrapper ul > li::before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: -24px;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--blue);
+}
+
+main > .section.simple-text .default-content-wrapper ol {
+  list-style: decimal;
+}
+
+/* the source SimpleText button row (simple-text__btn): 64px above, light outline on dark */
+main > .section.simple-text .default-content-wrapper > p.button-wrapper,
+main > .section.simple-text .default-content-wrapper > p.link-only:last-child {
+  margin-top: 64px;
+}
+
+main > .section.simple-text.dark a.button.secondary:any-link {
+  box-shadow: inset 0 0 0 2px var(--white);
+  color: var(--white);
+}
+
+/* the source has no b/strong rule: bold is `bolder` of the 300 body = 400 (canon sets 700) */
+main > .section.simple-text :is(strong, b) {
+  font-weight: 400;
+}
+
+main > .section.simple-text .default-content-wrapper h3 {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+@media (width >= 768px) {
+  main > .section.simple-text .default-content-wrapper h3 {
+    font-size: 2.4rem;
+  }
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+  main > .section.simple-text h2 {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+@media (width >= 1200px) {
+  main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+  main > .section.simple-text h2 {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+  main > .section.simple-text h2 {
+    font-size: 4.7rem;
+  }
+
+  main > .section.simple-text .default-content-wrapper h3 {
+    font-size: 3.4rem;
+  }
+}
+
+
+/* the source simple-text container is a flex box: the headline row's 48px margin stays inside
+   the light module instead of collapsing into the 64px module margin */
+main > .section.simple-text.light > .default-content-wrapper {
+  display: flow-root;
+}
+
+/* listing `label`: the source simple-text__label line (GT Planar, blurred 16px dot) above an
+   empty headline — 40px label margin + the 48px headline-row margin */
+main > .section.simple-text.label > .default-content-wrapper > p:first-child {
+  display: flex;
+  align-items: center;
+  margin-bottom: 88px;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  letter-spacing: 0.02em;
+}
+
+main > .section.simple-text.label > .default-content-wrapper > p:first-child::before {
+  content: "";
+  flex: none;
+  width: 16px;
+  height: 16px;
+  margin-right: 16px;
+  border-radius: 100%;
+  background: var(--blue);
+  filter: blur(4px);
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text.label > .default-content-wrapper > p:first-child {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+/* INTERIM copy of the reused mixed-media `dark` / `italic` / h3 rules (owner case-study; the
+   program cluster's request — identical to blocks/cards/cards.css, which these pages lack) */
+main .mixed-media .mixed-media-info-title h3 {
+  font-size: 2rem;
+  line-height: 120%;
+}
+
+main .mixed-media.italic .mixed-media-info-title :is(h1, h2, h3) {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+main .mixed-media.dark {
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+main .mixed-media .mixed-media-info-txt ul {
+  padding-left: 27px;
+}
+
+main .mixed-media .mixed-media-info-txt li {
+  position: relative;
+  margin-top: 16px;
+}
+
+main .mixed-media .mixed-media-info-txt ul > li::before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: -24px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--blue);
+}
+
+@media (width >= 768px) {
+  main .mixed-media .mixed-media-info-title h3 {
+    font-size: 2.4rem;
+  }
+
+  main .mixed-media.dark {
+    padding-top: 64px;
+  }
+}
+
+@media (width >= 1200px) {
+  main .mixed-media.dark {
+    padding-top: 80px;
+  }
+}
+
+@media (width >= 1600px) {
+  main .mixed-media .mixed-media-info-title h3 {
+    font-size: 3.4rem;
+  }
+}
+
+/* source mixed-media--dark.bottom-margin: 20px / 44px >= 768 / 40px >= 1200 (the interim above
+   carries the 20px mobile value only) */
+@media (width >= 768px) {
+  main .mixed-media.dark {
+    padding-bottom: 44px;
+  }
+}
+
+@media (width >= 1200px) {
+  main .mixed-media.dark {
+    padding-bottom: 40px;
+  }
+}
+
+/* source .mixed-media__info-link padding-bottom 40px >= 950 (the block ships 20px) */
+@media (width >= 950px) {
+  main:has(.article-list.teaser) .mixed-media .mixed-media-info-link {
+    padding-bottom: 40px;
+  }
+}
+
+/* source SimpleText btn--link (text-small): 2rem / 150% at every width */
+main > .section.simple-text .default-content-wrapper > p.link-only:last-child {
+  font-size: 2rem;
+  line-height: 150%;
+}
+
+/* R-03 compensation (canon font substitution, as the archetype's featured-title cap): below
+   768 the marketplace title wraps after "Ready-made" / "solutions" / "for real" in GT Planar —
+   cap the substitute face's measure so it breaks on the same words */
+@media (width < 768px) {
+  main:has(.article-list.product) .page-title h1 {
+    max-width: 250px;
+  }
+}
+
+/* R-03 compensation: below 768 the substitute face sets the list-card titles narrower than
+   GT Planar; a 297px measure (15px under the 312px card) reproduces the source line breaks on
+   every captured listing title (news 21, customers 15, events 18, downloads 12 — 0 mismatches) */
+@media (width < 768px) {
+  .article-list .list-card-title p {
+    max-width: calc(100% - 15px);
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-13T10:56:18.772Z",
+    "readArtifacts": [
+      "stardust/current/_computed-styles.json",
+      "stardust/current/pages/*.json"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.37.2"
+  },
+  "site": {
+    "name": "diva-e Conclusion",
+    "tagline": "Empowering the Evolution of Experience",
+    "originUrl": "https://www.diva-e.com/"
+  },
+  "origins": [
+    {
+      "origin": "https://www.diva-e.com",
+      "role": "primary",
+      "pages": 100
+    }
+  ],
+  "logo": {
+    "source": "inline-svg",
+    "url": "https://www.diva-e.com/de/",
+    "width": 360,
+    "selector": "header > div > div:nth-of-type(1) > a > svg",
+    "rect": {
+      "x": 24,
+      "y": 17,
+      "w": 77,
+      "h": 52
+    },
+    "ariaLabel": "diva-e logo",
+    "inHomeLink": true,
+    "file": null
+  },
+  "palette": [
+    {
+      "role": "canvas-navy",
+      "hex": "#081235",
+      "use": "background/surface, primary text on light",
+      "weight": 20688,
+      "sources": [
+        {
+          "url": "https://www.diva-e.com/en/data-privacy/",
+          "selector": "nav > div:nth-of-type(1) > ul > li:nth-of-type(1) > button",
+          "prop": "text"
+        },
+        {
+          "url": "https://www.diva-e.com/en/data-privacy/",
+          "selector": "nav > div:nth-of-type(1) > div > div > ul > li:nth-of-type(1) > button",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "role": "ink-light",
+      "hex": "#edf0fb",
+      "use": "text on navy; light section background",
+      "weight": 10389,
+      "sources": [
+        {
+          "url": "https://www.diva-e.com/en/connect/",
+          "selector": "#agenda > div > div > div:nth-of-type(1) > div > h2",
+          "prop": "text"
+        },
+        {
+          "url": "https://www.diva-e.com/en/services/total-experience/",
+          "selector": "div > div:nth-of-type(2) > div:nth-of-type(4) > div > div > div:nth-of-type(1) > div > h2",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "role": "white",
+      "hex": "#ffffff",
+      "use": "cards, accents",
+      "weight": 2831,
+      "sources": [
+        {
+          "url": "https://www.diva-e.com/en/about-us/management/",
+          "selector": "nav > div:nth-of-type(3) > a",
+          "prop": "text"
+        },
+        {
+          "url": "https://www.diva-e.com/en/industries/automotive/",
+          "selector": "header > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > button",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "role": "primary-blue",
+      "hex": "#1b31ff",
+      "use": "buttons, borders, link hover",
+      "weight": 1191,
+      "sources": [
+        {
+          "url": "https://www.diva-e.com/en/about-us/management/",
+          "selector": "div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > a",
+          "prop": "border"
+        },
+        {
+          "url": "https://www.diva-e.com/en/insights/edge/",
+          "selector": "header > div > div:nth-of-type(2) > button",
+          "prop": "background"
+        }
+      ]
+    },
+    {
+      "role": "hairline",
+      "hex": "#0812351a",
+      "use": "borders",
+      "weight": 804,
+      "sources": [
+        {
+          "url": "https://www.diva-e.com/en/services/digital-produktpass-audit/",
+          "selector": "nav > div:nth-of-type(1) > div > div > ul > li:nth-of-type(1) > button",
+          "prop": "border"
+        },
+        {
+          "url": "https://www.diva-e.com/en/industries/b2b-manufacturing/",
+          "selector": "nav > div:nth-of-type(1) > div > div > ul > li:nth-of-type(1) > button",
+          "prop": "border"
+        }
+      ]
+    },
+    {
+      "role": "muted",
+      "hex": "#6b7186",
+      "use": "secondary text",
+      "weight": 229,
+      "sources": [
+        {
+          "url": "https://www.diva-e.com/en/about-us/ai-manifest/",
+          "selector": "nav > ul > li:nth-of-type(1) > a",
+          "prop": "text"
+        },
+        {
+          "url": "https://www.diva-e.com/en/about-us/locations/",
+          "selector": "nav > ul > li:nth-of-type(1) > a",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "role": "surface-grey",
+      "hex": "#cfd3e1",
+      "use": "light surfaces",
+      "weight": 78,
+      "sources": [
+        {
+          "url": "https://www.diva-e.com/en/insights/edge/ai-radar-human-in-the-loop/",
+          "selector": "body > div > div > article > div:nth-of-type(4) > div > div > div",
+          "prop": "background"
+        },
+        {
+          "url": "https://www.diva-e.com/en/insights/edge/ai-radar-october/",
+          "selector": "body > div > div > article > div:nth-of-type(4) > div > div > div",
+          "prop": "background"
+        }
+      ]
+    }
+  ],
+  "type": {
+    "headingFamily": "GT Planar VF",
+    "bodyFamily": "Inter",
+    "families": [
+      {
+        "family": "Inter",
+        "count": 2038,
+        "headings": 0,
+        "text": 1938,
+        "buttons": 100
+      },
+      {
+        "family": "GT Planar VF",
+        "count": 1862,
+        "headings": 1858,
+        "text": 0,
+        "buttons": 4
+      }
+    ],
+    "sizes": [
+      {
+        "px": 65,
+        "count": 57,
+        "headings": 57,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 57,
+        "count": 25,
+        "headings": 25,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 39,
+        "count": 491,
+        "headings": 491,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 36,
+        "count": 37,
+        "headings": 37,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 34,
+        "count": 20,
+        "headings": 20,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 30,
+        "count": 25,
+        "headings": 25,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 24,
+        "count": 761,
+        "headings": 761,
+        "text": 0,
+        "buttons": 0
+      },
+      {
+        "px": 20,
+        "count": 1197,
+        "headings": 394,
+        "text": 803,
+        "buttons": 0
+      },
+      {
+        "px": 18,
+        "count": 210,
+        "headings": 48,
+        "text": 162,
+        "buttons": 0
+      },
+      {
+        "px": 16,
+        "count": 824,
+        "headings": 0,
+        "text": 820,
+        "buttons": 4
+      },
+      {
+        "px": 14,
+        "count": 81,
+        "headings": 0,
+        "text": 81,
+        "buttons": 0
+      },
+      {
+        "px": 13.33,
+        "count": 100,
+        "headings": 0,
+        "text": 0,
+        "buttons": 100
+      },
+      {
+        "px": 12,
+        "count": 72,
+        "headings": 0,
+        "text": 72,
+        "buttons": 0
+      }
+    ],
+    "weights": [
+      {
+        "weight": "300",
+        "count": 2009,
+        "headings": 0,
+        "text": 1905,
+        "buttons": 104
+      },
+      {
+        "weight": "400",
+        "count": 1891,
+        "headings": 1858,
+        "text": 33,
+        "buttons": 0
+      }
+    ],
+    "levels": {
+      "h1": {
+        "fontSize": 65,
+        "fontWeight": "400",
+        "count": 57,
+        "score": 490.74
+      },
+      "h2": {
+        "fontSize": 39,
+        "fontWeight": "400",
+        "count": 449,
+        "score": 826.4
+      },
+      "h3": {
+        "fontSize": 20,
+        "fontWeight": "400",
+        "count": 276,
+        "score": 332.26
+      },
+      "h4": {
+        "fontSize": 24,
+        "fontWeight": "400",
+        "count": 82,
+        "score": 217.33
+      },
+      "h5": {
+        "fontSize": 24,
+        "fontWeight": "400",
+        "count": 43,
+        "score": 157.38
+      },
+      "h6": {
+        "fontSize": 20,
+        "fontWeight": "400",
+        "count": 110,
+        "score": 209.76
+      }
+    },
+    "scaleAudit": {
+      "kind": "ad-hoc"
+    },
+    "files": []
+  },
+  "spacing": {},
+  "motifs": {
+    "radius": [
+      {
+        "value": "12px",
+        "count": 2491
+      },
+      {
+        "value": "50%",
+        "count": 957
+      },
+      {
+        "value": "100%",
+        "count": 530
+      },
+      {
+        "value": "120px",
+        "count": 479
+      },
+      {
+        "value": "50px",
+        "count": 401
+      },
+      {
+        "value": "8px",
+        "count": 202
+      }
+    ],
+    "shadows": [
+      {
+        "value": "rgb(8, 18, 53) 0px 0px 0px 2px inset",
+        "count": 621
+      },
+      {
+        "value": "rgba(8, 18, 53, 0.1) 0px 0px 30px 0px",
+        "count": 532
+      },
+      {
+        "value": "rgb(8, 18, 53) 0px -1px 0px 0px inset",
+        "count": 262
+      }
+    ],
+    "gradients": []
+  },
+  "componentStyle": {},
+  "systemComponents": [
+    {
+      "id": "site-header",
+      "evidence": "mega menu (Services, Marketplace, Industries, Partners, About us, Insights, Careers, de/en) on 99/100 pages"
+    },
+    {
+      "id": "site-footer",
+      "evidence": "footer link columns on 100/100 pages"
+    },
+    {
+      "id": "consent-bar",
+      "evidence": "Usercentrics Privacy Settings bar on most captures"
+    }
+  ],
+  "iconFont": null,
+  "voice": {
+    "heroHeadline": "Empowering the Evolution of Experience",
+    "ctas": [
+      "Get in touch!",
+      "Download now!",
+      "Recommended Reads"
+    ]
+  },
+  "voiceTable": {},
+  "crossPromo": {},
+  "register": "brand"
+}

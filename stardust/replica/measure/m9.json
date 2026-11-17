@@ -1,0 +1,438 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T11:33:06.745Z",
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "widths": [
+      360
+    ],
+    "selectors": [
+      ".footer__bottom-navigation",
+      ".footer__bottom-navigation ul",
+      ".footer__bottom-navigation li",
+      ".footer__social-media",
+      ".footer__btn-to-top",
+      ".footer__main-navigation"
+    ],
+    "props": [
+      "height",
+      "lineHeight",
+      "fontSize",
+      "margin"
+    ],
+    "allMatches": false,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    360
+  ],
+  "selectors": [
+    ".footer__bottom-navigation",
+    ".footer__bottom-navigation ul",
+    ".footer__bottom-navigation li",
+    ".footer__social-media",
+    ".footer__btn-to-top",
+    ".footer__main-navigation"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8250,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8242,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        ".footer__bottom-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7965,
+              "w": 312,
+              "h": 153
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection",
+            "props": {
+              "height": "153px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "60px 0px 0px"
+            }
+          }
+        ],
+        ".footer__bottom-navigation ul": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7965,
+              "w": 292,
+              "h": 68
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection",
+            "props": {
+              "height": "68px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "0px"
+            }
+          }
+        ],
+        ".footer__bottom-navigation li": [
+          {
+            "index": 0,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 7965,
+              "w": 100,
+              "h": 24
+            },
+            "visible": true,
+            "text": "diva-e © 2026",
+            "props": {
+              "height": "24px",
+              "lineHeight": "19.6px",
+              "fontSize": "14px",
+              "margin": "0px"
+            }
+          }
+        ],
+        ".footer__social-media": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 8089,
+              "w": 312,
+              "h": 29
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "29px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "56px 0px 0px"
+            }
+          }
+        ],
+        ".footer__btn-to-top": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 8150,
+              "w": 312,
+              "h": 60
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "60px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "32px 0px 0px"
+            }
+          }
+        ],
+        ".footer__main-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7617,
+              "w": 312,
+              "h": 288
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "288px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "0px"
+            }
+          }
+        ]
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        ".footer__bottom-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7965,
+              "w": 312,
+              "h": 144
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection",
+            "props": {
+              "height": "144.188px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "60px 0px 0px"
+            }
+          }
+        ],
+        ".footer__bottom-navigation ul": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7965,
+              "w": 292,
+              "h": 59
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection",
+            "props": {
+              "height": "59.1875px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "0px"
+            }
+          }
+        ],
+        ".footer__bottom-navigation li": [
+          {
+            "index": 0,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 7965,
+              "w": 100,
+              "h": 20
+            },
+            "visible": true,
+            "text": "diva-e © 2026",
+            "props": {
+              "height": "19.5938px",
+              "lineHeight": "19.6px",
+              "fontSize": "14px",
+              "margin": "0px"
+            }
+          }
+        ],
+        ".footer__social-media": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 8081,
+              "w": 312,
+              "h": 29
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "29px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "56px 0px 0px"
+            }
+          }
+        ],
+        ".footer__btn-to-top": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 8142,
+              "w": 360,
+              "h": 60
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "60px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "32px 0px 0px"
+            }
+          }
+        ],
+        ".footer__main-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7617,
+              "w": 312,
+              "h": 288
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "288px",
+              "lineHeight": "24px",
+              "fontSize": "16px",
+              "margin": "0px"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "360": {
+      ".footer__bottom-navigation": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": -9
+            },
+            "props": {
+              "height": [
+                "153px",
+                "144.188px"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__bottom-navigation ul": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": -9
+            },
+            "props": {
+              "height": [
+                "68px",
+                "59.1875px"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__bottom-navigation li": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": -4
+            },
+            "props": {
+              "height": [
+                "24px",
+                "19.5938px"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__social-media": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".footer__btn-to-top": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": -24,
+              "dy": -8,
+              "dw": 48,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".footer__main-navigation": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    }
+  },
+  "rootDeltas": {
+    "360": {
+      "scrollWidth": 0,
+      "scrollHeight": -8
+    }
+  }
+}

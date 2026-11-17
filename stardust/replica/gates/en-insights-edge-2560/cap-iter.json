@@ -1,0 +1,299 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T12:16:04.973Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.diva-e.com/en/insights/edge/",
+      "http://localhost:8791/en-insights-edge-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from stardust/current/DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.diva-e.com/en/insights/edge/",
+    "http://localhost:8791/en-insights-edge-proposed.html"
+  ],
+  "probeNote": "from stardust/current/DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body",
+      "isBody": true,
+      "leaves": 283,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1413,
+        "via": "other",
+        "selector": "#artikel > div.article-list__wrapper > div.article-list__container > div.article-list__header",
+        "tier": 7,
+        "share": 0.04,
+        "section": 1,
+        "w1": 1312,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 504,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card.contained > div.list-article-card__title > a",
+        "tier": 10,
+        "share": 0,
+        "section": 1,
+        "w1": 322,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 447,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card.contained > div.list-article-card__title > a",
+        "tier": 10,
+        "share": 0,
+        "section": 1,
+        "w1": 323,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 473,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card.contained > div.list-article-card__title > a",
+        "tier": 10,
+        "share": 0,
+        "section": 1,
+        "w1": 344,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 534,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card.contained > div.list-article-card__title > a",
+        "tier": 10,
+        "share": 0,
+        "section": 1,
+        "w1": 360,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 497,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card.contained > div.list-article-card__title > a",
+        "tier": 10,
+        "share": 0,
+        "section": 1,
+        "w1": 328,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 473,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card.contained > div.list-article-card__title > a",
+        "tier": 10,
+        "share": 0,
+        "section": 1,
+        "w1": 344,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 340,
+        "via": "fixed",
+        "selector": "div.article-list__wrapper > div.article-list__container > div.list-pagination.list-pagination--dark > div.list-pagination__pages",
+        "tier": 8,
+        "share": 0.02,
+        "section": 1,
+        "w1": 340,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > div > div > header.header",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "body > div > div > div.page-edge.storyblok__outline",
+        "px": 1413,
+        "capSelector": "#artikel > div.article-list__wrapper > div.article-list__container > div.article-list__header"
+      },
+      {
+        "index": 2,
+        "selector": "body > div > div > footer.footer",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1413,
+    "contentFrom": "module",
+    "maxCap": 1413,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 279
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.page.page-edge",
+      "isBody": false,
+      "leaves": 191,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1411,
+        "via": "other",
+        "selector": "#artikel > div.article-list__wrapper > div.article-list__container > div.article-list__header",
+        "tier": 4,
+        "share": 0.06,
+        "section": 1,
+        "w1": 1312,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 531,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card > div.list-article-card__title > a",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 346,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 514,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card > div.list-article-card__title > a",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 328,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 467,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card > div.list-article-card__title > a",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 338,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 528,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card > div.list-article-card__title > a",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 359,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 489,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card > div.list-article-card__title > a",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 320,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 481,
+        "via": "other",
+        "selector": "div.article-list__cards > article.list-article-card > div.list-article-card__title > a",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 351,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 340,
+        "via": "fixed",
+        "selector": "div.article-list__wrapper > div.article-list__container > div.list-pagination.list-pagination--dark > div.list-pagination__pages",
+        "tier": 5,
+        "share": 0.03,
+        "section": 1,
+        "w1": 340,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.page.page-edge > section.mixed-media.mixed-media--right",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "#artikel",
+        "px": 1411,
+        "capSelector": "#artikel > div.article-list__wrapper > div.article-list__container > div.article-list__header"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1411,
+    "contentFrom": "module",
+    "maxCap": 1411,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 275
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1413px = build 1411px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "sections",
+        "detail": "live 3 vs build 2 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/3",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/3",
+        "detail": "1413px = 1411px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/en-insights-edge-2560/cap-iter.json"
+}

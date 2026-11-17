@@ -1,0 +1,127 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/",
+ "at": "2026-11-14T04:35:18.416Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 11,
+  "offPage": 132,
+  "textNodes": 163,
+  "controls": 150,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.partners-bar-row.partners-bar-row-top",
+   "path": "div.partners-bar-track > div.partners-bar-slide.swiper-slide-prev > p > a",
+   "text": "",
+   "cutMin": 38,
+   "cutMax": 45
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.partners-bar-row.partners-bar-row-bottom",
+   "path": "div.partners-bar-track > div.partners-bar-slide.swiper-slide-prev > p > a",
+   "text": "",
+   "cutMin": 39,
+   "cutMax": 44
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+   "text": "go to kyowa kirin – pharmazeutischen vertrieb neu denken: vo",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+   "text": "link",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-track > div.story-card > div.story-card-title.h5 > p.link-only",
+   "text": "kyowa kirin – pharmazeutischen vertrieb neu denken: vom acco",
+   "cutMin": 214,
+   "cutMax": 214
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+   "text": "go to sirko schneppe wird neuer ceo von diva-e conclusion",
+   "cutMin": 131,
+   "cutMax": 131
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+   "text": "link",
+   "cutMin": 131,
+   "cutMax": 131
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.story-card > div.story-card-name.dot-blur > div.story-card-date > p",
+   "text": "12 okt 2026",
+   "cutMin": 39,
+   "cutMax": 39
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-track > div.story-card > div.story-card-title.h5 > p.link-only",
+   "text": "sirko schneppe wird neuer ceo von diva-e conclusion",
+   "cutMin": 97,
+   "cutMax": 97
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 8,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 7,
+   "offPage": 132,
+   "textNodes": 165,
+   "controls": 151,
+   "total": 8
+  }
+ }
+}

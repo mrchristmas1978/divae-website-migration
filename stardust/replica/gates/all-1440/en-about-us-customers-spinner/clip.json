@@ -1,0 +1,57 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/spinner",
+ "at": "2026-11-14T03:51:22.664Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 3,
+  "offPage": 13,
+  "textNodes": 71,
+  "controls": 54,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li > a",
+   "text": "strategy consulting",
+   "cutMin": 194,
+   "cutMax": 308
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li > a",
+   "text": "user experience",
+   "cutMin": 129,
+   "cutMax": 129
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 2,
+   "offPage": 14,
+   "textNodes": 71,
+   "controls": 55,
+   "total": 0
+  }
+ }
+}

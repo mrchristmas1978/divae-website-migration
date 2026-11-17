@@ -1,0 +1,97 @@
+<body>
+<header></header>
+<main>
+<div>
+<div class="metadata">
+<div><div>Title</div><div>AI Application Assistant for Product Search: The ifm Case | diva-e Conclusion</div></div>
+<div><div>Description</div><div>How ifm is transforming product search with an AI application assistant. Learn how data, LLMs and domain expertise create reliable AI-powered product advice.</div></div>
+<div><div>Image</div><div><img src="https://content.da.live/aemcoder/a608424f/media/article/gettyimages-607463118-245f-1920x.jpg" alt="B2B Sales"></div></div>
+<div><div>Template</div><div>article</div></div>
+</div>
+</div>
+<div>
+<div class="article-hero">
+<div><div><p><img src="https://content.da.live/aemcoder/a608424f/media/article/gettyimages-607463118-245f-1920x.jpg" alt="B2B Sales"></p></div></div>
+<div><div><ul><li>B2B</li><li>B2C</li></ul><p>20 Aug 2026</p></div></div>
+<div><div><h1>Customers Don&rsquo;t Search for Article Numbers</h1><p>How ifm Simplifies Search with an AI Application Assistant</p></div></div>
+<div><div><p><img src="https://content.da.live/aemcoder/a608424f/media/article/jochen-binder-bc6f-32x.jpeg" alt="Portr&auml;t von Jochen Binder"></p><p>Jochen Binder</p></div></div>
+</div>
+</div>
+<div>
+<div class="intro-side toc">
+<div><div><p><strong>How does an idea become an AI application that truly works in everyday use?</strong> For our client ifm, one of the leading manufacturers of automation and sensor technology, we implemented an application assistant (<a href="/en/insights/edge/ai-product-advisor-smart-search">AI Product Advisor</a>) that opens up a new way for customers to find the right product solution: They can describe their needs in their own words and receive a reasoned product recommendation without leaving the website.</p><p>&#8203;</p><p>What users see is a dialogue. What really matters, however, is what happens behind the scenes. What may initially look like a simple chat presents a number of challenges in practice:</p><p>&#8203;</p><p><strong>How does AI understand specific use cases? What information does it need to make a good recommendation? And what needs to work together behind the scenes to turn a pilot project into a reliable service?</strong> In this article, we take a closer look at the ifm case and show what goes on behind the application assistant, how the project came about, and what insights can be applied to other AI applications.</p></div><div><p>Content:</p><ul><li><a href="#new-customers-dont-search-for-article-numbers">New Customers Don&rsquo;t Search for Article Numbers</a></li><li><a href="#the-application-assistant-asks-follow-up-questions">The Application Assistant Asks Follow-Up Questions</a></li><li><a href="#the-language-model-is-the-smallest-part">The Language Model Is the Smallest Part</a></li><li><a href="#live-since-june-2026-what-the-first-numbers-show">Live Since June 2026: What the First Numbers Show</a></li><li><a href="#the-difference-between-a-pilot-and-a-service">The Difference Between a Pilot and a Service</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div></div>
+</div>
+</div>
+<div>
+<div class="topics rows button-margins">
+<div><div><h2>New Customers Don&rsquo;t Search for Article Numbers</h2>
+<p>&ldquo;<em>IA0032, IFT200, Pi2795</em>&rdquo; &ndash; anyone searching like this already knows what they need. The more challenging and more common scenario looks different: someone has a task to solve on a machine or system and has no idea which of more than 14,000 products can solve it.</p>
+<p>&#8203;</p>
+<p>Traditional keyword search relies on exactly what these customers lack: product knowledge. It matches strings against catalog fields. When someone describes their environment, medium, and goal instead, they either get no results or a list that appears to be sorted by relevance but doesn&rsquo;t enable them to make a decision. For companies, this has tangible business consequences: users drop off and return to Google. The groups most affected are also the most valuable ones:</p>
+<ul><li>New customers without portfolio knowledge</li></ul>
+<ul><li>Customers considering a switch who are just starting to explore the product range</li></ul>
+<p>&#8203;</p>
+<p>What would lead to a personal consultation in a traditional sales setting often ends online with the user leaving the site.</p></div></div>
+<div><div><h2>The Application Assistant Asks Follow-Up Questions</h2>
+<p>This is exactly where the Application Assistant (<a href="https://www.diva-e.com/en/services/ai/product-advisor/">Product Advisor</a>) comes in at ifm. It provides an additional entry point alongside the traditional search &mdash; customers who know a part number can continue searching as usual. Those who have a problem can simply describe it. A real-world query from the production environment looks like this:</p>
+<p>&#8203;</p>
+<p><strong><em>&ldquo;How can I &ndash; in a dusty environment of a parcel logistics centre &ndash; reliably register and count the number of parcels and packages on a roller conveyor?&rdquo;</em></strong></p>
+<p>&#8203;</p>
+<p>No product name, no technical specification &mdash; just the environment, application and objective. In this example, the Product Advisor recommends 3D sensors from the O3D series and deliberately presents two options side by side: the more compact O3D354 with a wider field of view and the O3D314 with a stainless-steel housing for maximum robustness. It also provides a rationale that would not typically be found in a product datasheet: infrared ToF technology is not significantly affected by dust particles, unlike conventional optical sensors.</p>
+<p><img src="https://content.da.live/aemcoder/a608424f/media/article/screenshot-2026-08-17-at-17-19-05-10a1-1440x.png" alt="Screenshot ihm"></p>
+<p>The second round is even more interesting. The follow-up comes in the way people actually type &mdash; including typos and without technical terminology:</p>
+<p>&#8203;</p>
+<p><strong><em>&ldquo;I need a more compact version but with a wider field of view, since I want to register and count bigger parcels and pallets.&rdquo;</em></strong></p>
+<p>&#8203;</p>
+<p>The Product Advisor retains the context, selects the O3D354 and explains its recommendation based on the criteria that now matter: a compact size of 72 &times; 65 &times; 76.9 mm, a 60&deg; &times; 45&deg; field of view, IP65 protection, a 25 Hz refresh rate, a working range of 300 to 8,000 mm, and PROFINET or EtherNet/IP connectivity. It also identifies comparable real-world applications, such as completeness monitoring and depalletizing.</p>
+<p>And then it does something a search engine cannot: it asks a follow-up question:</p>
+<p>&#8203;</p>
+<p><strong><em>&ldquo;Do you already have an approximate mounting distance and conveyor width, so I can provide more details on the exact positioning?&rdquo;</em></strong></p>
+<p>&#8203;</p>
+<p>That is the difference between finding and advising. All mentioned products are linked directly alongside the recommendation &mdash; so the decision leads to the next step in a single click rather than taking the customer away from the website.</p>
+<p><img src="https://content.da.live/aemcoder/a608424f/media/article/ifm-1-8fcd-1224x.png" alt="Screenshot ifm"></p></div></div>
+<div><div><h2>The Language Model Is the Smallest Part</h2>
+<p>These dialogues may look straightforward at first glance. The real challenge, however, lay behind the scenes &ndash; and that is one of the key takeaways from the project. Setting up a language model with a chat interface is quick. Building a robust application required significantly more:</p>
+<ul><li><strong>Bringing Data Sources Together</strong><br>Product data, application reports, and CMS content were stored in separate systems. To provide a reliable recommendation, the assistant needs all three at once: the specification, the documented use case, and the explanatory content layer.</li><li><strong>Answer Quality, Not Plausibility</strong><br>A recommendation must be traceable to approved sources. The most difficult scenario in production is not an incorrect answer &ndash; it is an incorrect answer that sounds convincing.</li><li><strong>Clear Boundaries for AI-Powered Advice</strong><br>When it comes to technical product selection, advice must stop where binding commitments begin. The assistant needs to know when to provide guidance and when to hand the user over to an expert.</li><li><strong>Monitoring and Automated Testing</strong><br>Models change, and product data changes. Without repeatable testing, no one knows whether the quality of an answer from last week still holds today.</li><li><strong>Feedback as Part of Operations</strong><br>Each answer includes a rating option and a free-text feedback field. These signals are not an afterthought; they provide the data basis for further development and show how the assistant can be improved and which data sources may still be missing.</li><li><strong>Clear Responsibilities</strong><br>Who maintains the data, who evaluates answers from a technical perspective, and who decides on changes? These are not technical questions, but organizational ones.</li></ul>
+<p>&#8203;</p>
+<p>All of this remains invisible to users. Yet these very foundations determine whether an AI application works reliably in day-to-day production.</p></div></div>
+<div><div><h2>Live Since June 2026: What the First Numbers Show</h2>
+<p>The Application Assistant (AI Product Advisor) has been in production at ifm since June 2026, initially in three countries, covering a portfolio of more than 14,000 products. The results speak for themselves:</p>
+<ul><li>more than <strong>1,000 sessions in the first week</strong></li><li>around <strong>250 sessions per day</strong></li><li>approximately <strong>&euro;0.015 per consultation</strong></li></ul>
+<p>&#8203;</p>
+<p>The number of sessions is more meaningful than it may seem at first glance: the assistant is an optional service that complements the existing search experience. Customers therefore use it deliberately because it provides additional value. At the same time, each consultation costs around two cents. The question is therefore less whether the service is worthwhile and more where there is additional demand for advice that we are not yet covering.</p>
+<p>&#8203;</p>
+<p><strong>What really matters: The assistant is being adopted and actively used.</strong> Not only customers use it, but also internal teams in service, product management, and sales. There is also strong interest from local country organizations: for the next rollout, they too want to make the service available to their potential customers.</p>
+<blockquote><p>The decisive success factor was not the model itself, but the intelligent combination of LLM capabilities with ifm&rsquo;s data and expertise. That is what makes the answers technically reliable and accurate.</p><p>Mario Holt</p><p>Vice President Digital Sales and Services at ifm</p></blockquote></div></div>
+<div><div><h2>The Difference Between a Pilot and a Service</h2>
+<p>The project offers three key lessons:</p>
+<ol><li><strong>Start with the User Problem, Not the Technology</strong><br>The use case was clearly defined from a business perspective before any models were discussed. This may sound obvious, but it is one of the most common mistakes in AI initiatives.</li><li><strong>Data Integration Is an Effort &ndash; and a Competitive Advantage</strong><br>Any company can buy a language model. Connecting product data, documented application experience, and relevant content, however, is company-specific and cannot simply be purchased off the shelf. This is where the real value is created.</li><li><strong>Think About Operational Readiness from the Start</strong><br>Monitoring, quality standards, and clear responsibilities should not be addressed at the end of a project. They need to be considered from the outset. Without these foundations, a pilot may be technically functional, but it will not be reliable or sustainable in production.</li></ol>
+<p>&#8203;</p>
+<p>What emerges from this project also creates lasting value: the foundation built for this particular use case is already in place for the next one &ndash; integrated data, validated answer quality, and an established operating model. As a result, the second use case is significantly less costly than the first.</p></div></div>
+<div><div><h2>Conclusion</h2>
+<p>The more interesting question is no longer whether an AI use case works, but how companies can make it repeatable: turning a successful case into a capability that can also deliver value in other areas.</p>
+<p>&#8203;</p>
+<p>The ifm case shows that a good AI application is not created by a powerful model alone. What matters is the interplay of user understanding, data, domain expertise, and a reliable operating model. These foundations can also be applied to other companies and use cases.</p>
+<p>&#8203;</p>
+<p><strong>Would you like to make your product search smarter and more advisory with AI?</strong> The Product Advisor makes complex product portfolios easier to navigate through AI-powered guidance &ndash; directly within the existing digital customer journey.</p>
+<p><strong><a href="https://www.diva-e.com/en/services/ai/product-advisor/">Explore the AI Product Advisor</a></strong></p></div></div>
+</div>
+</div>
+<div>
+<div class="author-card">
+<div><div><p><img src="https://content.da.live/aemcoder/a608424f/media/article/jochen-binder-bc6f-176x.jpeg" alt="Portr&auml;t von Jochen Binder"></p><p>Jochen Binder</p><p><a href="https://www.linkedin.com/in/jochen-binder-836669211/">:linkedin:</a></p></div></div>
+<div><div><p>Jochen is Head of Backend Engineering at diva-e Conclusion. With many years of experience in developing digital solutions, he helps companies turn complex e-commerce challenges into scalable business models, high-performance architectures and solutions, and measurable business impact. His areas of focus are composable commerce solutions and flexible AI solutions.</p><p><a href="https://www.diva-e.com/en/insights/edge/authors/jochen-binder/">See all articles</a></p></div></div>
+</div>
+</div>
+<div>
+<div class="related">
+<div><div><h2>Recommended Reads</h2></div></div>
+<div><div><p><img src="https://content.da.live/aemcoder/a608424f/media/article/gettyimages-1336136316-2-c79e-750x.jpg" alt="DDP"></p><ul><li>B2B</li><li>B2C</li><li>News &amp; Trends</li></ul><p>21 Oct 2026</p><h3><a href="/en/insights/edge/digital-product-passport-dpp-readiness-audit">Are You Ready for the Digital Product Passport?</a></h3><p>Find out how a Digital Product Passport Audit assesses your product data, processes and systems and identifies the next steps toward DPP readiness.</p><p><img src="https://content.da.live/aemcoder/a608424f/media/article/dorothee-haensch-0c9c-32x.jpeg" alt="Portr&auml;t von Dorothee Haensch"></p><p>Dorothee Haensch</p></div></div>
+<div><div><p><img src="https://content.da.live/aemcoder/a608424f/media/article/gettyimages-2183118552-ad6b-750x.jpg" alt="CRM Team"></p><ul><li>B2C</li></ul><p>6 Aug 2026</p><h3><a href="/en/insights/edge/crm-auswaehlen-leitfaden">Choosing the Right CRM</a></h3><p>Learn how to choose the right CRM step by step&mdash;from defining your requirements to successful implementation.</p><p><img src="https://content.da.live/aemcoder/a608424f/media/article/dorothee-haensch-0c9c-32x.jpeg" alt="Portr&auml;t von Dorothee Haensch"></p><p>Dorothee Haensch</p></div></div>
+<div><div><p><img src="https://content.da.live/aemcoder/a608424f/media/article/gettyimages-2231952003-e4ca-750x.jpg" alt="CDP"></p><ul><li>B2C</li></ul><p>2 Sept 2026</p><h3><a href="/en/insights/edge/cdp-evaluation">How to Find the Right Customer Data Platform (CDP)</a></h3><p>Which CDP is right for your business? Discover 10 key criteria for choosing a Customer Data Platform, from use cases and data quality to TCO and governance.</p><p><img src="https://content.da.live/aemcoder/a608424f/media/article/anne-brosch-en-893e-32x.jpeg" alt="Anne Brosch Portrait"></p><p>Anne Brosch</p></div></div>
+</div>
+<p><a href="/widgets/read-progress.html">read-progress</a></p>
+</div>
+</main>
+<footer></footer>
+</body>

@@ -1,0 +1,336 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T11:37:42.847Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.diva-e.com/en/",
+    "http://localhost:8791/en-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > div > div > div.page.storyblok__outline",
+      "isBody": false,
+      "leaves": 124,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "max-width",
+        "selector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext",
+        "tier": 6,
+        "share": 0.06,
+        "section": 0,
+        "w1": 1040,
+        "maxWidth": "1040px"
+      },
+      {
+        "kind": "module",
+        "px": 860,
+        "via": "max-width",
+        "selector": "div > div.page.storyblok__outline > div.teaser-slider.teaser-slider--bg-dark > div.teaser-slider__header",
+        "tier": 2,
+        "share": 0.01,
+        "section": 4,
+        "w1": 860,
+        "maxWidth": "860px"
+      },
+      {
+        "kind": "module",
+        "px": 1036,
+        "via": "other",
+        "selector": "div.page.storyblok__outline > div.teaser-slider.teaser-slider--bg-dark > div.swiper.swiper-coverflow > div.swiper-wrapper",
+        "tier": 3,
+        "share": 0.02,
+        "section": 4,
+        "w1": 966,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 454,
+        "via": "max-width",
+        "selector": "div.swiper-wrapper > div.swiper-slide.swiper-slide-visible > div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text",
+        "tier": 6,
+        "share": 0.02,
+        "section": 4,
+        "w1": 454,
+        "maxWidth": "454px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div > div > div.page.storyblok__outline > div.hero.storyblok__outline",
+        "px": 1040,
+        "capSelector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext"
+      },
+      {
+        "index": 1,
+        "selector": "div > div > div.page.storyblok__outline > div.text.text--bg-dark-blue",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "div > div > div.page.storyblok__outline > div.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "div > div > div.page.storyblok__outline > div.cards-block.grid-container",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "div > div > div.page.storyblok__outline > div.teaser-slider.teaser-slider--bg-dark",
+        "px": 1036,
+        "capSelector": "div.page.storyblok__outline > div.teaser-slider.teaser-slider--bg-dark > div.swiper.swiper-coverflow > div.swiper-wrapper"
+      },
+      {
+        "index": 5,
+        "selector": "div > div > div.page.storyblok__outline > div.slider-cards-copy.slider-cards-copy--undefined",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 6,
+        "selector": "div > div > div.page.storyblok__outline > div.partners-bar.partners-bar--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 7,
+        "selector": "div > div > div.page.storyblok__outline > div.cards-block.grid-container",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 8,
+        "selector": "div > div > div.page.storyblok__outline > div.form-block.form-block--regular",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1040,
+    "contentFrom": "module",
+    "maxCap": 1040,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 486
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.page",
+      "isBody": false,
+      "leaves": 124,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "max-width",
+        "selector": "section.hero > div.hero__info > div.hero__info-container > div.hero__description.richtext",
+        "tier": 4,
+        "share": 0.06,
+        "section": 0,
+        "w1": 1040,
+        "maxWidth": "1040px"
+      },
+      {
+        "kind": "module",
+        "px": 860,
+        "via": "max-width",
+        "selector": "body > main.page > section.teaser-slider > div.teaser-slider__header",
+        "tier": 2,
+        "share": 0.01,
+        "section": 4,
+        "w1": 860,
+        "maxWidth": "860px"
+      },
+      {
+        "kind": "module",
+        "px": 1036,
+        "via": "other",
+        "selector": "main.page > section.teaser-slider > div.teaser-slider__swiper > div.teaser-slider__track",
+        "tier": 3,
+        "share": 0.02,
+        "section": 4,
+        "w1": 966,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 582,
+        "via": "max-width",
+        "selector": "div.teaser-slider__track > div.teaser-item.is-active > div.teaser-item__inner > div.teaser-item__image",
+        "tier": 6,
+        "share": 0,
+        "section": 4,
+        "w1": 512,
+        "maxWidth": "582px"
+      },
+      {
+        "kind": "module",
+        "px": 454,
+        "via": "max-width",
+        "selector": "div.teaser-slider__track > div.teaser-item.is-active > div.teaser-item__inner > div.teaser-item__text",
+        "tier": 6,
+        "share": 0.02,
+        "section": 4,
+        "w1": 454,
+        "maxWidth": "454px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.page > section.hero",
+        "px": 1040,
+        "capSelector": "section.hero > div.hero__info > div.hero__info-container > div.hero__description.richtext"
+      },
+      {
+        "index": 1,
+        "selector": "body > main.page > section.text.text--dark",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "body > main.page > section.simple-text",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "body > main.page > section.cards-block.cards-block--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "body > main.page > section.teaser-slider",
+        "px": 1036,
+        "capSelector": "main.page > section.teaser-slider > div.teaser-slider__swiper > div.teaser-slider__track"
+      },
+      {
+        "index": 5,
+        "selector": "body > main.page > section.slider-cards",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 6,
+        "selector": "body > main.page > section.partners-bar",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 7,
+        "selector": "body > main.page > section.cards-block.cards-block--dark",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 8,
+        "selector": "#contact",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1040,
+    "contentFrom": "module",
+    "maxCap": 1040,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 362
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1040px = build 1040px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/9",
+        "detail": "1040px = 1040px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/9",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/9",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/9",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/9",
+        "detail": "1036px = 1036px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 6/9",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 7/9",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 8/9",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 9/9",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/en-2560/cap-iter.json"
+}

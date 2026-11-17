@@ -1,0 +1,902 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T09:56:53.456Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-insights-edge-vendor-lab-day",
+  "url": "https://www.diva-e.com/en/insights/edge/vendor-lab-day/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T09:56:53.456Z",
+  "finalUrl": "https://www.diva-e.com/en/insights/edge/vendor-lab-day/",
+  "title": "Tech Evaluation Lab Day: Test Platform Fit, Not Just Features | diva-e Conclusion",
+  "description": "Learn how a structured Tech Evaluation Lab Day helps you validate platform fit, uncover implementation risks early, and make confident technology decisions before signing a contract. ",
+  "og": {
+    "title": "Tech Evaluation Lab Day: Test Platform Fit, Not Just Features | diva-e Conclusion",
+    "description": "Learn how a structured Tech Evaluation Lab Day helps you validate platform fit, uncover implementation risks early, and make confident technology decisions before signing a contract. ",
+    "image": "https://a.storyblok.com/f/194188/800x420/2f253d4b5d/og-image.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Tech Evaluation Lab Day"
+    },
+    {
+      "tag": "h2",
+      "text": "Four patterns your evaluation is building activity, not decision clarity"
+    },
+    {
+      "tag": "h3",
+      "text": "1. You can't tell whether your evaluation is working"
+    },
+    {
+      "tag": "h3",
+      "text": "2. Your shortlist solves a selection problem your business doesn't have"
+    },
+    {
+      "tag": "h3",
+      "text": "3. Your evaluation promises more than your operating model can support"
+    },
+    {
+      "tag": "h3",
+      "text": "4. Your test scenarios are not realistic"
+    },
+    {
+      "tag": "h2",
+      "text": "What the shortlist should look like before the Lab Day"
+    },
+    {
+      "tag": "h2",
+      "text": "How a Lab Day actually works"
+    },
+    {
+      "tag": "h3",
+      "text": "It starts with a detailed briefing sent to vendors weeks in advance"
+    },
+    {
+      "tag": "h3",
+      "text": "The session itself runs across multiple functional domains, not a single scenario"
+    },
+    {
+      "tag": "h3",
+      "text": "Vendors must demonstrate against your context, not theirs"
+    },
+    {
+      "tag": "h2",
+      "text": "What you discover that demos never show"
+    },
+    {
+      "tag": "h2",
+      "text": "The TCO analysis is a distinct workstream, not an afterthought"
+    },
+    {
+      "tag": "h2",
+      "text": "The output is rarely a clear winner"
+    },
+    {
+      "tag": "h2",
+      "text": "What changes after a Lab Day"
+    },
+    {
+      "tag": "h2",
+      "text": "Recommended Reads"
+    },
+    {
+      "tag": "h3",
+      "text": "Are You Ready for the Digital Product Passport?"
+    },
+    {
+      "tag": "h3",
+      "text": "Customers Don’t Search for Article Numbers"
+    },
+    {
+      "tag": "h3",
+      "text": "Choosing a CMS: How to Find the Right Platform"
+    }
+  ],
+  "body": [
+    "ServicesDigital ConsultingAuditsDigital Business ConsultingTechnology & Architecture Consultingdiva-e AIStrategic transformation with the 9-Grid modelUser ExperienceData Analytics & Business IntelligenceDigital Experience PlatformsE-Commerce PlatformsContent Management SystemKarriereportalCustomer Data PlatformProduct Information ManagementSystem Integration Customer Relationship ManagementDigital MarketingGAIO / GEOContentSEOPaid AdvertisingOmnichannel MarketingApplication Management ServiceApplication Management ServiceCloud ConsultingCloudsecurityCybersecurityTotal Experience",
+    "Marketplace",
+    "IndustriesTech Guide: Evaluate systems smartlyCompare ROI, TCO and business value with clarityDownload now!Financial Services Guide: Winning Customers SafelyDigital experiences that build trust and strengthen customer loyaltyRead now!AutomotiveB2B ManufacturingRetailFinancial Services",
+    "Partners",
+    "About usdiva-e Conclusion remains market leader in DXSLünendonk once again confirms our role as market leader.DownloadOur Latest Success Story: InteramtOptimized platform, improved UX, modern recruiting toolRead success storyAbout usManagementLocationSuccess StoriesPress",
+    "InsightsCyber Guide: How Firms Stay SafeOpportunities & Risks in CybersecurityDownload now!AI Search Guide: Ensure visibility!Strategic visibility in AI searches!Download now!NewsEvents & WebinarsBlogReferencesDownloads",
+    "Careers",
+    "de",
+    "en",
+    "How to Run a Tech Evaluation Lab Day That Prevents the Wrong Platform Decision",
+    "Four patterns your evaluation is building activity, not decision clarity",
+    "What the shortlist should look like before the Lab Day",
+    "How a Lab Day actually works",
+    "What you discover that demos never show",
+    "The TCO analysis is a distinct workstream, not an afterthought",
+    "The output is rarely a clear winner",
+    "What changes after a Lab Day",
+    "The wrong platform decision rarely looks wrong during the demo. It looks wrong six months later, when customer-specific pricing fails across country boundaries, legacy ERP constraints that nobody mentioned in the RFP surface during UAT, and the finance team discovers that nobody ever tested partial delivery scenarios. The platform was not technically broken. The evaluation just never tested whether it could survive the actual business. Every experienced technology leader has seen this pattern. And yet evaluations keep running the same way: RFP response, vendor demo, feature matrix, contract signed. This is the fourth post in the Architecture Advisory Series. The first three covered why architecture must precede tools, how to structure a shortlist that represents genuinely different strategic options, and five patterns that indicate a platform has stopped enabling growth and started constraining it. This post covers the mechanism that closes the gap: a structured Tech Evaluation Lab Day designed to test fit rather than features before a contract is signed.",
+    "Before running a Lab Day, it is worth diagnosing whether your current evaluation is on a productive track. Four patterns appear repeatedly in technology selections that ultimately produce the wrong decision.",
+    "This may be the most uncomfortable sign, because it means the other three could be present and you would not know. Many organizations lack the measurement infrastructure to evaluate whether their evaluation process is delivering decision quality.",
+    "They have repxorts, but the reports show activity metrics: number of vendors evaluated, number of features scored, number of meetings held. They track what is happening but not why it is happening, what it is costing, or what they should do differently.",
+    "A proper evaluation defines decision-grade evidence: the path from test scenario to strategic choice, against criteria that connect evaluation activity to business impact. If you cannot answer the question \"is our evaluation producing decision clarity?\" with specifics, you are acting on guesses at budget levels that boards should not accept.",
+    "Two examples:",
+    "A wholesaler selecting a commerce platform because \"digital transformation\" sounds like the next logical step, when the real bottleneck is product data quality and user onboarding, has already lost the thread.",
+    "A wholesaler selecting a commerce platform because \"digital transformation\" sounds like the next logical step, when the real bottleneck is product data quality and user onboarding, has already lost the thread.",
+    "A building materials supplier launching a B2C-style self-service shop when their customers need guided configuration and quote workflows is another version of the same mistake, because it looks like progress from the inside.",
+    "A building materials supplier launching a B2C-style self-service shop when their customers need guided configuration and quote workflows is another version of the same mistake, because it looks like progress from the inside.",
+    "The common thread is an evaluation that imports assumptions from other industries instead of starting from how the company creates and captures value. When your shortlist does not match your revenue architecture, every euro you spend on evaluation moves you sideways rather than forward. Before the first vendor conversation, the question has to be specific: what business constraint is this platform intended to remove?",
+    "The feature matrix shows \"customer-specific pricing supported,\" but nobody in the organization has defined the pricing rules or owns the pricing process. The platform supports multi-country tax logic, but the finance team has three people already at capacity. Capability without operating model readiness is a more expensive version of the status quo.",
+    "Successful platform implementations require more than technical capability. They require an operating model that can actually support what the platform promises. Human factors, including resistance to change and lack of operational readiness, account for a significant share of why platforms fail after selection.",
+    "Every vendor looks similar in a standard demo because every vendor optimizes for the standard demo. If vendors define the scenario, you will see their best case:",
+    "clean data",
+    "clean data",
+    "simple workflows",
+    "simple workflows",
+    "standard integrations",
+    "standard integrations",
+    "no edge cases",
+    "no edge cases",
+    "no legacy constraints",
+    "no legacy constraints",
+    "The differentiation only becomes visible under realistic complexity, and that complexity has to be scripted by your team. Define a list of realistic scenarios before the Lab Day with pre-agreed success criteria: scenario completed within a defined time, inventory matching ERP response, no manual workaround required, realistic edge cases handled, user experience understandable for the actual target users.",
+    "The goal is not to make vendors fail. The goal is to see where each solution works, where it needs workarounds, and where it creates risk.",
+    "These four patterns share a common consequence: by the time they surface during implementation, the cost of correction has multiplied. In our experience across platform selections, the gap between evaluation assumptions and implementation reality has in some cases consumed double the planned budget or more.",
+    "In our experience across countless platform selections, the majority of shortlists contain fundamentally similar options.",
+    "The evaluation team has narrowed to three vendors in the same architectural category, often because the initial selection was influenced by analyst reports or the platform used at a previous company. The decision then becomes a features exercise, which means the strategic choice between build, rent, and buy was already made implicitly, without anyone acknowledging it.",
+    "A shortlist worth running through a Lab Day represents genuinely different approaches to the same problem:",
+    "an open-source option offering control",
+    "an open-source option offering control",
+    "customization depth at the cost of internal effort",
+    "customization depth at the cost of internal effort",
+    "a SaaS option offering operational simplicity and speed at the cost of flexibility",
+    "a SaaS option offering operational simplicity and speed at the cost of flexibility",
+    "a specialized best-of-breed option offering deep domain process coverage with a narrower ecosystem",
+    "a specialized best-of-breed option offering deep domain process coverage with a narrower ecosystem",
+    "These are not three flavors of the same answer. They represent different organizational commitments, different operating model implications, and different risk profiles.",
+    "Which tool has the most features is less important than which approach best supports your business model, operating model, and growth ambition. If your shortlist contains only similar tools, you may have already made the strategic decision without realizing it.",
+    "A Tech Evaluation Lab Day brings your actual business complexity into the evaluation before a decision is made. A Lab Day is not a single event. It is a structured process that can span several weeks, and the preparation that precedes it is where most of the value is created.",
+    "The briefing is not a requirements document disguised as a brief. It is a genuine transfer of context: company background, brand architecture, customer personas, project objectives, sizing data (traffic, order volumes, SKU counts per market, revenue), existing system landscape, and a precise agenda for the session itself. Vendors who receive a serious briefing have no excuse for a generic demo. Those who show up with a standard pitch despite having specific context are telling you something important about how they will behave as implementation partners.",
+    "A realistic Lab Day for a multi-brand retailer, for example, might cover eight areas:",
+    "daily commerce management and backoffice tooling",
+    "daily commerce management and backoffice tooling",
+    "multi-site and multi-brand management across multiple countries and languages",
+    "multi-site and multi-brand management across multiple countries and languages",
+    "personalization and discovery commerce",
+    "personalization and discovery commerce",
+    "product and assortment management including PIM integration",
+    "product and assortment management including PIM integration",
+    "marketplace and drop-ship partner handling",
+    "marketplace and drop-ship partner handling",
+    "promotions and campaign management",
+    "promotions and campaign management",
+    "checkout logic and order management",
+    "checkout logic and order management",
+    "technical architecture with integration patterns.",
+    "technical architecture with integration patterns.",
+    "Each domain has its own pre-defined evaluation questions and a scoring scale with explicit anchors, typically running from \"not available except via extension or third-party tool\" through to \"perfect functional fit and genuinely usable by our business teams.\" Seven or more evaluators are better than three, because cross-functional perspectives reveal things a small group misses.",
+    "The briefing gives them what they need. A vendor who demonstrates with your product catalogue, your brands, and your actual assortment data has prepared. A vendor who runs a generic demo of standard features has not. How a vendor responds to a detailed briefing is itself a signal worth recording.",
+    "The first thing that surfaces is which capabilities are truly native and which require extensions, third-party integrations, or custom development.",
+    "A platform that rates highly on omnichannel and marketplace features in an analyst report may, under direct questioning, require an external integration for both.",
+    "A platform that rates highly on omnichannel and marketplace features in an analyst report may, under direct questioning, require an external integration for both.",
+    "A platform positioned as a business-user-friendly suite may have backoffice tooling that your operations team rates as unsuitable for daily work.",
+    "A platform positioned as a business-user-friendly suite may have backoffice tooling that your operations team rates as unsuitable for daily work.",
+    "The evaluation format that works is not feature comparison but a three-column output per vendor: what worked well and felt genuinely differentiated; what fell short and by how much; and what remained unclear and needs a follow-up before a decision can be made.",
+    "The evaluation format that works is not feature comparison but a three-column output per vendor: what worked well and felt genuinely differentiated; what fell short and by how much; and what remained unclear and needs a follow-up before a decision can be made.",
+    "Running in parallel to the functional evaluation, it covers Year 1 implementation costs, operational costs over five years under at least two business scenarios (conservative and growth), and the savings potential from standard functionality replacing tools already in the stack.",
+    "A domain-specific SaaS platform that looks expensive in Year 1 license terms may eliminate OMS costs, marketplace connector costs, and CDN costs simultaneously, changing the TCO picture substantially. That calculation belongs in the decision case, not in a footnote.",
+    "That is not a failure of the process. It is the honest reflection of a genuine strategic choice. The right conclusion from a well-run Lab Day is a structured view of the conditions under which each option wins and the conditions under which it loses, documented with enough specificity that leadership can make an informed decision rather than an opinion-based one.",
+    "The right platform decision does not feel like the outcome of a scoring exercise. It feels like the inevitable conclusion of a well-structured process. That quality of inevitability comes from decision-grade evidence: observations of actual platform behavior across multiple functional domains, documented by people with relevant accountability, against criteria that were agreed in advance. This is different in kind from a ranked feature matrix, not just in format but in what it can withstand. A decision built on decision-grade evidence survives scrutiny because it was designed to be scrutinized. The final deliverable from a Lab Day is a structured decision case that includes a functional assessment per domain, a risk assessment for each option, a total cost of ownership calculation across scenarios, and a clear articulation of the conditions under which each option becomes the right or wrong choice. Leadership can stand behind that case because it was built on observed behavior under conditions that resemble the actual business, not on a vendor's choreographed demonstration. Platform failure is expensive and preventable in roughly equal measure. The prevention window is before the contract is signed. Stop comparing features. Start testing fit. At diva-e Conclusion, we help organizations design and run Tech Evaluation Lab Days that produce decision-grade evidence before a contract gets signed. We bring your actual complexity into the process and produce a decision case leadership can stand behind.",
+    "Alexander has been working as a Solution Architect and Technology Advisor at diva-e Conclusion since 2013. With over 25 years of industry experience, his focus is on Technical Due Diligence as well as the development of sustainable architectures and blueprints for digital business. His emphasis is on individual consulting and the creation of measurable value – far beyond established standards or the mere comparison of feature lists.",
+    "Adobe Experience Cloud",
+    "Paid Advertising",
+    "Application Management",
+    "CDP",
+    "CMS",
+    "Content",
+    "Data Analysis",
+    "Online Marketing",
+    "OneProSeo",
+    "PIM",
+    "Monitor Reporting",
+    "SAP",
+    "SEO",
+    "Salesforce",
+    "AI",
+    "UX",
+    "diva-e © 2026",
+    "Imprint",
+    "Data protection",
+    "Jobs",
+    "Whistleblower system"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Services",
+      "href": null
+    },
+    {
+      "label": "Marketplace",
+      "href": "/en/marketplace/"
+    },
+    {
+      "label": "Industries",
+      "href": null
+    },
+    {
+      "label": "Partners",
+      "href": "/en/about-us/partner/"
+    },
+    {
+      "label": "About us",
+      "href": null
+    },
+    {
+      "label": "Insights",
+      "href": null
+    },
+    {
+      "label": "Careers",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop"
+    },
+    {
+      "label": "de",
+      "href": null
+    },
+    {
+      "label": "en",
+      "href": null
+    },
+    {
+      "label": "Contacts",
+      "href": "/en/contact/"
+    },
+    {
+      "label": "Four patterns your evaluation is building activity, not decision clarity",
+      "href": "/en/insights/edge/vendor-lab-day/#1"
+    },
+    {
+      "label": "What the shortlist should look like before the Lab Day",
+      "href": "/en/insights/edge/vendor-lab-day/#2"
+    },
+    {
+      "label": "How a Lab Day actually works",
+      "href": "/en/insights/edge/vendor-lab-day/#3"
+    },
+    {
+      "label": "What you discover that demos never show",
+      "href": "/en/insights/edge/vendor-lab-day/#4"
+    },
+    {
+      "label": "The TCO analysis is a distinct workstream, not an afterthought",
+      "href": "/en/insights/edge/vendor-lab-day/#5"
+    },
+    {
+      "label": "The output is rarely a clear winner",
+      "href": "/en/insights/edge/vendor-lab-day/#6"
+    },
+    {
+      "label": "What changes after a Lab Day",
+      "href": "/en/insights/edge/vendor-lab-day/#7"
+    },
+    {
+      "label": "Get in Touch",
+      "href": "/en/services/digital-consulting/technology-architecture-consulting/"
+    },
+    {
+      "label": "See all articles",
+      "href": "/en/insights/edge/authors/alexander-neuhausen/"
+    },
+    {
+      "label": "Adobe Experience Cloud",
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+    },
+    {
+      "label": "Paid Advertising",
+      "href": "/en/services/digital-marketing/paid-advertising/"
+    },
+    {
+      "label": "Application Management",
+      "href": "/en/services/ams/application-management-services/"
+    },
+    {
+      "label": "CDP",
+      "href": "/en/services/dxp/cdp/"
+    },
+    {
+      "label": "CMS",
+      "href": "/en/services/dxp/cms/"
+    },
+    {
+      "label": "Content",
+      "href": "/en/services/digital-marketing/content/"
+    },
+    {
+      "label": "Data Analysis",
+      "href": "/en/services/dxp/data-analytics-bi/"
+    },
+    {
+      "label": "Online Marketing",
+      "href": "/en/services/digital-marketing/"
+    },
+    {
+      "label": "OneProSeo",
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+    },
+    {
+      "label": "PIM",
+      "href": "/en/services/dxp/pim/"
+    },
+    {
+      "label": "Monitor Reporting",
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+    },
+    {
+      "label": "SAP",
+      "href": "/en/about-us/partner/sap/"
+    },
+    {
+      "label": "SEO",
+      "href": "/en/services/digital-marketing/seo/"
+    },
+    {
+      "label": "Salesforce",
+      "href": "/en/about-us/partner/salesforce/"
+    },
+    {
+      "label": "AI",
+      "href": "/en/services/ai/"
+    },
+    {
+      "label": "UX",
+      "href": "/en/services/dxp/system-integration/ux-ui-design/"
+    },
+    {
+      "label": "Imprint",
+      "href": "/en/imprint/"
+    },
+    {
+      "label": "Data protection",
+      "href": "/en/data-privacy/"
+    },
+    {
+      "label": "Jobs",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop"
+    },
+    {
+      "label": "Whistleblower system",
+      "href": "https://diva-e.interne-meldestelle.de/"
+    },
+    {
+      "label": "Subscribe to diva-e newsletter!",
+      "href": "/en/newsletter/"
+    }
+  ],
+  "links": [
+    "https://www.diva-e.com/en/",
+    "https://www.diva-e.com/en/search/",
+    "https://www.diva-e.com/en/services/digital-consulting/",
+    "https://www.diva-e.com/en/services/digital-marketing/audits/",
+    "https://www.diva-e.com/en/services/digital-consulting/digital-business-consulting/",
+    "https://www.diva-e.com/en/services/digital-consulting/technology-architecture-consulting/",
+    "https://www.diva-e.com/en/services/ai/",
+    "https://www.diva-e.com/en/services/digital-consulting/strategic-transformation/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/ux-ui-design/",
+    "https://www.diva-e.com/en/services/dxp/data-analytics-bi/",
+    "https://www.diva-e.com/en/services/dxp/",
+    "https://www.diva-e.com/en/services/dxp/e-commerce-platform/",
+    "https://www.diva-e.com/en/services/dxp/cms/",
+    "https://www.diva-e.com/en/services/dxp/karriereportal/",
+    "https://www.diva-e.com/en/services/dxp/cdp/",
+    "https://www.diva-e.com/en/services/dxp/pim/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/",
+    "https://www.diva-e.com/en/services/crm/",
+    "https://www.diva-e.com/en/services/digital-marketing/",
+    "https://www.diva-e.com/en/services/digital-marketing/gaio/",
+    "https://www.diva-e.com/en/services/digital-marketing/content/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/",
+    "https://www.diva-e.com/en/services/digital-marketing/paid-advertising/",
+    "https://www.diva-e.com/en/services/digital-marketing/omnichannel-marketing/",
+    "https://www.diva-e.com/en/services/ams/",
+    "https://www.diva-e.com/en/services/ams/application-management-services/",
+    "https://www.diva-e.com/en/services/ams/cloud-consulting/",
+    "https://www.diva-e.com/en/services/ams/cloud-security/",
+    "https://www.diva-e.com/en/services/ams/cybersecurity/",
+    "https://www.diva-e.com/en/services/total-experience/",
+    "https://www.diva-e.com/en/marketplace/",
+    "https://www.diva-e.com/en/insights/downloads/b2b-tech-evaluierung-guide/",
+    "https://www.diva-e.com/en/insights/downloads/financial-services-guide/",
+    "https://www.diva-e.com/en/industries/automotive/",
+    "https://www.diva-e.com/en/industries/b2b-manufacturing/",
+    "https://www.diva-e.com/en/industries/retail/",
+    "https://www.diva-e.com/en/industries/financial-services/",
+    "https://www.diva-e.com/en/about-us/partner/",
+    "https://www.diva-e.com/en/insights/downloads/luenendonk/",
+    "https://www.diva-e.com/en/about-us/customers/interamt/",
+    "https://www.diva-e.com/en/about-us/",
+    "https://www.diva-e.com/en/about-us/management/",
+    "https://www.diva-e.com/en/about-us/locations/",
+    "https://www.diva-e.com/en/about-us/customers/",
+    "https://www.diva-e.com/en/insights/press/",
+    "https://www.diva-e.com/en/insights/downloads/cybersecurity-guide/",
+    "https://www.diva-e.com/en/insights/downloads/ai-search-guide/",
+    "https://www.diva-e.com/en/insights/news/",
+    "https://www.diva-e.com/en/insights/events/",
+    "https://www.diva-e.com/en/insights/edge/",
+    "https://www.diva-e.com/en/insights/downloads/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop",
+    "https://www.diva-e.com/en/contact/",
+    "https://www.diva-e.com/en/insights/edge/vendor-lab-day/#1",
+    "https://www.diva-e.com/en/insights/edge/vendor-lab-day/#2",
+    "https://www.diva-e.com/en/insights/edge/vendor-lab-day/#3",
+    "https://www.diva-e.com/en/insights/edge/vendor-lab-day/#4",
+    "https://www.diva-e.com/en/insights/edge/vendor-lab-day/#5",
+    "https://www.diva-e.com/en/insights/edge/vendor-lab-day/#6",
+    "https://www.diva-e.com/en/insights/edge/vendor-lab-day/#7",
+    "https://www.diva-e.com/en/insights/edge/authors/alexander-neuhausen/",
+    "https://www.diva-e.com/en/insights/edge/digital-product-passport-dpp-readiness-audit/",
+    "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/",
+    "https://www.diva-e.com/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop",
+    "https://diva-e.interne-meldestelle.de/",
+    "https://www.diva-e.com/en/newsletter/",
+    "https://www.diva-e.com/en/about-us/partner/adobe/adobe-experience-cloud/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/tools/oneproseo/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/monitoring-reporting/",
+    "https://www.diva-e.com/en/about-us/partner/sap/",
+    "https://www.diva-e.com/en/about-us/partner/salesforce/",
+    "https://www.diva-e.com/en/imprint/",
+    "https://www.diva-e.com/en/data-privacy/",
+    "https://www.instagram.com/divae.gmbh/",
+    "https://www.youtube.com/c/divaenterprise",
+    "https://www.linkedin.com/company/divaedigitalvalueexcellence/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/52464bfea5/strategic-technology-decisions-with-foresight_956x554px.jpg/m/600x",
+        "alt": "Strategic technology decisions with foresight",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/6a25352619/financeguide_en_956x554.jpg/m/600x",
+        "alt": "The Digital Experience Playbook for Financial Service Providers",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/474x267/d926129490/lunendonk-startseite-en.png/m/600x",
+        "alt": "Lünendonk Survey 2026 chart comparing DXS providers by portfolio width, depth, and market relevance, grouped as challengers, chasers, leaders",
+        "w": 600,
+        "h": 338
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/ba20a1b7e5/interamt_956x554px.png/m/600x",
+        "alt": "Smiling person talking with two others, overlayed with \"INTERAMT\" logo in orange and abstract door icon.",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/c39f42621c/en-security-guide_956x554.jpg/m/600x",
+        "alt": "3 Vulnerabilities that put your IT Security at Risk",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/0c00be16ec/ai-playbook_956x554px.png/m/600x",
+        "alt": "Two tablets display digital content from an \"AI Playbook\" on a blue background. The text reads: \"AI Playbook: Know-how, Tips, and Strategy.\"",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/5568x3712/1fa1111ff4/gettyimages-1411316268.jpg/m/1920x",
+        "alt": "Vendor Lab Day",
+        "w": 1920,
+        "h": 1280
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/629x599/b555f09163/alexander-neuhausen.png/m/32x",
+        "alt": "Alexander Neuhausen",
+        "w": 32,
+        "h": 30
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/629x599/b555f09163/alexander-neuhausen.png/m/176x",
+        "alt": "Alexander Neuhausen",
+        "w": 176,
+        "h": 168
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/8640x5760/c79e0b4cc7/gettyimages-1336136316-2.jpg/m/750x",
+        "alt": "DDP",
+        "w": 750,
+        "h": 500
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/8574x5715/245f5cec6c/gettyimages-607463118.jpg/m/750x",
+        "alt": "B2B Sales",
+        "w": 750,
+        "h": 500
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/8192x5464/e595c52137/gettyimages-1409451746.jpg/m/750x",
+        "alt": "Business Meeting",
+        "w": 750,
+        "h": 500
+      }
+    ],
+    "allImgCount": 15,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--font-slnt-normal": "0",
+    "--font-slnt-30-positive": "30",
+    "--gridColumnNumber": "4",
+    "--swiper-theme-color": "#007aff",
+    "--swiper-navigation-size": "44px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 19,
+    "mainTextLen": 112306,
+    "realImageCount": 12,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/core/zwbhh7MR",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 188,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "ae",
+          "apvc",
+          "auid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.ads_data_redaction",
+          "fmt",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google.com/ccm/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/{n}/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "query": [
+          "isOutsideRegion"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/rmkt/collect/{n}/",
+        "query": [
+          "async",
+          "auid",
+          "bg",
+          "cv",
+          "data",
+          "dma",
+          "en",
+          "ept",
+          "fmt",
+          "frm",
+          "fst",
+          "gcd",
+          "gcp",
+          "gtm",
+          "guid",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google.com/rmkt/collect/16967774015/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "data.diva-e.com",
+        "path": "/g/collect",
+        "query": [
+          "_et",
+          "_eu",
+          "_p",
+          "_s",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "ecid",
+          "en",
+          "ep.consent_conversion_linker",
+          "ep.consent_google_ads",
+          "ep.consent_google_ads_conversion_tracking",
+          "ep.consent_google_ads_remarketing",
+          "ep.consent_google_analytics_4",
+          "ep.consent_hubspot",
+          "ep.consent_linkedin_insight_tag",
+          "ep.consent_microsoft_advertising",
+          "ep.consent_microsoft_conversion_tracking",
+          "evnid",
+          "frm",
+          "gap.sstd",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ibt",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "richsstsse",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "sst.gch",
+          "sst.lpc",
+          "sst.navt",
+          "sst.rnd",
+          "sst.sw_exp",
+          "sst.tft",
+          "sst.ude",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "up.user_referral_category",
+          "up.user_referral_dest",
+          "up.user_referral_location",
+          "ur",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 200,
+        "bytes": 1709,
+        "hits": 1,
+        "example": "https://data.diva-e.com/g/collect",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "api.storyblok.com",
+        "path": "/v2/cdn/stories",
+        "query": [
+          "by_uuids",
+          "content_type",
+          "cv",
+          "language",
+          "per_page",
+          "token",
+          "version"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 301,
+        "bytes": 792,
+        "hits": 6,
+        "example": "https://api.storyblok.com/v2/cdn/stories",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "api.hubapi.com",
+        "path": "/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "query": [
+          "portalId"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "forms.hscollectedforms.net",
+        "path": "/collected-forms/v1/config/json",
+        "query": [
+          "portalId",
+          "utk"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://forms.hscollectedforms.net/collected-forms/v1/config/json",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "web.cmp.usercentrics.eu",
+        "count": 9
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "googleads.g.doubleclick.net",
+        "count": 2
+      },
+      {
+        "host": "privacy-proxy.usercentrics.eu",
+        "count": 1
+      },
+      {
+        "host": "js.hs-scripts.com",
+        "count": 1
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 1
+      },
+      {
+        "host": "js.hsadspixel.net",
+        "count": 1
+      },
+      {
+        "host": "js.hs-banner.com",
+        "count": 1
+      },
+      {
+        "host": "js.hscollectedforms.net",
+        "count": 1
+      },
+      {
+        "host": "js.hs-analytics.net",
+        "count": 1
+      },
+      {
+        "host": "js-na1.hs-scripts.com",
+        "count": 1
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": "__NUXT_DATA__",
+        "type": "application/json",
+        "bytes": 93193,
+        "topLevelKeys": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      }
+    ],
+    "globalState": [
+      "__NUXT__",
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "nuxt"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 8,
+      "thirdPartyScriptHosts": 12,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-insights-edge-vendor-lab-day.png",
+  "renderedHtml": "pages/en-insights-edge-vendor-lab-day.html"
+}

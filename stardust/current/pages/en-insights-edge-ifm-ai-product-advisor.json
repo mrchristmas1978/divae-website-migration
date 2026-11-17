@@ -1,0 +1,846 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T09:56:24.243Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-insights-edge-ifm-ai-product-advisor",
+  "url": "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T09:56:24.243Z",
+  "finalUrl": "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/",
+  "title": "AI Application Assistant for Product Search: The ifm Case | diva-e Conclusion",
+  "description": "How ifm is transforming product search with an AI application assistant. Learn how data, LLMs and domain expertise create reliable AI-powered product advice.",
+  "og": {
+    "title": "AI Application Assistant for Product Search: The ifm Case | diva-e Conclusion",
+    "description": "How ifm is transforming product search with an AI application assistant. Learn how data, LLMs and domain expertise create reliable AI-powered product advice.",
+    "image": "https://a.storyblok.com/f/194188/800x420/2f253d4b5d/og-image.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Customers Don’t Search for Article Numbers"
+    },
+    {
+      "tag": "h2",
+      "text": "New Customers Don’t Search for Article Numbers"
+    },
+    {
+      "tag": "h2",
+      "text": "The Application Assistant Asks Follow-Up Questions"
+    },
+    {
+      "tag": "h2",
+      "text": "The Language Model Is the Smallest Part"
+    },
+    {
+      "tag": "h2",
+      "text": "Live Since June 2026: What the First Numbers Show"
+    },
+    {
+      "tag": "h2",
+      "text": "The Difference Between a Pilot and a Service"
+    },
+    {
+      "tag": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "tag": "h2",
+      "text": "Recommended Reads"
+    },
+    {
+      "tag": "h3",
+      "text": "Are You Ready for the Digital Product Passport?"
+    },
+    {
+      "tag": "h3",
+      "text": "Choosing the Right CRM"
+    },
+    {
+      "tag": "h3",
+      "text": "How to Find the Right Customer Data Platform (CDP)"
+    }
+  ],
+  "body": [
+    "ServicesDigital ConsultingAuditsDigital Business ConsultingTechnology & Architecture Consultingdiva-e AIStrategic transformation with the 9-Grid modelUser ExperienceData Analytics & Business IntelligenceDigital Experience PlatformsE-Commerce PlatformsContent Management SystemKarriereportalCustomer Data PlatformProduct Information ManagementSystem Integration Customer Relationship ManagementDigital MarketingGAIO / GEOContentSEOPaid AdvertisingOmnichannel MarketingApplication Management ServiceApplication Management ServiceCloud ConsultingCloudsecurityCybersecurityTotal Experience",
+    "Marketplace",
+    "IndustriesTech Guide: Evaluate systems smartlyCompare ROI, TCO and business value with clarityDownload now!Financial Services Guide: Winning Customers SafelyDigital experiences that build trust and strengthen customer loyaltyRead now!AutomotiveB2B ManufacturingRetailFinancial Services",
+    "Partners",
+    "About usdiva-e Conclusion remains market leader in DXSLünendonk once again confirms our role as market leader.DownloadOur Latest Success Story: InteramtOptimized platform, improved UX, modern recruiting toolRead success storyAbout usManagementLocationSuccess StoriesPress",
+    "InsightsCyber Guide: How Firms Stay SafeOpportunities & Risks in CybersecurityDownload now!AI Search Guide: Ensure visibility!Strategic visibility in AI searches!Download now!NewsEvents & WebinarsBlogReferencesDownloads",
+    "Careers",
+    "de",
+    "en",
+    "How ifm Simplifies Search with an AI Application Assistant",
+    "New Customers Don’t Search for Article Numbers",
+    "The Application Assistant Asks Follow-Up Questions",
+    "The Language Model Is the Smallest Part",
+    "Live Since June 2026: What the First Numbers Show",
+    "The Difference Between a Pilot and a Service",
+    "Conclusion",
+    "How does an idea become an AI application that truly works in everyday use? For our client ifm, one of the leading manufacturers of automation and sensor technology, we implemented an application assistant (AI Product Advisor) that opens up a new way for customers to find the right product solution: They can describe their needs in their own words and receive a reasoned product recommendation without leaving the website.",
+    "What users see is a dialogue. What really matters, however, is what happens behind the scenes. What may initially look like a simple chat presents a number of challenges in practice:",
+    "How does AI understand specific use cases? What information does it need to make a good recommendation? And what needs to work together behind the scenes to turn a pilot project into a reliable service? In this article, we take a closer look at the ifm case and show what goes on behind the application assistant, how the project came about, and what insights can be applied to other AI applications.",
+    "“IA0032, IFT200, Pi2795” – anyone searching like this already knows what they need. The more challenging and more common scenario looks different: someone has a task to solve on a machine or system and has no idea which of more than 14,000 products can solve it.",
+    "Traditional keyword search relies on exactly what these customers lack: product knowledge. It matches strings against catalog fields. When someone describes their environment, medium, and goal instead, they either get no results or a list that appears to be sorted by relevance but doesn’t enable them to make a decision. For companies, this has tangible business consequences: users drop off and return to Google. The groups most affected are also the most valuable ones:",
+    "New customers without portfolio knowledge",
+    "New customers without portfolio knowledge",
+    "Customers considering a switch who are just starting to explore the product range",
+    "Customers considering a switch who are just starting to explore the product range",
+    "What would lead to a personal consultation in a traditional sales setting often ends online with the user leaving the site.",
+    "This is exactly where the Application Assistant (Product Advisor) comes in at ifm. It provides an additional entry point alongside the traditional search — customers who know a part number can continue searching as usual. Those who have a problem can simply describe it. A real-world query from the production environment looks like this:",
+    "“How can I – in a dusty environment of a parcel logistics centre – reliably register and count the number of parcels and packages on a roller conveyor?”",
+    "No product name, no technical specification — just the environment, application and objective. In this example, the Product Advisor recommends 3D sensors from the O3D series and deliberately presents two options side by side: the more compact O3D354 with a wider field of view and the O3D314 with a stainless-steel housing for maximum robustness. It also provides a rationale that would not typically be found in a product datasheet: infrared ToF technology is not significantly affected by dust particles, unlike conventional optical sensors.",
+    "The second round is even more interesting. The follow-up comes in the way people actually type — including typos and without technical terminology:",
+    "“I need a more compact version but with a wider field of view, since I want to register and count bigger parcels and pallets.”",
+    "The Product Advisor retains the context, selects the O3D354 and explains its recommendation based on the criteria that now matter: a compact size of 72 × 65 × 76.9 mm, a 60° × 45° field of view, IP65 protection, a 25 Hz refresh rate, a working range of 300 to 8,000 mm, and PROFINET or EtherNet/IP connectivity. It also identifies comparable real-world applications, such as completeness monitoring and depalletizing.",
+    "And then it does something a search engine cannot: it asks a follow-up question:",
+    "“Do you already have an approximate mounting distance and conveyor width, so I can provide more details on the exact positioning?”",
+    "That is the difference between finding and advising. All mentioned products are linked directly alongside the recommendation — so the decision leads to the next step in a single click rather than taking the customer away from the website.",
+    "These dialogues may look straightforward at first glance. The real challenge, however, lay behind the scenes – and that is one of the key takeaways from the project. Setting up a language model with a chat interface is quick. Building a robust application required significantly more:",
+    "Bringing Data Sources TogetherProduct data, application reports, and CMS content were stored in separate systems. To provide a reliable recommendation, the assistant needs all three at once: the specification, the documented use case, and the explanatory content layer.",
+    "Bringing Data Sources TogetherProduct data, application reports, and CMS content were stored in separate systems. To provide a reliable recommendation, the assistant needs all three at once: the specification, the documented use case, and the explanatory content layer.",
+    "Answer Quality, Not PlausibilityA recommendation must be traceable to approved sources. The most difficult scenario in production is not an incorrect answer – it is an incorrect answer that sounds convincing.",
+    "Answer Quality, Not PlausibilityA recommendation must be traceable to approved sources. The most difficult scenario in production is not an incorrect answer – it is an incorrect answer that sounds convincing.",
+    "Clear Boundaries for AI-Powered AdviceWhen it comes to technical product selection, advice must stop where binding commitments begin. The assistant needs to know when to provide guidance and when to hand the user over to an expert.",
+    "Clear Boundaries for AI-Powered AdviceWhen it comes to technical product selection, advice must stop where binding commitments begin. The assistant needs to know when to provide guidance and when to hand the user over to an expert.",
+    "Monitoring and Automated TestingModels change, and product data changes. Without repeatable testing, no one knows whether the quality of an answer from last week still holds today.",
+    "Monitoring and Automated TestingModels change, and product data changes. Without repeatable testing, no one knows whether the quality of an answer from last week still holds today.",
+    "Feedback as Part of OperationsEach answer includes a rating option and a free-text feedback field. These signals are not an afterthought; they provide the data basis for further development and show how the assistant can be improved and which data sources may still be missing.",
+    "Feedback as Part of OperationsEach answer includes a rating option and a free-text feedback field. These signals are not an afterthought; they provide the data basis for further development and show how the assistant can be improved and which data sources may still be missing.",
+    "Clear ResponsibilitiesWho maintains the data, who evaluates answers from a technical perspective, and who decides on changes? These are not technical questions, but organizational ones.",
+    "Clear ResponsibilitiesWho maintains the data, who evaluates answers from a technical perspective, and who decides on changes? These are not technical questions, but organizational ones.",
+    "All of this remains invisible to users. Yet these very foundations determine whether an AI application works reliably in day-to-day production.",
+    "The Application Assistant (AI Product Advisor) has been in production at ifm since June 2026, initially in three countries, covering a portfolio of more than 14,000 products. The results speak for themselves:",
+    "more than 1,000 sessions in the first week",
+    "more than 1,000 sessions in the first week",
+    "around 250 sessions per day",
+    "around 250 sessions per day",
+    "approximately €0.015 per consultation",
+    "approximately €0.015 per consultation",
+    "The number of sessions is more meaningful than it may seem at first glance: the assistant is an optional service that complements the existing search experience. Customers therefore use it deliberately because it provides additional value. At the same time, each consultation costs around two cents. The question is therefore less whether the service is worthwhile and more where there is additional demand for advice that we are not yet covering.",
+    "What really matters: The assistant is being adopted and actively used. Not only customers use it, but also internal teams in service, product management, and sales. There is also strong interest from local country organizations: for the next rollout, they too want to make the service available to their potential customers.",
+    "The project offers three key lessons:",
+    "Start with the User Problem, Not the TechnologyThe use case was clearly defined from a business perspective before any models were discussed. This may sound obvious, but it is one of the most common mistakes in AI initiatives.",
+    "Start with the User Problem, Not the TechnologyThe use case was clearly defined from a business perspective before any models were discussed. This may sound obvious, but it is one of the most common mistakes in AI initiatives.",
+    "Data Integration Is an Effort – and a Competitive AdvantageAny company can buy a language model. Connecting product data, documented application experience, and relevant content, however, is company-specific and cannot simply be purchased off the shelf. This is where the real value is created.",
+    "Data Integration Is an Effort – and a Competitive AdvantageAny company can buy a language model. Connecting product data, documented application experience, and relevant content, however, is company-specific and cannot simply be purchased off the shelf. This is where the real value is created.",
+    "Think About Operational Readiness from the StartMonitoring, quality standards, and clear responsibilities should not be addressed at the end of a project. They need to be considered from the outset. Without these foundations, a pilot may be technically functional, but it will not be reliable or sustainable in production.",
+    "Think About Operational Readiness from the StartMonitoring, quality standards, and clear responsibilities should not be addressed at the end of a project. They need to be considered from the outset. Without these foundations, a pilot may be technically functional, but it will not be reliable or sustainable in production.",
+    "What emerges from this project also creates lasting value: the foundation built for this particular use case is already in place for the next one – integrated data, validated answer quality, and an established operating model. As a result, the second use case is significantly less costly than the first.",
+    "The more interesting question is no longer whether an AI use case works, but how companies can make it repeatable: turning a successful case into a capability that can also deliver value in other areas.",
+    "The ifm case shows that a good AI application is not created by a powerful model alone. What matters is the interplay of user understanding, data, domain expertise, and a reliable operating model. These foundations can also be applied to other companies and use cases.",
+    "Would you like to make your product search smarter and more advisory with AI? The Product Advisor makes complex product portfolios easier to navigate through AI-powered guidance – directly within the existing digital customer journey.",
+    "Jochen is Head of Backend Engineering at diva-e Conclusion. With many years of experience in developing digital solutions, he helps companies turn complex e-commerce challenges into scalable business models, high-performance architectures and solutions, and measurable business impact. His areas of focus are composable commerce solutions and flexible AI solutions.",
+    "Adobe Experience Cloud",
+    "Paid Advertising",
+    "Application Management",
+    "CDP",
+    "CMS",
+    "Content",
+    "Data Analysis",
+    "Online Marketing",
+    "OneProSeo",
+    "PIM",
+    "Monitor Reporting",
+    "SAP",
+    "SEO",
+    "Salesforce",
+    "AI",
+    "UX",
+    "diva-e © 2026",
+    "Imprint",
+    "Data protection",
+    "Jobs",
+    "Whistleblower system"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Services",
+      "href": null
+    },
+    {
+      "label": "Marketplace",
+      "href": "/en/marketplace/"
+    },
+    {
+      "label": "Industries",
+      "href": null
+    },
+    {
+      "label": "Partners",
+      "href": "/en/about-us/partner/"
+    },
+    {
+      "label": "About us",
+      "href": null
+    },
+    {
+      "label": "Insights",
+      "href": null
+    },
+    {
+      "label": "Careers",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop"
+    },
+    {
+      "label": "de",
+      "href": null
+    },
+    {
+      "label": "en",
+      "href": null
+    },
+    {
+      "label": "Contacts",
+      "href": "/en/contact/"
+    },
+    {
+      "label": "New Customers Don’t Search for Article Numbers",
+      "href": "/en/insights/edge/ifm-ai-product-advisor/#1"
+    },
+    {
+      "label": "The Application Assistant Asks Follow-Up Questions",
+      "href": "/en/insights/edge/ifm-ai-product-advisor/#2"
+    },
+    {
+      "label": "The Language Model Is the Smallest Part",
+      "href": "/en/insights/edge/ifm-ai-product-advisor/#3"
+    },
+    {
+      "label": "Live Since June 2026: What the First Numbers Show",
+      "href": "/en/insights/edge/ifm-ai-product-advisor/#4"
+    },
+    {
+      "label": "The Difference Between a Pilot and a Service",
+      "href": "/en/insights/edge/ifm-ai-product-advisor/#5"
+    },
+    {
+      "label": "Conclusion",
+      "href": "/en/insights/edge/ifm-ai-product-advisor/#6"
+    },
+    {
+      "label": "AI Product Advisor",
+      "href": "/en/insights/edge/ai-product-advisor-smart-search/"
+    },
+    {
+      "label": "Product Advisor",
+      "href": "/en/services/ai/product-advisor/"
+    },
+    {
+      "label": "Explore the AI Product Advisor",
+      "href": "/en/services/ai/product-advisor/"
+    },
+    {
+      "label": "See all articles",
+      "href": "/en/insights/edge/authors/jochen-binder/"
+    },
+    {
+      "label": "Adobe Experience Cloud",
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+    },
+    {
+      "label": "Paid Advertising",
+      "href": "/en/services/digital-marketing/paid-advertising/"
+    },
+    {
+      "label": "Application Management",
+      "href": "/en/services/ams/application-management-services/"
+    },
+    {
+      "label": "CDP",
+      "href": "/en/services/dxp/cdp/"
+    },
+    {
+      "label": "CMS",
+      "href": "/en/services/dxp/cms/"
+    },
+    {
+      "label": "Content",
+      "href": "/en/services/digital-marketing/content/"
+    },
+    {
+      "label": "Data Analysis",
+      "href": "/en/services/dxp/data-analytics-bi/"
+    },
+    {
+      "label": "Online Marketing",
+      "href": "/en/services/digital-marketing/"
+    },
+    {
+      "label": "OneProSeo",
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+    },
+    {
+      "label": "PIM",
+      "href": "/en/services/dxp/pim/"
+    },
+    {
+      "label": "Monitor Reporting",
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+    },
+    {
+      "label": "SAP",
+      "href": "/en/about-us/partner/sap/"
+    },
+    {
+      "label": "SEO",
+      "href": "/en/services/digital-marketing/seo/"
+    },
+    {
+      "label": "Salesforce",
+      "href": "/en/about-us/partner/salesforce/"
+    },
+    {
+      "label": "AI",
+      "href": "/en/services/ai/"
+    },
+    {
+      "label": "UX",
+      "href": "/en/services/dxp/system-integration/ux-ui-design/"
+    },
+    {
+      "label": "Imprint",
+      "href": "/en/imprint/"
+    },
+    {
+      "label": "Data protection",
+      "href": "/en/data-privacy/"
+    },
+    {
+      "label": "Jobs",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop"
+    },
+    {
+      "label": "Whistleblower system",
+      "href": "https://diva-e.interne-meldestelle.de/"
+    },
+    {
+      "label": "Subscribe to diva-e newsletter!",
+      "href": "/en/newsletter/"
+    }
+  ],
+  "links": [
+    "https://www.diva-e.com/en/",
+    "https://www.diva-e.com/en/search/",
+    "https://www.diva-e.com/en/services/digital-consulting/",
+    "https://www.diva-e.com/en/services/digital-marketing/audits/",
+    "https://www.diva-e.com/en/services/digital-consulting/digital-business-consulting/",
+    "https://www.diva-e.com/en/services/digital-consulting/technology-architecture-consulting/",
+    "https://www.diva-e.com/en/services/ai/",
+    "https://www.diva-e.com/en/services/digital-consulting/strategic-transformation/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/ux-ui-design/",
+    "https://www.diva-e.com/en/services/dxp/data-analytics-bi/",
+    "https://www.diva-e.com/en/services/dxp/",
+    "https://www.diva-e.com/en/services/dxp/e-commerce-platform/",
+    "https://www.diva-e.com/en/services/dxp/cms/",
+    "https://www.diva-e.com/en/services/dxp/karriereportal/",
+    "https://www.diva-e.com/en/services/dxp/cdp/",
+    "https://www.diva-e.com/en/services/dxp/pim/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/",
+    "https://www.diva-e.com/en/services/crm/",
+    "https://www.diva-e.com/en/services/digital-marketing/",
+    "https://www.diva-e.com/en/services/digital-marketing/gaio/",
+    "https://www.diva-e.com/en/services/digital-marketing/content/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/",
+    "https://www.diva-e.com/en/services/digital-marketing/paid-advertising/",
+    "https://www.diva-e.com/en/services/digital-marketing/omnichannel-marketing/",
+    "https://www.diva-e.com/en/services/ams/",
+    "https://www.diva-e.com/en/services/ams/application-management-services/",
+    "https://www.diva-e.com/en/services/ams/cloud-consulting/",
+    "https://www.diva-e.com/en/services/ams/cloud-security/",
+    "https://www.diva-e.com/en/services/ams/cybersecurity/",
+    "https://www.diva-e.com/en/services/total-experience/",
+    "https://www.diva-e.com/en/marketplace/",
+    "https://www.diva-e.com/en/insights/downloads/b2b-tech-evaluierung-guide/",
+    "https://www.diva-e.com/en/insights/downloads/financial-services-guide/",
+    "https://www.diva-e.com/en/industries/automotive/",
+    "https://www.diva-e.com/en/industries/b2b-manufacturing/",
+    "https://www.diva-e.com/en/industries/retail/",
+    "https://www.diva-e.com/en/industries/financial-services/",
+    "https://www.diva-e.com/en/about-us/partner/",
+    "https://www.diva-e.com/en/insights/downloads/luenendonk/",
+    "https://www.diva-e.com/en/about-us/customers/interamt/",
+    "https://www.diva-e.com/en/about-us/",
+    "https://www.diva-e.com/en/about-us/management/",
+    "https://www.diva-e.com/en/about-us/locations/",
+    "https://www.diva-e.com/en/about-us/customers/",
+    "https://www.diva-e.com/en/insights/press/",
+    "https://www.diva-e.com/en/insights/downloads/cybersecurity-guide/",
+    "https://www.diva-e.com/en/insights/downloads/ai-search-guide/",
+    "https://www.diva-e.com/en/insights/news/",
+    "https://www.diva-e.com/en/insights/events/",
+    "https://www.diva-e.com/en/insights/edge/",
+    "https://www.diva-e.com/en/insights/downloads/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop",
+    "https://www.diva-e.com/en/contact/",
+    "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/#1",
+    "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/#2",
+    "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/#3",
+    "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/#4",
+    "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/#5",
+    "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/#6",
+    "https://www.diva-e.com/en/insights/edge/ai-product-advisor-smart-search/",
+    "https://www.diva-e.com/en/services/ai/product-advisor/",
+    "https://www.linkedin.com/in/jochen-binder-836669211/",
+    "https://www.diva-e.com/en/insights/edge/authors/jochen-binder/",
+    "https://www.diva-e.com/en/insights/edge/digital-product-passport-dpp-readiness-audit/",
+    "https://www.diva-e.com/en/insights/edge/crm-auswaehlen-leitfaden/",
+    "https://www.diva-e.com/en/insights/edge/cdp-evaluation/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop",
+    "https://diva-e.interne-meldestelle.de/",
+    "https://www.diva-e.com/en/newsletter/",
+    "https://www.diva-e.com/en/about-us/partner/adobe/adobe-experience-cloud/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/tools/oneproseo/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/monitoring-reporting/",
+    "https://www.diva-e.com/en/about-us/partner/sap/",
+    "https://www.diva-e.com/en/about-us/partner/salesforce/",
+    "https://www.diva-e.com/en/imprint/",
+    "https://www.diva-e.com/en/data-privacy/",
+    "https://www.instagram.com/divae.gmbh/",
+    "https://www.youtube.com/c/divaenterprise",
+    "https://www.linkedin.com/company/divaedigitalvalueexcellence/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/52464bfea5/strategic-technology-decisions-with-foresight_956x554px.jpg/m/600x",
+        "alt": "Strategic technology decisions with foresight",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/6a25352619/financeguide_en_956x554.jpg/m/600x",
+        "alt": "The Digital Experience Playbook for Financial Service Providers",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/474x267/d926129490/lunendonk-startseite-en.png/m/600x",
+        "alt": "Lünendonk Survey 2026 chart comparing DXS providers by portfolio width, depth, and market relevance, grouped as challengers, chasers, leaders",
+        "w": 600,
+        "h": 338
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/ba20a1b7e5/interamt_956x554px.png/m/600x",
+        "alt": "Smiling person talking with two others, overlayed with \"INTERAMT\" logo in orange and abstract door icon.",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/c39f42621c/en-security-guide_956x554.jpg/m/600x",
+        "alt": "3 Vulnerabilities that put your IT Security at Risk",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/0c00be16ec/ai-playbook_956x554px.png/m/600x",
+        "alt": "Two tablets display digital content from an \"AI Playbook\" on a blue background. The text reads: \"AI Playbook: Know-how, Tips, and Strategy.\"",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/8574x5715/245f5cec6c/gettyimages-607463118.jpg/m/1920x",
+        "alt": "B2B Sales",
+        "w": 1920,
+        "h": 1280
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/176x176/bc6fb29dd9/jochen-binder_176x176.jpeg/m/32x",
+        "alt": "Porträt von Jochen Binder",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/1440x1150/10a12aa3ed/screenshot-2026-08-17-at-17-19-05.png/m/1440x",
+        "alt": "Screenshot ihm",
+        "w": 1440,
+        "h": 1150
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/1224x956/8fcdac4152/ifm-1.png/m/1224x",
+        "alt": "Screenshot ifm",
+        "w": 1224,
+        "h": 956
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/176x176/bc6fb29dd9/jochen-binder_176x176.jpeg/m/176x",
+        "alt": "Porträt von Jochen Binder",
+        "w": 176,
+        "h": 176
+      }
+    ],
+    "allImgCount": 17,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--font-slnt-normal": "0",
+    "--font-slnt-30-positive": "30",
+    "--gridColumnNumber": "4",
+    "--swiper-theme-color": "#007aff",
+    "--swiper-navigation-size": "44px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 11,
+    "mainTextLen": 107906,
+    "realImageCount": 11,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/core/zwbhh7MR",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 188,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/{n}/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "query": [
+          "isOutsideRegion"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "ae",
+          "apvc",
+          "auid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.ads_data_redaction",
+          "fmt",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google.com/ccm/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "api.storyblok.com",
+        "path": "/v2/cdn/stories",
+        "query": [
+          "by_uuids",
+          "content_type",
+          "cv",
+          "language",
+          "per_page",
+          "token",
+          "version"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 301,
+        "bytes": null,
+        "hits": 6,
+        "example": "https://api.storyblok.com/v2/cdn/stories",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "data.diva-e.com",
+        "path": "/g/collect",
+        "query": [
+          "_et",
+          "_eu",
+          "_p",
+          "_s",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "ecid",
+          "en",
+          "ep.consent_conversion_linker",
+          "ep.consent_google_ads",
+          "ep.consent_google_ads_conversion_tracking",
+          "ep.consent_google_ads_remarketing",
+          "ep.consent_google_analytics_4",
+          "ep.consent_hubspot",
+          "ep.consent_linkedin_insight_tag",
+          "ep.consent_microsoft_advertising",
+          "ep.consent_microsoft_conversion_tracking",
+          "evnid",
+          "frm",
+          "gap.sstd",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ibt",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "richsstsse",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "sst.gch",
+          "sst.lpc",
+          "sst.navt",
+          "sst.rnd",
+          "sst.sw_exp",
+          "sst.tft",
+          "sst.ude",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "up.user_referral_category",
+          "up.user_referral_dest",
+          "up.user_referral_location",
+          "ur",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 200,
+        "bytes": 1731,
+        "hits": 1,
+        "example": "https://data.diva-e.com/g/collect",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/rmkt/collect/{n}/",
+        "query": [
+          "async",
+          "auid",
+          "bg",
+          "cv",
+          "data",
+          "dma",
+          "en",
+          "ept",
+          "fmt",
+          "frm",
+          "fst",
+          "gcd",
+          "gcp",
+          "gtm",
+          "guid",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google.com/rmkt/collect/16967774015/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "forms.hscollectedforms.net",
+        "path": "/collected-forms/v1/config/json",
+        "query": [
+          "portalId",
+          "utk"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://forms.hscollectedforms.net/collected-forms/v1/config/json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "api.hubapi.com",
+        "path": "/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "query": [
+          "portalId"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "web.cmp.usercentrics.eu",
+        "count": 9
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "googleads.g.doubleclick.net",
+        "count": 2
+      },
+      {
+        "host": "privacy-proxy.usercentrics.eu",
+        "count": 1
+      },
+      {
+        "host": "js.hs-scripts.com",
+        "count": 1
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 1
+      },
+      {
+        "host": "js.hsadspixel.net",
+        "count": 1
+      },
+      {
+        "host": "js.hscollectedforms.net",
+        "count": 1
+      },
+      {
+        "host": "js.hs-analytics.net",
+        "count": 1
+      },
+      {
+        "host": "js.hs-banner.com",
+        "count": 1
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": "__NUXT_DATA__",
+        "type": "application/json",
+        "bytes": 91567,
+        "topLevelKeys": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      }
+    ],
+    "globalState": [
+      "__NUXT__",
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "nuxt"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 8,
+      "thirdPartyScriptHosts": 11,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-insights-edge-ifm-ai-product-advisor.png",
+  "renderedHtml": "pages/en-insights-edge-ifm-ai-product-advisor.html"
+}

@@ -1,0 +1,288 @@
+/* related — values lifted from the gated prototype
+   (stardust/prototypes/en-insights-edge-ai-radar-october.css § 3 / § 6) */
+.related {
+  margin: 40px 0;
+}
+
+.related .related-title {
+  margin-bottom: 48px;
+  padding: 0 var(--pad-x);
+}
+
+.related .related-title :is(h2, h3) {
+  font-size: 2.4rem;
+  font-variation-settings: "slnt" 0;
+}
+
+.related .related-rail {
+  padding-left: var(--pad-x);
+}
+
+.related .related-track {
+  display: flex;
+  overflow: hidden;
+  padding: 0 var(--pad-x) 0 3px;
+}
+
+.related .related-slide {
+  flex: 0 0 calc((100% - 2.4px) / 1.1);
+  margin-right: 24px;
+}
+
+.related .article-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.related .card-media {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.related .card-media::before {
+  content: "";
+  display: block;
+  padding-bottom: 56%;
+}
+
+.related .card-media img {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.related .card-hover,
+.related .card-media-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.related .card-media-link {
+  z-index: 10;
+}
+
+.related .card-hover div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 170px;
+  height: 170px;
+  margin: -85px 0 0 -85px;
+  border-radius: 100%;
+  background-color: var(--blue);
+  color: var(--white);
+  opacity: 0;
+  transition: opacity 0.2s ease-out;
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+/* meta line: blurred dot, categories (display face) | date (body face) */
+.related .article-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 16px;
+  font-family: var(--font-body);
+  font-size: 1.6rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+}
+
+.related .article-meta::before {
+  content: "";
+  width: 12px;
+  height: 12px;
+  margin-right: 12px;
+  border-radius: 100%;
+  background: var(--blue);
+  filter: blur(4px);
+}
+
+.related .meta-cats,
+.related .meta-cats ul,
+.related .meta-date {
+  display: contents;
+}
+
+.related .meta-cats li {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-variation-settings: "slnt" 0;
+}
+
+.related .meta-cats li:not(:last-child)::after {
+  content: " |\a0";
+}
+
+.related .article-meta p {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.related .article-meta.has-cats p::before {
+  content: "\a0| ";
+}
+
+.related .card-title {
+  position: relative;
+  padding: 20px 0;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  font-variation-settings: "slnt" 0;
+  line-height: 130%;
+  transition: var(--ease);
+}
+
+.related .card-title :is(h2, h3, h4) {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  font-variation-settings: "slnt" 0;
+  line-height: 130%;
+  transition: var(--ease);
+}
+
+.related .card-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+}
+
+.related .card-link:hover + :is(h2, h3, h4) {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.related .card-teaser {
+  margin-top: auto;
+}
+
+.related .card-teaser p {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  font-family: var(--font-body);
+  font-size: 1.6rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+}
+
+.related .article-author {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.related .author-img {
+  display: flex;
+  flex-shrink: 0;
+}
+
+.related .author-img img {
+  display: block;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.related .author-name p {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 500;
+  font-variation-settings: "slnt" 0;
+  line-height: 150%;
+}
+
+@media (width >= 768px) {
+  .related {
+    margin: 64px 0;
+    padding: 48px 0;
+  }
+}
+
+@media (width >= 950px) {
+  .related .related-slide {
+    flex-basis: calc((100% - 40px) / 2);
+    margin-right: 40px;
+  }
+}
+
+@media (width >= 1200px) {
+  .related {
+    margin: 80px 0;
+    padding: 48px var(--pad-x);
+  }
+
+  .related .related-title {
+    padding: 0;
+  }
+
+  .related .related-title :is(h2, h3) {
+    font-size: 3.9rem;
+  }
+
+  .related .related-rail {
+    padding-left: 0;
+  }
+
+  .related .related-track {
+    padding-right: 0;
+  }
+
+  .related .related-slide {
+    flex-basis: calc((100% - 80px) / 3);
+  }
+}
+
+@media (width >= 1600px) {
+  .related .related-title,
+  .related .related-rail {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .related .related-title :is(h2, h3) {
+    font-size: 4.7rem;
+  }
+
+  .related .card-hover div {
+    width: 220px;
+    height: 220px;
+    margin: -110px 0 0 -110px;
+  }
+
+  .related .card-title,
+  .related .card-title :is(h2, h3, h4) {
+    font-size: 2.4rem;
+  }
+
+  .related .card-teaser p {
+    font-size: 2rem;
+  }
+}

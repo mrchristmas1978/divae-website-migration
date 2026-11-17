@@ -1,0 +1,461 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T12:22:21.404Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.diva-e.com/en/connect/",
+      "http://localhost:8791/en-connect-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "derived: max(2560, largest cap × 1.25)",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.diva-e.com/en/connect/",
+    "http://localhost:8791/en-connect-proposed.html"
+  ],
+  "probeNote": "derived: max(2560, largest cap × 1.25)",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > div > div > div.page.storyblok__outline",
+      "isBody": false,
+      "leaves": 129,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "max-width",
+        "selector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext",
+        "tier": 6,
+        "share": 0.03,
+        "section": 0,
+        "w1": 1040,
+        "maxWidth": "1040px"
+      },
+      {
+        "kind": "module",
+        "px": 407,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 4,
+        "w1": 264,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 304,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 4,
+        "w1": 265,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 340,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 4,
+        "w1": 248,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 330,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 4,
+        "w1": 250,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 392,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 4,
+        "w1": 246,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 361,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 4,
+        "w1": 249,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 301,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 4,
+        "w1": 245,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 491,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 4,
+        "w1": 243,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 482,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 9,
+        "share": 0.01,
+        "section": 4,
+        "w1": 248,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 709,
+        "via": "other",
+        "selector": "div.partners-bar__header > div.partners-bar__header-container > div.partners-bar__headline > div",
+        "tier": 5,
+        "share": 0.01,
+        "section": 6,
+        "w1": 605,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "div > div > div.page.storyblok__outline > div.hero.storyblok__outline",
+        "px": 1040,
+        "capSelector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext"
+      },
+      {
+        "index": 1,
+        "selector": "div > div > div.page.storyblok__outline > div.layout-breadcrumbs.layout-breadcrumbs--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "div > div > div.page.storyblok__outline > div.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "#agenda",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "div > div > div.page.storyblok__outline > div.cards-block.grid-container",
+        "px": 491,
+        "capSelector": "div.card__info > div.card__info-txt.richtext > p > b"
+      },
+      {
+        "index": 5,
+        "selector": "div > div > div.page.storyblok__outline > div.mixed-media.grid-container",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 6,
+        "selector": "div > div > div.page.storyblok__outline > div.partners-bar.partners-bar--light",
+        "px": 709,
+        "capSelector": "div.partners-bar__header > div.partners-bar__header-container > div.partners-bar__headline > div"
+      },
+      {
+        "index": 7,
+        "selector": "#form",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": null,
+    "contentFrom": null,
+    "maxCap": 1040,
+    "fluid": false,
+    "probeNote": "derived: max(2560, largest cap × 1.25)",
+    "candidates": 348
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.page",
+      "isBody": false,
+      "leaves": 129,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "max-width",
+        "selector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext",
+        "tier": 6,
+        "share": 0.03,
+        "section": 0,
+        "w1": 1040,
+        "maxWidth": "1040px"
+      },
+      {
+        "kind": "module",
+        "px": 407,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 264,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 304,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 265,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 340,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 248,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 330,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 250,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 392,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 246,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 361,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 249,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 301,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 245,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 491,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 243,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 482,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > b",
+        "tier": 7,
+        "share": 0.01,
+        "section": 4,
+        "w1": 248,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 707,
+        "via": "other",
+        "selector": "main.page > section.partners-bar.partners-bar--light > div.partners-bar__header > div.partners-bar__we",
+        "tier": 3,
+        "share": 0.01,
+        "section": 6,
+        "w1": 603,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.page > section.hero",
+        "px": 1040,
+        "capSelector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext"
+      },
+      {
+        "index": 1,
+        "selector": "body > main.page > div.layout-breadcrumbs.layout-breadcrumbs--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "body > main.page > section.simple-text.simple-text--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "#agenda",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "body > main.page > section.cards-block.cards-block--dark",
+        "px": 491,
+        "capSelector": "div.card__info > div.card__info-txt.richtext > p > b"
+      },
+      {
+        "index": 5,
+        "selector": "body > main.page > section.mixed-media.mixed-media--light",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 6,
+        "selector": "body > main.page > section.partners-bar.partners-bar--light",
+        "px": 707,
+        "capSelector": "main.page > section.partners-bar.partners-bar--light > div.partners-bar__header > div.partners-bar__we"
+      },
+      {
+        "index": 7,
+        "selector": "#form",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": null,
+    "contentFrom": null,
+    "maxCap": 1040,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 305
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "fluid on both sides — no wrapper, no shared module cap",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/8",
+        "detail": "1040px = 1040px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/8",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/8",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/8",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/8",
+        "detail": "491px = 491px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 6/8",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 7/8",
+        "detail": "709px = 707px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 8/8",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/en-connect-2560/cap-iter.json"
+}

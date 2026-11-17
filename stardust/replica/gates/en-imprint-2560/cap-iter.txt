@@ -1,0 +1,17 @@
+cap-probe  base 1440 → probe 2560 (derived: max(2560, largest cap × 1.25))
+live   https://www.diva-e.com/en/imprint/
+  no cap origin — content runs 2560px wide at 2560 (fluid)
+  modules  5 sections: none capped · full-bleed ×5
+  contentMaxWidth fluid · shellMaxWidth fluid · root body > div > div > div.page.storyblok__outline
+build  http://localhost:8791/en-imprint-proposed.html
+  no cap origin — content runs 2560px wide at 2560 (fluid)
+  modules  5 sections: none capped · full-bleed ×5
+  contentMaxWidth fluid · shellMaxWidth fluid · root body > main.page
+rows
+  ✓ content cap: fluid on both sides — no wrapper, no shared module cap
+  ✓ module 1/5: full-bleed on both
+  ✓ module 2/5: full-bleed on both
+  ✓ module 3/5: full-bleed on both
+  ✓ module 4/5: full-bleed on both
+  ✓ module 5/5: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 6 rows failed (evidence stardust/replica/gates/en-imprint-2560/cap-iter.json)

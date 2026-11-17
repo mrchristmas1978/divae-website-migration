@@ -1,0 +1,196 @@
+run-bg: art-measure-live launched 2026-11-13T11:53:02.632Z (timeout 900s): node stardust/scripts/replica/measure.mjs https://www.diva-e.com/en/insights/edge/ai-radar-october/ --selectors .header,.hero-banner,.hero-banner__img,.hero-banner__box,.hero-banner__box-label,.hero-banner__box-headline h1,.hero-banner__box-subtitle p,.hero-banner__box-author,.list-topics,.list-topics__circle,.list-topics__items,.list-topic-item,.list-topic-item__title,.list-topic-item__content p,.list-topic-item__content li,.button-group,.btn--fill,.author-card,.author-card__box,.author-card__name,.author-card__bio p,.author-card__link,.related-articles,.related-articles__headline h2,.swiper-slide,.list-article-card__img,.list-article-card__label,.list-article-card__headline,.list-article-card__teaser,.list-article-card__author,.footer --width 1440,360
+measure  https://www.diva-e.com/en/insights/edge/ai-radar-october/
+  widths 1440, 360 · 31 selector(s) · 24 props · first match
+
+@ 1440px
+  root  scrollWidth  1440  viewport 1440  scrollHeight   5743
+  .header
+       x     0  y      0  w  1440  h   128  vis  "Services Marketplace Industries Partner…"
+      display: block; position: fixed; boxSizing: border-box; width: 1440px; height: 128px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner
+       x     0  y      0  w  1440  h   876  vis  "B2C | B2B | 1 Oct 2026 The Interface Is…"
+      display: block; position: relative; boxSizing: border-box; width: 1440px; height: 876px; maxWidth: none; margin: 0px; padding: 0px 0px 84px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__img
+       x     0  y      0  w  1440  h   792  vis  ""
+      display: block; position: relative; boxSizing: border-box; width: 1440px; height: 792px; maxWidth: 100%; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box
+       x    64  y    583  w  1312  h   293  vis  "B2C | B2B | 1 Oct 2026 The Interface Is…"
+      display: block; position: static; boxSizing: border-box; width: 1312px; height: 292.797px; maxWidth: none; margin: 0px; padding: 40px; gap: normal; backgroundColor: rgb(255, 255, 255); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 32px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box-label
+       x   104  y    627  w   200  h    24  vis  "B2C | B2B | 1 Oct 2026"
+      display: inline-flex; position: static; boxSizing: border-box; width: 199.672px; height: 24px; maxWidth: none; margin: 0px 0px 24px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box-headline h1
+       x   104  y    675  w  1232  h    47  vis  "The Interface Is Dying. The Invoice Isn…"
+      display: block; position: static; boxSizing: border-box; width: 1232px; height: 46.7969px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 39px; fontWeight: 400; lineHeight: 46.8px; letterSpacing: 0.78px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box-subtitle p
+       x   104  y    738  w  1232  h    30  vis  "AI Radar – October Edition"
+      display: block; position: static; boxSizing: border-box; width: 1232px; height: 30px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box-author
+       x   104  y    804  w  1232  h    32  vis  "Jasmin Guthmann"
+      display: flex; position: static; boxSizing: border-box; width: 1232px; height: 32px; maxWidth: none; margin: 36px 0px 0px; padding: 0px; gap: 16px; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topics
+       x     0  y    956  w  1440  h  2995  vis  "AI Radar is Jasmin Guthmann’s monthly c…"
+      display: block; position: static; boxSizing: border-box; width: 1440px; height: 2994.78px; maxWidth: none; margin: 80px 0px; padding: 0px 0px 40px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topics__circle
+       x    64  y    956  w    80  h    80  vis  ""
+      display: flex; position: sticky; boxSizing: border-box; width: 80px; height: 80px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 13.3333px; fontWeight: 300; lineHeight: normal; letterSpacing: normal; textTransform: none; textAlign: start; borderRadius: 50%; border: 1px solid rgb(27, 49, 255); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topics__items
+       x   216  y    956  w  1160  h  2915  vis  "AI Radar is Jasmin Guthmann’s monthly c…"
+      display: block; position: static; boxSizing: border-box; width: 1160px; height: 2914.78px; maxWidth: none; margin: 0px; padding: 16px 0px 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topic-item [1 of 7]
+       x   216  y    996  w  1160  h   270  vis  "AI Radar is Jasmin Guthmann’s monthly c…"
+      display: block; position: static; boxSizing: border-box; width: 1160px; height: 270px; maxWidth: none; margin: 24px 0px 40px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topic-item__title [1 of 6]
+       x   216  y   1306  w  1160  h    29  vis  "A new pricing model. No price yet."
+      display: block; position: static; boxSizing: border-box; width: 1160px; height: 28.7969px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 24px; fontWeight: 400; lineHeight: 28.8px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topic-item__content p [1 of 36]
+       x   216  y    996  w  1160  h   150  vis  "AI Radar is Jasmin Guthmann’s monthly c…"
+      display: block; position: static; boxSizing: border-box; width: 1160px; height: 150px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topic-item__content li [1 of 6]
+       x   263  y   2166  w  1113  h    30  vis  "Ask your CFO how enterprise software is…"
+      display: list-item; position: relative; boxSizing: border-box; width: 1113px; height: 30px; maxWidth: none; margin: 16px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: left; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .button-group
+       x   216  y   3667  w  1160  h    88  vis  "Register here"
+      display: block; position: static; boxSizing: border-box; width: 1160px; height: 88px; maxWidth: none; margin: 56px 0px; padding: 24px 0px 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .btn--fill
+       x   216  y   3691  w   205  h    64  vis  "Register here"
+      display: flex; position: relative; boxSizing: border-box; width: 204.641px; height: 64px; maxWidth: none; margin: 0px; padding: 4px 40px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(255, 255, 255); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: center; borderRadius: 50px; border: 0px none rgb(255, 255, 255); boxShadow: rgba(0, 0, 0, 0) 0px 0px 0px 2px inset; opacity: 1; objectFit: fill
+  .author-card
+       x     0  y   4031  w  1440  h   502  vis  "Jasmin Guthmann Jasmin is a strategist,…"
+      display: block; position: static; boxSizing: border-box; width: 1440px; height: 502px; maxWidth: none; margin: 80px 0px; padding: 40px 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .author-card__box
+       x    64  y   4071  w  1312  h   422  vis  "Jasmin Guthmann Jasmin is a strategist,…"
+      display: flex; position: static; boxSizing: border-box; width: 1312px; height: 422px; maxWidth: none; margin: 0px; padding: 64px; gap: 24px 115px; backgroundColor: rgb(207, 211, 225); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 32px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .author-card__name
+       x   128  y   4327  w   278  h    48  vis  "Jasmin Guthmann"
+      display: block; position: static; boxSizing: border-box; width: 277.984px; height: 47.5938px; maxWidth: none; margin: 16px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 34px; fontWeight: 400; lineHeight: 47.6px; letterSpacing: 0.4px; textTransform: none; textAlign: center; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .author-card__bio p [1 of 2]
+       x   521  y   4135  w   791  h   120  vis  "Jasmin is a strategist, storyteller, an…"
+      display: block; position: static; boxSizing: border-box; width: 791.016px; height: 120px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .author-card__link
+       x   521  y   4399  w   139  h    30  vis  "See all articles"
+      display: block; position: static; boxSizing: border-box; width: 139.203px; height: 30px; maxWidth: none; margin: 24px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .related-articles
+       x     0  y   4613  w  1440  h   672  vis  "Recommended Reads View more B2B | B2C |…"
+      display: block; position: static; boxSizing: border-box; width: 1440px; height: 672.312px; maxWidth: none; margin: 80px 0px; padding: 48px 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .related-articles__headline h2
+       x    64  y   4661  w  1312  h    43  vis  "Recommended Reads"
+      display: block; position: static; boxSizing: border-box; width: 1312px; height: 42.9062px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 39px; fontWeight: 400; lineHeight: 42.9px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .swiper-slide [1 of 3]
+       x    67  y   4752  w   410  h   485  vis  "View more B2B | B2C | News & Trends | 2…"
+      display: block; position: relative; boxSizing: border-box; width: 409.656px; height: 485.406px; maxWidth: none; margin: 0px 40px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__img [1 of 3]
+       x    67  y   4752  w   410  h   229  vis  ""
+      display: block; position: relative; boxSizing: border-box; width: 409.656px; height: 229.406px; maxWidth: 100%; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 12px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__label [1 of 3]
+       x    67  y   4997  w   410  h    24  vis  "B2B | B2C | News & Trends | 21 Oct 2026"
+      display: flex; position: static; boxSizing: border-box; width: 409.656px; height: 24px; maxWidth: none; margin: 16px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__headline [1 of 3]
+       x    67  y   5041  w   410  h    52  vis  "Are You Ready for the Digital Product P…"
+      display: block; position: relative; boxSizing: border-box; width: 409.656px; height: 52px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 20px; fontWeight: 400; lineHeight: 26px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__teaser [1 of 3]
+       x    67  y   5113  w   410  h    72  vis  "Find out how a Digital Product Passport…"
+      display: flow-root; position: static; boxSizing: border-box; width: 409.656px; height: 72px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__author [1 of 3]
+       x    67  y   5205  w   410  h    32  vis  "Dorothee Haensch"
+      display: flex; position: static; boxSizing: border-box; width: 409.656px; height: 32px; maxWidth: none; margin: 20px 0px 0px; padding: 0px; gap: 16px; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .footer
+       x     0  y   5365  w  1440  h   378  vis  "Adobe Experience Cloud Paid Advertising…"
+      display: block; position: static; boxSizing: border-box; width: 1440px; height: 378px; maxWidth: none; margin: 0px; padding: 40px 0px 64px; gap: normal; backgroundColor: rgb(8, 18, 53); backgroundImage: none; color: rgb(237, 240, 251); fontFamily: Inter, "sans-serif"; fontSize: 20px; fontWeight: 300; lineHeight: 30px; letterSpacing: 0.4px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(237, 240, 251); boxShadow: none; opacity: 1; objectFit: fill
+
+@ 360px
+  root  scrollWidth   360  viewport 360  scrollHeight   8014
+  .header
+       x     0  y      0  w   360  h    86  vis  "DE EN Services Marketplace Industries P…"
+      display: block; position: fixed; boxSizing: border-box; width: 360px; height: 86px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner
+       x     0  y      0  w   360  h   897  vis  "B2C | B2B | 1 Oct 2026 The Interface Is…"
+      display: block; position: relative; boxSizing: border-box; width: 360px; height: 897px; maxWidth: none; margin: 0px; padding: 0px 0px 105px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__img
+       x     0  y      0  w   360  h   792  vis  ""
+      display: block; position: relative; boxSizing: border-box; width: 360px; height: 792px; maxWidth: 100%; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box
+       x    12  y    600  w   336  h   297  vis  "B2C | B2B | 1 Oct 2026 The Interface Is…"
+      display: block; position: static; boxSizing: border-box; width: 336px; height: 296.594px; maxWidth: none; margin: 0px; padding: 40px; gap: normal; backgroundColor: rgb(255, 255, 255); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 32px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box-label
+       x    52  y    640  w   200  h    24  vis  "B2C | B2B | 1 Oct 2026"
+      display: inline-flex; position: static; boxSizing: border-box; width: 199.672px; height: 24px; maxWidth: none; margin: 0px 0px 24px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box-headline h1
+       x    52  y    688  w   256  h    58  vis  "The Interface Is Dying. The Invoice Isn…"
+      display: block; position: static; boxSizing: border-box; width: 256px; height: 57.5938px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 24px; fontWeight: 400; lineHeight: 28.8px; letterSpacing: 0.48px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box-subtitle p
+       x    52  y    762  w   256  h    27  vis  "AI Radar – October Edition"
+      display: block; position: static; boxSizing: border-box; width: 256px; height: 27px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 18px; fontWeight: 300; lineHeight: 27px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .hero-banner__box-author
+       x    52  y    825  w   256  h    32  vis  "Jasmin Guthmann"
+      display: flex; position: static; boxSizing: border-box; width: 256px; height: 32px; maxWidth: none; margin: 36px 0px 0px; padding: 0px; gap: 16px; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topics
+       x     0  y    937  w   360  h  4908  vis  "AI Radar is Jasmin Guthmann’s monthly c…"
+      display: block; position: static; boxSizing: border-box; width: 360px; height: 4908px; maxWidth: none; margin: 40px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topics__circle
+       x     0  y      0  w     0  h     0  hid  ""
+      display: none; position: sticky; boxSizing: border-box; width: 56px; height: 56px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 13.3333px; fontWeight: 300; lineHeight: normal; letterSpacing: normal; textTransform: none; textAlign: start; borderRadius: 50%; border: 1px solid rgb(27, 49, 255); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topics__items
+       x    24  y    937  w   312  h  4880  vis  "AI Radar is Jasmin Guthmann’s monthly c…"
+      display: block; position: static; boxSizing: border-box; width: 312px; height: 4880px; maxWidth: none; margin: 0px; padding: 16px 0px 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topic-item [1 of 7]
+       x    24  y    969  w   312  h   552  vis  "AI Radar is Jasmin Guthmann’s monthly c…"
+      display: block; position: static; boxSizing: border-box; width: 312px; height: 552px; maxWidth: none; margin: 12px 0px 28px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topic-item__title [1 of 6]
+       x    24  y   1549  w   312  h    48  vis  "A new pricing model. No price yet."
+      display: block; position: static; boxSizing: border-box; width: 312px; height: 48px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 20px; fontWeight: 400; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topic-item__content p [1 of 36]
+       x    24  y    969  w   312  h   360  vis  "AI Radar is Jasmin Guthmann’s monthly c…"
+      display: block; position: static; boxSizing: border-box; width: 312px; height: 360px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-topic-item__content li [1 of 6]
+       x    71  y   3109  w   265  h    72  vis  "Ask your CFO how enterprise software is…"
+      display: list-item; position: relative; boxSizing: border-box; width: 265px; height: 72px; maxWidth: none; margin: 16px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: left; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .button-group
+       x    24  y   5585  w   312  h    80  vis  "Register here"
+      display: block; position: static; boxSizing: border-box; width: 312px; height: 80px; maxWidth: none; margin: 56px 0px; padding: 16px 0px 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .btn--fill
+       x    24  y   5601  w   204  h    64  vis  "Register here"
+      display: flex; position: relative; boxSizing: border-box; width: 203.594px; height: 64px; maxWidth: none; margin: 0px; padding: 4px 40px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(255, 255, 255); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 20px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: center; borderRadius: 50px; border: 0px none rgb(255, 255, 255); boxShadow: rgba(0, 0, 0, 0) 0px 0px 0px 2px inset; opacity: 1; objectFit: fill
+  .author-card
+       x     0  y   5885  w   360  h   710  vis  "Jasmin Guthmann Jasmin is a strategist,…"
+      display: block; position: static; boxSizing: border-box; width: 360px; height: 709.5px; maxWidth: none; margin: 40px 0px; padding: 40px 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .author-card__box
+       x    24  y   5925  w   312  h   630  vis  "Jasmin Guthmann Jasmin is a strategist,…"
+      display: flex; position: static; boxSizing: border-box; width: 312px; height: 629.5px; maxWidth: none; margin: 0px; padding: 24px; gap: 24px 115px; backgroundColor: rgb(207, 211, 225); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 32px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .author-card__name
+       x    48  y   6077  w   264  h    28  vis  "Jasmin Guthmann"
+      display: block; position: static; boxSizing: border-box; width: 264px; height: 28px; maxWidth: none; margin: 16px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 20px; fontWeight: 400; lineHeight: 28px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .author-card__bio p [1 of 2]
+       x    48  y   6169  w   264  h   157  vis  "Jasmin is a strategist, storyteller, an…"
+      display: block; position: static; boxSizing: border-box; width: 264px; height: 156.75px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 14px; fontWeight: 300; lineHeight: 19.6px; letterSpacing: 0.28px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .author-card__link
+       x    48  y   6507  w   111  h    24  vis  "See all articles"
+      display: block; position: static; boxSizing: border-box; width: 111.344px; height: 24px; maxWidth: none; margin: 24px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .related-articles
+       x     0  y   6635  w   360  h   512  vis  "Recommended Reads View more B2B | B2C |…"
+      display: block; position: static; boxSizing: border-box; width: 360px; height: 512.484px; maxWidth: none; margin: 40px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .related-articles__headline h2
+       x    24  y   6635  w   312  h    26  vis  "Recommended Reads"
+      display: block; position: static; boxSizing: border-box; width: 312px; height: 26.4062px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 24px; fontWeight: 400; lineHeight: 26.4px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .swiper-slide [1 of 3]
+       x    27  y   6709  w   279  h   438  vis  "View more B2B | B2C | News & Trends | 2…"
+      display: block; position: relative; boxSizing: border-box; width: 278.719px; height: 438.078px; maxWidth: none; margin: 0px 24px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__img [1 of 3]
+       x    27  y   6709  w   279  h   156  vis  ""
+      display: block; position: relative; boxSizing: border-box; width: 278.719px; height: 156.078px; maxWidth: 100%; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 12px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__label [1 of 3]
+       x    27  y   6881  w   279  h    48  vis  "B2B | B2C | News & Trends | 21 Oct 2026"
+      display: flex; position: static; boxSizing: border-box; width: 278.719px; height: 48px; maxWidth: none; margin: 16px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__headline [1 of 3]
+       x    27  y   6949  w   279  h    52  vis  "Are You Ready for the Digital Product P…"
+      display: block; position: relative; boxSizing: border-box; width: 278.719px; height: 52px; maxWidth: none; margin: 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: "GT Planar VF", Helvetica, "sans-serif", cursive; fontSize: 20px; fontWeight: 400; lineHeight: 26px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__teaser [1 of 3]
+       x    27  y   7023  w   279  h    72  vis  "Find out how a Digital Product Passport…"
+      display: flow-root; position: static; boxSizing: border-box; width: 278.719px; height: 72px; maxWidth: none; margin: 2px 0px 0px; padding: 0px; gap: normal; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .list-article-card__author [1 of 3]
+       x    27  y   7115  w   279  h    32  vis  "Dorothee Haensch"
+      display: flex; position: static; boxSizing: border-box; width: 278.719px; height: 32px; maxWidth: none; margin: 20px 0px 0px; padding: 0px; gap: 16px; backgroundColor: rgba(0, 0, 0, 0); backgroundImage: none; color: rgb(8, 18, 53); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(8, 18, 53); boxShadow: none; opacity: 1; objectFit: fill
+  .footer
+       x     0  y   7187  w   360  h   827  vis  "Jobs Whistleblower system Subscribe to …"
+      display: block; position: static; boxSizing: border-box; width: 360px; height: 827px; maxWidth: none; margin: 0px; padding: 40px 0px; gap: normal; backgroundColor: rgb(8, 18, 53); backgroundImage: none; color: rgb(237, 240, 251); fontFamily: Inter, "sans-serif"; fontSize: 16px; fontWeight: 300; lineHeight: 24px; letterSpacing: 0.32px; textTransform: none; textAlign: start; borderRadius: 0px; border: 0px none rgb(237, 240, 251); boxShadow: none; opacity: 1; objectFit: fill
+run-bg: art-measure-live ended exit=0

@@ -1,0 +1,336 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T11:59:02.938Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.diva-e.com/en/services/crm/",
+      "http://localhost:8791/en-services-crm-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from stardust/current/DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.diva-e.com/en/services/crm/",
+    "http://localhost:8791/en-services-crm-proposed.html"
+  ],
+  "probeNote": "from stardust/current/DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body",
+      "isBody": true,
+      "leaves": 145,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "max-width",
+        "selector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 1040,
+        "maxWidth": "1040px"
+      },
+      {
+        "kind": "module",
+        "px": 248,
+        "via": "fixed",
+        "selector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > a.hero__cta.btn",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 248,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 345,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > i",
+        "tier": 12,
+        "share": 0.01,
+        "section": 1,
+        "w1": 242,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 312,
+        "via": "fixed",
+        "selector": "div.button-group__wrapper > div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+        "tier": 8,
+        "share": 0.01,
+        "section": 1,
+        "w1": 312,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 860,
+        "via": "max-width",
+        "selector": "div > div.page.storyblok__outline > div.teaser-slider.teaser-slider--bg-dark > div.teaser-slider__header",
+        "tier": 5,
+        "share": 0.01,
+        "section": 1,
+        "w1": 860,
+        "maxWidth": "860px"
+      },
+      {
+        "kind": "module",
+        "px": 1036,
+        "via": "other",
+        "selector": "div.page.storyblok__outline > div.teaser-slider.teaser-slider--bg-dark > div.swiper.swiper-coverflow > div.swiper-wrapper",
+        "tier": 6,
+        "share": 0.02,
+        "section": 1,
+        "w1": 966,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 454,
+        "via": "max-width",
+        "selector": "div.swiper-wrapper > div.swiper-slide.swiper-slide-visible > div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text",
+        "tier": 9,
+        "share": 0.02,
+        "section": 1,
+        "w1": 454,
+        "maxWidth": "454px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > div > div > header.header",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "body > div > div > div.page.storyblok__outline",
+        "px": 1040,
+        "capSelector": "div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext"
+      },
+      {
+        "index": 2,
+        "selector": "body > div > div > footer.footer",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1040,
+    "contentFrom": "module",
+    "maxCap": 1040,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 273
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body > main.page",
+      "isBody": false,
+      "leaves": 53,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1040,
+        "via": "max-width",
+        "selector": "section.hero.hero--dark-blue > div.hero__info > div.hero__info-container > div.hero__description.richtext",
+        "tier": 4,
+        "share": 0.02,
+        "section": 0,
+        "w1": 1040,
+        "maxWidth": "1040px"
+      },
+      {
+        "kind": "module",
+        "px": 244,
+        "via": "fixed",
+        "selector": "section.hero.hero--dark-blue > div.hero__info > div.hero__info-container > a.hero__cta.btn",
+        "tier": 4,
+        "share": 0.02,
+        "section": 0,
+        "w1": 244,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 345,
+        "via": "other",
+        "selector": "div.card__info > div.card__info-txt.richtext > p > i",
+        "tier": 7,
+        "share": 0.02,
+        "section": 4,
+        "w1": 242,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 306,
+        "via": "fixed",
+        "selector": "main.page > section.button-group > div.button-group__buttons > a.btn.btn--fill",
+        "tier": 3,
+        "share": 0.02,
+        "section": 5,
+        "w1": 306,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 860,
+        "via": "max-width",
+        "selector": "body > main.page > section.teaser-slider > div.teaser-slider__header",
+        "tier": 2,
+        "share": 0.02,
+        "section": 6,
+        "w1": 860,
+        "maxWidth": "860px"
+      },
+      {
+        "kind": "module",
+        "px": 1036,
+        "via": "other",
+        "selector": "main.page > section.teaser-slider > div.teaser-slider__swiper > div.teaser-slider__track",
+        "tier": 3,
+        "share": 0.06,
+        "section": 6,
+        "w1": 966,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 582,
+        "via": "max-width",
+        "selector": "div.teaser-slider__track > div.teaser-item.is-active > div.teaser-item__inner > div.teaser-item__image",
+        "tier": 6,
+        "share": 0,
+        "section": 6,
+        "w1": 512,
+        "maxWidth": "582px"
+      },
+      {
+        "kind": "module",
+        "px": 454,
+        "via": "max-width",
+        "selector": "div.teaser-slider__track > div.teaser-item.is-active > div.teaser-item__inner > div.teaser-item__text",
+        "tier": 6,
+        "share": 0.06,
+        "section": 6,
+        "w1": 454,
+        "maxWidth": "454px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body > main.page > section.hero.hero--dark-blue",
+        "px": 1040,
+        "capSelector": "section.hero.hero--dark-blue > div.hero__info > div.hero__info-container > div.hero__description.richtext"
+      },
+      {
+        "index": 1,
+        "selector": "body > main.page > nav.breadcrumbs",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "body > main.page > section.simple-text",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "body > main.page > section.image-caption",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "body > main.page > section.cards-block.cards-block--dark",
+        "px": 345,
+        "capSelector": "div.card__info > div.card__info-txt.richtext > p > i"
+      },
+      {
+        "index": 5,
+        "selector": "body > main.page > section.button-group",
+        "px": 306,
+        "capSelector": "main.page > section.button-group > div.button-group__buttons > a.btn.btn--fill"
+      },
+      {
+        "index": 6,
+        "selector": "body > main.page > section.teaser-slider",
+        "px": 1036,
+        "capSelector": "main.page > section.teaser-slider > div.teaser-slider__swiper > div.teaser-slider__track"
+      },
+      {
+        "index": 7,
+        "selector": "body > main.page > section.simple-text.simple-text--dark",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 8,
+        "selector": "#form",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1040,
+    "contentFrom": "module",
+    "maxCap": 1040,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 213
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1040px = build 1040px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "sections",
+        "detail": "live 3 vs build 9 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/3",
+        "detail": "live full-bleed (body > div > div > header.header) → build 1040px (section.hero.hero--dark-blue > div.hero__info > div.hero__info-container > div.hero__description.richtext)",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 2/3",
+        "detail": "live 1040px (div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext) → build full-bleed (body > main.page > nav.breadcrumbs)",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 3/3",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/en-services-crm-2560/cap-iter.json"
+}

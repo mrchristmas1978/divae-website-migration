@@ -1,0 +1,218 @@
+{
+ "source": "http://localhost:8791/en-contact-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "hero",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Contact"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "We're happy to get in touch!"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "form-block",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Formular Typ"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Salutation"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "*"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Mr."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Ms."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Mx."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "First name"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Last name"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "*"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "E-Mail"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "*"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Phone"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Company name"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "*"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "How did you find out about us?"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Please Select"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Google / AI / Search engine"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Social Media"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Recommendation / Partner"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Newsletter / Email"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Event / Trade Fair"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "other"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Your message"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "*"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the information provided in this form to process your request. With your consent, we would also like to send you relevant email communications. By submitting this form, I confirm that I have read the Privacy Policy and consent to the processing of my personal data by diva-e. For more information on data processing and your right to withdraw consent, please refer to our . Please select which types of content you would like to receive:"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Privacy Policy",
+     "href": "https://www.diva-e.com/en/data-privacy/"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Important information regarding your request and organizational updates – no marketing."
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "*"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "*Required fields"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "FIELDSET.hs-form__row",
+     "count": 8,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.hs-form__field",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.hs-form__field",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

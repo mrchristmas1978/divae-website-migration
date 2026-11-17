@@ -1,0 +1,149 @@
+/* image-caption — diva-e ImageCaption, image-grid-10 */
+.image-caption {
+  margin: 40px 0;
+  padding: 40px var(--pad-x);
+}
+
+.image-caption .image-caption-inner {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.image-caption .image-caption-media {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.image-caption .image-caption-media picture {
+  display: block;
+  width: 100%;
+}
+
+.image-caption .image-caption-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.image-caption.linked .image-caption-media {
+  position: relative;
+}
+
+.image-caption.linked .image-caption-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.image-caption.linked .image-caption-link-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.image-caption .image-caption-caption {
+  margin-top: 16px;
+}
+
+.image-caption .image-caption-caption p {
+  font-size: 1.4rem;
+  line-height: 140%;
+}
+
+@media (width >= 768px) {
+  .image-caption {
+    margin: 64px 0;
+  }
+}
+
+@media (width >= 1200px) {
+  .image-caption {
+    margin: 80px 0;
+  }
+
+  .image-caption .image-caption-inner {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+}
+
+/* variant large — source TwoColsTextImageLarge: headline (5 of 10 cols) over the image, top margin only */
+.image-caption.large {
+  margin: 40px 0 0;
+  padding: 0 var(--pad-x);
+}
+
+.image-caption .image-caption-headline :is(h2, h3, p) {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+  hyphens: auto;
+  overflow-wrap: anywhere;
+}
+
+.image-caption.large .image-caption-media {
+  position: relative;
+  margin-top: 20px;
+  overflow: visible;
+  border-radius: 6px;
+}
+
+.image-caption.large .image-caption-media img {
+  border-radius: 6px;
+  box-shadow: 0 0 30px var(--hairline);
+}
+
+@media (width >= 768px) {
+  .image-caption.large {
+    margin: 64px 0 0;
+  }
+
+  .image-caption.large .image-caption-inner {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+
+  .image-caption .image-caption-headline {
+    width: calc(500% / 10 - 5 * 24px / 10);
+  }
+
+  .image-caption.large .image-caption-media {
+    margin-top: 80px;
+    margin-bottom: 56px;
+  }
+
+  .image-caption.large .image-caption-media img {
+    border-radius: 16px;
+  }
+
+  .image-caption.large .image-caption-media::after {
+    content: "";
+    position: absolute;
+    right: 56px;
+    bottom: -56px;
+    width: 112px;
+    height: 112px;
+    border-radius: 50%;
+    background-color: var(--blue);
+  }
+}
+
+@media (width >= 1200px) {
+  .image-caption.large {
+    margin: 80px 0 0;
+  }
+
+  .image-caption .image-caption-headline :is(h2, h3, p) {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  .image-caption .image-caption-headline :is(h2, h3, p) {
+    font-size: 4.7rem;
+  }
+}

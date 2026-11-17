@@ -1,0 +1,946 @@
+{
+  "generatedAt": "2026-11-14T07:21:12.898Z",
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.diva-e.com/",
+    "liveHost": "main--a608424f--aemcoder.aem.live"
+  },
+  "stageCount": {
+    "identified": 100,
+    "prototyped": 100,
+    "deployed": 100,
+    "optimised": 0
+  },
+  "stageExclusive": {
+    "identified": 0,
+    "prototyped": 0,
+    "deployed": 100,
+    "optimised": 0
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "stage": "deployed",
+      "templateId": "en",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en",
+      "path": "/en",
+      "stage": "deployed",
+      "templateId": "en",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us",
+      "path": "/en/about-us",
+      "stage": "deployed",
+      "templateId": "en-imprint",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-ai-manifest",
+      "path": "/en/about-us/ai-manifest",
+      "stage": "deployed",
+      "templateId": "en-imprint",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-about-us-customers",
+      "path": "/en/about-us/customers",
+      "stage": "deployed",
+      "templateId": "en-insights-edge",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-baby-walz",
+      "path": "/en/about-us/customers/baby-walz",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "en-about-us-customers-best4tires",
+      "path": "/en/about-us/customers/best4tires",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "en-about-us-customers-doerrenberg",
+      "path": "/en/about-us/customers/doerrenberg",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-fressnapf",
+      "path": "/en/about-us/customers/fressnapf",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-hd-plus",
+      "path": "/en/about-us/customers/hd-plus",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-about-us-customers-interamt",
+      "path": "/en/about-us/customers/interamt",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-about-us-customers-mann-hummel",
+      "path": "/en/about-us/customers/mann-hummel",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-medi",
+      "path": "/en/about-us/customers/medi",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-multivac",
+      "path": "/en/about-us/customers/multivac",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-postbank",
+      "path": "/en/about-us/customers/postbank",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-about-us-customers-ravensburger",
+      "path": "/en/about-us/customers/ravensburger",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-about-us-customers-seat",
+      "path": "/en/about-us/customers/seat",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-siemens",
+      "path": "/en/about-us/customers/siemens",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-sma",
+      "path": "/en/about-us/customers/sma",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-spinner",
+      "path": "/en/about-us/customers/spinner",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-telefonica",
+      "path": "/en/about-us/customers/telefonica",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-terra-canis",
+      "path": "/en/about-us/customers/terra-canis",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-unitymedia",
+      "path": "/en/about-us/customers/unitymedia",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-customers-vwfs",
+      "path": "/en/about-us/customers/vwfs",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-about-us-customers-wilo",
+      "path": "/en/about-us/customers/wilo",
+      "stage": "deployed",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-about-us-locations",
+      "path": "/en/about-us/locations",
+      "stage": "deployed",
+      "templateId": "en-insights-edge",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-management",
+      "path": "/en/about-us/management",
+      "stage": "deployed",
+      "templateId": "en-imprint",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-partner",
+      "path": "/en/about-us/partner",
+      "stage": "deployed",
+      "templateId": "en-insights-edge",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-campaigns-next-gen-crm-pharma",
+      "path": "/en/campaigns/next-gen-crm-pharma",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-campaigns-pim-voucher",
+      "path": "/en/campaigns/pim-voucher",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-connect",
+      "path": "/en/connect",
+      "stage": "deployed",
+      "templateId": "en-connect",
+      "isTemplate": true,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-contact",
+      "path": "/en/contact",
+      "stage": "deployed",
+      "templateId": "en-contact",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-data-privacy",
+      "path": "/en/data-privacy",
+      "stage": "deployed",
+      "templateId": "en-imprint",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-imprint",
+      "path": "/en/imprint",
+      "stage": "deployed",
+      "templateId": "en-imprint",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-industries-automotive",
+      "path": "/en/industries/automotive",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-industries-b2b-manufacturing",
+      "path": "/en/industries/b2b-manufacturing",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-industries-financial-services",
+      "path": "/en/industries/financial-services",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-industries-pharma",
+      "path": "/en/industries/pharma",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-industries-pharma-and-healthcare",
+      "path": "/en/industries/pharma-and-healthcare",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-industries-retail",
+      "path": "/en/industries/retail",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-downloads",
+      "path": "/en/insights/downloads",
+      "stage": "deployed",
+      "templateId": "en-insights-edge",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-edge",
+      "path": "/en/insights/edge",
+      "stage": "deployed",
+      "templateId": "en-insights-edge",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum",
+      "path": "/en/insights/edge/5-anzeichen-digitale-plattform-bremst-wachstum",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-edge-5-fragen-plattformentscheidung",
+      "path": "/en/insights/edge/5-fragen-plattformentscheidung",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+      "path": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+      "path": "/en/insights/edge/agentic-ai-unternehmen-ki-agenten",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-agentic-commerce",
+      "path": "/en/insights/edge/agentic-commerce",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-ai-foundation",
+      "path": "/en/insights/edge/ai-foundation",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-ai-product-advisor-smart-search",
+      "path": "/en/insights/edge/ai-product-advisor-smart-search",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-human-in-the-loop",
+      "path": "/en/insights/edge/ai-radar-human-in-the-loop",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-october",
+      "path": "/en/insights/edge/ai-radar-october",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": true,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-pilots",
+      "path": "/en/insights/edge/ai-radar-pilots",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-september",
+      "path": "/en/insights/edge/ai-radar-september",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "en-insights-edge-cdp-evaluation",
+      "path": "/en/insights/edge/cdp-evaluation",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+      "path": "/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-commerce-platform-evaluation",
+      "path": "/en/insights/edge/commerce-platform-evaluation",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-conclusion-connect-recap",
+      "path": "/en/insights/edge/conclusion-connect-recap",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-crm-auswaehlen-leitfaden",
+      "path": "/en/insights/edge/crm-auswaehlen-leitfaden",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-cypress-playwright-selenium",
+      "path": "/en/insights/edge/cypress-playwright-selenium",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+      "path": "/en/insights/edge/digital-product-passport-dpp-readiness-audit",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-edge-from-data-silos-to-digital-commerce",
+      "path": "/en/insights/edge/from-data-silos-to-digital-commerce",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-edge-geo-gaio-gaps",
+      "path": "/en/insights/edge/geo-gaio-gaps",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-geo-ymyl",
+      "path": "/en/insights/edge/geo-ymyl",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-greenwashing-retail",
+      "path": "/en/insights/edge/greenwashing-retail",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-ifm-ai-product-advisor",
+      "path": "/en/insights/edge/ifm-ai-product-advisor",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-industry-trends-2026",
+      "path": "/en/insights/edge/industry-trends-2026",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-edge-innovation-marketplace",
+      "path": "/en/insights/edge/innovation-marketplace",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+      "path": "/en/insights/edge/ki-agenten-fertigung-dreamforce-2026",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-ki-in-der-qualitaetssicherung",
+      "path": "/en/insights/edge/ki-in-der-qualitaetssicherung",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-edge-lead-to-cash-in-sap",
+      "path": "/en/insights/edge/lead-to-cash-in-sap",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+      "path": "/en/insights/edge/millionenstrafe-wegen-fehlender-barrierefreiheit",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+      "path": "/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-projekt-recap-aus-der-praxis",
+      "path": "/en/insights/edge/projekt-recap-aus-der-praxis",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-qa-sap-ai",
+      "path": "/en/insights/edge/qa-sap-ai",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+      "path": "/en/insights/edge/salesforce-marketing-cloud-engagement-gartner",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-salesforce-partner-day-recap",
+      "path": "/en/insights/edge/salesforce-partner-day-recap",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-sap-joule-und-die-business-data-cloud",
+      "path": "/en/insights/edge/sap-joule-und-die-business-data-cloud",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-security-anomaly-agent-use-case",
+      "path": "/en/insights/edge/security-anomaly-agent-use-case",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-tech-evaluation-short-list",
+      "path": "/en/insights/edge/tech-evaluation-short-list",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-ai",
+      "path": "/en/insights/edge/tech-reality-check-ai",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-technical-debt",
+      "path": "/en/insights/edge/tech-reality-check-technical-debt",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+      "path": "/en/insights/edge/the-electronic-withdrawal-button-is-coming-in-june-2026",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-edge-vendor-lab-day",
+      "path": "/en/insights/edge/vendor-lab-day",
+      "stage": "deployed",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-insights-events",
+      "path": "/en/insights/events",
+      "stage": "deployed",
+      "templateId": "en-insights-edge",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-news",
+      "path": "/en/insights/news",
+      "stage": "deployed",
+      "templateId": "en-insights-edge",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-insights-press",
+      "path": "/en/insights/press",
+      "stage": "deployed",
+      "templateId": "en-insights-edge",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-loyalty-quiz",
+      "path": "/en/loyalty-quiz",
+      "stage": "deployed",
+      "templateId": "en-contact",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-marketplace",
+      "path": "/en/marketplace",
+      "stage": "deployed",
+      "templateId": "en-insights-edge",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-newsletter",
+      "path": "/en/newsletter",
+      "stage": "deployed",
+      "templateId": "en-contact",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-search",
+      "path": "/en/search",
+      "stage": "deployed",
+      "templateId": "en-contact",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-security-quiz",
+      "path": "/en/security-quiz",
+      "stage": "deployed",
+      "templateId": "en-contact",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "en-security-quiz-security-questions",
+      "path": "/en/security-quiz/security-questions",
+      "stage": "deployed",
+      "templateId": "en-contact",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "en-services-ai",
+      "path": "/en/services/ai",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-services-ams",
+      "path": "/en/services/ams",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-services-crm",
+      "path": "/en/services/crm",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-services-digital-consulting",
+      "path": "/en/services/digital-consulting",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-services-digital-marketing",
+      "path": "/en/services/digital-marketing",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-services-digital-produktpass-audit",
+      "path": "/en/services/digital-produktpass-audit",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-services-dxp",
+      "path": "/en/services/dxp",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-services-total-experience",
+      "path": "/en/services/total-experience",
+      "stage": "deployed",
+      "templateId": "en-services-crm",
+      "isTemplate": false,
+      "openFindings": 2
+    }
+  ],
+  "templates": [
+    {
+      "id": "en",
+      "archetype": "en",
+      "pageCount": 2,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 2,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-about-us-customers-mann-hummel",
+      "archetype": "en-about-us-customers-mann-hummel",
+      "pageCount": 20,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 20,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-connect",
+      "archetype": "en-connect",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-contact",
+      "archetype": "en-contact",
+      "pageCount": 6,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 6,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-imprint",
+      "archetype": "en-imprint",
+      "pageCount": 5,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 5,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-insights-edge",
+      "archetype": "en-insights-edge",
+      "pageCount": 9,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 9,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-insights-edge-ai-radar-october",
+      "archetype": "en-insights-edge-ai-radar-october",
+      "pageCount": 41,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 41,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-services-crm",
+      "archetype": "en-services-crm",
+      "pageCount": 16,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 16,
+        "optimised": 0
+      }
+    }
+  ],
+  "blocks": {
+    "total": 18,
+    "converted": 18
+  },
+  "quality": {
+    "overall": 56,
+    "dimensions": {
+      "brand-tensions": null,
+      "design-ux": null,
+      "accessibility": null,
+      "seo": 68,
+      "content-conversion": null,
+      "ai-search": 0,
+      "cross-page": 100
+    },
+    "severity": {
+      "P1": 0,
+      "P2": 100,
+      "P3": 8
+    },
+    "history": [
+      56,
+      56
+    ]
+  },
+  "findings": {
+    "byFixability": {
+      "platform-migration": 108,
+      "out-of-scope": 46
+    },
+    "byAutofix": {
+      "pending": 108
+    }
+  }
+}

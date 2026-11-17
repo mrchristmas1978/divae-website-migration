@@ -1,0 +1,652 @@
+{
+  "types": {
+    "landing": {
+      "archetype": "en",
+      "liveUrl": "https://www.diva-e.com/en/",
+      "prototype": "stardust/prototypes/en-proposed.html",
+      "canon": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon.js"
+      ],
+      "pageCss": "stardust/prototypes/en.css",
+      "main": ".page",
+      "consent": "built-in (gate dismissOverlays cleared #usercentrics-cmp-ui; no --consent needed)",
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "confirmationRounds": [
+        "motion (pixel only)",
+        "final (--full, post-motion)"
+      ],
+      "gates": {
+        "360": {
+          "pixel": "2.53%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (116 advisory: EXTRA header mega-menu text/labels the live mobile header renders lazily)",
+          "visualDiff": "9 advisory, all FONT MISMATCH (justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 360)"
+        },
+        "1440": {
+          "pixel": "2.57%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (5 advisory)",
+          "visualDiff": "9 advisory, all FONT MISMATCH (GT Planar VF licensed → substitute; justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 1440)"
+        }
+      },
+      "capProbe": "PASS",
+      "residuals": [
+        "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw of 1–8px from the GT Planar → Liberation Sans substitution; mobile drawer items drift −1px/row; newsletter link fontStyle italic (substitute's slant) vs live slnt axis",
+        "unit-geometry (gate --full): 1440 within 58 / off 2 / hidden 1 / missing 7 (story hover-cursor + partner logos mid-marquee); 360 compares against the 1440-cached origin units (instrument cache), not actionable",
+        "partner marquee rows: live capture is mid-transition (random offset); build rests at the transition start (2 slides in)",
+        "hero h1 below 950px: live backslants via slnt -30 (GT axis only); substitute renders upright",
+        "teaser coverflow neighbours render through mix-blend-mode:color exactly as live; per-pixel differences only from image decoding",
+        "prototype table (gates/prototypes-1440|360): pixel PASS, full verdict FAIL on units only — partner-logos marquee phase (-89px, alt per position) and teaser-slider wrapper granularity (#87 JOIN/SPLIT); re-checked at the published-origin gate-all"
+      ],
+      "captureState": [
+        {
+          "what": "partner marquees",
+          "restoreAtDelivery": "Swiper autoplay delay 1ms, speed 4000ms/slide linear, loop, right→left (implemented in canon.js)"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "card hover: background #1b31ff + white text/link (250ms)",
+          "menu/story-title/button hover: slnt 0→30 (300ms) + menu text-decoration-color",
+          "menu has-submenu :hover opens panel (opacity/visibility 250ms)",
+          "story card hover 'View More' cursor opacity (200ms)",
+          "burger click → header.is-open (drawer opacity/visibility/height, padding 24px, logo fill navy, burger→X)",
+          "project coverflow active-slide changes (600ms transforms)",
+          "partner marquees autoplay (4000ms linear per slide)"
+        ],
+        "implemented": [
+          "all observed items above (canon.css hovers + canon.js burger, coverflow prev/next, marquee)",
+          "breakpoint initial DOM: 9 project slides <950px vs 18 ≥950px; drawer li labels <1280px"
+        ],
+        "dead": [
+          "header scroll-morph (static fixed header)",
+          "stories rail next/prev (no change sampled)",
+          "menu button click (opens on hover only)",
+          "partner logo hover / partners-bar hover pause",
+          "Contacts + teaser 'Read more' hover (no measured diff)"
+        ],
+        "compare": "stardust/replica/motion/en-compare.json — 11 parity, 1 missing (swiper-slide-visible class only), 0 extra"
+      },
+      "fonts": {
+        "body": "Inter — self-hosted assets/fonts/Inter.woff2 (the exact file diva-e serves; 300–700 variable, same @font-face overrides)",
+        "headings": "\"GT Planar VF\" kept first (licensed, NOT rehosted) → Liberation Sans → Arimo → Helvetica → Arial",
+        "why": "Helvetica-class is the source's own declared fallback; measured vs Inter: Inter +2.3% wider than GT Planar and added a wrapped line (+31px) in the stories rail, Liberation kept every section height identical (Δh 0 both widths). Slant: font-synthesis-style none + font-style italic + font-variation-settings slnt, so a licensed GT drop-in slants via its axis and never double-slants.",
+        "licensingAlert": "GT Planar VF needs a licence or stays substituted at delivery"
+      },
+      "unitsFamilies": "stardust/replica/units.json (service-cards, cert-cards, project-slide-active, story-cards, partner-logos)",
+      "passed": true
+    },
+    "program": {
+      "type": "program",
+      "archetype": "en-services-crm",
+      "liveUrl": "https://www.diva-e.com/en/services/crm/",
+      "prototype": "stardust/prototypes/en-services-crm-proposed.html",
+      "canon": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon.js"
+      ],
+      "pageCss": "stardust/prototypes/en-services-crm.css",
+      "pageJs": "stardust/prototypes/en-services-crm.js",
+      "main": ".page",
+      "consent": "built-in (gate dismissOverlays, Usercentrics)",
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "confirmationRounds": [
+        "1440 iter3 --full: 0.95% Δh0, cd 0🔴/0🟡 (6 advisory), clip 0, overflow 0",
+        "360 iter3 --full: 1.71% Δh0, cd 0🔴/0🟡 (116 advisory, header drawer/font), clip 0, overflow 0"
+      ],
+      "gates": {
+        "360": {
+          "pixel": "1.71%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (116 advisory: canon header drawer extras + font fork, same as landing)",
+          "visualDiff": "6 advisory, all FONT MISMATCH (justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 360)"
+        },
+        "1440": {
+          "pixel": "0.95%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (6 advisory: font fork, icon file renames, arrow svg anchor)",
+          "visualDiff": "6 advisory, all FONT MISMATCH (GT Planar VF -> Liberation Sans, register R-03, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 1440)"
+        }
+      },
+      "capProbe": "PASS (2560, 0 of 5 rows failed; section-count structure advisory live 3 vs build 9)",
+      "residuals": [
+        "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw 1-8px from the GT Planar -> Liberation Sans substitution (identical to landing canon residual); no offsets once page height matched",
+        "Hero button/CTA widths -4..-6px (substitute face metrics)",
+        "content-diff advisory: asset files renamed (viega_logo-cecb.png, cws_logo-aa57.png), coverflow arrow svgs anchored on their buttons"
+      ],
+      "captureState": [
+        {
+          "what": "project coverflow",
+          "restoreAtDelivery": "Swiper loop: 4 projects looped to 16 slides >=950px (active 9/16), single set of 4 below 950px (en-services-crm.js trims after canon.js halves)"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "project coverflow swiper-slide-active/prev/next/visible class churn (84x, Swiper init/loop on the teaser slider)",
+          "Usercentrics consent widget div.circle transform transition 300ms + 'show' class (third-party chrome)"
+        ],
+        "implemented": [
+          "coverflow prev/next/bullets via canon.js (same module as landing, toggles swiper-slide-* classes)",
+          "card title per-row min-height equalisation (source inline min-height 48/24px) in en-services-crm.js"
+        ],
+        "dead": [
+          "header scroll-morph (static on both)",
+          "consent widget motion (third-party, not part of the page)"
+        ],
+        "compare": "stardust/replica/motion/en-services-crm-compare.txt (live en-services-crm.json vs build en-services-crm-build.json; 6 missing are Swiper init churn + consent widget, not user interactions)"
+      },
+      "passed": true,
+      "canonCandidates": [
+        ".card__info p { letter-spacing: .02em } — canon inherits body letter-spacing as px (0.4px vs source 0.32px) and re-wraps card copy",
+        ".card__info i { font-synthesis-style: auto } — source renders <i> as synthesized oblique; canon's html font-synthesis-style:none makes it upright",
+        "cards-block col--3 variant (3-col grid at 1024, tagline flush on container: row-gap 0 / tagline margin-bottom -24px, card--col--3 billhead 2rem) + per-row card title min-height equalisation (JS)",
+        "hero--dark-blue variant (empty navy image container: 86px mobile spacer / 100vh desktop, hero__label Inter 16/500 -> 20/300, hero__cta 48->64px)",
+        "breadcrumbs (layout-breadcrumbs light), simple-text (light no-margin + dark-blue 64px padding, row-paragraph--large), image-caption (image-grid-10), button-group dark-blue center, .btn--light — all will recur on program/service pages; en.css hero/simple-text/cards-block--dark rules duplicate these",
+        "canon.js teaser mobile trim assumes the list is doubled; generalise to the source's loop factor (CRM loops 4 projects x4 = 16 desktop, 4 on mobile)"
+      ]
+    },
+    "article": {
+      "archetype": "en-insights-edge-ai-radar-october",
+      "liveUrl": "https://www.diva-e.com/en/insights/edge/ai-radar-october/",
+      "prototype": "stardust/prototypes/en-insights-edge-ai-radar-october-proposed.html",
+      "canon": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon.js"
+      ],
+      "pageCss": "stardust/prototypes/en-insights-edge-ai-radar-october.css",
+      "pageJs": "stardust/prototypes/en-insights-edge-ai-radar-october.js",
+      "main": ".page",
+      "consent": "built-in (gate dismissOverlays cleared Usercentrics on both captures)",
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "confirmationRounds": [
+        "stardust/replica/gates/en-insights-edge-ai-radar-october-1440/verdict-iter3.json (--full)",
+        "stardust/replica/gates/en-insights-edge-ai-radar-october-360/verdict-iter3.json (--full)"
+      ],
+      "gates": {
+        "360": {
+          "pixel": "1.15%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (227 advisory: mega-menu/drawer copy in header, same as landing)",
+          "visualDiff": "12 advisory: FONT MISMATCH (R-03, justified) + STRETCHED IMAGE author avatar (source-faithful, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 360)"
+        },
+        "1440": {
+          "pixel": "0.87%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (1 advisory)",
+          "visualDiff": "12 advisory: FONT MISMATCH (GT Planar → Liberation Sans, register R-03, justified) + STRETCHED IMAGE author avatar 176x154→176x176 (source stretches identically: no object-fit on live, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 1440)"
+        }
+      },
+      "capProbe": "PASS (2560; iter1 FAIL on a p>b width traced to <b> weight 700 vs source bolder→400, fixed; ≥1600 topics 9-of-10-of-right-aligned-10-of-12 model lifted)",
+      "residuals": [
+        "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw ≤8px in canon header/footer — GT Planar substitute metrics (R-03); identical counts to the gated landing; canon not editable here",
+        "list-topics__circle (sticky 'Scroll to Topics' button ≥1024): click observed dead on live (no sampled change) — rendered static, no behaviour wired",
+        "Recommended Reads rail: Swiper at <1200 reproduced as a static overflow-clipped flex track (1.1 per view, 24px gap at <950 — measured); no drag/swipe; 768–1199 per-view count not gated (assumed 2 per view ≥950)",
+        "article-card 'View more' hover cursor (follows pointer) authored static at opacity 0 — hover probe measured no diff on live",
+        "motion MISSING on build: cursor-blur (site-wide custom cursor, chrome/canon level), header langs 'show' (canon header), swiper-slide-active/next bookkeeping classes (no visual change)"
+      ],
+      "captureState": [],
+      "motion": {
+        "observed": [
+          "reading-progress ring .progress-bar stroke-dashoffset on scroll (100ms linear, 401 events)",
+          "swiper-slide-active/next class flips (no movement at 1440)",
+          "body cursor-blur custom cursor",
+          "header langs 'show'"
+        ],
+        "implemented": [
+          "reading-progress ring scroll → stroke-dashoffset (en-insights-edge-ai-radar-october.js, 0.1s linear) — parity 401/401"
+        ],
+        "dead": [
+          "header scroll-morph",
+          "list-topics__circle click (no change)",
+          "article card image hover",
+          "article card title hover",
+          "btn--fill hover (no measured diff)"
+        ],
+        "compare": "stardust/replica/motion/en-insights-edge-ai-radar-october-compare.txt — 1 parity, 4 missing (cursor-blur, show, swiper-slide-active/next: chrome/bookkeeping), 0 extra"
+      },
+      "fonts": {
+        "body": "Inter self-hosted (canon)",
+        "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)"
+      },
+      "unitsFamilies": "none declared (units.json is shared — see canonCandidates)",
+      "passed": true,
+      "canonCandidates": [
+        "b/strong: source leaves <b> at UA 'bolder' (300→400 in Inter body copy); canon sets 700 — scoped here as .topic__body b { font-weight: bolder }",
+        "<i>/<em> in Inter copy: source lets the browser synthesize oblique (Inter ships upright only); canon's global font-synthesis-style:none renders them upright — scoped here as .topic__body i { font-synthesis-style: auto }",
+        ".article-meta (dot-blur--12 label: 12px blurred dot, Inter 16/150%, GT Planar 500 categories) and .article-author (32px avatar + GT Planar 500 name) — shared by article hero, list-article-card and likely the insights listing archetype",
+        ".article-card (list-article-card: 12px-radius 56% media, 20px/130% title with 20px pad, 3-line clamped teaser) — reusable for insights listing / related rails",
+        "units.json family candidate: { \"article-card\": { origin: \".list-article-card\", build: \".article-card\", n: 3, pages: [\"en-insights-edge-ai-radar-october\"] } }"
+      ]
+    },
+    "case-study": {
+      "archetype": "en-about-us-customers-mann-hummel",
+      "liveUrl": "https://www.diva-e.com/en/about-us/customers/mann-hummel/",
+      "prototype": "stardust/prototypes/en-about-us-customers-mann-hummel-proposed.html",
+      "canon": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon.js"
+      ],
+      "pageCss": "stardust/prototypes/en-about-us-customers-mann-hummel.css",
+      "pageJs": "stardust/prototypes/en-about-us-customers-mann-hummel.js",
+      "main": ".page",
+      "consent": "built-in (gate dismissOverlays cleared #usercentrics-cmp-ui; no --consent needed)",
+      "modules": [
+        "hero--small dark-blue (perspective image card)",
+        "layout-breadcrumbs--dark",
+        "simple-text (dark-blue band w/ no-heading headline; light)",
+        "mixed-media left/right (Goal/Realisation/Result)",
+        "single-quote dark-blue",
+        "tags-carousel (RTL marquee row + empty second row)"
+      ],
+      "iterations": {
+        "360": 1,
+        "1440": 3
+      },
+      "confirmationRounds": [
+        "final (--full, post-motion, 1440 + 360)"
+      ],
+      "gates": {
+        "360": {
+          "pixel": "2.14%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (112 advisory: EXTRA header mega-menu text/labels the live mobile header renders lazily — canon, same as landing)",
+          "visualDiff": "6 advisory, all FONT MISMATCH (R-03, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 360)"
+        },
+        "1440": {
+          "pixel": "1.20%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (0 advisory)",
+          "visualDiff": "7 advisory, all FONT MISMATCH (GT Planar VF -> Liberation Sans substitute, register R-03; justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 1440)"
+        }
+      },
+      "capProbe": "PASS (2560: content cap live 1241 = build 1241)",
+      "residuals": [
+        "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw deltas in canon header/footer — font substitution, identical to the landing archetype residual; canon not edited (shared-file ban)",
+        "tags marquee: live capture sits at a random mid-transition offset; build rests two slides in (the live initial state) — pixel band difference is time-dependent",
+        "substitute compensation: quote ≥768px letter-spacing .035em and tags-carousel title calc(.4px + .0093em) restore live line breaks / shrink-to-fit width under Liberation Sans (drop when licensed GT Planar ships)",
+        "motion: site-wide custom cursor (div.circle: cursor-blur/show/blur--lg, filter 300ms) not implemented — chrome-level, belongs in canon; swiper-slide-visible bookkeeping class not mirrored (no visual); font-variation-settings 250ms on the tags swiper hover not reproduced as a distinct event"
+      ],
+      "captureState": [
+        {
+          "what": "tags-carousel marquee",
+          "restoreAtDelivery": "Swiper autoplay RTL, 4000ms/slide linear, loop (period 5 of 15 slides), starts two slides in (implemented in en-about-us-customers-mann-hummel.js)"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "tags marquee autoplay transform 4000ms linear RTL (swiper-slide-active/prev/next mutations)",
+          "custom cursor circle (transform/filter 300ms, cursor-blur/show/blur--lg classes)",
+          "font-variation-settings 250ms on tags swiper"
+        ],
+        "implemented": [
+          "tags marquee autoplay (page js)",
+          "button hover slnt via canon .btn:hover"
+        ],
+        "dead": [
+          "header scroll-morph",
+          "hover .tags-carousel__btn (no measured diff)",
+          "hover breadcrumbs .btn (no measured diff)",
+          "hover .mixed-media__media-img (no measured diff)"
+        ],
+        "compare": "stardust/replica/motion/en-about-us-customers-mann-hummel.json vs -build.json: 4 parity, 6 missing (cursor circle + swiper bookkeeping, see residuals), 0 out of tolerance"
+      },
+      "fonts": {
+        "body": "Inter (canon, self-hosted)",
+        "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)"
+      },
+      "unitsFamilies": "none declared (units.json is shared; see canonCandidates)",
+      "passed": true,
+      "canonCandidates": [
+        "mixed-media module (left/right, 5/12 media + info, 87% image ratio, info-img below 768) — recurs across case studies",
+        "single-quote--dark-blue + simple-text--dark-blue band + layout-breadcrumbs--dark + hero--small dark-blue — the case-study/detail template family",
+        "tags-carousel RTL marquee: generalise canon.js partners marquee to a [data-marquee] helper with direction + loop period",
+        "body letter-spacing inherits as 0.4px (computed on body), not .02em per element — compensation rules should be expressed as calc(.4px + Xem)",
+        "units.json family suggestion: tags-carousel { origin: '.tags-carousel__btn', build: '.tags-carousel__btn', required: false } (marquee offset is time-dependent)",
+        "site-wide custom cursor circle (div.circle) observed live, not in canon"
+      ]
+    },
+    "static": {
+      "archetype": "en-imprint",
+      "liveUrl": "https://www.diva-e.com/en/imprint/",
+      "prototype": "stardust/prototypes/en-imprint-proposed.html",
+      "canon": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon.js"
+      ],
+      "pageCss": "stardust/prototypes/en-imprint.css",
+      "main": ".page",
+      "consent": "built-in (gate dismissOverlays cleared Usercentrics on both captures)",
+      "iterations": {
+        "360": 1,
+        "1440": 1
+      },
+      "confirmationRounds": [
+        "stardust/replica/gates/en-imprint-1440/ iter1 (--full, first round passed all bars)",
+        "stardust/replica/gates/en-imprint-360/ iter1 (--full, first round passed all bars)"
+      ],
+      "gates": {
+        "360": {
+          "pixel": "1.31%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (114 advisory: mega-menu/drawer copy in header, same as landing/article)",
+          "visualDiff": "19 advisory: FONT MISMATCH only (R-03, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 360)"
+        },
+        "1440": {
+          "pixel": "0.66%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (2 advisory: added aria-label on breadcrumb nav)",
+          "visualDiff": "19 advisory: FONT MISMATCH only (GT Planar → Liberation Sans, register R-03, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 1440)"
+        }
+      },
+      "capProbe": "PASS at 2560 — 0 of 6 rows failed (stardust/replica/gates/en-imprint-2560/cap-iter.json)",
+      "residuals": [
+        "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw deltas in canon header/footer — GT Planar substitute metrics (R-03); identical counts to the gated landing/article; canon not editable here",
+        "Source mailto link is malformed on live (href \"/en/mailto:info@diva-e.com/\"); build uses \"mailto:info@diva-e.com\" — inconsistency-register candidate (broken link fix, no visual change)",
+        "motion MISSING on build: header langs 'show' class (canon header, same as article archetype)"
+      ],
+      "captureState": [],
+      "motion": {
+        "observed": [
+          "header langs 'show' class (1×)"
+        ],
+        "implemented": [],
+        "dead": [
+          "header scroll-morph"
+        ],
+        "compare": "stardust/replica/motion/en-imprint-compare.txt — 0 parity, 1 missing (show: canon header), 0 extra"
+      },
+      "fonts": {
+        "body": "Inter self-hosted (canon)",
+        "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)"
+      },
+      "unitsFamilies": "none (no repeated-unit block on this archetype)",
+      "passed": true,
+      "canonCandidates": [
+        ".layout-breadcrumbs (light + dark) — now authored three times (crm .breadcrumbs, mann-hummel, imprint); lift into canon with the source's --current selector (mann-hummel's markup uses a doubled 'layout-layout-breadcrumbs--current' class)",
+        ".simple-text (wrapper/container 10-of-12, top-margin/bottom-margin 64px, row-headline 7-of-10, h2 2.4/3.9/4.7rem, row-paragraph h3 2/2.4/3.4rem) — shared by crm, mann-hummel, imprint and the other static pages (about-us, data-privacy, ai-manifest, management)"
+      ]
+    },
+    "form": {
+      "archetype": "en-contact",
+      "liveUrl": "https://www.diva-e.com/en/contact/",
+      "prototype": "stardust/prototypes/en-contact-proposed.html",
+      "canon": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon.js"
+      ],
+      "pageCss": "stardust/prototypes/en-contact.css",
+      "pageJs": null,
+      "main": ".page",
+      "consent": "built-in (gate dismissOverlays cleared #usercentrics-cmp-ui; no --consent needed)",
+      "modules": [
+        "hero (default variant, empty image container = navy plate, 100vh >=950, 86px plate + navy info band <950)",
+        "layout-breadcrumbs--light",
+        "form-block--regular (blue rounded card >=768 / full blue band <768) wrapping the canon HubSpot form markup recoloured white"
+      ],
+      "iterations": {
+        "360": 1,
+        "1440": 1
+      },
+      "confirmationRounds": [
+        "iter2 (--full, post-motion, 1440 + 360; only change vs iter1: dropped build-only nav aria-label)"
+      ],
+      "gates": {
+        "360": {
+          "pixel": "1.66%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (114 advisory: EXTRA header mega-menu aria-labels/text the live mobile header renders lazily — canon, same as landing/case-study)",
+          "visualDiff": "1 advisory, FONT MISMATCH (R-03, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 360)"
+        },
+        "1440": {
+          "pixel": "0.56%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (2 advisory: FONT FORK GT Planar -> substitute)",
+          "visualDiff": "1 advisory, FONT MISMATCH (GT Planar VF -> Liberation Sans substitute, register R-03; justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 1440)"
+        }
+      },
+      "capProbe": "PASS (2560: content cap live 1040 = build 1040; run with --main .page --build-main .page — default roots paired live body>div>div [header/page/footer] against build main.page children and mis-ordered the rows, FAIL was a root-pairing artefact)",
+      "residuals": [
+        "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw deltas in canon header/footer — font substitution, identical to the landing/case-study residual; canon not edited (shared-file ban)",
+        "form is a static recreation of the HubSpot embed (portal 3937475, form 0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a); submissions not wired (dynamic-features.md row 3: embed-passthrough via hubspot-form block at delivery)",
+        "motion: site-wide custom cursor circle (div.circle transform 300ms) and header__langs 'show' class mutation not implemented — chrome-level, belongs in canon"
+      ],
+      "captureState": [
+        {
+          "what": "HubSpot form",
+          "restoreAtDelivery": "replace static markup with the hubspot-form block (portalId 3937475, formId 0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a), styled by the form-block--regular rules"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "custom cursor circle transform 300ms (chrome)",
+          "header__langs show class (chrome)",
+          "font-variation-settings 250ms on radio/submit hover"
+        ],
+        "implemented": [
+          "radio/submit hover slnt via canon .hs-form__radio / .hs-form__submit"
+        ],
+        "dead": [
+          "header scroll-morph",
+          "hover .hs-form-radio label (no measured diff)",
+          "hover input[type=submit] (no measured diff)"
+        ],
+        "compare": "stardust/replica/motion/en-contact.json vs en-contact-build.json (stardust/replica/motion/en-contact-compare.txt): 1 parity, 2 missing (cursor circle + header langs class, chrome), 0 extra, 0 out of tolerance"
+      },
+      "fonts": {
+        "body": "Inter (canon, self-hosted)",
+        "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)"
+      },
+      "unitsFamilies": "none declared (units.json is shared; no repeated-unit family on this page)",
+      "passed": true,
+      "canonCandidates": [
+        "form-block--regular variant (blue card >=768 / full blue band <768, white inputs/radios/checkbox/submit/link, container padding 64/80) — canon only has the dark-blue full-width band; HubSpot form colour should be variant-driven (all 6 form pages + every inline contact form)",
+        "default hero (no image: navy plate, 100vh/padding-top 70px >=950, 86px plate + navy info band <950, title slnt -30 -> italic slnt 30 + padding-left 30) — shared by form/utility pages",
+        "layout-breadcrumbs base + --light variant (mann-hummel has --dark in page CSS; current-link class is layout-breadcrumbs--current, mann-hummel uses a 'layout-layout-' typo)",
+        "cap-probe for this site needs --main .page --build-main .page (live root wraps header/page/footer)"
+      ]
+    },
+    "listing": {
+      "type": "listing",
+      "archetype": "en-insights-edge",
+      "liveUrl": "https://www.diva-e.com/en/insights/edge/",
+      "prototype": "stardust/prototypes/en-insights-edge-proposed.html",
+      "canon": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon.js"
+      ],
+      "pageCss": "stardust/prototypes/en-insights-edge.css",
+      "pageJs": "stardust/prototypes/en-insights-edge.js",
+      "main": ".page",
+      "consent": "built-in (gate dismissOverlays, Usercentrics)",
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "confirmationRounds": [
+        "1440 iter2 --full: 1.18% Δh0, cd 0🔴/0🟡 (6 advisory), clip 0, overflow 0; iter3 pixel re-run after motion JS: 1.18% Δh0",
+        "360 iter3 --full: 1.65% Δh0, cd 0🔴/0🟡 (236 advisory: canon header drawer extras + font fork, as landing/program), clip 0, overflow 0"
+      ],
+      "gates": {
+        "360": {
+          "pixel": "1.65%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (236 advisory: canon header drawer + font fork)",
+          "visualDiff": "3 advisory (same as 1440, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 360; live itself overflows +20px from .list-pagination max-content width, clipped by canon .page overflow-x:clip in the build)"
+        },
+        "1440": {
+          "pixel": "1.18%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (6 advisory: third-party iframe title 'archetype', author avatar file renames flagged as ICON DIFF)",
+          "visualDiff": "3 advisory: 2x FONT MISMATCH (GT Planar VF -> Liberation Sans, register R-03, justified); STRETCHED IMAGE ronny-walther 32x35 -> 32x32 (source renders the same file at 32x32, width/height 100%)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 1440)"
+        }
+      },
+      "capProbe": "PASS (2560, 0 of 4 rows failed; section-count structure advisory live 3 vs build 2)",
+      "residuals": [
+        "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw 1-8px from the GT Planar -> Liberation Sans substitution (identical to landing/program canon residual); 360 header drawer item widths differ (canon drawer, same as program)",
+        "R-03 compensation: featured-article title capped at max-width 260px below 768 so the substitute face wraps it onto two lines like GT Planar (otherwise Δh -29px at 360)",
+        "pagination 'next →' uses slnt 30 (italic on substitute); '← previous' slnt -30 has no substitute equivalent and renders upright",
+        "content-diff advisory: author avatar files renamed (<name>-<hash4>-32x), third-party iframe title 'archetype' not carried (not page content)"
+      ],
+      "captureState": [
+        {
+          "what": "article list",
+          "restoreAtDelivery": "static first page of 21 cards + pagination 1 2 3 - 11; filter pills and pagination are a dynamic query surface (Storyblok article list) for the dynamics phase"
+        },
+        {
+          "what": "mobile filter sheet",
+          "restoreAtDelivery": "closed by default below 768 (fixed full-screen sheet, opened by 'Filter by'); inline pills ≥768"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "filter pill click: 'active' class moves + background-color/color/box-shadow transitions 250ms",
+          "card image hover: hover-button__cursor--active ('View more' disc, opacity/transform 200ms)",
+          "header langs 'show' class (canon chrome)",
+          "site-wide custom cursor div.circle 'cursor-hide' (third-party/global cursor)"
+        ],
+        "implemented": [
+          "filter pill active toggle (+ aria-pressed) and mobile 'Filter by' sheet open/close in en-insights-edge.js",
+          "hover-button cursor disc following the pointer with --active class in en-insights-edge.js"
+        ],
+        "dead": [
+          "header scroll-morph (static on both)",
+          "widget sampling on filter click (no track/scroll change)",
+          "global custom cursor 'cursor-hide' (site chrome, not part of the listing module)",
+          "header langs 'show' (canon chrome — see canonCandidates)"
+        ],
+        "compare": "stardust/replica/motion/en-insights-edge-compare.txt (7 parity, 2 missing = cursor-hide global cursor + header langs show, 0 extra)"
+      },
+      "passed": true,
+      "canonCandidates": [
+        ".text-small / .text-xsmall (Inter 300, .02em, 150%; 2rem / 1.6rem) and .dot-blur--12 (12px blurred dot, margin-right 12px) — entry.css utilities used by every listing/article page",
+        "mixed-media (+ --article/--right variant: 6/5-col flex with 24px gap, perspective(100px) rotateY(-1.5deg) translate3d(-28px) image, 74% ratio; 87% inline image below 768) — recurs on article/news/event pages",
+        "article-list + list-article-card + hover-button + filter-buttons/.btn--filter + list-pagination — the shared listing block family for all 9 listing pages (news, press, events, downloads, customers, partner, locations, marketplace)",
+        ".page-edge header offset (padding-top 86px, 128px >=1500) — PageEdge template; other templates may share it",
+        "header langs 'show' class toggle (observed on live at 1440, not implemented by canon.js)"
+      ]
+    },
+    "unique": {
+      "archetype": "en-connect",
+      "liveUrl": "https://www.diva-e.com/en/connect/",
+      "prototype": "stardust/prototypes/en-connect-proposed.html",
+      "canon": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/canon.js"
+      ],
+      "pageCss": "stardust/prototypes/en-connect.css",
+      "main": ".page",
+      "consent": "built-in (gate dismissOverlays cleared Usercentrics on both captures)",
+      "iterations": {
+        "360": 2,
+        "1440": 2
+      },
+      "confirmationRounds": [
+        "stardust/replica/gates/en-connect-1440/ iter3 (--full)",
+        "stardust/replica/gates/en-connect-360/ iter3 (--full)"
+      ],
+      "gates": {
+        "360": {
+          "pixel": "1.28%",
+          "heightDelta": -1,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (114 advisory: mega-menu/drawer copy + aria-labels in canon header, same as landing/article/static)",
+          "visualDiff": "7 advisory: FONT MISMATCH only (R-03, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 360)"
+        },
+        "1440": {
+          "pixel": "0.69%",
+          "heightDelta": 0,
+          "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (2 advisory: added aria-label on breadcrumb nav; FONT FORK on GT Planar substitute R-03)",
+          "visualDiff": "7 advisory: FONT MISMATCH only (GT Planar → Liberation Sans, register R-03, justified)",
+          "clipped": 0,
+          "overflow": "0px (scrollWidth 1440)"
+        }
+      },
+      "capProbe": "PASS at 2560 — 0 of 9 rows failed (run with --main .page --build-main .page; default root pairing FAILed as an artefact, same as form archetype) — stardust/replica/gates/en-connect-2560/cap-iter.json",
+      "residuals": [
+        "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw deltas in canon header/footer — GT Planar substitute metrics (R-03); identical to the gated landing/static archetypes; canon not editable here",
+        "iter1 360: speaker card copy <b> rendered 700 (canon b{700}) vs source UA bolder → 400; one extra wrap on 'Chief Executive Officer | MORESOPHY' (+20px) and +59px page height; fixed page-scoped with .page b{font-weight:bolder} (same finding as the article archetype)",
+        "partners-bar sponsor marquee: live capture mid-transition (random offset), build rests at transition start — canon behaviour, same as landing",
+        "form-block__heading box: live div computes font-size 16px / margin 0 vs canon 2.4rem / margin-bottom 16px; heading + form positions match (Δy 0 relative), box height differs 16px — no visual delta",
+        "speaker portraits / agenda image served from local copies of the source renditions (agenda is the 3166×4675 original, as live)"
+      ],
+      "captureState": [
+        {
+          "what": "sponsor marquee (partners-bar, 15 slides = 3×5 logos, bottom row empty as live)",
+          "restoreAtDelivery": "Swiper autoplay delay 1ms, speed 4000ms linear, RTL loop — canon.js marquee"
+        }
+      ],
+      "motion": {
+        "observed": [
+          "transition transform 4000ms (sponsor marquee)",
+          "swiper-slide-active/next/prev/visible classes",
+          "header langs 'show' class (1×)"
+        ],
+        "implemented": [
+          "sponsor marquee via canon.js [data-marquee] (parity)"
+        ],
+        "dead": [
+          "header scroll-morph"
+        ],
+        "compare": "stardust/replica/motion/en-connect-compare.txt — 4 parity, 2 missing (header 'show' = canon header, same as imprint/article; swiper-slide-visible = Swiper state class with no style effect, canon marquee), 0 extra"
+      },
+      "fonts": {
+        "body": "Inter self-hosted (canon)",
+        "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)"
+      },
+      "unitsFamilies": "none declared (units.json is shared/not editable here); suggested family: speaker-card origin '.cards-block__container-item > .card' build '.cards-block--speakers .card' n 3",
+      "passed": true,
+      "canonCandidates": [
+        "b, strong { font-weight: bolder } — source sets no weight (UA bolder: 300 → 400); canon b{700} over-bolds 300-weight copy (now found by article AND unique archetypes)",
+        ".richtext ul/li bullets (entry sheet: padding-left 27px, li margin-top 16px, 8px blue dot at left -24px top 12px)",
+        ".hero default variant with full-bleed image (image-container :has(>*) 56% below 950, 100vh above; img opacity .8; gradient ::after) — superset of contact's empty-plate hero and crm's hero; one canon hero would serve contact/crm/connect",
+        ".layout-breadcrumbs (light) and .simple-text (light + dark-blue) — authored again here, identical to imprint/mann-hummel/crm",
+        ".mixed-media (light, --right, media-img / info-img-wrapper 87% ratio) — authored by mann-hummel, insights-edge and here",
+        ".card__billhead / .card__billhead-icon (180×180 contain) for card--icon with image billhead — canon only has .card__icon",
+        ".form-block__heading as a block (h2 2.4/3.9/4.7rem + p note) for form-block--regular--dark-blue"
+      ]
+    }
+  },
+  "prototypeTable": {
+    "360": "7/8 full PASS, 8/8 pixel PASS (en: units residual)",
+    "1440": "7/8 full PASS, 8/8 pixel PASS (en: units residual)"
+  }
+}

@@ -1,0 +1,67 @@
+/* ==========================================================================
+   en (landing archetype) — page-level modules on top of canon.css
+   hero (full-bleed home hero) · text--dark intro · simple-text · section
+   spacing of the two cards-blocks on this page
+   ========================================================================== */
+
+/* hero ------------------------------------------------------------------- */
+.hero { position: relative; display: flex; flex-direction: column; justify-content: flex-end; width: 100%; color: var(--white); }
+.hero__media { position: relative; z-index: 0; width: 100%; overflow: hidden; background-color: var(--navy); }
+.hero__media::before { content: ""; display: block; padding-bottom: 56%; }
+.hero__media img { position: absolute; inset: 0; z-index: 1; width: 100%; height: 100%; object-fit: cover; opacity: .8; }
+.hero__media::after { content: ""; position: absolute; top: 0; z-index: 2; width: 100%; height: 100%; background: linear-gradient(1.68deg, rgba(8, 18, 53, .54) 13.39%, rgba(8, 18, 53, 0) 50.17%); box-shadow: 0 4px 4px rgba(0, 0, 0, .25); }
+.hero__info { position: relative; z-index: 1; width: 100%; padding: 0 var(--pad-x); background-color: var(--navy); }
+.hero__info-container { display: flex; flex-direction: column; width: 100%; margin: 0 auto; padding: 36px 0; }
+.hero__title { font-variation-settings: "slnt" -30; }
+.hero__description { margin-top: 16px; max-width: 1040px; }
+.hero__description p { font-size: 1.6rem; font-weight: 400; }
+@media (min-width: 950px) {
+  .hero { justify-content: center; min-height: 100vh; padding-top: 70px; }
+  .hero__media { position: absolute; top: 0; left: 0; }
+  .hero__media::before { padding-bottom: 100vh; }
+  .hero__info { background-color: transparent; }
+  .hero__info-container { width: calc(1000% / 12 - 2 * 24px / 12); }
+  .hero__info-title { margin-left: -30px; padding-right: 100px; }
+  .hero__title { padding-left: 30px; font-style: italic; font-variation-settings: "slnt" 30; }
+  .hero__description { margin-top: 40px; }
+  .hero__description p { font-weight: 300; }
+}
+@media (min-width: 1600px) { .hero__description p { font-size: 2rem; } }
+
+/* text (dark intro band) -------------------------------------------------- */
+.text { padding: 40px var(--pad-x); }
+.text--dark { background-color: var(--navy); color: var(--ink-light); }
+.text__content { width: 100%; margin: 0 auto; text-align: center; }
+.text__headline { margin-top: 10px; }
+.text__description { margin: 48px auto 0; }
+@media (min-width: 768px) {
+  .text { padding-top: 64px; padding-bottom: 64px; }
+  .text__description { width: calc(600% / 8 - 2 * 24px / 8); }
+}
+@media (min-width: 950px) { .text__content { width: calc(800% / 12 - 4 * 24px / 12); } }
+@media (min-width: 1200px) { .text { padding-top: 80px; padding-bottom: 80px; } }
+
+/* simple-text -------------------------------------------------------------- */
+.simple-text { margin: 64px 0; padding: 0 var(--pad-x); }
+.simple-text__container { width: 100%; margin: 0 auto; }
+.simple-text__headline { margin-bottom: 48px; font-size: 2.4rem; line-height: 120%; }
+@media (min-width: 768px) { .simple-text__container { width: calc(1000% / 12 - 2 * 24px / 12); } }
+@media (min-width: 950px) { .simple-text__headline { width: calc(700% / 10 - 3 * 24px / 10); } }
+@media (min-width: 1200px) { .simple-text__headline { font-size: 3.9rem; } }
+@media (min-width: 1600px) { .simple-text__headline { font-size: 4.7rem; } }
+
+/* cards-block spacing on this page (light: bottom only; dark: both) -------- */
+.cards-block--light .cards-block__grid { padding-bottom: 40px; }
+.cards-block--dark { background-color: var(--navy); }
+.cards-block--dark .cards-block__grid { padding: 40px 0; row-gap: 0; }
+.cards-block--dark .cards-block__tagline { color: var(--ink-light); font-size: 2.4rem; line-height: 120%; }
+@media (min-width: 768px) {
+  .cards-block--light .cards-block__grid { padding-bottom: 64px; }
+  .cards-block--dark .cards-block__grid { padding: 64px 0; }
+}
+@media (min-width: 1200px) {
+  .cards-block--light .cards-block__grid { padding-bottom: 80px; }
+  .cards-block--dark .cards-block__grid { padding: 80px 0; }
+  .cards-block--dark .cards-block__tagline { font-size: 3.9rem; }
+}
+@media (min-width: 1600px) { .cards-block--dark .cards-block__tagline { font-size: 4.7rem; } }

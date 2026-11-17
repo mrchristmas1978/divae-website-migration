@@ -1,0 +1,21 @@
+[live-session] waiting to pace live navigations to www.diva-e.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Content diff @ 1440px (profile "generic", roots: .page, header, footer)
+root ".page"
+  source: 44 text nodes — 8 headings, 0 eyebrows, 20 CTAs, 16 body; 7 img
+  build: 44 text nodes — 8 headings, 0 eyebrows, 20 CTAs, 16 body; 7 img
+  editable texts (outermost h*/p/ul/ol): source 15 / build 18
+  attributes (placeholder/aria-label/title): source 36 / build 36; icons: source 0 / build 0
+root "header"
+  source: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  build: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 65 / build 65; icons: source 3 / build 3
+root "footer"
+  source: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  build: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 30 / build 30; icons: source 4 / build 4
+
+Findings: none — content + roles match
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 0

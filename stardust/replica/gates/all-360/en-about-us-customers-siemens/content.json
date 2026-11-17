@@ -1,0 +1,3581 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T06:32:06.515Z",
+  "width": 360,
+  "variable": [
+   ".tags-carousel__container"
+  ],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/about-us/customers/siemens/",
+  "at": "2026-11-14T06:31:42.114Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5681,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Governance & test automation for Siemens’ agile AEM projects"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-wrapper > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "siemens"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-container > picture > img.hero__image",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "",
+    "file": "900x0"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 426,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 426,
+    "w": 52,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 161,
+    "y": 426,
+    "w": 61,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 248,
+    "y": 426,
+    "w": 48,
+    "h": 24,
+    "text": "siemens",
+    "href": "/en/about-us/customers/siemens/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > h2",
+    "x": 24,
+    "y": 554,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "it governance for siemens ag"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 660,
+    "w": 312,
+    "h": 336,
+    "text": "As a leading international technology group that has stood for technical perform"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 147,
+    "y": 759,
+    "w": 93,
+    "h": 18,
+    "text": "siemens ag",
+    "href": "/global/en.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 94,
+    "y": 1115,
+    "w": 172,
+    "h": 17,
+    "text": "Automatic error detection"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 44,
+    "y": 1167,
+    "w": 272,
+    "h": 34,
+    "text": "Increased efficiency of the feedback cycle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 96,
+    "y": 1235,
+    "w": 168,
+    "h": 17,
+    "text": "Long-term cost reduction"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pills__container-wrapper-item > div.btn.btn--rest > span.text",
+    "x": 98,
+    "y": 1295,
+    "w": 164,
+    "h": 17,
+    "text": "Faster development time"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 1410,
+    "w": 122,
+    "h": 24,
+    "level": 6,
+    "text": "objective"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 1458,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "uniform processes"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 1507,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 1798,
+    "w": 312,
+    "h": 192,
+    "text": "Siemens AG required a uniform governance for an overarching application of tools"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 2080,
+    "w": 179,
+    "h": 24,
+    "level": 6,
+    "text": "implementation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 2128,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "optimize quality with tests"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 2177,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 2468,
+    "w": 312,
+    "h": 696,
+    "text": "The expertise of the diva-e Conclusion company pro!vision in the area of agile s"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-label.label > h6.dot-blur--16",
+    "x": 24,
+    "y": 3254,
+    "w": 92,
+    "h": 24,
+    "level": 6,
+    "text": "result"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-title > h2",
+    "x": 24,
+    "y": 3302,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "improved cost-benefit efficiency"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 3380,
+    "w": 312,
+    "h": 271,
+    "text": "two men discussing in front of siemens energy storage units.",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 24,
+    "y": 3671,
+    "w": 312,
+    "h": 408,
+    "text": "The automatic error detection installed by the diva-e Conclusion company pro!vis"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.tags-carousel__title > div.no-heading",
+    "x": 24,
+    "y": 4207,
+    "w": 312,
+    "h": 99,
+    "text": "Related diva-e Conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": 314,
+    "y": 4339,
+    "w": 212,
+    "h": 72,
+    "text": "e-commerce platform",
+    "href": "/en/services/digital-marketing/content/e-commerce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": 95,
+    "y": 4347,
+    "w": 209,
+    "h": 72,
+    "text": "content management",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.swiper-slide.swiper-slide-visible > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+    "x": -91,
+    "y": 4356,
+    "w": 176,
+    "h": 71,
+    "text": "usability testing",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 4538,
+    "w": 239,
+    "h": 29,
+    "text": "Partner in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 24,
+    "y": 4769,
+    "w": 300,
+    "h": 18,
+    "text": "adobe logo",
+    "href": "/en/ueber-uns/partner/adobe/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "p > a > img",
+    "x": 24,
+    "y": 4615,
+    "w": 300,
+    "h": 168,
+    "text": "adobe logo",
+    "file": "adobe-logo-300x168px"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 4898,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 4898,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 4950,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5051,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5095,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5139,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 5139,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 5139,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5183,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 5183,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5227,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 5227,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 5227,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5271,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 5271,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 5271,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5315,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 5315,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 5315,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 5396,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 5399,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 5443,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 5520,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 5520,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 5520,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 5581,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 4,
+    "offPage": 18,
+    "textNodes": 63,
+    "controls": 48,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div#swiper-wrapper-11482ea68057be39 > div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn",
+     "text": "e-commerce platform",
+     "cutMin": 88,
+     "cutMax": 168
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.grid-container",
+     "path": "div.swiper-slide.swiper-slide-prev > div.tags-carousel__slider-frame-item > a.btn.tags-carousel__btn > span.text",
+     "text": "e-commerce platform",
+     "cutMin": 55,
+     "cutMax": 135
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/siemens",
+  "at": "2026-11-14T06:32:06.310Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 5681,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 248,
+    "w": 312,
+    "h": 48,
+    "text": "Governance & test automation for Siemens’ agile AEM projects"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#siemens",
+    "x": 24,
+    "y": 320,
+    "w": 312,
+    "h": 26,
+    "level": 1,
+    "text": "siemens"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-image-container > picture > img",
+    "x": 22,
+    "y": -7,
+    "w": 309,
+    "h": 243,
+    "text": "",
+    "file": "media_1585873db887a9e37b3e10afc0407a9a72"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 426,
+    "w": 31,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 83,
+    "y": 426,
+    "w": 45,
+    "h": 24,
+    "text": "about us",
+    "href": "/en/about-us"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 157,
+    "y": 426,
+    "w": 56,
+    "h": 24,
+    "text": "customers",
+    "href": "/en/about-us/customers"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 241,
+    "y": 426,
+    "w": 45,
+    "h": 24,
+    "text": "siemens",
+    "href": "/en/about-us/customers/siemens"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > h2#it-governance-for-siemens-ag",
+    "x": 24,
+    "y": 554,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "it governance for siemens ag"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 660,
+    "w": 312,
+    "h": 336,
+    "text": "As a leading international technology group that has stood for technical perform"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 147,
+    "y": 759,
+    "w": 93,
+    "h": 18,
+    "text": "siemens ag",
+    "href": "/global/en.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1100,
+    "w": 312,
+    "h": 48,
+    "text": "Automatic error detection"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1160,
+    "w": 312,
+    "h": 48,
+    "text": "Increased efficiency of the feedback cycle"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1220,
+    "w": 312,
+    "h": 48,
+    "text": "Long-term cost reduction"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.pills-list > li.pills-item > span.pill",
+    "x": 24,
+    "y": 1280,
+    "w": 312,
+    "h": 48,
+    "text": "Faster development time"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 1507,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "media_1a672eab71547e4cad1cdb621dd22aeb34"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#objective",
+    "x": 24,
+    "y": 1410,
+    "w": 119,
+    "h": 24,
+    "level": 6,
+    "text": "objective"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#uniform-processes",
+    "x": 24,
+    "y": 1458,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "uniform processes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 1798,
+    "w": 312,
+    "h": 192,
+    "text": "Siemens AG required a uniform governance for an overarching application of tools"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 2177,
+    "w": 312,
+    "h": 271,
+    "text": "",
+    "file": "media_13fc66174db6265329e2181e77055dab34"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#implementation",
+    "x": 24,
+    "y": 2080,
+    "w": 174,
+    "h": 24,
+    "level": 6,
+    "text": "implementation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#optimize-quality-with-tests",
+    "x": 24,
+    "y": 2128,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "optimize quality with tests"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 2468,
+    "w": 312,
+    "h": 696,
+    "text": "The expertise of the diva-e Conclusion company pro!vision in the area of agile s"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 3380,
+    "w": 312,
+    "h": 271,
+    "text": "two men discussing in front of siemens energy storage units.",
+    "file": "media_19dbc1232a73ce707ae3824b5cf6997f25"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-label > h6#result",
+    "x": 24,
+    "y": 3254,
+    "w": 91,
+    "h": 24,
+    "level": 6,
+    "text": "result"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-title > h2#improved-cost-benefit-efficiency",
+    "x": 24,
+    "y": 3302,
+    "w": 312,
+    "h": 58,
+    "level": 2,
+    "text": "improved cost-benefit efficiency"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 24,
+    "y": 3671,
+    "w": 312,
+    "h": 408,
+    "text": "The automatic error detection installed by the diva-e Conclusion company pro!vis"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags-carousel-grid > div.tags-carousel-title > h2#related-diva-e-conclusion-services-in-the-project",
+    "x": 24,
+    "y": 4207,
+    "w": 312,
+    "h": 99,
+    "level": 2,
+    "text": "related diva-e conclusion services in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 256,
+    "y": 4343,
+    "w": 173,
+    "h": 71,
+    "text": "usability testing",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li.is-active > a",
+    "x": 24,
+    "y": 4350,
+    "w": 211,
+    "h": 72,
+    "text": "e-commerce platform",
+    "href": "/en/services/digital-marketing/content/e-commerce/"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": true,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": -205,
+    "y": 4359,
+    "w": 207,
+    "h": 72,
+    "text": "content management",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 4538,
+    "w": 312,
+    "h": 29,
+    "text": "Partner in the project"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 24,
+    "y": 4769,
+    "w": 300,
+    "h": 18,
+    "text": "adobe logo",
+    "href": "/en/ueber-uns/partner/adobe/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "a > picture > img",
+    "x": 24,
+    "y": 4615,
+    "w": 300,
+    "h": 168,
+    "text": "adobe logo",
+    "file": "media_1a46b40e686bdffd37b4a0567209aa1f0b"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 4898,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 4898,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 4950,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5051,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5095,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5139,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 5139,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 5139,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5183,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 5183,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5227,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 5227,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 5227,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5271,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 5271,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 5271,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5315,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 5315,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 5315,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 5399,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5443,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 5520,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 5520,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 5520,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 5581,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 19,
+    "textNodes": 63,
+    "controls": 47,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 2,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "usability testing",
+     "cutMin": 72,
+     "cutMax": 201
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.tags-carousel.block",
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "usability testing",
+     "cutMin": 39,
+     "cutMax": 39
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 72,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "usability testing",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": 259,
+      "t": 4342,
+      "r": 432,
+      "b": 4413,
+      "w": 173,
+      "h": 71
+     },
+     "clip": {
+      "l": 0,
+      "t": 4167,
+      "r": 360,
+      "b": 4474,
+      "w": 360,
+      "h": 307
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 39,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "usability testing",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": 292,
+      "t": 4368,
+      "r": 399,
+      "b": 4388,
+      "w": 107,
+      "h": 20
+     },
+     "clip": {
+      "l": 0,
+      "t": 4167,
+      "r": 360,
+      "b": 4474,
+      "w": 360,
+      "h": 307
+     },
+     "lines": 1
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 201,
+     "path": "div.tags-carousel-track > ul > li > a",
+     "text": "content management",
+     "clipper": "div.tags-carousel.block",
+     "rect": {
+      "l": -201,
+      "t": 4359,
+      "r": 5,
+      "b": 4431,
+      "w": 207,
+      "h": 72
+     },
+     "clip": {
+      "l": 0,
+      "t": 4167,
+      "r": 360,
+      "b": 4474,
+      "w": 360,
+      "h": 307
+     }
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "siemens",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "it governance for siemens ag",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 3,
+   "heading": "uniform processes",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "optimize quality with tests",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "improved cost-benefit efficiency",
+   "variable": true,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 3,
+    "image": 2
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 1,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": [
+    "HIDDEN LINK",
+    "EXTRA LINK",
+    "EXTRA LINK"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🔴",
+   "kind": "HIDDEN LINK",
+   "msg": "×1 links clipped away inside the session-variable region of band \"improved cost-benefit efficiency\"",
+   "band": 5,
+   "n": 1,
+   "variable": true
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"it governance for siemens ag\" (origin y 832) not on the served page",
+   "band": 2,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"related diva-e conclusion services in the project\" (y 4207) has no origin heading",
+   "text": "related diva-e conclusion services in the project"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"usability testing\" served in band \"improved cost-benefit efficiency\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "usability testing"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"e-commerce platform\" served in band \"improved cost-benefit efficiency\", no origin link or button",
+   "band": 5,
+   "n": 1,
+   "text": "e-commerce platform"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 1,
+  "movedLinks": 0,
+  "extraLinks": 2,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 5,
+  "structural": 1,
+  "missing": 0,
+  "hidden": 1
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 224,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 94,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 430,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 430,
+    "w": 52,
+    "h": 14
+   },
+   {
+    "x": 161,
+    "y": 430,
+    "w": 61,
+    "h": 14
+   },
+   {
+    "x": 248,
+    "y": 430,
+    "w": 48,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 554,
+    "w": 297,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 583,
+    "w": 34,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 663,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 687,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 711,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 735,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 759,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 147,
+    "y": 759,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 240,
+    "y": 759,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 783,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 807,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 831,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 855,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 879,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 903,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 927,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 951,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 975,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 94,
+    "y": 1114,
+    "w": 172,
+    "h": 17
+   },
+   {
+    "x": 59,
+    "y": 1166,
+    "w": 243,
+    "h": 17
+   },
+   {
+    "x": 163,
+    "y": 1183,
+    "w": 34,
+    "h": 17
+   },
+   {
+    "x": 96,
+    "y": 1234,
+    "w": 168,
+    "h": 17
+   },
+   {
+    "x": 98,
+    "y": 1294,
+    "w": 164,
+    "h": 17
+   },
+   {
+    "x": 56,
+    "y": 1410,
+    "w": 90,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 1458,
+    "w": 206,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1801,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1825,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1849,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1873,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1897,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1921,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1945,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1969,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2080,
+    "w": 147,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 2128,
+    "w": 300,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2471,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2495,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2519,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2543,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2567,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2591,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2615,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2639,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2663,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2687,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2711,
+    "w": 221,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2759,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2783,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2807,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2831,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2855,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2879,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2903,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2927,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2951,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2975,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2999,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3023,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3047,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3071,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3095,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3119,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3143,
+    "w": 78,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 3254,
+    "w": 60,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 3302,
+    "w": 248,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3331,
+    "w": 112,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3674,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3698,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3722,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3746,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3770,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3794,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3818,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3842,
+    "w": 105,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3890,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3914,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3938,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3962,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3986,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4010,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4034,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4058,
+    "w": 127,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4206,
+    "w": 201,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 4239,
+    "w": 307,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 4272,
+    "w": 152,
+    "h": 35
+   },
+   {
+    "x": 349,
+    "y": 4363,
+    "w": 146,
+    "h": 23
+   },
+   {
+    "x": 131,
+    "y": 4372,
+    "w": 143,
+    "h": 23
+   },
+   {
+    "x": -55,
+    "y": 4380,
+    "w": 111,
+    "h": 21
+   },
+   {
+    "x": 24,
+    "y": 4538,
+    "w": 239,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4898,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 4898,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 4949,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 4982,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5051,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5095,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5139,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 5139,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 5139,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5183,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 5183,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5227,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 5227,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 5227,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5271,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 5271,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 5271,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5315,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 5315,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 5315,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5397,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 5400,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5444,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 251,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 275,
+    "w": 224,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 319,
+    "w": 97,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 430,
+    "w": 31,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 430,
+    "w": 45,
+    "h": 14
+   },
+   {
+    "x": 157,
+    "y": 430,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 241,
+    "y": 430,
+    "w": 45,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 554,
+    "w": 305,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 583,
+    "w": 36,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 663,
+    "w": 288,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 687,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 711,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 735,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 759,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 147,
+    "y": 759,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 240,
+    "y": 759,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 783,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 807,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 831,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 855,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 879,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 903,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 927,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 951,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 975,
+    "w": 267,
+    "h": 18
+   },
+   {
+    "x": 98,
+    "y": 1115,
+    "w": 164,
+    "h": 16
+   },
+   {
+    "x": 44,
+    "y": 1167,
+    "w": 235,
+    "h": 16
+   },
+   {
+    "x": 44,
+    "y": 1184,
+    "w": 34,
+    "h": 16
+   },
+   {
+    "x": 99,
+    "y": 1235,
+    "w": 163,
+    "h": 16
+   },
+   {
+    "x": 99,
+    "y": 1295,
+    "w": 161,
+    "h": 16
+   },
+   {
+    "x": 56,
+    "y": 1411,
+    "w": 87,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 1458,
+    "w": 206,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1801,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1825,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1849,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1873,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1897,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1921,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1945,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1969,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 2081,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 2128,
+    "w": 286,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2471,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2495,
+    "w": 300,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2519,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2543,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2567,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2591,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2615,
+    "w": 264,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2639,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2663,
+    "w": 272,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2687,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2711,
+    "w": 221,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2759,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2783,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2807,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2831,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2855,
+    "w": 291,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2879,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2903,
+    "w": 254,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2927,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2951,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2975,
+    "w": 277,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2999,
+    "w": 292,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3023,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3047,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3071,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3095,
+    "w": 273,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3119,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3143,
+    "w": 78,
+    "h": 18
+   },
+   {
+    "x": 56,
+    "y": 3255,
+    "w": 59,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 3302,
+    "w": 238,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3331,
+    "w": 103,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3674,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3698,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3722,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3746,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3770,
+    "w": 285,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3794,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3818,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3842,
+    "w": 105,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3890,
+    "w": 275,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3914,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3938,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3962,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3986,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4010,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4034,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4058,
+    "w": 127,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4207,
+    "w": 203,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 4240,
+    "w": 280,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 4273,
+    "w": 181,
+    "h": 33
+   },
+   {
+    "x": 292,
+    "y": 4368,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 60,
+    "y": 4375,
+    "w": 145,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 4538,
+    "w": 233,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4898,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 4898,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 4950,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 4983,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5051,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5095,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5139,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 5139,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 5139,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5183,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 5183,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5227,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 5227,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 5227,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5271,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 5271,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 5271,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5315,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 5315,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 5315,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5397,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 5400,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5444,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

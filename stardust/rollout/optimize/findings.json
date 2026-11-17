@@ -1,0 +1,4703 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/optimize",
+    "writtenAt": "2026-11-14T07:19:37.917Z",
+    "stardustVersion": "0.0.0"
+  },
+  "runs": [
+    {
+      "id": "run-1",
+      "at": "2026-11-14T07:19:09.182Z",
+      "scopePages": [
+        "en-about-us",
+        "en-about-us-ai-manifest",
+        "en-about-us-customers",
+        "en-about-us-customers-baby-walz",
+        "en-about-us-customers-best4tires",
+        "en-about-us-customers-doerrenberg",
+        "en-about-us-customers-fressnapf",
+        "en-about-us-customers-hd-plus",
+        "en-about-us-customers-interamt",
+        "en-about-us-customers-medi",
+        "en-about-us-customers-multivac",
+        "en-about-us-customers-postbank",
+        "en-about-us-customers-ravensburger",
+        "en-about-us-customers-seat",
+        "en-about-us-customers-siemens",
+        "en-about-us-customers-sma",
+        "en-about-us-customers-spinner",
+        "en-about-us-customers-telefonica",
+        "en-about-us-customers-terra-canis",
+        "en-about-us-customers-unitymedia",
+        "en-about-us-customers-vwfs",
+        "en-about-us-customers-wilo",
+        "en-about-us-locations",
+        "en-about-us-management",
+        "en-about-us-partner",
+        "en-campaigns-next-gen-crm-pharma",
+        "en-campaigns-pim-voucher",
+        "en-data-privacy",
+        "en-industries-automotive",
+        "en-industries-b2b-manufacturing",
+        "en-industries-financial-services",
+        "en-industries-pharma",
+        "en-industries-pharma-and-healthcare",
+        "en-industries-retail",
+        "en-insights-downloads",
+        "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum",
+        "en-insights-edge-5-fragen-plattformentscheidung",
+        "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+        "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+        "en-insights-edge-agentic-commerce",
+        "en-insights-edge-ai-foundation",
+        "en-insights-edge-ai-product-advisor-smart-search",
+        "en-insights-edge-ai-radar-human-in-the-loop",
+        "en-insights-edge-ai-radar-pilots",
+        "en-insights-edge-ai-radar-september",
+        "en-insights-edge-cdp-evaluation",
+        "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+        "en-insights-edge-commerce-platform-evaluation",
+        "en-insights-edge-conclusion-connect-recap",
+        "en-insights-edge-crm-auswaehlen-leitfaden",
+        "en-insights-edge-cypress-playwright-selenium",
+        "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+        "en-insights-edge-from-data-silos-to-digital-commerce",
+        "en-insights-edge-geo-gaio-gaps",
+        "en-insights-edge-geo-ymyl",
+        "en-insights-edge-greenwashing-retail",
+        "en-insights-edge-ifm-ai-product-advisor",
+        "en-insights-edge-industry-trends-2026",
+        "en-insights-edge-innovation-marketplace",
+        "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+        "en-insights-edge-ki-in-der-qualitaetssicherung",
+        "en-insights-edge-lead-to-cash-in-sap",
+        "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+        "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+        "en-insights-edge-projekt-recap-aus-der-praxis",
+        "en-insights-edge-qa-sap-ai",
+        "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+        "en-insights-edge-salesforce-partner-day-recap",
+        "en-insights-edge-sap-joule-und-die-business-data-cloud",
+        "en-insights-edge-security-anomaly-agent-use-case",
+        "en-insights-edge-tech-evaluation-short-list",
+        "en-insights-edge-tech-reality-check-ai",
+        "en-insights-edge-tech-reality-check-technical-debt",
+        "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+        "en-insights-edge-vendor-lab-day",
+        "en-insights-events",
+        "en-insights-news",
+        "en-insights-press",
+        "en-loyalty-quiz",
+        "en-marketplace",
+        "en-newsletter",
+        "en-search",
+        "en-security-quiz",
+        "en-security-quiz-security-questions",
+        "en-services-ai",
+        "en-services-ams",
+        "en-services-digital-consulting",
+        "en-services-digital-marketing",
+        "en-services-digital-produktpass-audit",
+        "en-services-dxp",
+        "en-services-total-experience",
+        "index"
+      ],
+      "layersRun": [
+        "accessibility",
+        "seo",
+        "ai-search",
+        "cross-page"
+      ],
+      "trigger": "deliver",
+      "source": "https://main--a608424f--aemcoder.aem.live"
+    },
+    {
+      "id": "run-2",
+      "at": "2026-11-14T07:19:37.917Z",
+      "scopePages": [
+        "en",
+        "en-about-us",
+        "en-about-us-ai-manifest",
+        "en-about-us-customers",
+        "en-about-us-customers-baby-walz",
+        "en-about-us-customers-best4tires",
+        "en-about-us-customers-doerrenberg",
+        "en-about-us-customers-fressnapf",
+        "en-about-us-customers-hd-plus",
+        "en-about-us-customers-interamt",
+        "en-about-us-customers-mann-hummel",
+        "en-about-us-customers-medi",
+        "en-about-us-customers-multivac",
+        "en-about-us-customers-postbank",
+        "en-about-us-customers-ravensburger",
+        "en-about-us-customers-seat",
+        "en-about-us-customers-siemens",
+        "en-about-us-customers-sma",
+        "en-about-us-customers-spinner",
+        "en-about-us-customers-telefonica",
+        "en-about-us-customers-terra-canis",
+        "en-about-us-customers-unitymedia",
+        "en-about-us-customers-vwfs",
+        "en-about-us-customers-wilo",
+        "en-about-us-locations",
+        "en-about-us-management",
+        "en-about-us-partner",
+        "en-campaigns-next-gen-crm-pharma",
+        "en-campaigns-pim-voucher",
+        "en-connect",
+        "en-contact",
+        "en-data-privacy",
+        "en-imprint",
+        "en-industries-automotive",
+        "en-industries-b2b-manufacturing",
+        "en-industries-financial-services",
+        "en-industries-pharma",
+        "en-industries-pharma-and-healthcare",
+        "en-industries-retail",
+        "en-insights-downloads",
+        "en-insights-edge",
+        "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum",
+        "en-insights-edge-5-fragen-plattformentscheidung",
+        "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+        "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+        "en-insights-edge-agentic-commerce",
+        "en-insights-edge-ai-foundation",
+        "en-insights-edge-ai-product-advisor-smart-search",
+        "en-insights-edge-ai-radar-human-in-the-loop",
+        "en-insights-edge-ai-radar-october",
+        "en-insights-edge-ai-radar-pilots",
+        "en-insights-edge-ai-radar-september",
+        "en-insights-edge-cdp-evaluation",
+        "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+        "en-insights-edge-commerce-platform-evaluation",
+        "en-insights-edge-conclusion-connect-recap",
+        "en-insights-edge-crm-auswaehlen-leitfaden",
+        "en-insights-edge-cypress-playwright-selenium",
+        "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+        "en-insights-edge-from-data-silos-to-digital-commerce",
+        "en-insights-edge-geo-gaio-gaps",
+        "en-insights-edge-geo-ymyl",
+        "en-insights-edge-greenwashing-retail",
+        "en-insights-edge-ifm-ai-product-advisor",
+        "en-insights-edge-industry-trends-2026",
+        "en-insights-edge-innovation-marketplace",
+        "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+        "en-insights-edge-ki-in-der-qualitaetssicherung",
+        "en-insights-edge-lead-to-cash-in-sap",
+        "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+        "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+        "en-insights-edge-projekt-recap-aus-der-praxis",
+        "en-insights-edge-qa-sap-ai",
+        "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+        "en-insights-edge-salesforce-partner-day-recap",
+        "en-insights-edge-sap-joule-und-die-business-data-cloud",
+        "en-insights-edge-security-anomaly-agent-use-case",
+        "en-insights-edge-tech-evaluation-short-list",
+        "en-insights-edge-tech-reality-check-ai",
+        "en-insights-edge-tech-reality-check-technical-debt",
+        "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+        "en-insights-edge-vendor-lab-day",
+        "en-insights-events",
+        "en-insights-news",
+        "en-insights-press",
+        "en-loyalty-quiz",
+        "en-marketplace",
+        "en-newsletter",
+        "en-search",
+        "en-security-quiz",
+        "en-security-quiz-security-questions",
+        "en-services-ai",
+        "en-services-ams",
+        "en-services-crm",
+        "en-services-digital-consulting",
+        "en-services-digital-marketing",
+        "en-services-digital-produktpass-audit",
+        "en-services-dxp",
+        "en-services-total-experience",
+        "index"
+      ],
+      "layersRun": [
+        "accessibility",
+        "seo",
+        "ai-search",
+        "cross-page"
+      ],
+      "trigger": "deliver",
+      "source": "http://127.0.0.1:8797"
+    }
+  ],
+  "findings": [
+    {
+      "id": "f-053a305edd",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-spinner"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-070e54da07",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-0a46aaa705",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-wilo"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-0f114a0c31",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-services-ai"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-1202e4a8bb",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-digital-product-passport-dpp-readiness-audit"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-18f51f53e0",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-greenwashing-retail"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-1af4e26894",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-projekt-recap-aus-der-praxis"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-1afdf33b74",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-security-anomaly-agent-use-case"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-1d82fac4b8",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-vendor-lab-day"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-1eed8cf276",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-radar-september"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-215aef470c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-postbank"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-2b7f1bc882",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-radar-pilots"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-2c1024691d",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-services-digital-marketing"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-2c45b354b5",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-doerrenberg"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-3029767c1e",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-downloads"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-31256142df",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-radar-october"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-35a5219c7b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-industry-trends-2026"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-3756a1283b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-agentic-ai-unternehmen-ki-agenten"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-384f67be33",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-industries-retail"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-3a4f8463bb",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-crm-auswaehlen-leitfaden"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4174c7dcb1",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-41f235a875",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-news"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-432e5e3252",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-press"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4650ca60f4",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-47166a1c16",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-search"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4759a4e3be",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-tech-reality-check-technical-debt"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4873dca884",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-siemens"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-49ca3b49a3",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-sma"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4b6c9442c9",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4e5b08d637",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-mann-hummel"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-509834dcb3",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-services-crm"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-50f844d9b1",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-cdp-evaluation"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-52a08d154c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-cypress-playwright-selenium"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-5472873fef",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-medi"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-54be5a397f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "index"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-595b5ffb6d",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-lead-to-cash-in-sap"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-5cec73b4d2",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-salesforce-partner-day-recap"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-5db0df3eb3",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-5f2b3844cb",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-foundation"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-61ee1e8e02",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-industries-b2b-manufacturing"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-6599050ca1",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-product-advisor-smart-search"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-672a424bf7",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-industries-automotive"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-6b4f45313c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-industries-pharma"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-6f9c938780",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-seat"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-7021db4f65",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-fressnapf"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-736aea164e",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-services-digital-consulting"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-73bfd0e9cb",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-security-quiz"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-77f48b704a",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-loyalty-quiz"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-79d2dc4ba8",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-connect"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-79eb8d1382",
+      "source": "rollout:baseline",
+      "layer": "cross-page",
+      "check": "duplicate-title",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-baby-walz",
+          "en-about-us-customers-best4tires"
+        ]
+      },
+      "evidence": "source parity: 2 pages share <title> \"Successful omnichannel transformation fo\" — the source shares this title across the same pages",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-7b45bb9560",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-salesforce-marketing-cloud-engagement-gartner"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-7b64139646",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-contact"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-7bb3e16c8c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-imprint"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-85009397f0",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-from-data-silos-to-digital-commerce"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-874cc5a2aa",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-agentic-commerce"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-8b76e021e9",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-geo-ymyl"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-92e878a397",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-security-quiz-security-questions"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-93678be43b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-hd-plus"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-938b811485",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ifm-ai-product-advisor"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-973a96ec39",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-qa-sap-ai"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-99f61bb1d4",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-best4tires"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-9a41056338",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-services-dxp"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-9a62749816",
+      "source": "rollout:baseline",
+      "layer": "cross-page",
+      "check": "duplicate-title",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-security-quiz",
+          "en-security-quiz-security-questions"
+        ]
+      },
+      "evidence": "source parity: 2 pages share <title> \"Security Quiz – Test Your Cybersecurity \" — the source shares this title across the same pages",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-9dbad76a69",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-vwfs"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a06e07500b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-campaigns-next-gen-crm-pharma"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a46bbf89ab",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-interamt"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a79a158402",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-conclusion-connect-recap"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a9819b7c0c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-industries-pharma-and-healthcare"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-ac789e6c02",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-data-privacy"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-aebd91df3c",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-commerce-platform-evaluation"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-af596debc0",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-5-fragen-plattformentscheidung"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b00ae6a676",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-services-total-experience"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b070b9f188",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-management"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b74bcfdb73",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-sap-joule-und-die-business-data-cloud"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b81226fc14",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-marketplace"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c2be31aa1b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c54d09900f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-newsletter"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c59a7be9f2",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-industries-financial-services"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c72e8f458f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-radar-human-in-the-loop"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c76425ed29",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-unitymedia"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c84a3ba593",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-events"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-caff717df8",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-campaigns-pim-voucher"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-cffa2bcdb4",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-innovation-marketplace"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d1b20a7af2",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-ravensburger"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d2e46e5cc2",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d4245a715f",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d4c58b5fa5",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ki-agenten-fertigung-dreamforce-2026"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d8c02bd4db",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-services-digital-produktpass-audit"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-da79a1c4ba",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-services-ams"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-dce3799e2a",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-ai-manifest"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-dfc1a1f46b",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-partner"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-e94c8d79a6",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-geo-gaio-gaps"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-eb639884ca",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-ed5c803bda",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-locations"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-f0b89cb159",
+      "source": "rollout:baseline",
+      "layer": "cross-page",
+      "check": "duplicate-title",
+      "severity": "P2",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-radar-pilots",
+          "en-insights-edge-ai-radar-september"
+        ]
+      },
+      "evidence": "source parity: 2 pages share <title> \"AI Radar: The Reality of Agentic AI | di\" — the source shares this title across the same pages",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-f461c5c113",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-baby-walz"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-f5296f66ac",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-f5e1b6b752",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-terra-canis"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-f6b77e97b8",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-telefonica"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-f91455b5b8",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-tech-reality-check-ai"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-faae80d717",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ki-in-der-qualitaetssicherung"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-fd8ad79bb7",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-multivac"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-fddbbcbb79",
+      "source": "rollout:baseline",
+      "layer": "ai-search",
+      "check": "jsonld",
+      "severity": "P2",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-tech-evaluation-short-list"
+        ]
+      },
+      "evidence": "no JSON-LD structured data",
+      "recommendedMove": "Emit page-type JSON-LD in the head (metadata-and-jsonld).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-jsonld",
+        "kind": "manual",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-10837c78b8",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-radar-human-in-the-loop"
+        ]
+      },
+      "evidence": "source parity: <title> is 89 chars (\"Human in the Loop: When Human Oversight \") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-19008efcb9",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-industries-pharma"
+        ]
+      },
+      "evidence": "<title> is 82 chars (\"Digital Pharma Solutions for Market, Pat\")",
+      "recommendedMove": "Aim for ~50-60 chars: brand + primary keyword (deploy #34).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-metadata-title",
+        "kind": "content-draft",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-1b9cc31a56",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-cypress-playwright-selenium"
+        ]
+      },
+      "evidence": "source parity: <title> is 75 chars (\"Cypress, Playwright or Selenium? | Frame\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-21918451bb",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-greenwashing-retail"
+        ]
+      },
+      "evidence": "source parity: <title> is 89 chars (\"Greenwashing: New Rules Effective Septem\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-2825fdd448",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-conclusion-connect-recap"
+        ]
+      },
+      "evidence": "source parity: <title> is 83 chars (\"Conclusion Connect 2026 Recap: From AI V\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-29d422ec4a",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-campaigns-next-gen-crm-pharma"
+        ]
+      },
+      "evidence": "<title> is 71 chars (\"Next-Gen CRM for Pharma – Compliant &#x2\")",
+      "recommendedMove": "Aim for ~50-60 chars: brand + primary keyword (deploy #34).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-metadata-title",
+        "kind": "content-draft",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-394ac969c7",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026"
+        ]
+      },
+      "evidence": "source parity: <title> is 111 chars (\"The Electronic Withdrawal Button Is Comi\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-3b27041471",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-radar-october"
+        ]
+      },
+      "evidence": "source parity: <title> is 74 chars (\"Agentic Enterprise: Why Software Licensi\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-3fc23f8f34",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-lead-to-cash-in-sap"
+        ]
+      },
+      "evidence": "source parity: <title> is 71 chars (\"AI Use Cases in SAP Lead-to-Cash: How to\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-40d52f30dc",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-innovation-marketplace"
+        ]
+      },
+      "evidence": "source parity: <title> is 83 chars (\"The New IT Project Paradigm: Innovation \") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4d96683d22",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-projekt-recap-aus-der-praxis"
+        ]
+      },
+      "evidence": "source parity: <title> is 72 chars (\"Strong Delivery, Weak Impact? | A Real P\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4f0ad8d499",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-agentic-ai-unternehmen-ki-agenten"
+        ]
+      },
+      "evidence": "source parity: <title> is 80 chars (\"Agentic AI for businesses: Strategically\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-4ffd69dc4b",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ifm-ai-product-advisor"
+        ]
+      },
+      "evidence": "source parity: <title> is 77 chars (\"AI Application Assistant for Product Sea\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-542191d6a8",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-loyalty-quiz"
+        ]
+      },
+      "evidence": "<title> is 71 chars (\"Loyalty Health Check: Test &#x26; Optimi\")",
+      "recommendedMove": "Aim for ~50-60 chars: brand + primary keyword (deploy #34).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-metadata-title",
+        "kind": "content-draft",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-5abfb824fc",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich"
+        ]
+      },
+      "evidence": "source parity: <title> is 97 chars (\"Accessibility Audit – Systematically Ass\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-62878643d8",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-industries-b2b-manufacturing"
+        ]
+      },
+      "evidence": "<title> is 71 chars (\"B2B - Manufacturing &#x26; E-Commerce in\")",
+      "recommendedMove": "Aim for ~50-60 chars: brand + primary keyword (deploy #34).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-metadata-title",
+        "kind": "content-draft",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-67fe0d1ca2",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-ravensburger"
+        ]
+      },
+      "evidence": "source parity: <title> is 74 chars (\"Optimization of digital marketing perfor\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-6f66ad910a",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform"
+        ]
+      },
+      "evidence": "source parity: <title> is 86 chars (\"Choosing a CMS: How to Find the Right Pl\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-785a50f66a",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-foundation"
+        ]
+      },
+      "evidence": "source parity: <title> is 78 chars (\"Build an AI Foundation for Scalable AI |\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-79dbc53bb8",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-cdp-evaluation"
+        ]
+      },
+      "evidence": "source parity: <title> is 77 chars (\"How to Choose a Customer Data Platform (\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-7ef3dc6851",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-ai-manifest"
+        ]
+      },
+      "evidence": "source parity: <title> is 72 chars (\"AI Manifest – Empowering the Evolution o\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-83779b7f64",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-qa-sap-ai"
+        ]
+      },
+      "evidence": "<title> is 87 chars (\"Intelligent Q&#x26;A SAP CX AI Toolkit |\")",
+      "recommendedMove": "Aim for ~50-60 chars: brand + primary keyword (deploy #34).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-metadata-title",
+        "kind": "content-draft",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-8f5c410c93",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-geo-ymyl"
+        ]
+      },
+      "evidence": "<title> is 86 chars (\"From Rankings to Recommendations: AI Sea\")",
+      "recommendedMove": "Aim for ~50-60 chars: brand + primary keyword (deploy #34).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-metadata-title",
+        "kind": "content-draft",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-9ac196bdb8",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-crm-auswaehlen-leitfaden"
+        ]
+      },
+      "evidence": "source parity: <title> is 92 chars (\"How to Choose the Right CRM: Finding the\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-9d14f60555",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-geo-gaio-gaps"
+        ]
+      },
+      "evidence": "source parity: <title> is 83 chars (\"AI Visibility 2026: The 5 Biggest GEO/GA\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-9f42247b99",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-vendor-lab-day"
+        ]
+      },
+      "evidence": "source parity: <title> is 81 chars (\"Tech Evaluation Lab Day: Test Platform F\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-9f5bdde519",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-newsletter"
+        ]
+      },
+      "evidence": "source parity: <title> is 71 chars (\"Newsletter: expert knowledge straight to\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a2107dde5e",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-salesforce-partner-day-recap"
+        ]
+      },
+      "evidence": "source parity: <title> is 91 chars (\"Salesforce Partner Day Recap: Why Market\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a2f04a8084",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-services-total-experience"
+        ]
+      },
+      "evidence": "source parity: <title> is 80 chars (\"Total Experience (TX) – Your Strategy fo\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a47eb153b3",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit"
+        ]
+      },
+      "evidence": "source parity: <title> is 85 chars (\"Millions in fines for lack of digital ac\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-a68b2e1dcd",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-wilo"
+        ]
+      },
+      "evidence": "source parity: <title> is 72 chars (\"Developing an innovative B2B store solut\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-ab211c3ee4",
+      "source": "rollout:baseline",
+      "layer": "cross-page",
+      "check": "duplicate-description",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-radar-pilots",
+          "en-insights-edge-ai-radar-september"
+        ]
+      },
+      "evidence": "source parity: 2 pages share a meta description — the source shares this description across the same pages",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b1902c4bf1",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ai-product-advisor-smart-search"
+        ]
+      },
+      "evidence": "source parity: <title> is 79 chars (\"Smart Product Search for Complex Catalog\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b1918ab765",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-agentic-commerce"
+        ]
+      },
+      "evidence": "source parity: <title> is 78 chars (\"Agentic Commerce: The Future of Autonomo\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-b1a7e58cd5",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-connect"
+        ]
+      },
+      "evidence": "source parity: <title> is 77 chars (\"Conclusion Connect: Turning AI Vision in\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-2",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-bb2fd5e63e",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-commerce-platform-evaluation"
+        ]
+      },
+      "evidence": "source parity: <title> is 78 chars (\"How to Choose a Commerce Platform: 9 Key\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-bb96a3256b",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-interamt"
+        ]
+      },
+      "evidence": "source parity: <title> is 85 chars (\"INTERAMT Case Study – Digital Career Por\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-bd10897026",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-hd-plus"
+        ]
+      },
+      "evidence": "source parity: <title> is 74 chars (\"HD+: A new foundation for a modern e-com\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-c9a1778c80",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-salesforce-marketing-cloud-engagement-gartner"
+        ]
+      },
+      "evidence": "source parity: <title> is 96 chars (\"Salesforce Marketing Cloud Engagement Na\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-cd75b66061",
+      "source": "rollout:baseline",
+      "layer": "cross-page",
+      "check": "duplicate-description",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-baby-walz",
+          "en-about-us-customers-best4tires"
+        ]
+      },
+      "evidence": "source parity: 2 pages share a meta description — the source shares this description across the same pages",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d158afad46",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-5-fragen-plattformentscheidung"
+        ]
+      },
+      "evidence": "source parity: <title> is 79 chars (\"5 Questions Every CIO Should Ask Before \") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-d4a2332e24",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-sap-joule-und-die-business-data-cloud"
+        ]
+      },
+      "evidence": "source parity: <title> is 93 chars (\"SAP Joule and Business Data Cloud: The C\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-dae8f2a335",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-industries-pharma-and-healthcare"
+        ]
+      },
+      "evidence": "<title> is 89 chars (\"Pharmaceutical Industry &#x26; Healthcar\")",
+      "recommendedMove": "Aim for ~50-60 chars: brand + primary keyword (deploy #34).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-metadata-title",
+        "kind": "content-draft",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-daf812c256",
+      "source": "rollout:baseline",
+      "layer": "cross-page",
+      "check": "duplicate-description",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-security-quiz",
+          "en-security-quiz-security-questions"
+        ]
+      },
+      "evidence": "source parity: 2 pages share a meta description — the source shares this description across the same pages",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-dd79abeff6",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "platform-migration",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-security-anomaly-agent-use-case"
+        ]
+      },
+      "evidence": "<title> is 97 chars (\"Security Anomaly Agent – AI-powered Atta\")",
+      "recommendedMove": "Aim for ~50-60 chars: brand + primary keyword (deploy #34).",
+      "autofix": {
+        "available": true,
+        "target": "aem-eds",
+        "strategy": "eds-metadata-title",
+        "kind": "content-draft",
+        "status": "pending",
+        "appliedBy": null,
+        "at": null,
+        "detail": null
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-df3713ecf9",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-postbank"
+        ]
+      },
+      "evidence": "source parity: <title> is 76 chars (\"Postbank Themenwelten: Diva-e’s Digital \") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-e2daab2780",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-about-us-customers-vwfs"
+        ]
+      },
+      "evidence": "source parity: <title> is 84 chars (\"Volkswagen Financial Services: Secure AE\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-e4cf6c0230",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-ki-agenten-fertigung-dreamforce-2026"
+        ]
+      },
+      "evidence": "source parity: <title> is 74 chars (\"AI Agents in Manufacturing: What Dreamfo\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-e9cb95dadf",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-marketplace"
+        ]
+      },
+      "evidence": "source parity: <title> is 77 chars (\"Ready-Made Digital Solutions for Real Bu\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-eb9d5e38db",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-tech-reality-check-ai"
+        ]
+      },
+      "evidence": "source parity: <title> is 78 chars (\"AI in the Enterprise: Efficiency Instead\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    },
+    {
+      "id": "f-f8a84fca08",
+      "source": "rollout:baseline",
+      "layer": "seo",
+      "check": "title-length",
+      "severity": "P3",
+      "fixability": "out-of-scope",
+      "scope": {
+        "level": "page",
+        "ids": [
+          "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden"
+        ]
+      },
+      "evidence": "source parity: <title> is 72 chars (\"How to Choose the Right PIM System for Y\") — the source page carries the same <title>",
+      "recommendedMove": "Mirrors the source capture — informational, not scored, no rollout action; change it on the source (or record a content decision) if wanted.",
+      "autofix": {
+        "available": false,
+        "target": "aem-eds",
+        "strategy": null,
+        "kind": null,
+        "status": "unavailable",
+        "appliedBy": null,
+        "at": null,
+        "detail": "source parity — a faithful migration is not auto-rewritten"
+      },
+      "status": "open",
+      "firstSeenRun": "run-1",
+      "resolvedBy": null
+    }
+  ]
+}

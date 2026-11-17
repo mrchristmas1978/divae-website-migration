@@ -1,0 +1,774 @@
+[live-session] waiting to pace live navigations to www.diva-e.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/en-services-crm-1440/vdiff-iter1/
+
+build red flags (advisory): 
+  • FONT MISMATCH: heading "Customer Relationship Management" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Your CRM Strategy – Aligned with" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Our CRM-Services" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Our CRM customer" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Talk to Our Experts" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Get in touch now!" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 5300,
+  "textLen": 3611,
+  "images": [
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x338",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "600x",
+    "natural": "600x348",
+    "rendered": "315x179",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "1490x",
+    "natural": "1490x888",
+    "rendered": "1089x649",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "362x127",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "viega_logo.png",
+    "natural": "0x0",
+    "rendered": "56x56",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "393x138",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "cws_logo.png",
+    "natural": "0x0",
+    "rendered": "61x61",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "429x151",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "puzzel_logo-diva-e.webp",
+    "natural": "0x0",
+    "rendered": "67x67",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "473x166",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "527x185",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "viega_logo.png",
+    "natural": "0x0",
+    "rendered": "82x82",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "594x209",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "cws_logo.png",
+    "natural": "0x0",
+    "rendered": "92x92",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "682x239",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "puzzel_logo-diva-e.webp",
+    "natural": "0x0",
+    "rendered": "106x106",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "799x281",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "512x369",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "viega_logo.png",
+    "natural": "0x0",
+    "rendered": "150x150",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "799x281",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "cws_logo.png",
+    "natural": "0x0",
+    "rendered": "124x124",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "682x239",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "puzzel_logo-diva-e.webp",
+    "natural": "0x0",
+    "rendered": "106x106",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "594x209",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "527x185",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "viega_logo.png",
+    "natural": "0x0",
+    "rendered": "82x82",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "473x166",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "cws_logo.png",
+    "natural": "0x0",
+    "rendered": "73x73",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "429x151",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "puzzel_logo-diva-e.webp",
+    "natural": "0x0",
+    "rendered": "67x67",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "393x138",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Customer Relationship Management",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "65px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Your CRM Strategy – Aligned with",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our CRM-Services",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our CRM customer",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Talk to Our Experts",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Get in touch now!",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 1089,
+    "left": 145
+   },
+   {
+    "sel": "hero__description",
+    "width": 1040,
+    "left": 175
+   },
+   {
+    "sel": "simple-text__row-paragraph--large",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "cards-block__tagline--center",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "col--3",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "teaser-slider-item",
+    "width": 966,
+    "left": 237
+   },
+   {
+    "sel": "simple-text__row-paragraph--large",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "form-block__container",
+    "width": 1089,
+    "left": 175
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 5324,
+  "textLen": 3611,
+  "images": [
+   {
+    "src": "strategic-technology-decisions-with-fore-5246-600x.jpg",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "financeguide_en_956x554-6a25-600x.jpg",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-600x.png",
+    "natural": "600x338",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "interamt_956x554px-ba20-600x.png",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en-security-guide_956x554-c39f-600x.jpg",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-playbook_956x554px-0c00-600x.png",
+    "natural": "600x348",
+    "rendered": "379x216",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "crm_tabelle_en_1490x888px-b4c5-1490x.png",
+    "natural": "1490x888",
+    "rendered": "1089x649",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1093678798-f454-907x.jpg",
+    "natural": "907x605",
+    "rendered": "362x138",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "viega_logo-cecb.png",
+    "natural": "1920x1633",
+    "rendered": "56x56",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1430770883-9e6e-907x.jpg",
+    "natural": "907x605",
+    "rendered": "393x150",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cws_logo-aa57.png",
+    "natural": "421x120",
+    "rendered": "61x61",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "frau-am-laptop-b4c0-907x.jpg",
+    "natural": "907x605",
+    "rendered": "429x164",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "puzzel_logo-diva-e-b72f.webp",
+    "natural": "1536x768",
+    "rendered": "67x67",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "kyowa-news-ad6c-907x.png",
+    "natural": "907x530",
+    "rendered": "473x181",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1093678798-f454-907x.jpg",
+    "natural": "907x605",
+    "rendered": "527x201",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "viega_logo-cecb.png",
+    "natural": "1920x1633",
+    "rendered": "82x82",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1430770883-9e6e-907x.jpg",
+    "natural": "907x605",
+    "rendered": "594x227",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cws_logo-aa57.png",
+    "natural": "421x120",
+    "rendered": "92x92",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "frau-am-laptop-b4c0-907x.jpg",
+    "natural": "907x605",
+    "rendered": "682x260",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "puzzel_logo-diva-e-b72f.webp",
+    "natural": "1536x768",
+    "rendered": "106x106",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "kyowa-news-ad6c-907x.png",
+    "natural": "907x530",
+    "rendered": "799x305",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1093678798-f454-907x.jpg",
+    "natural": "907x605",
+    "rendered": "512x369",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "viega_logo-cecb.png",
+    "natural": "1920x1633",
+    "rendered": "150x150",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1430770883-9e6e-907x.jpg",
+    "natural": "907x605",
+    "rendered": "799x305",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cws_logo-aa57.png",
+    "natural": "421x120",
+    "rendered": "124x124",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "frau-am-laptop-b4c0-907x.jpg",
+    "natural": "907x605",
+    "rendered": "682x260",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "puzzel_logo-diva-e-b72f.webp",
+    "natural": "1536x768",
+    "rendered": "106x106",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "kyowa-news-ad6c-907x.png",
+    "natural": "907x530",
+    "rendered": "594x227",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1093678798-f454-907x.jpg",
+    "natural": "907x605",
+    "rendered": "527x201",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "viega_logo-cecb.png",
+    "natural": "1920x1633",
+    "rendered": "82x82",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1430770883-9e6e-907x.jpg",
+    "natural": "907x605",
+    "rendered": "473x181",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cws_logo-aa57.png",
+    "natural": "421x120",
+    "rendered": "73x73",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "frau-am-laptop-b4c0-907x.jpg",
+    "natural": "907x605",
+    "rendered": "429x164",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "puzzel_logo-diva-e-b72f.webp",
+    "natural": "1536x768",
+    "rendered": "67x67",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "kyowa-news-ad6c-907x.png",
+    "natural": "907x530",
+    "rendered": "393x150",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Customer Relationship Management",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "65px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Your CRM Strategy – Aligned with",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Our CRM-Services",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Our CRM customer",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Talk to Our Experts",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Get in touch now!",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "39px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 1089,
+    "left": 145
+   },
+   {
+    "sel": "hero__description",
+    "width": 1040,
+    "left": 175
+   },
+   {
+    "sel": "simple-text__paragraph",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "cards-block__grid",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "teaser-item__inner",
+    "width": 966,
+    "left": 237
+   },
+   {
+    "sel": "simple-text__paragraph",
+    "width": 1089,
+    "left": 175
+   },
+   {
+    "sel": "form-block__container",
+    "width": 1089,
+    "left": 175
+   }
+  ]
+ }
+}

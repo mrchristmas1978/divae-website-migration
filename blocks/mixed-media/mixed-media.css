@@ -1,0 +1,295 @@
+/* mixed-media — source MixedMedia (left / right; article teaser variant).
+   Below 768px the info column dissolves (display: contents) so the single image sits
+   between title and text, where the source shows its duplicate image. */
+.mixed-media {
+  display: block;
+  margin: 40px 0;
+  padding: 0 var(--pad-x);
+}
+
+.mixed-media .mixed-media-grid {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.mixed-media .mixed-media-info {
+  display: contents;
+}
+
+.mixed-media .mixed-media-info-label {
+  order: 1;
+  padding-bottom: 20px;
+  font-family: var(--font-body);
+  font-size: 2rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+}
+
+.mixed-media .mixed-media-info-label :is(h1, h2, h3, h4, h5, h6, p) {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+.mixed-media .mixed-media-info-label :is(h1, h2, h3, h4, h5, h6, p)::before {
+  content: "";
+  width: 16px;
+  height: 16px;
+  margin-right: 16px;
+  padding-right: 16px;
+  border-radius: 100%;
+  background: var(--blue);
+  filter: blur(4px);
+}
+
+.mixed-media .mixed-media-info-title {
+  order: 2;
+  padding-bottom: 20px;
+}
+
+.mixed-media .mixed-media-info-title :is(h1, h2, h3, h4, h5, h6) {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+.mixed-media .mixed-media-info-date {
+  order: 3;
+  margin-bottom: 24px;
+}
+
+.mixed-media .mixed-media-media {
+  order: 4;
+  padding-bottom: 20px;
+}
+
+.mixed-media .mixed-media-info-txt {
+  order: 5;
+  padding-bottom: 48px;
+}
+
+.mixed-media .mixed-media-info-link {
+  order: 6;
+  padding-bottom: 20px;
+}
+
+/* the source richtext list in the text column (.richtext ul / ol): 27px indent, 16px item
+   rhythm, blue 8px dot (case studies: wilo, multivac) */
+.mixed-media .mixed-media-info-txt :is(ul, ol) {
+  padding-left: 27px;
+}
+
+.mixed-media .mixed-media-info-txt li {
+  position: relative;
+  margin-top: 16px;
+}
+
+.mixed-media .mixed-media-info-txt ul > li {
+  list-style: none;
+}
+
+.mixed-media .mixed-media-info-txt ul > li::before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: -24px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--blue);
+}
+
+.mixed-media .mixed-media-info-txt ol {
+  list-style: decimal;
+}
+
+.mixed-media .mixed-media-img {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.mixed-media .mixed-media-img::before {
+  content: "";
+  display: block;
+  padding-bottom: 87%;
+}
+
+.mixed-media .mixed-media-img img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (width >= 768px) {
+  .mixed-media {
+    margin: 64px 0;
+  }
+
+  .mixed-media .mixed-media-grid {
+    flex-flow: row wrap;
+    justify-content: center;
+    column-gap: 24px;
+  }
+
+  .mixed-media .mixed-media-info {
+    z-index: 1;
+    display: block;
+    order: 2;
+    align-self: center;
+    width: calc(600% / 12 - 6 * 24px / 12);
+  }
+
+  .mixed-media .mixed-media-media {
+    display: block;
+    order: 1;
+    align-self: center;
+    width: calc(600% / 12 - 6 * 24px / 12);
+    padding-bottom: 0;
+  }
+
+  .mixed-media.right .mixed-media-media {
+    order: 2;
+  }
+
+  .mixed-media.right .mixed-media-info {
+    order: 1;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+@media (width >= 950px) {
+  .mixed-media .mixed-media-media,
+  .mixed-media .mixed-media-info {
+    width: calc(500% / 12 - 7 * 24px / 12);
+  }
+
+  .mixed-media .mixed-media-info-title {
+    padding-bottom: 40px;
+  }
+}
+
+@media (width >= 1200px) {
+  .mixed-media {
+    margin: 80px 0;
+  }
+
+  .mixed-media .mixed-media-info {
+    padding-left: 48px;
+  }
+
+  .mixed-media.right .mixed-media-info {
+    padding-right: 48px;
+    padding-left: 0;
+  }
+
+  .mixed-media .mixed-media-info-title {
+    padding-bottom: 24px;
+  }
+
+  .mixed-media .mixed-media-info-title :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  .mixed-media .mixed-media-info-title :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 4.7rem;
+  }
+}
+
+/* article: insights teaser (en-insights-edge) -------------------------------- */
+.mixed-media.article .mixed-media-info-title :is(h1, h2, h3, h4, h5, h6) {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.mixed-media.article .mixed-media-info-txt {
+  padding-bottom: 40px;
+}
+
+.mixed-media.article .mixed-media-info-txt p {
+  font-size: 1.8rem;
+  line-height: 150%;
+}
+
+/* the source CTA is .btn--sm on every MixedMedia (13/13 captures: 42px / 14px, 48px / 16px
+   >= 768) — the default since C-final; `cta-sm` (cluster form) stays as an accepted no-op token */
+.mixed-media .mixed-media-info-link a:any-link {
+  min-height: 42px;
+  padding: 4px 20px;
+  font-size: 14px;
+}
+
+@media (width >= 768px) {
+  .mixed-media .mixed-media-info-link a:any-link {
+    min-height: 48px;
+    padding: 4px 28px;
+    font-size: 16px;
+  }
+}
+
+.mixed-media.article .mixed-media-info-link a:any-link {
+  min-height: 42px;
+  padding: 4px 20px;
+  font-size: 14px;
+}
+
+@media (width >= 768px) {
+  .mixed-media.article .mixed-media-media,
+  .mixed-media.article .mixed-media-info {
+    align-self: flex-start;
+  }
+
+  .mixed-media.article .mixed-media-img {
+    transform: perspective(100px) rotateY(-1.5deg) translate3d(-28px, 0, 0);
+  }
+
+  .mixed-media.article .mixed-media-img::before {
+    padding-bottom: 74%;
+  }
+
+  .mixed-media.article .mixed-media-info-txt p {
+    font-size: 2.4rem;
+    line-height: 140%;
+  }
+
+  .mixed-media.article .mixed-media-info-link a:any-link {
+    min-height: 48px;
+    padding: 4px 28px;
+    font-size: 16px;
+  }
+}
+
+@media (width >= 950px) {
+  .mixed-media.article .mixed-media-info-link {
+    padding-bottom: 40px;
+  }
+}
+
+/* the source's per-instance margin flags: an instance without `top-margin` / `bottom-margin`
+   (additive variants `no-top` / `no-bottom`) */
+.mixed-media.no-top {
+  margin-top: 0;
+}
+
+.mixed-media.no-bottom {
+  margin-bottom: 0;
+}

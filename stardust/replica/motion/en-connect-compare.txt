@@ -1,0 +1,8 @@
+motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)
+motion transition transform: parity (7 event(s) on live, 6 on build, 4000ms)
+motion class show: MISSING on build (trigger class added 1× on live, never on build)
+motion class swiper-slide-active: parity (added 70× on live, 7× on build)
+motion class swiper-slide-next: parity (added 69× on live, 6× on build)
+motion class swiper-slide-prev: parity (added 64× on live, 13× on build)
+motion class swiper-slide-visible: MISSING on build (trigger class added 147× on live, never on build)
+motion summary: 4 parity, 2 missing, 0 extra, 0 advisory (0 out of tolerance, 1 dead or unobserved on live — not required; tolerance 150ms / 8px)

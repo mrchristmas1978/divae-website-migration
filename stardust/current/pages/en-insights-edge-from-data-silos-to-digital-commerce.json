@@ -1,0 +1,1419 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T09:58:12.959Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-insights-edge-from-data-silos-to-digital-commerce",
+  "url": "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T09:58:12.959Z",
+  "finalUrl": "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/",
+  "title": "From Data Silos to Digital Commerce | diva-e Conclusion",
+  "description": "How mid-market leaders in wholesale, manufacturing and automotive unlock the full potential of B2B eCommerce by connecting their commerce platforms to SAP S/4HANA and why the integration layer is the decisive competitive differentiator.",
+  "og": {
+    "title": "From Data Silos to Digital Commerce | diva-e Conclusion",
+    "description": "How mid-market leaders in wholesale, manufacturing and automotive unlock the full potential of B2B eCommerce by connecting their commerce platforms to SAP S/4HANA and why the integration layer is the decisive competitive differentiator.",
+    "image": "https://a.storyblok.com/f/194188/800x420/2f253d4b5d/og-image.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "From Data Silos to Digital Commerce"
+    },
+    {
+      "tag": "h3",
+      "text": "Executive Summary"
+    },
+    {
+      "tag": "h2",
+      "text": "Intro"
+    },
+    {
+      "tag": "h2",
+      "text": "Future of Commerce Starts with Integration"
+    },
+    {
+      "tag": "h2",
+      "text": "Part I: The Problem Space"
+    },
+    {
+      "tag": "h2",
+      "text": "1. The B2B Commerce Imperative: Why Standing Still Is Not an Option"
+    },
+    {
+      "tag": "h2",
+      "text": "2. SAP as the Backbone and the Bottleneck"
+    },
+    {
+      "tag": "h5",
+      "text": "The ERP-Centric Architecture Reality"
+    },
+    {
+      "tag": "h2",
+      "text": "3. The Seven Classic Pain Points of SAP-Shop Integrations"
+    },
+    {
+      "tag": "h5",
+      "text": "Pain Point 1: Data Complexity and Master Data Chaos"
+    },
+    {
+      "tag": "h5",
+      "text": "Pain Point 2: The Hardest Problem - Real-Time Pricing and Inventory Availability"
+    },
+    {
+      "tag": "h5",
+      "text": "Pain Point 3: Customer and Account Model Mismatches"
+    },
+    {
+      "tag": "h5",
+      "text": "Pain Point 4: Order Management and Process Integration"
+    },
+    {
+      "tag": "h5",
+      "text": "Pain Point 5: Legacy Integration Patterns and Technical Debt"
+    },
+    {
+      "tag": "h5",
+      "text": "Pain Point 6: Multi-Brand and Multi-Country Complexity"
+    },
+    {
+      "tag": "h5",
+      "text": "Pain Point 7: Organizational and Governance Challenges"
+    },
+    {
+      "tag": "h2",
+      "text": "Part II: The Evolution of SAP Integration"
+    },
+    {
+      "tag": "h2",
+      "text": "4. A Brief History of SAP-Shop Integration: From IDOCs to Intelligent Enterprise"
+    },
+    {
+      "tag": "h5",
+      "text": "The Early Era: Power Through Simplicity"
+    },
+    {
+      "tag": "h5",
+      "text": "The Service Oriented Era: Flexibility at a Cost"
+    },
+    {
+      "tag": "h5",
+      "text": "The Middleware & BTP/CPI Era: Integration as a Platform"
+    },
+    {
+      "tag": "h5",
+      "text": "Example Cases"
+    },
+    {
+      "tag": "h2",
+      "text": "5. The State of the Art: SAP S/4HANA + BTP/CPI"
+    },
+    {
+      "tag": "h5",
+      "text": "SAP Business Technology Platform (BTP)"
+    },
+    {
+      "tag": "h5",
+      "text": "SAP Cloud Platform Integration (CPI) / Integration Suite"
+    },
+    {
+      "tag": "h5",
+      "text": "Why BTP/CPI often is the Right Choice Today"
+    },
+    {
+      "tag": "h5",
+      "text": "When to challenge a BTP/CPI-based Solution"
+    },
+    {
+      "tag": "h2",
+      "text": "6. AI-Ready Commerce starts with integrated ERP Data"
+    },
+    {
+      "tag": "h2",
+      "text": "Part III: The diva-e Conclusion Approach"
+    },
+    {
+      "tag": "h2",
+      "text": "7. Why Integration Projects Fail and How to Prevent It"
+    },
+    {
+      "tag": "h2",
+      "text": "8. The diva-e Conclusion Integration Methodology: Discovery → Design → Deliver"
+    },
+    {
+      "tag": "h5",
+      "text": "Phase 1: Discovery Workshop - Identification of Integration Requirements"
+    },
+    {
+      "tag": "h5",
+      "text": "Phase 2: Detail Workshop - Functional and Technical Specification"
+    },
+    {
+      "tag": "h5",
+      "text": "Phase 3: Implementation – Integration by Integration"
+    },
+    {
+      "tag": "h2",
+      "text": "9. The Technology Stack: [Your Commerce Platform] + SAP S/4HANA via BTP/CPI"
+    },
+    {
+      "tag": "h5",
+      "text": "The Architecture Pattern"
+    },
+    {
+      "tag": "h5",
+      "text": "Key Integration Scenarios"
+    },
+    {
+      "tag": "h5",
+      "text": "Platform Examples"
+    },
+    {
+      "tag": "h2",
+      "text": "10. Proven in Practice: Reusable Integration Assets Across Platforms"
+    },
+    {
+      "tag": "h2",
+      "text": "11. Shopware Nexus: Completing the Puzzle with a Standardized Shopware-Side Integration Contract"
+    },
+    {
+      "tag": "h2",
+      "text": "Part IV: Strategic Considerations"
+    },
+    {
+      "tag": "h2",
+      "text": "12. Multi-Brand and Multi-Country: Scaling the Integration"
+    },
+    {
+      "tag": "h5",
+      "text": "Layer 1: Connecting to Multiple ERP Systems"
+    },
+    {
+      "tag": "h5",
+      "text": "Layer 2: Navigating Organizational Structures Within a Single ERP"
+    },
+    {
+      "tag": "h5",
+      "text": "Combining Both Layers: The Complex Scenario"
+    },
+    {
+      "tag": "h5",
+      "text": "Integration Architecture Strategies"
+    },
+    {
+      "tag": "h5",
+      "text": "Data Governance Across Systems and Contexts"
+    },
+    {
+      "tag": "h2",
+      "text": "13. The Build vs. Buy vs. Configure Decision"
+    },
+    {
+      "tag": "h5",
+      "text": "Pure Custom Build"
+    },
+    {
+      "tag": "h5",
+      "text": "Off-the-Shelf Connectors"
+    },
+    {
+      "tag": "h5",
+      "text": "The diva-e Conclusion Configure-First Philosophy"
+    },
+    {
+      "tag": "h2",
+      "text": "14. Organizational Readiness: The Human Side of Integration"
+    },
+    {
+      "tag": "h5",
+      "text": "Bridging the SAP and Digital Worlds"
+    },
+    {
+      "tag": "h5",
+      "text": "Change Management"
+    },
+    {
+      "tag": "h5",
+      "text": "Governance Model"
+    },
+    {
+      "tag": "h2",
+      "text": "Part V: The Path Forward"
+    },
+    {
+      "tag": "h2",
+      "text": "15. Getting Started: The diva-e Conclusion Integration Assessment"
+    },
+    {
+      "tag": "h5",
+      "text": "What the Assessment Covers"
+    },
+    {
+      "tag": "h5",
+      "text": "What You Get"
+    },
+    {
+      "tag": "h5",
+      "text": "Typical Engagement Timeline"
+    },
+    {
+      "tag": "h2",
+      "text": "16. Conclusion: Integration as a Strategic Capability"
+    },
+    {
+      "tag": "h3",
+      "text": "About the authors"
+    }
+  ],
+  "body": [
+    "ServicesDigital ConsultingAuditsDigital Business ConsultingTechnology & Architecture Consultingdiva-e AIStrategic transformation with the 9-Grid modelUser ExperienceData Analytics & Business IntelligenceDigital Experience PlatformsE-Commerce PlatformsContent Management SystemKarriereportalCustomer Data PlatformProduct Information ManagementSystem Integration Customer Relationship ManagementDigital MarketingGAIO / GEOContentSEOPaid AdvertisingOmnichannel MarketingApplication Management ServiceApplication Management ServiceCloud ConsultingCloudsecurityCybersecurityTotal Experience",
+    "Marketplace",
+    "IndustriesTech Guide: Evaluate systems smartlyCompare ROI, TCO and business value with clarityDownload now!Financial Services Guide: Winning Customers SafelyDigital experiences that build trust and strengthen customer loyaltyRead now!AutomotiveB2B ManufacturingRetailFinancial Services",
+    "Partners",
+    "About usdiva-e Conclusion remains market leader in DXSLünendonk once again confirms our role as market leader.DownloadOur Latest Success Story: InteramtOptimized platform, improved UX, modern recruiting toolRead success storyAbout usManagementLocationSuccess StoriesPress",
+    "InsightsCyber Guide: How Firms Stay SafeOpportunities & Risks in CybersecurityDownload now!AI Search Guide: Ensure visibility!Strategic visibility in AI searches!Download now!NewsEvents & WebinarsBlogReferencesDownloads",
+    "Careers",
+    "de",
+    "en",
+    "Mastering SAP Integration in B2B eCommerce",
+    "1. The B2B Commerce Imperative: Why Standing Still Is Not an Option",
+    "2. SAP as the Backbone and the Bottleneck",
+    "3. The Seven Classic Pain Points of SAP-Shop Integrations",
+    "4. A Brief History of SAP-Shop Integration: From IDOCs to Intelligent Enterprise",
+    "5. The State of the Art: SAP S/4HANA + BTP/CPI",
+    "6. AI-Ready Commerce starts with integrated ERP Data",
+    "7. Why Integration Projects Fail and How to Prevent It",
+    "8. The diva-e Conclusion Integration Methodology: Discovery → Design → Deliver",
+    "9. The Technology Stack: [Your Commerce Platform] + SAP S/4HANA via BTP/CPI",
+    "10. Proven in Practice: Reusable Integration Assets Across Platforms",
+    "11. Shopware Nexus: Completing the Puzzle with a Standardized Shopware-Side Integration Contract",
+    "12. Multi-Brand and Multi-Country: Scaling the Integration",
+    "13. The Build vs. Buy vs. Configure Decision",
+    "14. Organizational Readiness: The Human Side of Integration",
+    "15. Getting Started: The diva-e Conclusion Integration Assessment",
+    "16. Conclusion: Integration as a Strategic Capability",
+    "B2B eCommerce is no longer a digital add-on. It is a primary revenue channel and a strategic battleground. For mid-market companies running SAP as their operational backbone, the ability to connect a modern commerce platform to SAP S/4HANA is not a technical nicety; it is a prerequisite for competitive survival.",
+    "Yet this integration is consistently one of the most underestimated challenges in digital commerce projects. SAP’s pricing logic, customer master data, inventory management, and order processing are deeply complex. Mapping these to the real-time, customer-facing demands of a modern shop requires deep expertise in both worlds and a proven methodology to bridge them.",
+    "diva-e Conclusion has been delivering SAP-shop integrations for over a decade, across every major generation of SAP technology: from SAP R/3 to S4/HANA, from IDOCs and FTP via service oriented approaches like the SAP PI/PO middleware, to today’s state-of-the-art approach of using the SAP Business Technology Platform (BTP) and its subcomponent Cloud Platform Integration (CPI; part of SAP Integration Suite). This experience has produced a reusable library of integration assets, a battle-tested methodology, and a team that speaks both SAP and digital commerce fluently.",
+    "This paper is written for digital leaders, IT decision-makers, and heads of eCommerce at mid-market companies in wholesale & distribution, industrial & manufacturing, automotive & mobility, retail and beyond that rely on SAP as their operational backbone. It explains:",
+    "Why SAP integration is the hardest part of any B2B commerce project",
+    "Why SAP integration is the hardest part of any B2B commerce project",
+    "The seven (classic) pain points we have seen over the years that can derail integration projects",
+    "The seven (classic) pain points we have seen over the years that can derail integration projects",
+    "How SAP integration technology has evolved and why BTP/CPI is the right approach today",
+    "How SAP integration technology has evolved and why BTP/CPI is the right approach today",
+    "How Shopware Nexus fits into the process recommended by diva-e Conclusion, by addressing the Shopware side of the integration equation",
+    "How Shopware Nexus fits into the process recommended by diva-e Conclusion, by addressing the Shopware side of the integration equation",
+    "The diva-e Conclusion methodology: a structured, phased process from discovery to delivery",
+    "The diva-e Conclusion methodology: a structured, phased process from discovery to delivery",
+    "Strategic considerations for multi-brand and multi-country architectures",
+    "Strategic considerations for multi-brand and multi-country architectures",
+    "How to get started with a low-risk, high-value first engagement",
+    "How to get started with a low-risk, high-value first engagement",
+    "The integration layer between your commerce platform and SAP S/4HANA is not a commodity task. It is the foundation on which your entire digital commerce capability rests. Getting it right the first time is what separates companies that scale from those that stall.",
+    "The innovations unveiled at this year’s Shopware Community Day highlight a clear direction for the future of commerce: success will no longer be defined solely by better storefront experiences or new platform capabilities. Instead, competitive advantage will increasingly depend on how easily, quickly, and flexibly businesses can connect their technology ecosystems.",
+    "With Nexus, Shopware showcased an approach that reflects this shift. By simplifying integrations between commerce platforms and third-party systems, Nexus points toward a future where technical complexity is reduced and innovation can move faster. From our perspective, this is one of the most important developments shaping the future of Commerce. Across digital commerce projects, we continue to see integration as the critical factor that determines scalability, speed, and long-term business agility. As a result, integration is evolving from a technical challenge into a strategic business capability.That is why Nexus aligns so closely with our own integration philosophy. The future belongs to connected commerce ecosystems, where ERP, CRM, PIM, and commerce platforms work together seamlessly rather than through complex, custom-built connections. This becomes particularly relevant in SAP-driven environments, where integration complexity often remains one of the biggest barriers to innovation. At the same time, it is also where the greatest opportunities exist to accelerate time-to-market, reduce operational complexity, and unlock new digital growth.",
+    "As a Shopware partner, we see a strong alignment between these innovations and the challenges our clients are looking to solve. Simplifying integrations, reducing complexity, and creating scalable connections between business-critical systems have long been at the core of our integration approach. Nexus is an exciting example of how the industry is moving in exactly this direction.",
+    "The B2B buyer has changed. A generation of procurement professionals who grew up with Amazon, instant search, and mobile-first interfaces now sits in the purchasing departments of your customers. They expect the same clarity, speed, and self-service capability from their business suppliers that they experience as consumers. They want to check stock availability at 10 PM, reorder a complex assembly without calling a sales representative, and download their invoice history without opening a support ticket.",
+    "This shift is not a future trend, but already the present reality. Studies consistently show that B2B buyers prefer digital self-service channels for routine purchases, and that a poor digital experience is a primary driver of supplier switching. For companies in industrial manufacturing and automotive supply the stakes are particularly high: long-term customer relationships, high order values, and complex product portfolios mean that friction in the buying process translates directly into lost revenue.",
+    "At the same time, the competitive landscape has intensified. Digital-native B2B platforms, marketplace models, and vertically integrated competitors are raising the bar on what is acceptable functionality and user experience in B2B eCommerce. Companies that cannot offer real-time pricing, live inventory, account-specific catalogs, and seamless order management are not just behind in nice-to-have functionality, but in offering basic necessities to their customers.",
+    "For mid-market companies with revenues between €300 million and €2 billion, the pressure is acute. They are large enough to have complex SAP landscapes and legacy infrastructure, but often lack the resources of enterprise players to throw “unlimited” budget at the problem. They need to be smart, methodical, and strategic about how they build and expand their digital commerce capability.The question is no longer whether to invest in B2B eCommerce. The question is how to do it in a way that leverages your existing SAP investment rather than working around it.",
+    "For many companies SAP is not just one system among many. It is the operational nervous system of their entire business. Pricing logic, customer master data, inventory positions, order management, credit limits, contract terms, logistics execution, and financial accounting all live in SAP. Having this data, logic and processes represented correctly in SAP is one of the greatest assets for these companies, while at the same time integrating at the necessary level of detail to enable the usage of the according digital commerce capabilities poses one of the greatest challenges for these projects.",
+    "The asset: SAP holds decades of business logic, customer history, and operational data that no other system in the enterprise can replicate. A commerce platform that can tap into this data delivers an experience that is genuinely differentiated and deeply personalized, surfacing customer-specific prices, real-time stock levels, and account-specific product catalogs.",
+    "The challenge: SAP ERP / S4/HANA was not designed with real-time, customer-facing digital commerce in mind. Its data structures, APIs, and processing models reflect the priorities of back-office operations: completeness, consistency, and auditability. Translating these into the low-latency, high-availability demands of a modern shop is a non-trivial engineering challenge.",
+    "This creates what we call the “SAP Gravity Problem”. Every significant decision in a B2B commerce project like how to display prices, how to handle stock, how to create orders, how to manage customer accounts, ultimately orbits around the ERP. You cannot build a credible B2B shop without integrating deeply with SAP. And that integration is where most projects encounter their most serious difficulties.",
+    "ERP-centric architectures are the norm from these companies. In these architectures the ERP/SAP system is the system of record, not the shop system. This means:",
+    "Product data originates in SAP (material master) and must be enriched and transformed for commerce. This often happens using a 3 way connection between SAP, PIM systems and a commerce engine.",
+    "Product data originates in SAP (material master) and must be enriched and transformed for commerce. This often happens using a 3 way connection between SAP, PIM systems and a commerce engine.",
+    "Prices are calculated by SAP’s condition technique and must be retrieved or replicated accurately",
+    "Prices are calculated by SAP’s condition technique and must be retrieved or replicated accurately",
+    "Customer accounts in the shop must correspond to SAP customer master records",
+    "Customer accounts in the shop must correspond to SAP customer master records",
+    "Every order placed in the shop must ultimately be created as a sales order in SAP",
+    "Every order placed in the shop must ultimately be created as a sales order in SAP",
+    "Availability information displayed in the shop must reflect SAP’s ATP logic (available to promise; considering warehouse stock, open purchase orders, production orders and reservations)",
+    "Availability information displayed in the shop must reflect SAP’s ATP logic (available to promise; considering warehouse stock, open purchase orders, production orders and reservations)",
+    "This is not a problem to be solved once and forgotten. It is an ongoing operational reality that must be managed, monitored, and maintained as both SAP and the commerce platform evolve.",
+    "Based on diva-e Conclusion’s experience delivering SAP integrations across dozens of projects and multiple technology generations, seven pain points recur with remarkable consistency. Understanding them before starting a project is the difference between a smooth delivery and a costly rescue mission.",
+    "SAP’s material master is a marvel of completeness and a nightmare for commerce. It was designed to capture every attribute relevant to logistics, procurement, production, and finance. What it was not designed for is the rich, marketing-oriented product data that a modern shop requires: compelling descriptions, high-resolution images, structured attributes for faceted search, cross-sell and up-sell relationships and SEO-optimized content.",
+    "The result is a gap between the data available and stored in SAP and what the shop needs. Bridging this gap requires a clear data governance strategy: which attributes come from SAP, which of them are enriched in a PIM system or directly in the shop, and how are conflicts resolved when the same attribute exists in multiple systems? In multi-brand and multi-country scenarios, this complexity multiplies: the same product may have different descriptions, prices, and availability across markets, all of which must be managed consistently.",
+    "B2B pricing in SAP is notoriously complex. Customer-specific prices, contract prices, scale pricing, promotional conditions, surcharges (e.g. for small quantities) and currency-specific pricing are all managed through SAP’s condition technique. A powerful but opaque system that can produce different prices for the same product depending on dozens of variables: who the customer is, what sales organization they belong to, what quantity they are ordering, and what date it is.",
+    "Replicating this logic outside SAP is error-prone and creates a maintenance burden every time pricing rules change. Calling SAP in real-time for every price display solves the accuracy problem but creates latency and load issues that can degrade the shop experience. Finding the right balance on what to cache, what to calculate in real-time and how to handle edge cases is one of the most technically demanding aspects of any SAP-shop integration.",
+    "Availability presents a similar challenge. SAP’s ATP (Available-to-Promise) logic considers warehouse stock, open purchase orders, production orders, and reservations. Surfacing an accurate, real-time availability indicator in the shop without overloading SAP requires careful design of the integration architecture. This also includes handling of sensitive information such as inventory / warehouse stock, which needs to play a role when calculating and showing availabilities to customers, but should not be fully exposed in the shop (and therefore potentially also to competitors).",
+    "SAP’s customer model is built around the concept of partner functions:",
+    "Relations between companies: sold-to party, ship-to party, bill-to party, payer and custom partner functions.",
+    "Relations between companies: sold-to party, ship-to party, bill-to party, payer and custom partner functions.",
+    "Relations to contact persons: real people working at the end customer and performing actions in the shop (login, search, order).",
+    "Relations to contact persons: real people working at the end customer and performing actions in the shop (login, search, order).",
+    "Relations to sales employees: own employees that are in touch with customers and should be available for contact (e.g. via contact forms, chat/mail functionality).",
+    "Relations to sales employees: own employees that are in touch with customers and should be available for contact (e.g. via contact forms, chat/mail functionality).",
+    "A single business relationship in SAP may involve multiple customer master records linked by these partner functions. In contrast, modern shop platforms typically handle customers as users belonging to organizations or accounts.",
+    "Mapping these two models to each other is a significant design challenge - even after the introduction of the Business Partner concept in S/4HANA. Especially in B2B scenarios that also involve different buying centers, approval workflows, multi-user accounts, and delegated purchasing authority. Get it wrong, and customers see incorrect prices, cannot access their order history, or in the worst case are able to access data belonging to other customers.",
+    "Creating a sales order in SAP is not a simple database insert. It triggers a cascade of checks and processes: availability checking, credit limit verification, pricing determination, output determination, and potentially warehouse management processes. Each of these can fail or produce unexpected results, and each failure must be handled gracefully in the shop’s user interface. This needs to be performed before the actual order is created and usually is part of the order simulation process.",
+    "Mapping the shop’s checkout flow to SAP’s order creation process requires careful design of error handling, retry logic, and user feedback. In B2B scenarios, additional complexity arises from partial deliveries, back-orders, blanket orders, and scheduled deliveries. Some if not all of them must be reflected accurately in the shop.",
+    "Many mid-market companies carry significant integration technical debt. Although many companies have started to address some of the issues, some integrations built for SAP R/3 using IDOCs over FTP, flat-file exchanges, or point-to-point RFC connections are still running in production, often undocumented and poorly understood. These legacy integrations are brittle, hard to monitor, and block the agility needed to respond to changing business requirements.",
+    "When a new commerce platform is introduced, the temptation is to attach it to the existing set of legacy systems and integrations as easily as possible rather than rationalizing the architectural landscape. This approach defers the pain but amplifies it: the new shop inherits the fragility and opacity of the legacy integration, and the technical debt grows.",
+    "Pursuing multi-brand or multi-country strategies today is the norm for many companies. In these cases, the integration complexity multiplies. Different company codes, sales organizations, distribution channels, and divisions in SAP must be mapped to different storefronts, languages, currencies, and tax regimes. A product that is available in Germany but not in France, priced differently in Switzerland, and described differently for the automotive versus the industrial segment, must be handled correctly across all dimensions simultaneously.",
+    "This is not just a technical, but a data governance and organizational challenge. Who is responsible for maintaining the mapping between SAP organizational structures and shop configurations? How are changes to SAP’s organizational model reflected in the shop? These questions must be answered before the first line of integration code is written.",
+    "Perhaps the most underestimated pain point is organizational. SAP is typically owned and operated by the internal IT department, with its own release cycles, change management processes, and governance structures. The commerce platform is typically owned by the digital or eCommerce team, with faster iteration cycles and different priorities. Since the integration sits at the intersection of these two “worlds” it is often trapped in the governance gap.",
+    "Integration projects that lack clear ownership, defined escalation paths, and agreed-upon processes for handling changes on either side of the integration are at high risk of failure. The technical challenges are solvable; the organizational challenges require deliberate design and sustained management attention.",
+    "diva-e Conclusion has been delivering SAP integrations since the era of SAP R/3 and flat-file exchanges. This history is not just a credential, but a source of hard-won insight into what works, what fails, and why. Understanding the evolution of SAP integration technology helps explain both the current state of the art and the legacy debt that many companies are still carrying.",
+    "In the SAP R/3 era, the dominant integration pattern was the IDOC (Intermediate Document) format. A structured flat-file format that SAP used to exchange data with external systems. IDOCs were typically transferred via file transfer mechanisms such as FTP, processed by custom functionality or middleware and loaded into the target system through batch jobs. This approach was robust for high-volume, asynchronous data exchange. But it was inherently batch-oriented, difficult to monitor and required significant custom development for every new interface.",
+    "diva-e Conclusion has built and maintained numerous IDOC-based integrations when connecting SAP systems that stem from that era. Although this pattern has been around for a long time, such integrations are sometimes still necessary today, since migration projects to newer SAP versions have not taken place yet or other legacy systems and processes are still in use. During that timeframe diva-e Conclusion build deep expertise in SAP’s data structures and the practical realities of batch integration. Although the integration technologies and strategies have changed, the understanding what data SAP produces, how it is structured and what transformations are required to make it useful for commerce remains directly relevant today.",
+    "As SAP ECC matured and integration requirements became more complex, dedicated middleware platforms emerged as the dominant integration pattern. Early on SAP’s own PI/PO (Process Integration / Process Orchestration) platform offered a centralized integration hub with monitoring, error handling and a library of pre-built adapters. In the following years third-party ESBs (Enterprise Service Buses) such as MuleSoft offered greater flexibility and a broader ecosystem, addressing integration scenarios reaching well beyond SAP/ERP functionality.",
+    "diva-e Conclusion delivered integrations using both SAP PI/PO and the native SAP Commerce/hybris Data Hub. Later on, commercial middleware platforms and ESBs like MuleSoft (via it’s SAP connector and OData services) gained popularity and were used in several cases. These projects demonstrated the value of a dedicated integration layer as the central backbone and nerve system of a company’s infrastructure. While those architectures are still relevant today, they also come with a pitfall: Service oriented infrastructures and middleware platforms require their own expertise, operational management and sometimes licensing. This comes with additional costs for both initial setup and maintenance. Furthermore, these platforms can become bottlenecks if not properly designed.",
+    "With the introduction of SAP S/4HANA and the SAP Business Technology Platform (BTP), SAP has fundamentally changed the integration paradigm. CPI (Cloud Platform Integration, now part of SAP Integration Suite) is SAP’s cloud-native iPaaS. A platform for building, deploying, and monitoring integration flows that is deeply integrated with the SAP ecosystem.",
+    "BTP/CPI offers several decisive advantages over previous approaches: pre-built integration content packages for common SAP scenarios, a modern API-first architecture based on OData and REST, built-in monitoring and alerting and seamless connectivity to SAP S/4HANA’s APIs. Critically, it is the approach that SAP itself recommends and invests in. This means that it will be supported, enhanced, and maintained in the future as SAP evolves further.",
+    "diva-e Conclusion has been delivering BTP/CPI-based integrations since this approach became viable, including production integrations for Wilo, SCHOTT and others. This experience has produced a library of reusable CPI integration packages that significantly reduce the time and risk of new integration projects.",
+    "diva-e Conclusion has implemented many of these cases multiple times. At Pferd/Auggust Rüggeberg and Stauff we integrated SAP ERP data and PIM data with a commerce solution using a custom diva-e Conclusion middleware, the “diva-e TXP integration hub”. In detail RFC and IDOC were used. In one case RFC was replaced by ODATA interfaces after the customer upgraded to S/4HANA.",
+    "At Wilo and Richter + Frenzel the integration strategy was based on BTP/CPI and integrating into S/4HANA via ODATA interfaces.",
+    "At SMA a MuleSoft based approach was realized, since MuleSoft acted as the central middleware solution in the overall architecture.",
+    "At SCHOTT the native SAP Commerce/hybris data hub and RFC calls were used. A similar approach via the data hub was implemented at Klöckner by using SOAP-webservies. The solution at SCHOTT was later on migrated to a BTP/CPI based integration into S/4HANA.",
+    "For companies embarking on new SAP-commerce integration initiatives or modernizing existing SAP landscapes, SAP BTP and SAP Integration Suite (formerly CPI) have emerged as the preferred approach. From both a technical and strategic perspective, they provide the foundation for building scalable, maintainable and future-ready integrations. Understanding why requires a closer look at the role these platforms play within a modern SAP architecture.",
+    "SAP BTP is SAP’s unified platform for integration, extension, analytics, and application development. It provides the technical foundation for connecting SAP applications to each other and to third-party systems, extending SAP functionality without modifying the core, and building new applications that leverage SAP data and processes. In the integration scenarios we discuss here, the most relevant component of BTP is the Integration Suite, which includes CPI.",
+    "CPI is SAP’s cloud-native integration platform, a so called iPaaS (Integration Platform as a Service) that provides a visual development environment for building integration flows, a runtime for executing them, and a monitoring console for operating them. Key capabilities include:",
+    "Pre-built integration content packages for common SAP integration scenarios (order management, product data, customer data, pricing)",
+    "Pre-built integration content packages for common SAP integration scenarios (order management, product data, customer data, pricing)",
+    "A rich library of adapters for connecting to SAP and non-SAP systems via OData, REST, SOAP, SFTP, and other protocols",
+    "A rich library of adapters for connecting to SAP and non-SAP systems via OData, REST, SOAP, SFTP, and other protocols",
+    "Built-in message transformation, routing, and orchestration capabilities",
+    "Built-in message transformation, routing, and orchestration capabilities",
+    "Comprehensive monitoring, alerting, and error handling",
+    "Comprehensive monitoring, alerting, and error handling",
+    "API management capabilities for exposing and governing APIs",
+    "API management capabilities for exposing and governing APIs",
+    "The case for BTP/CPI rests on four pillars:",
+    "SAP alignment: BTP/CPI is SAP’s strategic integration platform. Choosing it means aligning with SAP’s own investment direction, which translates into better support, more pre-built content, and a lower risk of obsolescence.",
+    "SAP alignment: BTP/CPI is SAP’s strategic integration platform. Choosing it means aligning with SAP’s own investment direction, which translates into better support, more pre-built content, and a lower risk of obsolescence.",
+    "Reusability: Pre-built CPI content packages for SAP S/4HANA cover the most common integration scenarios. Rather than building from scratch, projects can configure and extend existing packages, dramatically reducing development time and risk.",
+    "Reusability: Pre-built CPI content packages for SAP S/4HANA cover the most common integration scenarios. Rather than building from scratch, projects can configure and extend existing packages, dramatically reducing development time and risk.",
+    "Operational excellence: CPI’s built-in monitoring, alerting, and error handling capabilities make it significantly easier to operate and maintain integrations in production than custom-built solutions.",
+    "Operational excellence: CPI’s built-in monitoring, alerting, and error handling capabilities make it significantly easier to operate and maintain integrations in production than custom-built solutions.",
+    "Platform agnosticism on the commerce side: Because CPI handles the SAP-side integration logic, the interaction of commerce platform such as Shopware, Pimcore, Salesforce Commerce Cloud or any other system is performed via the CPI and hence through standard APIs. This means the SAP integration investment is not tied to any single commerce platform. Of course certain customer specific requirements usually blend into how these interfaces are designed. But when done right, some if not all these specific requirements can already be addressed as part of the BTP/CPI implementation",
+    "Platform agnosticism on the commerce side: Because CPI handles the SAP-side integration logic, the interaction of commerce platform such as Shopware, Pimcore, Salesforce Commerce Cloud or any other system is performed via the CPI and hence through standard APIs. This means the SAP integration investment is not tied to any single commerce platform. Of course certain customer specific requirements usually blend into how these interfaces are designed. But when done right, some if not all these specific requirements can already be addressed as part of the BTP/CPI implementation",
+    "Although BTP/CPI-based integrations are the recommended pattern for integration, there are still cases in which this approach is too complex and comes with efforts and costs that are too high. Cases in which only a small number of direct API calls without any data transformation are needed still can be handled without going the route of a BTP/CPI-based integration. In short:",
+    "Going for a BTP/CPI-based integration scenario makes sense when:reusable integration packages are a must have,complex data transformation and mappings between ERP & commerce system are needed,complex routing requirements are present (e.g. load PIM&ERP product data into a commerce solution; setups that connect a single commerce solution to multiple ERPs).",
+    "Going for a BTP/CPI-based integration scenario makes sense when:",
+    "reusable integration packages are a must have,",
+    "reusable integration packages are a must have,",
+    "complex data transformation and mappings between ERP & commerce system are needed,",
+    "complex data transformation and mappings between ERP & commerce system are needed,",
+    "complex routing requirements are present (e.g. load PIM&ERP product data into a commerce solution; setups that connect a single commerce solution to multiple ERPs).",
+    "complex routing requirements are present (e.g. load PIM&ERP product data into a commerce solution; setups that connect a single commerce solution to multiple ERPs).",
+    "Challenge of using a BTP/CPI-based integration strategy makes sense if:direct API calls are technically feasible (i.e. no network / VPN issues),no data transformation or mappings are needed,the plan is to realize a very limited integration scenario that is very unlikely to be extended or reused.",
+    "Challenge of using a BTP/CPI-based integration strategy makes sense if:",
+    "direct API calls are technically feasible (i.e. no network / VPN issues),",
+    "direct API calls are technically feasible (i.e. no network / VPN issues),",
+    "no data transformation or mappings are needed,",
+    "no data transformation or mappings are needed,",
+    "the plan is to realize a very limited integration scenario that is very unlikely to be extended or reused.",
+    "the plan is to realize a very limited integration scenario that is very unlikely to be extended or reused.",
+    "The key insight: BTP/CPI is the stable, reusable layer. The commerce platform is the variable. diva-e Conclusion’s CPI integration packages have been validated across multiple commerce and PIM systems - the SAP-side logic does not need to be rebuilt for each new project.",
+    "Artificial Intelligence is rapidly becoming a differentiator in B2B Commerce. From intelligent product discovery and personalized recommendations to predictive replenishment and AI-assisted customer service, many of the most promising use case depend on one critical prerequisite: access to reliable business data.",
+    "For companies running SAP S/4HANA this data already exists. Customer-specific pricing, order history, product availability, contract conditions, inventory levels and purchasing behavior are all managed in the ERP landscape. However, AI systems can only create meaningful business value when this information is accessible, consistent and connected across systems.",
+    "This is why integration is increasingly becoming an enabler for AI adoption. A fragmented architecture with disconnected data silos limits the effectiveness of AI initiatives. In contrast, a well-designed integration layer built on SAP BTP and Integration Suite creates a unified foundation that allows AI-powered services to access trusted operational data in real time.",
+    "Emerging use cases include:",
+    "AI-assisted product search based on customer-specific catalogs and pricing",
+    "AI-assisted product search based on customer-specific catalogs and pricing",
+    "Intelligent reorder recommendations derived from order history",
+    "Intelligent reorder recommendations derived from order history",
+    "Predictive inventory and replenishment insights",
+    "Predictive inventory and replenishment insights",
+    "Automated customer service agents with access to order status, invoices and delivery information",
+    "Automated customer service agents with access to order status, invoices and delivery information",
+    "As SAP continues to expand its AI portfolio through capabilities such as SAP Joule and SAP Business AI Platform, organizations with a modern integration architecture will be best positioned to capitalize on these innovations. The path to AI-enabled commerce does not begin with AI itself. It begins with connected, trustworthy business data.",
+    "The technology for SAP-shop integration has never been better. Yet integration projects still fail or deliver far less than promised, far later than planned, and at far greater cost than budgeted. The reasons are rarely technical. They are almost always process, governance, and scoping failures.",
+    "The most common failure modes diva-e Conclusion has observed across the industry are:",
+    "Underestimating SAP customization impact: Standard SAP integration content assumes a relatively standard SAP configuration. Most mid-market companies have invested multiple years of manpower into SAP customization that reflects their specific business logic (e.g. custom fields/pricing conditions, special order types). This must be accounted for in the integration design. Discovering these customizations mid-project instead of early on is a primary cause of cost overruns.",
+    "Underestimating SAP customization impact: Standard SAP integration content assumes a relatively standard SAP configuration. Most mid-market companies have invested multiple years of manpower into SAP customization that reflects their specific business logic (e.g. custom fields/pricing conditions, special order types). This must be accounted for in the integration design. Discovering these customizations mid-project instead of early on is a primary cause of cost overruns.",
+    "Scope creep driven by undiscovered complexity: Integration projects that begin without a thorough discovery phase consistently encounter scope expansion as hidden complexity is revealed. Each new discovery adds time, cost, and risk.",
+    "Scope creep driven by undiscovered complexity: Integration projects that begin without a thorough discovery phase consistently encounter scope expansion as hidden complexity is revealed. Each new discovery adds time, cost, and risk.",
+    "No clear ownership between IT and digital teams: When the SAP team and the commerce team have different priorities, different release cycles, and no agreed-upon governance model for the integration, decisions stall, changes are made without coordination, and the integration becomes a source of ongoing conflict rather than a shared asset.",
+    "No clear ownership between IT and digital teams: When the SAP team and the commerce team have different priorities, different release cycles, and no agreed-upon governance model for the integration, decisions stall, changes are made without coordination, and the integration becomes a source of ongoing conflict rather than a shared asset.",
+    "Big-bang go-live strategies: Attempting to deliver all integration scenarios simultaneously in a single release is a high-risk approach. When problems, which usually is the case, there is no stable baseline to fall back to, and the entire project is at risk.",
+    "Big-bang go-live strategies: Attempting to deliver all integration scenarios simultaneously in a single release is a high-risk approach. When problems, which usually is the case, there is no stable baseline to fall back to, and the entire project is at risk.",
+    "Treating integration as a one-time project: Commerce platforms, business requirements and SAP itself change and evolve over time. Integrations that are not designed for maintainability and evolution become liabilities rather than assets.",
+    "Treating integration as a one-time project: Commerce platforms, business requirements and SAP itself change and evolve over time. Integrations that are not designed for maintainability and evolution become liabilities rather than assets.",
+    "The antidote to all of these failure modes is a structured, phased approach that begins with thorough discovery, proceeds through detailed specification, and delivers integration scenarios iteratively; one at a time, tested end-to-end before moving to the next.",
+    "diva-e Conclusion’s integration methodology has been refined across dozens of SAP integration projects spanning multiple technology generations. It is built on a simple but powerful principle: understand before you build, specify before you code, and deliver iteratively rather than all at once.",
+    "The methodology consists of three phases, each with defined inputs, activities, and deliverables.",
+    "The discovery phase is the most important investment in any integration project. Its purpose is to create a complete, shared understanding of what needs to be integrated, why, and what the current state of the SAP landscape looks like.",
+    "Key activities in the discovery phase include:",
+    "Mapping relevant business processes end-to-end: order-to-cash, product-to-publish, price-to-display, customer-to-account",
+    "Mapping relevant business processes end-to-end: order-to-cash, product-to-publish, price-to-display, customer-to-account",
+    "Identifying all relevant integration requirementsand data objects for each process",
+    "Identifying all relevant integration requirementsand data objects for each process",
+    "Assessing the current state of the SAP landscape: standard vs. custom configuration, existing interfaces, data quality",
+    "Assessing the current state of the SAP landscape: standard vs. custom configuration, existing interfaces, data quality",
+    "Identifying gaps: what data or interfaces are missing or need to be created?",
+    "Identifying gaps: what data or interfaces are missing or need to be created?",
+    "Documenting the organizational context: who owns what, what are the release cycles, what are the governance constraints?",
+    "Documenting the organizational context: who owns what, what are the release cycles, what are the governance constraints?",
+    "The deliverable of the discovery phase is an integration inventory and gap analysis: a complete list of all integration scenarios required, with an assessment of complexity, risk, and dependencies for each.",
+    "Example discovery outputs: automatic order creation in SAP from shop checkout; synchronization of material master data from SAP to the commerce platform; real-time price simulation via SAP’s pricing engine; customer account synchronization between SAP customer master and shop user accounts.",
+    "With the integration inventory established, the detail phase goes deep on each integration scenario. For every topic identified in the discovery phase, the detail workshop produces a complete functional and technical specification.",
+    "Key activities include:",
+    "Detailed process mapping for each integration scenario: what triggers the integration, what data flows, what transformations are required, what happens on success and failure?",
+    "Detailed process mapping for each integration scenario: what triggers the integration, what data flows, what transformations are required, what happens on success and failure?",
+    "Field-level specification: every data field required for the integration, including its source in SAP, its target in the commerce platform, its data type, and any transformation rules",
+    "Field-level specification: every data field required for the integration, including its source in SAP, its target in the commerce platform, its data type, and any transformation rules",
+    "Assessment of standard vs. custom development: can the scenario be handled with standard CPI content, or does it require custom development? Where does the custom logic live (Commerce platform, CPI, SAP)?",
+    "Assessment of standard vs. custom development: can the scenario be handled with standard CPI content, or does it require custom development? Where does the custom logic live (Commerce platform, CPI, SAP)?",
+    "Ownership assignment: who is responsible for implementing each component of the integration, the SAP team or the commerce platform team; diva-e Conclusion or the internal SAP/IT team?",
+    "Ownership assignment: who is responsible for implementing each component of the integration, the SAP team or the commerce platform team; diva-e Conclusion or the internal SAP/IT team?",
+    "Test scenario definition: what does a successful integration look like? What test cases will be used to validate it?",
+    "Test scenario definition: what does a successful integration look like? What test cases will be used to validate it?",
+    "The deliverable of the detail phase is a complete interface specification for each integration scenario. It represents a document that can be handed to any competent development team and used to implement the integration without ambiguity.",
+    "The implementation phase follows the specifications produced in the detail phase, delivering integration work organized around business topics (e.g. pricing, availability, order creation and customer account synchronization) rather than individual integrations and interfaces in strict sequence. This topic-based approach reflects how integration complexity is actually structured: a topic like \"pricing\" may involve multiple interfaces and data flows, all of which belong together and must be delivered as a coherent unit.",
+    "Crucially, the phases are not a strict waterfall. Of course, the detailed specification for a given topic must be complete before its implementation begins to ensure that development never starts on an underspecified foundation. But at the same time multiple topics can progress through the methodology simultaneously. One topic may be in the specification phase while another is already in implementation, and a third is being tested. This parallel structure keeps the project moving at pace without sacrificing the rigor that complex SAP integrations demand.",
+    "This approach delivers several important advantages:",
+    "Each topic is fully specified before development begins, eliminating the risk of building on incomplete or ambiguous requirements",
+    "Each topic is fully specified before development begins, eliminating the risk of building on incomplete or ambiguous requirements",
+    "Multiple topics can be worked on concurrently, maximizing team throughput and reducing overall project duration",
+    "Multiple topics can be worked on concurrently, maximizing team throughput and reducing overall project duration",
+    "Each topic is tested end-to-end as a coherent unit, ensuring that all related processes and interfaces work correctly together before the topic is signed off",
+    "Each topic is tested end-to-end as a coherent unit, ensuring that all related processes and interfaces work correctly together before the topic is signed off",
+    "Business stakeholders can validate each topic against real business requirements independently, without waiting for the entire integration to be complete",
+    "Business stakeholders can validate each topic against real business requirements independently, without waiting for the entire integration to be complete",
+    "The project can be reprioritized at topic boundaries without disrupting work already in progress. This allows to accelerate high-value topics or deferring lower-priority ones as well as following “lowing hanging fruits”-first or “most critical topics”-first approaches.",
+    "The project can be reprioritized at topic boundaries without disrupting work already in progress. This allows to accelerate high-value topics or deferring lower-priority ones as well as following “lowing hanging fruits”-first or “most critical topics”-first approaches.",
+    "Implementation spans all layers of the integration architecture: SAP (configuration and, where necessary, custom development), the CPI integration flows (configuration and extension of standard content) and the commerce platform (configuration and custom development). diva-e Conclusion coordinates across all three layers, acting as the integration architect and primary delivery team while working closely with the client's internal SAP team.",
+    "The deliverable of the implementation phase is a tested, production-ready integration for each topic, with documentation, monitoring configuration, and operational runbooks.",
+    "One of the most important architectural decisions in any SAP-shop integration project is the choice of integration technology. diva-e Conclusion’s recommendation is clear: for most SAP S/4HANA integrations, BTP/CPI is the right choice. The commerce platform that resides on the other side of the integration is a variable that depends on the client’s specific requirements, existing investments, and strategic direction.",
+    "This is a deliberate design principle in diva-e Conclusion’s integration approach. By building the SAP-side integration logic as reusable, platform-agnostic integration flows in CPI the integration investment is not tied to any single commerce platform. Whether the system is a commerce platform like Shopware, a PIM system like Pimcore, a headless commerce engine, or a custom-built application the CPI layer handles the SAP-side complexity in the same way.",
+    "The reference architecture for a diva-e Conclusion SAP integration follows a consistent pattern:",
+    "The commerce platform (or PIM, or any other system) exposes its data and receives data through standard APIs",
+    "The commerce platform (or PIM, or any other system) exposes its data and receives data through standard APIs",
+    "CPI integration flows handle the translation, transformation, and orchestration between the commerce platform’s API model and SAP’s data structures and processes",
+    "CPI integration flows handle the translation, transformation, and orchestration between the commerce platform’s API model and SAP’s data structures and processes",
+    "SAP S/4HANA exposes its data and processes through standard OData APIs and CPI-native connectivity",
+    "SAP S/4HANA exposes its data and processes through standard OData APIs and CPI-native connectivity",
+    "Monitoring, alerting, and error handling are centralized in CPI’s operations console",
+    "Monitoring, alerting, and error handling are centralized in CPI’s operations console",
+    "Regardless of which commerce platform is used, the core integration scenarios are consistent across projects:",
+    "diva-e Conclusion has successfully delivered this integration architecture with multiple frontend systems. Two prominent examples:",
+    "Shopware: diva-e Conclusion has built a Shopware SAP connector that reuses the existing BTP/CPI package, implementing core integration scenarios including order simulation. Shopware’s API-first architecture and strong B2B feature set make it a natural fit for mid-market B2B commerce scenarios.",
+    "Pimcore: diva-e Conclusion has delivered a production-grade BTP/CPI integration between Pimcore (used as a PIM/CMS) and SAP S/4HANA, covering product master data synchronization and pricing. The CPI package developed for this project is reusable across other frontend systems.",
+    "Furthermore diva-e Conclusion has realized SAP integration scenarios for many different commerce solutions such as Spryker, SAP Commerce, Commercetools and Salesforce Salescloud. The integration strategies ranged from RFC calls, SAP PI/PO and MuleSoft based integrations to the BTP/CPI case we favor today.",
+    "The critical point is that the CPI integration package is the reusable asset that represents the SAP-side logic. When a new system is introduced or an existing one is replaced, the CPI package does not need to be rebuilt. It needs to be connected to the new system’s APIs, which is a significantly smaller and lower-risk effort than building the SAP integration from scratch.",
+    "diva-e Conclusion’s integration experience is not just a collection of past projects, but a growing library of reusable assets that directly reduce the time, cost and risk of new integration projects.",
+    "The core of this library is a set of CPI integration packages that cover the most common SAP S/4HANA integration scenarios: product data synchronization, real-time pricing, customer master synchronization, order creation and document retrieval. These packages have been developed, tested, and refined across multiple production deployments. They represent hundreds of hours of SAP integration expertise, encoded in reusable, configurable integration flows.",
+    "Hence, when diva-e Conclusion begins a new integration project, the starting point is not a blank canvas but a library of proven assets. The discovery and detail phases identify which standard packages apply, what configuration is required and where custom development is needed. The implementation phase then configures and extends the standard packages rather than building from scratch.",
+    "This approach delivers three concrete benefits to clients:",
+    "Faster time-to-value: standard integration scenarios can be delivered in weeks rather than months",
+    "Faster time-to-value: standard integration scenarios can be delivered in weeks rather than months",
+    "Lower risk: packages that have been tested in production carry significantly lower technical risk than custom-built integrations",
+    "Lower risk: packages that have been tested in production carry significantly lower technical risk than custom-built integrations",
+    "Better maintainability: standard packages are maintained and updated by diva-e Conclusion as SAP evolves, reducing the long-term operational burden on the client",
+    "Better maintainability: standard packages are maintained and updated by diva-e Conclusion as SAP evolves, reducing the long-term operational burden on the client",
+    "Shopware Nexus fits naturally into diva-e Conclusion’s recommended SAP integration architecture because it addresses the other side of the equation: the Shopware-side integration contract.",
+    "Nexus represents a “standardized bridge” layer. It is designed to provide a standardized, easy-to-use interface that allows the integration of third-party systems such as ERPs, including SAP. Instead of building point-to-point coupling into custom Shopware code, Nexus establishes a consistent way to connect external systems to Shopware.",
+    "A key strength of Nexus is that it allows integration teams to define actions and data mappings while integrating directly into Shopware data, events, and processes. In practice, this means that mapping to Shopware-specific data structures and reacting to Shopware-specific events can be specified and performed very easily in Nexus, while still keeping the overall integration architecture clean and modular.",
+    "Nexus aligns very well with our recommended approach:",
+    "On the SAP side, the SAP integration logic (e.g. pricing, ATP/availability, order simulation, order creation, and customer/account synchronization) is implemented in reusable SAP BTP / Integration Suite / CPI packages.",
+    "On the SAP side, the SAP integration logic (e.g. pricing, ATP/availability, order simulation, order creation, and customer/account synchronization) is implemented in reusable SAP BTP / Integration Suite / CPI packages.",
+    "On the Shopware side, Nexus provides the standardized integration surface to connect Shopware’s internal domain model and event-driven behavior to external APIs.",
+    "On the Shopware side, Nexus provides the standardized integration surface to connect Shopware’s internal domain model and event-driven behavior to external APIs.",
+    "Because the SAP integration logic lives in CPI packages, Nexus can connect to these packages via standardized APIs, preserving reusability across Shopware projects and even beyond Shopware. This reinforces the architectural principle that diva-e Conclusion applies across platforms: keep the SAP-side integration as the stable, reusable layer and treat the commerce platform as the variable layer that can evolve, be extended, or even be replaced without forcing a rebuild of SAP integration logic.",
+    "This separation also aligns with our methodology: specify interfaces clearly, place transformation/orchestration where it is most maintainable, and avoid unnecessary platform-specific coupling. Nexus strengthens the Shopware side of this model, while CPI strengthens the SAP side; resulting in a future-ready integration setup that is both faster to implement and easier to operate over time.",
+    "The “technological twin” concept: diva-e Conclusion’s CPI integration packages are platform-agnostic by design. The same package that connects Pimcore to SAP S/4HANA can be adapted to connect Shopware, or any other system, to the same SAP landscape. The SAP-side expertise is the reusable asset. Shopware Nexus ties extremely well into this concept, by adressing the Shopware side of the integration logic.",
+    "Even for typical mid-market companies the integration challenge is rarely limited to a single brand, a single country or a single backend system. Instead, multi-brand and multi-country strategies are the norm and they introduce two distinct layers of complexity that multiply the integration effort in ways that are easy to underestimate. Understanding these two layers clearly is essential for designing an integration architecture that can scale.",
+    "The first layer of complexity arises when a commerce platform must connect to more than one ERP system. This is more common than it might appear. Companies that have grown through acquisition often operate multiple ERP instances. Sometimes these are multiple SAP systems, sometimes a mix of SAP and non-SAP ERPs. Each of these systems serves a different brand, region or legal entity. A commerce platform that serves customers across these entities must be able to route transactions, retrieve data and synchronize records across all of them correctly.",
+    "This is not simply a matter of running the same integration twice. Different ERP systems may have different data models, different API capabilities, different master data standards and different release cycles. An SAP S/4HANA instance and a legacy SAP ECC instance, for example, expose different APIs and require different integration approaches even though both are SAP systems. A non-SAP ERP introduces an entirely different set of integration patterns. Key questions that must be answered at this layer: Which ERP systems are in scope, and what are their technical integration capabilities? How is master data (products, customers, prices) managed across multiple ERP systems? Is there a single source of truth or does each system maintain its own records? How are transactions routed to the correct ERP system (based on the customer, the brand or the order context)? How are discrepancies between ERP systems detected and resolved.",
+    "The second layer of complexity arises within a single ERP system. SAP's organizational model (company codes, sales organizations, distribution channels and divisions) is the backbone of multi-entity business management within a single SAP landscape. Each combination of these organizational elements can carry different pricing, different product availability, different customer terms and different output documents.",
+    "In a multi-brand or multi-country scenario the commerce platform must correctly map each storefront, customer segment or transaction context to the appropriate SAP organizational structure. This mapping is not just a technical configuration, but a business design decision that must be made deliberately and documented clearly. Common questions that must be answered at this layer:",
+    "Does each brand or country have its own SAP company code or do multiple brands share a company code?",
+    "Does each brand or country have its own SAP company code or do multiple brands share a company code?",
+    "How are sales organizations mapped to storefronts? Is there a one-to-one mapping or do multiple storefronts share a sales organization?",
+    "How are sales organizations mapped to storefronts? Is there a one-to-one mapping or do multiple storefronts share a sales organization?",
+    "How are distribution channels and divisions used and how do they affect pricing and availability?",
+    "How are distribution channels and divisions used and how do they affect pricing and availability?",
+    "How are cross-border transactions handled (currency conversion, tax treatment, legal compliance)?",
+    "How are cross-border transactions handled (currency conversion, tax treatment, legal compliance)?",
+    "In the most demanding projects, both layers are present simultaneously. A commerce platform may need to connect to multiple ERP systems. Each of them with its own organizational structure. For every transaction the right combination of ERP instance and organizational context must be resolved correctly. This is the reality for many companies that have grown internationally through acquisition, operate distinct brands on separate ERP landscapes or are in the process of consolidating multiple legacy systems onto a modern SAP S/4HANA platform.",
+    "Designing an integration architecture that handles this combination requires explicit decisions about routing logic, master data governance, and operational ownership. These decisions must be performed early on and cannot be deferred to the implementation phase.",
+    "diva-e Conclusion has delivered integrations across both layers using two primary architectural strategies, each with its own trade-offs:",
+    "Single CPI tenant with routing logic: A single CPI integration layer handles all ERP systems and organizational contexts with routing logic that directs each transaction to the correct destination based on configurable rules. This approach minimizes operational complexity and is easier to maintain. But it requires careful design of the routing logic and can become complex as the number of ERP systems or organizational variants grows.",
+    "Single CPI tenant with routing logic: A single CPI integration layer handles all ERP systems and organizational contexts with routing logic that directs each transaction to the correct destination based on configurable rules. This approach minimizes operational complexity and is easier to maintain. But it requires careful design of the routing logic and can become complex as the number of ERP systems or organizational variants grows.",
+    "Per-context CPI instances: Each ERP system or major organizational context has its own CPI integration configuration, potentially sharing common packages but with separate deployments. This approach provides greater isolation and flexibility but increases operational overhead. It is particularly useful when ERP systems have significantly different technical characteristics.",
+    "Per-context CPI instances: Each ERP system or major organizational context has its own CPI integration configuration, potentially sharing common packages but with separate deployments. This approach provides greater isolation and flexibility but increases operational overhead. It is particularly useful when ERP systems have significantly different technical characteristics.",
+    "The right choice depends on the degree of variation between systems and contexts, the governance model and the operational capabilities of the client's team. diva-e Conclusion's discovery phase explicitly addresses this architectural decision as part of the interface identification process.",
+    "Both layers introduce data governance challenges that must be resolved at the business level before they can be addressed technically. When the same product, customer or price record exists in multiple ERP systems or under multiple organizational contexts, who is responsible for maintaining it? Which system is the source of truth? How are conflicts detected and resolved? These questions must be answered before the integration can be designed with confidence. And each of these answers must be enforced through clear process ownership during that phase and all following phases.",
+    "Every SAP integration project involves a fundamental strategic decision: how much to build from scratch, how much to buy as off-the-shelf connectors and how much to configure from standard platforms. Getting this decision right has a significant impact on project cost, delivery speed and long-term maintainability.",
+    "Building a custom integration from scratch offers maximum flexibility. Every aspect of the integration can be tailored to the specific requirements of the project. But it comes at a significant cost: custom integrations are expensive to build, require deep expertise to maintain and must be updated every time SAP or the commerce platform changes. For most mid-market companies a pure custom build is neither necessary nor advisable.",
+    "The market offers a growing number of pre-built connectors between SAP and popular commerce platforms. These connectors can accelerate initial delivery. But they come with important limitations: they are designed for standard SAP configurations and standard commerce scenarios and they typically cannot accommodate the degree of SAP customization that most mid-market companies have accumulated. Furthermore, they create vendor dependency. The connector vendor’s release cycle and support quality become critical dependencies for the client’s integration.",
+    "diva-e Conclusion’s approach is a deliberate middle path: configure standard CPI content where it applies, extend it where needed and build custom integration logic only where the client’s requirements are genuinely unique. This “configure-first” philosophy delivers the speed and reliability benefits of standard content while preserving the flexibility to accommodate SAP customization and unique business requirements.",
+    "The total cost of ownership perspective is critical here. A custom-built integration may be cheaper to build initially, but its maintenance cost over a five-year horizon (including SAP upgrades, commerce platform updates and business requirement changes) is typically far higher than a well-configured standard integration. Conversely, an off-the-shelf connector that cannot accommodate the client’s SAP customization will require expensive workarounds that erode its initial cost advantage.",
+    "The most sophisticated integration architecture will fail if the organization is not ready to support it. Organizational readiness is not a soft concern, but a hard prerequisite for integration success.",
+    "SAP teams and digital/eCommerce teams often speak different languages, operate on different timelines and have different definitions of success. SAP teams prioritize stability, consistency, and auditability. Digital commerce teams usually prioritize speed, agility and customer experience. Integration projects sit at the intersection of these two cultures. Without deliberate effort to bridge them, they become a source of ongoing friction.",
+    "diva-e Conclusion’s role in integration projects is explicitly that of a translator: we speak both languages fluently and we design integration processes that respect the constraints and priorities of both sides. This includes establishing shared vocabulary, defining clear interfaces between the SAP and digital domains and creating governance structures that allow both teams to operate effectively without constant coordination overhead.",
+    "Integration projects change how people work. Sales representatives who previously entered orders manually in SAP must adapt to a world where orders arrive automatically from the shop. Customer service teams who manage customer data in SAP must coordinate with digital teams who manage the same data in the shop. These changes require deliberate change management in the form of communication, training, and process redesign. The according activities must be planned and resourced as part of the integration project.",
+    "Sustainable integration requires a governance model that answers three questions: Who approves changes to the integration? How are incidents detected and resolved? How are changes to SAP or the commerce platform coordinated to avoid breaking the integration?",
+    "diva-e Conclusion helps clients design governance models that are appropriate for their organizational context. We focus on designing them lightweight enough to avoid bureaucratic overhead, but at the same time robust enough to prevent the integration from becoming a the reason for operational risk.",
+    "The most common barrier to starting an SAP integration project is not budget or technology but uncertainty. Companies know they need to integrate their commerce platform with SAP. But they do not know where to start, how complex it will be or how much it will cost. The diva-e Conclusion Integration Assessment is designed to resolve this uncertainty quickly and at low risk.",
+    "The Integration Assessment is a structured engagement typically spanning two to four weeks. It delivers the outputs of the discovery phase described in Chapter 7: an integration inventory, a gap analysis, an effort estimate and a risk assessment. Specifically, it covers:",
+    "A review of the client’s SAP landscape: version, configuration, existing interfaces, and customization level",
+    "A review of the client’s SAP landscape: version, configuration, existing interfaces, and customization level",
+    "A mapping of the client’s target commerce architecture to the SAP organizational model",
+    "A mapping of the client’s target commerce architecture to the SAP organizational model",
+    "Identification of all integration scenarios required, including an initial assessment of complexity and risk",
+    "Identification of all integration scenarios required, including an initial assessment of complexity and risk",
+    "A gap analysis: what data, interfaces, or SAP configuration is missing and must be created?",
+    "A gap analysis: what data, interfaces, or SAP configuration is missing and must be created?",
+    "A high-level effort estimate and project roadmap for the full integration",
+    "A high-level effort estimate and project roadmap for the full integration",
+    "A technology recommendation: which solution approach is the correct one, what configuration is required, and where custom development is needed",
+    "A technology recommendation: which solution approach is the correct one, what configuration is required, and where custom development is needed",
+    "At the end of the Integration Assessment, the client has a clear, actionable picture of their integration project: what needs to be done, in what order, by whom, and at what cost. This picture is the foundation for a confident investment decision. It allows to start the project with a shared understanding rather than hidden assumptions.",
+    "For a mid-market company with a moderately complex SAP landscape and a single primary commerce platform, a typical integration project following the diva-e Conclusion methodology looks like this:",
+    "Integration Assessment: 2 days",
+    "Integration Assessment: 2 days",
+    "Discovery Workshops (per integration scenario): 1–2 weeks",
+    "Discovery Workshops (per integration scenario): 1–2 weeks",
+    "Implementation 4–8 weeks",
+    "Implementation 4–8 weeks",
+    "Total project duration for a full B2B commerce integration (6–8 core scenarios): 4 months",
+    "Total project duration for a full B2B commerce integration (6–8 core scenarios): 4 months",
+    "These timeline assumes active participation from the client’s SAP team and commerce platform team. The single most important factor in project timeline is the availability and responsiveness of the client’s internal SAP department, as well as experts and decision makers for the processes covered by SAP.",
+    "SAP integration is not a one-time project. It is an ongoing capability and represents a strategic asset that must be built deliberately, maintained carefully and evolved as the business and technology landscape change.",
+    "Companies that master this integration gain a durable competitive advantage. A reliable, automated connection between SAP and the commerce platform means faster product launches, genuinely personalized B2B experiences driven by real customer and pricing data and significantly lower operational overhead as manual processes are replaced by automated data flows. The inverse is equally true: without a well-designed integration, the shop becomes a liability. Product data is stale, prices are wrong, and every integration layer deserves the same strategic attention and investment as the commerce platform itself. It is the foundation everything else rests on. Selecting an integration partner is a decision about methodology and delivery experience as much as it is about technology. Over more than a decade, diva-e Conclusion has supported organizations across wholesale, manufacturing, automotive, and retail in connecting commerce platforms, PIM systems and digital applications with SAP landscapes. Several capabilities define this experience:",
+    "More than a decade of SAP integration experience: diva-e Conclusion has delivered SAP integrations across every major technology generation, from SAP R/3 and ECC environments to modern S/4HANA landscapes built on SAP BTP and SAP Integration Suite. This breadth is particularly valuable in transformation projects where legacy and modern integration patterns must coexist.",
+    "More than a decade of SAP integration experience: diva-e Conclusion has delivered SAP integrations across every major technology generation, from SAP R/3 and ECC environments to modern S/4HANA landscapes built on SAP BTP and SAP Integration Suite. This breadth is particularly valuable in transformation projects where legacy and modern integration patterns must coexist.",
+    "Expertise across SAP and digital commerce: Successful integration requires a detailed understanding of SAP business processes such as pricing mechanisms, customer master data, organizational structures, order management. This needs to be combined with an equally strong grasp of modern commerce platform requirements. diva-e Conclusion's project teams bring both perspectives together, ensuring that integration decisions serve the business rather than just the technology.",
+    "Expertise across SAP and digital commerce: Successful integration requires a detailed understanding of SAP business processes such as pricing mechanisms, customer master data, organizational structures, order management. This needs to be combined with an equally strong grasp of modern commerce platform requirements. diva-e Conclusion's project teams bring both perspectives together, ensuring that integration decisions serve the business rather than just the technology.",
+    "Reusable BTP and Integration Suite assets: Across multiple projects, diva-e Conclusion has developed a growing portfolio of reusable CPI packages covering the most common integration scenarios: product synchronization, customer master integration, pricing services, availability, order creation and document retrieval. These assets reduce implementation effort, accelerate delivery and lower project risk compared to building from scratch.",
+    "Reusable BTP and Integration Suite assets: Across multiple projects, diva-e Conclusion has developed a growing portfolio of reusable CPI packages covering the most common integration scenarios: product synchronization, customer master integration, pricing services, availability, order creation and document retrieval. These assets reduce implementation effort, accelerate delivery and lower project risk compared to building from scratch.",
+    "Platform-agnostic by design: diva-e Conclusion's integration architecture and CPI packages are designed to be independent of the frontend system. They have been applied in projects involving Shopware, Pimcore, Commercetools, Spryker and other platforms. This provides organizations the flexibility to evolve their commerce stack without rebuilding the SAP integration layer.",
+    "Platform-agnostic by design: diva-e Conclusion's integration architecture and CPI packages are designed to be independent of the frontend system. They have been applied in projects involving Shopware, Pimcore, Commercetools, Spryker and other platforms. This provides organizations the flexibility to evolve their commerce stack without rebuilding the SAP integration layer.",
+    "Discovery-led, delivery-focused: A recurring challenge in SAP integration projects is the discovery of hidden complexity during implementation. diva-e Conclusion addresses this through a structured discovery approach that identifies interfaces, dependencies, customizations, and data requirements before implementation begins. This creates transparency and represents a reliable foundation for execution. At the same time, integration projects rarely unfold exactly as planned. diva-e Conclusion combines structured upfront analysis with a collaborative delivery model in which integration architects and specialists work closely alongside client SAP, commerce and digital teams throughout the project. The result is enough upfront rigor to reduce risk, with sufficient flexibility to adapt without losing momentum.",
+    "Discovery-led, delivery-focused: A recurring challenge in SAP integration projects is the discovery of hidden complexity during implementation. diva-e Conclusion addresses this through a structured discovery approach that identifies interfaces, dependencies, customizations, and data requirements before implementation begins. This creates transparency and represents a reliable foundation for execution. At the same time, integration projects rarely unfold exactly as planned. diva-e Conclusion combines structured upfront analysis with a collaborative delivery model in which integration architects and specialists work closely alongside client SAP, commerce and digital teams throughout the project. The result is enough upfront rigor to reduce risk, with sufficient flexibility to adapt without losing momentum.",
+    "Proven in production: The methodologies and assets described in this paper have been shaped by real projects for organizations including Wilo, SCHOTT, SMA, ifm, Stauff, August Rüggeberg and others operating complex SAP landscapes. Each project refines diva-e Conclusion's delivery patterns and contributes to a growing body of practical integration knowledge. Our objective is not to just deliver individual interfaces, but to establish a sustainable integration architecture that supports long-term digital commerce growth.",
+    "Proven in production: The methodologies and assets described in this paper have been shaped by real projects for organizations including Wilo, SCHOTT, SMA, ifm, Stauff, August Rüggeberg and others operating complex SAP landscapes. Each project refines diva-e Conclusion's delivery patterns and contributes to a growing body of practical integration knowledge. Our objective is not to just deliver individual interfaces, but to establish a sustainable integration architecture that supports long-term digital commerce growth.",
+    "This article was created in collaboration with experts from diva-e Conclusion and is based on many years of hands-on experience in digital transformation, SAP customer experience, and enterprise commerce projects.",
+    "Janine Prokop is Managing Director at diva-e Conclusion. Since joining the company in 2019, she has focused on Digital and CX Transformation as well as AI-powered customer experiences.",
+    "Friedrich Teucher is Manager SAP Solutions and Expert SAP Consultant at diva-e Conclusion since 2017, specializing in SAP Customer Experience, Integration, and SAP Business AI.",
+    "Marek Mahn is an Expert SAP Solution Architect at diva-e Conclusion since 2012 with focus on integrating SAP and commerce solutions to support seamless digital business processes.",
+    "Volker is Head of PHP Engineering at diva-e Conclusion. Since joining the company in 2015, he has specialized in B2B and B2C eCommerce solutions, helping organizations build scalable and high-performing digital commerce platforms.",
+    "Adobe Experience Cloud",
+    "Paid Advertising",
+    "Application Management",
+    "CDP",
+    "CMS",
+    "Content",
+    "Data Analysis",
+    "Online Marketing",
+    "OneProSeo",
+    "PIM",
+    "Monitor Reporting",
+    "SAP",
+    "SEO",
+    "Salesforce",
+    "AI",
+    "UX",
+    "diva-e © 2026",
+    "Imprint",
+    "Data protection",
+    "Jobs",
+    "Whistleblower system"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Services",
+      "href": null
+    },
+    {
+      "label": "Marketplace",
+      "href": "/en/marketplace/"
+    },
+    {
+      "label": "Industries",
+      "href": null
+    },
+    {
+      "label": "Partners",
+      "href": "/en/about-us/partner/"
+    },
+    {
+      "label": "About us",
+      "href": null
+    },
+    {
+      "label": "Insights",
+      "href": null
+    },
+    {
+      "label": "Careers",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop"
+    },
+    {
+      "label": "de",
+      "href": null
+    },
+    {
+      "label": "en",
+      "href": null
+    },
+    {
+      "label": "Contacts",
+      "href": "/en/contact/"
+    },
+    {
+      "label": "1. The B2B Commerce Imperative: Why Standing Still Is Not an Option",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#1"
+    },
+    {
+      "label": "2. SAP as the Backbone and the Bottleneck",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#2"
+    },
+    {
+      "label": "3. The Seven Classic Pain Points of SAP-Shop Integrations",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#3"
+    },
+    {
+      "label": "4. A Brief History of SAP-Shop Integration: From IDOCs to Intelligent Enterprise",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#4"
+    },
+    {
+      "label": "5. The State of the Art: SAP S/4HANA + BTP/CPI",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#5"
+    },
+    {
+      "label": "6. AI-Ready Commerce starts with integrated ERP Data",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#6"
+    },
+    {
+      "label": "7. Why Integration Projects Fail and How to Prevent It",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#7"
+    },
+    {
+      "label": "8. The diva-e Conclusion Integration Methodology: Discovery → Design → Deliver",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#8"
+    },
+    {
+      "label": "9. The Technology Stack: [Your Commerce Platform] + SAP S/4HANA via BTP/CPI",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#9"
+    },
+    {
+      "label": "10. Proven in Practice: Reusable Integration Assets Across Platforms",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#10"
+    },
+    {
+      "label": "11. Shopware Nexus: Completing the Puzzle with a Standardized Shopware-Side Integration Contract",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#11"
+    },
+    {
+      "label": "12. Multi-Brand and Multi-Country: Scaling the Integration",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#12"
+    },
+    {
+      "label": "13. The Build vs. Buy vs. Configure Decision",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#13"
+    },
+    {
+      "label": "14. Organizational Readiness: The Human Side of Integration",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#14"
+    },
+    {
+      "label": "15. Getting Started: The diva-e Conclusion Integration Assessment",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#15"
+    },
+    {
+      "label": "16. Conclusion: Integration as a Strategic Capability",
+      "href": "/en/insights/edge/from-data-silos-to-digital-commerce/#16"
+    },
+    {
+      "label": "Shopware Community Day",
+      "href": "https://scd.shopware.com/en-US/"
+    },
+    {
+      "label": "Pferd/Auggust Rüggeberg",
+      "href": "/en/ueber-uns/kunden/pferd/"
+    },
+    {
+      "label": "Stauff",
+      "href": "/en/ueber-uns/kunden/stauff/"
+    },
+    {
+      "label": "Wilo",
+      "href": "/en/ueber-uns/kunden/wilo/"
+    },
+    {
+      "label": "SMA",
+      "href": "/en/ueber-uns/kunden/sma/"
+    },
+    {
+      "label": "SCHOTT",
+      "href": "/en/ueber-uns/kunden/schott/"
+    },
+    {
+      "label": "Klöckner",
+      "href": "/en/ueber-uns/kunden/kloeckner-co/"
+    },
+    {
+      "label": "Janine Prokop",
+      "href": "https://www.linkedin.com/in/janine-prokop/"
+    },
+    {
+      "label": "Marek Mahn",
+      "href": "https://www.linkedin.com/in/marek-mahn-25277b2a/"
+    },
+    {
+      "label": "See all articles",
+      "href": "/en/insights/edge/authors/volker-boehlke/"
+    },
+    {
+      "label": "Adobe Experience Cloud",
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+    },
+    {
+      "label": "Paid Advertising",
+      "href": "/en/services/digital-marketing/paid-advertising/"
+    },
+    {
+      "label": "Application Management",
+      "href": "/en/services/ams/application-management-services/"
+    },
+    {
+      "label": "CDP",
+      "href": "/en/services/dxp/cdp/"
+    },
+    {
+      "label": "CMS",
+      "href": "/en/services/dxp/cms/"
+    },
+    {
+      "label": "Content",
+      "href": "/en/services/digital-marketing/content/"
+    },
+    {
+      "label": "Data Analysis",
+      "href": "/en/services/dxp/data-analytics-bi/"
+    },
+    {
+      "label": "Online Marketing",
+      "href": "/en/services/digital-marketing/"
+    },
+    {
+      "label": "OneProSeo",
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+    },
+    {
+      "label": "PIM",
+      "href": "/en/services/dxp/pim/"
+    },
+    {
+      "label": "Monitor Reporting",
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+    },
+    {
+      "label": "SAP",
+      "href": "/en/about-us/partner/sap/"
+    },
+    {
+      "label": "SEO",
+      "href": "/en/services/digital-marketing/seo/"
+    },
+    {
+      "label": "Salesforce",
+      "href": "/en/about-us/partner/salesforce/"
+    },
+    {
+      "label": "AI",
+      "href": "/en/services/ai/"
+    },
+    {
+      "label": "UX",
+      "href": "/en/services/dxp/system-integration/ux-ui-design/"
+    },
+    {
+      "label": "Imprint",
+      "href": "/en/imprint/"
+    },
+    {
+      "label": "Data protection",
+      "href": "/en/data-privacy/"
+    },
+    {
+      "label": "Jobs",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop"
+    },
+    {
+      "label": "Whistleblower system",
+      "href": "https://diva-e.interne-meldestelle.de/"
+    },
+    {
+      "label": "Subscribe to diva-e newsletter!",
+      "href": "/en/newsletter/"
+    }
+  ],
+  "links": [
+    "https://www.diva-e.com/en/",
+    "https://www.diva-e.com/en/search/",
+    "https://www.diva-e.com/en/services/digital-consulting/",
+    "https://www.diva-e.com/en/services/digital-marketing/audits/",
+    "https://www.diva-e.com/en/services/digital-consulting/digital-business-consulting/",
+    "https://www.diva-e.com/en/services/digital-consulting/technology-architecture-consulting/",
+    "https://www.diva-e.com/en/services/ai/",
+    "https://www.diva-e.com/en/services/digital-consulting/strategic-transformation/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/ux-ui-design/",
+    "https://www.diva-e.com/en/services/dxp/data-analytics-bi/",
+    "https://www.diva-e.com/en/services/dxp/",
+    "https://www.diva-e.com/en/services/dxp/e-commerce-platform/",
+    "https://www.diva-e.com/en/services/dxp/cms/",
+    "https://www.diva-e.com/en/services/dxp/karriereportal/",
+    "https://www.diva-e.com/en/services/dxp/cdp/",
+    "https://www.diva-e.com/en/services/dxp/pim/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/",
+    "https://www.diva-e.com/en/services/crm/",
+    "https://www.diva-e.com/en/services/digital-marketing/",
+    "https://www.diva-e.com/en/services/digital-marketing/gaio/",
+    "https://www.diva-e.com/en/services/digital-marketing/content/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/",
+    "https://www.diva-e.com/en/services/digital-marketing/paid-advertising/",
+    "https://www.diva-e.com/en/services/digital-marketing/omnichannel-marketing/",
+    "https://www.diva-e.com/en/services/ams/",
+    "https://www.diva-e.com/en/services/ams/application-management-services/",
+    "https://www.diva-e.com/en/services/ams/cloud-consulting/",
+    "https://www.diva-e.com/en/services/ams/cloud-security/",
+    "https://www.diva-e.com/en/services/ams/cybersecurity/",
+    "https://www.diva-e.com/en/services/total-experience/",
+    "https://www.diva-e.com/en/marketplace/",
+    "https://www.diva-e.com/en/insights/downloads/b2b-tech-evaluierung-guide/",
+    "https://www.diva-e.com/en/insights/downloads/financial-services-guide/",
+    "https://www.diva-e.com/en/industries/automotive/",
+    "https://www.diva-e.com/en/industries/b2b-manufacturing/",
+    "https://www.diva-e.com/en/industries/retail/",
+    "https://www.diva-e.com/en/industries/financial-services/",
+    "https://www.diva-e.com/en/about-us/partner/",
+    "https://www.diva-e.com/en/insights/downloads/luenendonk/",
+    "https://www.diva-e.com/en/about-us/customers/interamt/",
+    "https://www.diva-e.com/en/about-us/",
+    "https://www.diva-e.com/en/about-us/management/",
+    "https://www.diva-e.com/en/about-us/locations/",
+    "https://www.diva-e.com/en/about-us/customers/",
+    "https://www.diva-e.com/en/insights/press/",
+    "https://www.diva-e.com/en/insights/downloads/cybersecurity-guide/",
+    "https://www.diva-e.com/en/insights/downloads/ai-search-guide/",
+    "https://www.diva-e.com/en/insights/news/",
+    "https://www.diva-e.com/en/insights/events/",
+    "https://www.diva-e.com/en/insights/edge/",
+    "https://www.diva-e.com/en/insights/downloads/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop",
+    "https://www.diva-e.com/en/contact/",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#1",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#2",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#3",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#4",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#5",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#6",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#7",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#8",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#9",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#10",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#11",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#12",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#13",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#14",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#15",
+    "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/#16",
+    "https://hubspot.diva-e.com/hubfs/diva-e%20Blueprints/SAP_Integration_B2B_V1.pdf",
+    "https://scd.shopware.com/en-US/",
+    "https://www.diva-e.com/en/ueber-uns/kunden/pferd/",
+    "https://www.diva-e.com/en/ueber-uns/kunden/stauff/",
+    "https://www.diva-e.com/en/ueber-uns/kunden/wilo/",
+    "https://www.diva-e.com/en/ueber-uns/kunden/sma/",
+    "https://www.diva-e.com/en/ueber-uns/kunden/schott/",
+    "https://www.diva-e.com/en/ueber-uns/kunden/kloeckner-co/",
+    "https://www.linkedin.com/in/janine-prokop/",
+    "https://www.linkedin.com/in/marek-mahn-25277b2a/",
+    "https://www.diva-e.com/en/insights/edge/authors/volker-boehlke/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop",
+    "https://diva-e.interne-meldestelle.de/",
+    "https://www.diva-e.com/en/newsletter/",
+    "https://www.diva-e.com/en/about-us/partner/adobe/adobe-experience-cloud/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/tools/oneproseo/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/monitoring-reporting/",
+    "https://www.diva-e.com/en/about-us/partner/sap/",
+    "https://www.diva-e.com/en/about-us/partner/salesforce/",
+    "https://www.diva-e.com/en/imprint/",
+    "https://www.diva-e.com/en/data-privacy/",
+    "https://www.instagram.com/divae.gmbh/",
+    "https://www.youtube.com/c/divaenterprise",
+    "https://www.linkedin.com/company/divaedigitalvalueexcellence/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/52464bfea5/strategic-technology-decisions-with-foresight_956x554px.jpg/m/600x",
+        "alt": "Strategic technology decisions with foresight",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/6a25352619/financeguide_en_956x554.jpg/m/600x",
+        "alt": "The Digital Experience Playbook for Financial Service Providers",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/474x267/d926129490/lunendonk-startseite-en.png/m/600x",
+        "alt": "Lünendonk Survey 2026 chart comparing DXS providers by portfolio width, depth, and market relevance, grouped as challengers, chasers, leaders",
+        "w": 600,
+        "h": 338
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/ba20a1b7e5/interamt_956x554px.png/m/600x",
+        "alt": "Smiling person talking with two others, overlayed with \"INTERAMT\" logo in orange and abstract door icon.",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/c39f42621c/en-security-guide_956x554.jpg/m/600x",
+        "alt": "3 Vulnerabilities that put your IT Security at Risk",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/0c00be16ec/ai-playbook_956x554px.png/m/600x",
+        "alt": "Two tablets display digital content from an \"AI Playbook\" on a blue background. The text reads: \"AI Playbook: Know-how, Tips, and Strategy.\"",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/5581x3761/9eef6bc0d6/gettyimages-515803650-1.jpg/m/1920x",
+        "alt": "Employees in a glass-walled meeting room engaged in discussion. A presenter stands near a screen displaying data.",
+        "w": 1920,
+        "h": 1294
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/434x434/00a9a16b66/volker-boehlke.jpg/m/32x",
+        "alt": "Black and white photo of a smiling individual with short hair, wearing a dark shirt, facing forward against a plain white background.",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/1480x300/9ee956180f/how-to-tackle-sap-integration-challenges-key-learnings.png/m/1480x",
+        "alt": "Banner with text \"How to tackle SAP integration challenges - key learnings\" and a clickable button \"Download PDF now\" on a dark blue background.",
+        "w": 1480,
+        "h": 300
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/1500x758/840d64d445/business-realitat-3.png",
+        "alt": "Chart detailing SAP version integration, data types, and technology patterns from R/3 to S/4 HANA, highlighting middleware solutions.",
+        "w": 1500,
+        "h": 758
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/1480x316/4c238e09b5/bildschirmfoto-2026-06-08-um-12-34-02.png",
+        "alt": "Roadmap chart showing project phases: Discover, Design, Deliver across seven sprints for four processes: Order, Product, Price, Customer.",
+        "w": 1480,
+        "h": 316
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/1500x1053/4b00748f76/business-realitat-5.png",
+        "alt": "Flowchart showing SAP integration scenarios: data sync, account sync, price simulation, inventory, order management, and document retrieval.",
+        "w": 1500,
+        "h": 1053
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/1480x316/14bccbea89/bildschirmfoto-2026-06-09-um-08-17-09.png",
+        "alt": "Flowchart illustrating integration between YourCommerceEngine, SAP BTP, and SAP S/4HANA using REST, SAP Integration Suite, and Cloud Connector.",
+        "w": 1480,
+        "h": 316
+      }
+    ],
+    "allImgCount": 14,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--font-slnt-normal": "0",
+    "--font-slnt-30-positive": "30",
+    "--gridColumnNumber": "4",
+    "--swiper-theme-color": "#007aff",
+    "--swiper-navigation-size": "44px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 62,
+    "mainTextLen": 253489,
+    "realImageCount": 13,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/core/zwbhh7MR",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 188,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "api.storyblok.com",
+        "path": "/v2/cdn/stories",
+        "query": [
+          "by_uuids",
+          "content_type",
+          "cv",
+          "language",
+          "per_page",
+          "token",
+          "version"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 301,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://api.storyblok.com/v2/cdn/stories",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/{n}/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "query": [
+          "isOutsideRegion"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/ccm/s/collect",
+        "query": [
+          "auid",
+          "fmt",
+          "gtm"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://ad.doubleclick.net/ccm/s/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "ae",
+          "apvc",
+          "auid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.ads_data_redaction",
+          "fmt",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google.com/ccm/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/rmkt/collect/{n}/",
+        "query": [
+          "async",
+          "auid",
+          "bg",
+          "cv",
+          "data",
+          "dma",
+          "en",
+          "ept",
+          "fmt",
+          "frm",
+          "fst",
+          "gcd",
+          "gcp",
+          "gtm",
+          "guid",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google.com/rmkt/collect/16967774015/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "data.diva-e.com",
+        "path": "/g/collect",
+        "query": [
+          "_et",
+          "_eu",
+          "_p",
+          "_s",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "ecid",
+          "en",
+          "ep.consent_conversion_linker",
+          "ep.consent_google_ads",
+          "ep.consent_google_ads_conversion_tracking",
+          "ep.consent_google_ads_remarketing",
+          "ep.consent_google_analytics_4",
+          "ep.consent_hubspot",
+          "ep.consent_linkedin_insight_tag",
+          "ep.consent_microsoft_advertising",
+          "ep.consent_microsoft_conversion_tracking",
+          "evnid",
+          "frm",
+          "gap.sstd",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ibt",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "richsstsse",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "sst.gch",
+          "sst.lpc",
+          "sst.navt",
+          "sst.rnd",
+          "sst.sw_exp",
+          "sst.tft",
+          "sst.ude",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "up.user_referral_category",
+          "up.user_referral_dest",
+          "up.user_referral_location",
+          "ur",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 200,
+        "bytes": 1697,
+        "hits": 1,
+        "example": "https://data.diva-e.com/g/collect",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "forms.hscollectedforms.net",
+        "path": "/collected-forms/v1/config/json",
+        "query": [
+          "portalId",
+          "utk"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://forms.hscollectedforms.net/collected-forms/v1/config/json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "api.hubapi.com",
+        "path": "/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "query": [
+          "portalId"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "web.cmp.usercentrics.eu",
+        "count": 9
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "googleads.g.doubleclick.net",
+        "count": 2
+      },
+      {
+        "host": "privacy-proxy.usercentrics.eu",
+        "count": 1
+      },
+      {
+        "host": "js.hs-scripts.com",
+        "count": 1
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 1
+      },
+      {
+        "host": "js.hsadspixel.net",
+        "count": 1
+      },
+      {
+        "host": "js.hscollectedforms.net",
+        "count": 1
+      },
+      {
+        "host": "js.hs-banner.com",
+        "count": 1
+      },
+      {
+        "host": "js.hs-analytics.net",
+        "count": 1
+      },
+      {
+        "host": "js-na1.hs-scripts.com",
+        "count": 1
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": "__NUXT_DATA__",
+        "type": "application/json",
+        "bytes": 184411,
+        "topLevelKeys": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      }
+    ],
+    "globalState": [
+      "__NUXT__",
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "nuxt"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 0,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 9,
+      "thirdPartyScriptHosts": 12,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-insights-edge-from-data-silos-to-digital-commerce.png",
+  "renderedHtml": "pages/en-insights-edge-from-data-silos-to-digital-commerce.html"
+}

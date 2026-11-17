@@ -1,0 +1,67 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/data-privacy",
+ "at": "2026-11-14T04:46:42.293Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 25,
+  "offPage": 2,
+  "textNodes": 793,
+  "controls": 71,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 11,
+   "clipper": "main",
+   "path": "div.simple-text.light > div.default-content-wrapper > p > a",
+   "text": "https://www.bfdi.bund.de/de/infothek/anschriften_links/ansch",
+   "cutMin": 12,
+   "cutMax": 244
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 11,
+   "clipper": "main",
+   "path": "div.default-content-wrapper > p > a > u",
+   "text": "https://www.bfdi.bund.de/de/infothek/anschriften_links/ansch",
+   "cutMin": 12,
+   "cutMax": 244
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 3,
+   "clipper": "main",
+   "path": "main > div.simple-text.light > div.default-content-wrapper > p",
+   "text": "and to our facebook fanpage data policy, which can be found ",
+   "cutMin": 7,
+   "cutMax": 198
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 24,
+   "offPage": 2,
+   "textNodes": 793,
+   "controls": 72,
+   "total": 0
+  }
+ }
+}

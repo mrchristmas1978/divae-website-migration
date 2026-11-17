@@ -1,0 +1,5037 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T03:04:52.865Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/services/dxp/",
+  "at": "2026-11-14T03:04:31.773Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3964,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 64,
+    "y": 33,
+    "w": 120,
+    "h": 62,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 230,
+    "y": 42,
+    "w": 94,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 324,
+    "y": 42,
+    "w": 127,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 451,
+    "y": 42,
+    "w": 104,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 555,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 653,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 750,
+    "y": 42,
+    "w": 89,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 839,
+    "y": 42,
+    "w": 91,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__icon-search > a",
+    "x": 979,
+    "y": 53,
+    "w": 23,
+    "h": 22,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li > button.header__lang-item",
+    "x": 1030,
+    "y": 51,
+    "w": 28,
+    "h": 26,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li.active > button.header__lang-item",
+    "x": 1058,
+    "y": 51,
+    "w": 29,
+    "h": 26,
+    "text": "en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__contact > a.btn-default.btn--menu",
+    "x": 1115,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > span.hero__label",
+    "x": 145,
+    "y": 422,
+    "w": 989,
+    "h": 30,
+    "text": "Our services in the field"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > h1.hero__title",
+    "x": 145,
+    "y": 476,
+    "w": 989,
+    "h": 72,
+    "level": 1,
+    "text": "digital experience platforms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 940,
+    "w": 43,
+    "h": 30,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 245,
+    "y": 940,
+    "w": 219,
+    "h": 30,
+    "text": "digital experience platforms",
+    "href": "/en/services/dxp/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 175,
+    "y": 1074,
+    "w": 1089,
+    "h": 120,
+    "text": "With solutions developed in-house or in strategic partnerships with internationa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 175,
+    "y": 1194,
+    "w": 1089,
+    "h": 90,
+    "text": "Work with us to create digital platforms that effectively address, inspire and r"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 215,
+    "y": 1468,
+    "w": 267,
+    "h": 24,
+    "text": "System Integration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 215,
+    "y": 1508,
+    "w": 267,
+    "h": 264,
+    "text": "Our diva-e experts in the field of system integration work with you to create a "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > a.btn.btn--sm",
+    "x": 215,
+    "y": 1788,
+    "w": 143,
+    "h": 30,
+    "text": "system integration",
+    "href": "/en/services/dxp/system-integration/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--3 > a.card__link",
+    "x": 175,
+    "y": 1428,
+    "w": 347,
+    "h": 430,
+    "text": "go to system integration",
+    "href": "/en/services/dxp/system-integration/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 586,
+    "y": 1468,
+    "w": 267,
+    "h": 24,
+    "text": "MACH Architecture"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 586,
+    "y": 1508,
+    "w": 267,
+    "h": 264,
+    "text": "At diva-e Conclusion, we work with MACH architecture to offer you a solution for"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > a.btn.btn--sm",
+    "x": 586,
+    "y": 1788,
+    "w": 148,
+    "h": 30,
+    "text": "mach architecture",
+    "href": "/en/services/dxp/system-integration/mach-architektur/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--3 > a.card__link",
+    "x": 546,
+    "y": 1428,
+    "w": 347,
+    "h": 430,
+    "text": "go to mach architecture",
+    "href": "/en/services/dxp/system-integration/mach-architektur/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 958,
+    "y": 1468,
+    "w": 267,
+    "h": 24,
+    "text": "IoT-Services & Industrie 4.0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 958,
+    "y": 1508,
+    "w": 267,
+    "h": 240,
+    "text": "The Internet of Things (IoT) with intelligently networked machines and processes"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > a.btn.btn--sm",
+    "x": 958,
+    "y": 1764,
+    "w": 96,
+    "h": 30,
+    "text": "iot-services",
+    "href": "/en/services/dxp/system-integration/iot/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--3 > a.card__link",
+    "x": 918,
+    "y": 1428,
+    "w": 347,
+    "h": 430,
+    "text": "go to iot-services & industrie 4.0",
+    "href": "/en/services/dxp/system-integration/iot/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 215,
+    "y": 1922,
+    "w": 267,
+    "h": 72,
+    "text": "Content-Management"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 215,
+    "y": 2010,
+    "w": 267,
+    "h": 264,
+    "text": "Content management systems (CMS) are developing into central control units for w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > a.btn.btn--sm",
+    "x": 215,
+    "y": 2290,
+    "w": 165,
+    "h": 30,
+    "text": "content-management",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--3 > a.card__link",
+    "x": 175,
+    "y": 1882,
+    "w": 347,
+    "h": 478,
+    "text": "go to content-management",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 586,
+    "y": 1922,
+    "w": 267,
+    "h": 72,
+    "text": "Product Information Management (PIM/MDM/DAM)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 586,
+    "y": 2010,
+    "w": 267,
+    "h": 240,
+    "text": "We support you with structured Product Information Management (PIM) including Ma"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > a.btn.btn--sm",
+    "x": 586,
+    "y": 2266,
+    "w": 255,
+    "h": 30,
+    "text": "product information management",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--3 > a.card__link",
+    "x": 546,
+    "y": 1882,
+    "w": 347,
+    "h": 478,
+    "text": "go to product information management (pim/mdm/dam)",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 958,
+    "y": 1922,
+    "w": 267,
+    "h": 72,
+    "text": "Customer Data Platform (CDP)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 958,
+    "y": 2010,
+    "w": 267,
+    "h": 240,
+    "text": "With a Customer Data Platform (CDP), you address your target groups at the right"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > a.btn.btn--sm",
+    "x": 958,
+    "y": 2266,
+    "w": 184,
+    "h": 30,
+    "text": "customer data platform",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--3 > a.card__link",
+    "x": 918,
+    "y": 1882,
+    "w": 347,
+    "h": 478,
+    "text": "go to customer data platform (cdp)",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 215,
+    "y": 2424,
+    "w": 267,
+    "h": 24,
+    "text": "E-Commerce Platforms"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 215,
+    "y": 2464,
+    "w": 267,
+    "h": 264,
+    "text": "Whether for hidden champions in B2B or international online stores in B2C: We su"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > a.btn.btn--sm",
+    "x": 215,
+    "y": 2744,
+    "w": 175,
+    "h": 30,
+    "text": "e-commerce platforms",
+    "href": "/en/services/dxp/e-commerce-platform/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--3 > a.card__link",
+    "x": 175,
+    "y": 2384,
+    "w": 347,
+    "h": 454,
+    "text": "go to e-commerce platforms",
+    "href": "/en/services/dxp/e-commerce-platform/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 586,
+    "y": 2424,
+    "w": 267,
+    "h": 24,
+    "text": "Adobe Experience Cloud"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 586,
+    "y": 2464,
+    "w": 267,
+    "h": 288,
+    "text": "We are one of the leading partners for the Adobe Experience Cloud, designing, im"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > a.btn.btn--sm",
+    "x": 586,
+    "y": 2768,
+    "w": 187,
+    "h": 30,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--3 > a.card__link",
+    "x": 546,
+    "y": 2384,
+    "w": 347,
+    "h": 454,
+    "text": "go to adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 958,
+    "y": 2424,
+    "w": 267,
+    "h": 24,
+    "text": "Salesforce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 958,
+    "y": 2464,
+    "w": 267,
+    "h": 264,
+    "text": "Together with Salesforce, we take your CRM to a new level. As a certified partne"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > a.btn.btn--sm",
+    "x": 958,
+    "y": 2744,
+    "w": 78,
+    "h": 30,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.cards-block__container-item > div.card.card--col--3 > a.card__link",
+    "x": 918,
+    "y": 2384,
+    "w": 347,
+    "h": 454,
+    "text": "go to salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -334,
+    "y": 3146,
+    "w": 362,
+    "h": 127,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -305,
+    "y": 3139,
+    "w": 393,
+    "h": 138,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -271,
+    "y": 3132,
+    "w": 429,
+    "h": 151,
+    "text": "gemüseabteilung in einem supermarkt",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -229,
+    "y": 3123,
+    "w": 473,
+    "h": 166,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -178,
+    "y": 3112,
+    "w": 527,
+    "h": 185,
+    "text": "weleda logo",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -114,
+    "y": 3098,
+    "w": 594,
+    "h": 209,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -32,
+    "y": 3080,
+    "w": 682,
+    "h": 239,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 79,
+    "y": 3056,
+    "w": 799,
+    "h": 281,
+    "text": "mann stehend an heizungsrohren",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 417,
+    "y": 3144,
+    "w": 124,
+    "h": 106,
+    "text": "logo viega",
+    "file": "viega_logo"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 237,
+    "y": 3022,
+    "w": 512,
+    "h": 396,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--light > div.teaser-slider-item__text > h4.teaser-headline",
+    "x": 781,
+    "y": 3100,
+    "w": 390,
+    "h": 48,
+    "level": 4,
+    "text": "zeiss"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--light > div.teaser-slider-item__text > p.teaser-text",
+    "x": 781,
+    "y": 3156,
+    "w": 390,
+    "h": 108,
+    "text": "Development of the ZEISS VISUSTORE digital B2B platform to enable more self-serv"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--light > div.teaser-slider-item__text > a.btn.btn--sm",
+    "x": 781,
+    "y": 3292,
+    "w": 140,
+    "h": 48,
+    "text": "learn more",
+    "href": "/en/about-us/customers/carl-zeiss-ag/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 561,
+    "y": 3056,
+    "w": 799,
+    "h": 281,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 790,
+    "y": 3080,
+    "w": 682,
+    "h": 239,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 960,
+    "y": 3098,
+    "w": 594,
+    "h": 209,
+    "text": "gemüseabteilung in einem supermarkt",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 1211,
+    "y": 3147,
+    "w": 92,
+    "h": 111,
+    "text": "logo aldi süd",
+    "file": "aldi_sud_2017_logo-svg"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 1091,
+    "y": 3112,
+    "w": 527,
+    "h": 185,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 1196,
+    "y": 3123,
+    "w": 473,
+    "h": 166,
+    "text": "weleda logo",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 1281,
+    "y": 3132,
+    "w": 429,
+    "h": 151,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 1352,
+    "y": 3139,
+    "w": 393,
+    "h": 138,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 1412,
+    "y": 3146,
+    "w": 362,
+    "h": 127,
+    "text": "mann stehend an heizungsrohren",
+    "file": "907x"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider__swiper-navigation-container > div.teaser-slider__swiper-arrow-wrapper.btn-arrow > button",
+    "x": 648,
+    "y": 3442,
+    "w": 64,
+    "h": 64,
+    "text": "go to previous slide"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider__swiper-navigation-container > div.teaser-slider__swiper-arrow-wrapper.btn-arrow > button",
+    "x": 728,
+    "y": 3442,
+    "w": 64,
+    "h": 64,
+    "text": "go to next slide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3634,
+    "w": 187,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3664,
+    "w": 125,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3694,
+    "w": 190,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3724,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3754,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3784,
+    "w": 62,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3634,
+    "w": 103,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3664,
+    "w": 130,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3694,
+    "w": 85,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3724,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3754,
+    "w": 140,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3784,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 3634,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 3664,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 3694,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 3724,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 175,
+    "y": 3875,
+    "w": 100,
+    "h": 20,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 307,
+    "y": 3875,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 387,
+    "y": 3875,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 524,
+    "y": 3875,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 589,
+    "y": 3875,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__social-media > div.footer__bottom-newsletter.bottom-links > a.btn--link.text-xxsmall",
+    "x": 907,
+    "y": 3875,
+    "w": 214,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1153,
+    "y": 3871,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1201,
+    "y": 3871,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1249,
+    "y": 3871,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 40,
+    "y": 796,
+    "w": 64,
+    "h": 64,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 68,
+    "controls": 60,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/services/dxp",
+  "at": "2026-11-14T03:04:52.647Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3988,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 64,
+    "y": 21,
+    "w": 120,
+    "h": 86,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "label": "open services submenu",
+    "value": "services",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 328,
+    "y": 42,
+    "w": 124,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "label": "open industries submenu",
+    "value": "industries",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 553,
+    "y": 42,
+    "w": 96,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "label": "open about us submenu",
+    "value": "about us",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "label": "open insights submenu",
+    "value": "insights",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 831,
+    "y": 42,
+    "w": 92,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-icon-search.header-icon-search-desktop > p > a",
+    "x": 971,
+    "y": 52,
+    "w": 23,
+    "h": 24,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li > a.header-lang-item",
+    "x": 1022,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li.active > a.header-lang-item",
+    "x": 1052,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-contact > p.button-wrapper > a.btn.btn-fill",
+    "x": 1111,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 175,
+    "y": 422,
+    "w": 959,
+    "h": 30,
+    "text": "Our services in the field"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#digital-experience-platforms",
+    "x": 145,
+    "y": 476,
+    "w": 989,
+    "h": 72,
+    "level": 1,
+    "text": "digital experience platforms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 175,
+    "y": 940,
+    "w": 44,
+    "h": 30,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 248,
+    "y": 940,
+    "w": 212,
+    "h": 30,
+    "text": "digital experience platforms",
+    "href": "/en/services/dxp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 1074,
+    "w": 1089,
+    "h": 120,
+    "text": "With solutions developed in-house or in strategic partnerships with internationa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 1194,
+    "w": 1089,
+    "h": 90,
+    "text": "Work with us to create digital platforms that effectively address, inspire and r"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 215,
+    "y": 1468,
+    "w": 267,
+    "h": 24,
+    "text": "System Integration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 215,
+    "y": 1532,
+    "w": 267,
+    "h": 264,
+    "text": "Our diva-e experts in the field of system integration work with you to create a "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 215,
+    "y": 1812,
+    "w": 141,
+    "h": 30,
+    "text": "system integration",
+    "href": "/en/services/dxp/system-integration"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 175,
+    "y": 1428,
+    "w": 347,
+    "h": 454,
+    "text": "go to system integration",
+    "href": "/en/services/dxp/system-integration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 586,
+    "y": 1468,
+    "w": 267,
+    "h": 24,
+    "text": "MACH Architecture"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 586,
+    "y": 1532,
+    "w": 267,
+    "h": 264,
+    "text": "At diva-e Conclusion, we work with MACH architecture to offer you a solution for"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 586,
+    "y": 1812,
+    "w": 143,
+    "h": 30,
+    "text": "mach architecture",
+    "href": "/en/services/dxp/system-integration/mach-architektur"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 546,
+    "y": 1428,
+    "w": 347,
+    "h": 454,
+    "text": "go to mach architecture",
+    "href": "/en/services/dxp/system-integration/mach-architektur"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 958,
+    "y": 1468,
+    "w": 267,
+    "h": 48,
+    "text": "IoT-Services & Industrie 4.0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 958,
+    "y": 1532,
+    "w": 267,
+    "h": 240,
+    "text": "The Internet of Things (IoT) with intelligently networked machines and processes"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 958,
+    "y": 1788,
+    "w": 97,
+    "h": 30,
+    "text": "iot-services",
+    "href": "/en/services/dxp/system-integration/iot"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 918,
+    "y": 1428,
+    "w": 347,
+    "h": 454,
+    "text": "go to iot-services & industrie 4.0",
+    "href": "/en/services/dxp/system-integration/iot"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 215,
+    "y": 1946,
+    "w": 267,
+    "h": 24,
+    "text": "Content-Management"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 215,
+    "y": 2034,
+    "w": 267,
+    "h": 264,
+    "text": "Content management systems (CMS) are developing into central control units for w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 215,
+    "y": 2314,
+    "w": 162,
+    "h": 30,
+    "text": "content-management",
+    "href": "/en/services/dxp/cms"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 175,
+    "y": 1906,
+    "w": 347,
+    "h": 478,
+    "text": "go to content-management",
+    "href": "/en/services/dxp/cms"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 586,
+    "y": 1946,
+    "w": 267,
+    "h": 72,
+    "text": "Product Information Management (PIM/MDM/DAM)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 586,
+    "y": 2034,
+    "w": 267,
+    "h": 240,
+    "text": "We support you with structured Product Information Management (PIM) including Ma"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 586,
+    "y": 2290,
+    "w": 249,
+    "h": 30,
+    "text": "product information management",
+    "href": "/en/services/dxp/pim"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 546,
+    "y": 1906,
+    "w": 347,
+    "h": 478,
+    "text": "go to product information management (pim/mdm/dam)",
+    "href": "/en/services/dxp/pim"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 958,
+    "y": 1946,
+    "w": 267,
+    "h": 48,
+    "text": "Customer Data Platform (CDP)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 958,
+    "y": 2034,
+    "w": 267,
+    "h": 240,
+    "text": "With a Customer Data Platform (CDP), you address your target groups at the right"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 958,
+    "y": 2290,
+    "w": 180,
+    "h": 30,
+    "text": "customer data platform",
+    "href": "/en/services/dxp/cdp"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 918,
+    "y": 1906,
+    "w": 347,
+    "h": 478,
+    "text": "go to customer data platform (cdp)",
+    "href": "/en/services/dxp/cdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 215,
+    "y": 2448,
+    "w": 267,
+    "h": 24,
+    "text": "E-Commerce Platforms"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 215,
+    "y": 2488,
+    "w": 267,
+    "h": 264,
+    "text": "Whether for hidden champions in B2B or international online stores in B2C: We su"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 215,
+    "y": 2768,
+    "w": 174,
+    "h": 30,
+    "text": "e-commerce platforms",
+    "href": "/en/services/dxp/e-commerce-platform"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 175,
+    "y": 2408,
+    "w": 347,
+    "h": 454,
+    "text": "go to e-commerce platforms",
+    "href": "/en/services/dxp/e-commerce-platform"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 586,
+    "y": 2448,
+    "w": 267,
+    "h": 24,
+    "text": "Adobe Experience Cloud"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 586,
+    "y": 2488,
+    "w": 267,
+    "h": 288,
+    "text": "We are one of the leading partners for the Adobe Experience Cloud, designing, im"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 586,
+    "y": 2792,
+    "w": 186,
+    "h": 30,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 546,
+    "y": 2408,
+    "w": 347,
+    "h": 454,
+    "text": "go to adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 958,
+    "y": 2448,
+    "w": 267,
+    "h": 24,
+    "text": "Salesforce"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 958,
+    "y": 2488,
+    "w": 267,
+    "h": 264,
+    "text": "Together with Salesforce, we take your CRM to a new level. As a certified partne"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-cta > p.link-only > a",
+    "x": 958,
+    "y": 2768,
+    "w": 77,
+    "h": 30,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > article.card.card-light > a.card-link",
+    "x": 918,
+    "y": 2408,
+    "w": 347,
+    "h": 454,
+    "text": "go to salesforce",
+    "href": "/en/about-us/partner/salesforce"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -334,
+    "y": 3170,
+    "w": 362,
+    "h": 148,
+    "text": "",
+    "file": "media_1a5135b09f828c6b8aa1d7043f074e08a7"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -305,
+    "y": 3163,
+    "w": 393,
+    "h": 161,
+    "text": "",
+    "file": "media_1572f729380e80a899b7693968956e67ea"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -271,
+    "y": 3156,
+    "w": 429,
+    "h": 176,
+    "text": "gemüseabteilung in einem supermarkt",
+    "file": "media_130baafefdfc90f4cbc37b39b2d95acc32"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -229,
+    "y": 3147,
+    "w": 473,
+    "h": 194,
+    "text": "",
+    "file": "media_1d4248a306e7f7974a59e1a21a24db5fb8"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -178,
+    "y": 3136,
+    "w": 527,
+    "h": 216,
+    "text": "weleda logo",
+    "file": "media_111736f15ba80d40feddb49eebcfa9f630"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -114,
+    "y": 3122,
+    "w": 594,
+    "h": 243,
+    "text": "",
+    "file": "media_179a94f4c6bdba2d901afa018ff523c85d"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -32,
+    "y": 3104,
+    "w": 682,
+    "h": 279,
+    "text": "",
+    "file": "media_18d9195c9dcec98ebb4a0db382ecb37b79"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 79,
+    "y": 3080,
+    "w": 799,
+    "h": 327,
+    "text": "mann stehend an heizungsrohren",
+    "file": "media_13450088468b85b3ea565e8e7b7c20bd78"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 417,
+    "y": 3182,
+    "w": 124,
+    "h": 124,
+    "text": "logo viega",
+    "file": "media_13801a60140367b905da112d312a38122c"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 237,
+    "y": 3046,
+    "w": 512,
+    "h": 396,
+    "text": "",
+    "file": "media_17a6d23e852d1053478278a905019b4821"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-headline > h4#zeiss",
+    "x": 780,
+    "y": 3124,
+    "w": 390,
+    "h": 48,
+    "level": 4,
+    "text": "zeiss"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-body > p",
+    "x": 780,
+    "y": 3180,
+    "w": 390,
+    "h": 108,
+    "text": "Development of the ZEISS VISUSTORE digital B2B platform to enable more self-serv"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-cta > p.link-only > a",
+    "x": 780,
+    "y": 3316,
+    "w": 142,
+    "h": 48,
+    "text": "learn more",
+    "href": "/en/about-us/customers/carl-zeiss-ag"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 561,
+    "y": 3080,
+    "w": 799,
+    "h": 327,
+    "text": "",
+    "file": "media_1a5135b09f828c6b8aa1d7043f074e08a7"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 790,
+    "y": 3104,
+    "w": 682,
+    "h": 279,
+    "text": "",
+    "file": "media_1572f729380e80a899b7693968956e67ea"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 960,
+    "y": 3122,
+    "w": 594,
+    "h": 243,
+    "text": "gemüseabteilung in einem supermarkt",
+    "file": "media_130baafefdfc90f4cbc37b39b2d95acc32"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 1211,
+    "y": 3198,
+    "w": 92,
+    "h": 92,
+    "text": "logo aldi süd",
+    "file": "media_10b164b503c0fbf0718dab5379e672d49d"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 1091,
+    "y": 3136,
+    "w": 527,
+    "h": 216,
+    "text": "",
+    "file": "media_1d4248a306e7f7974a59e1a21a24db5fb8"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 1196,
+    "y": 3147,
+    "w": 473,
+    "h": 194,
+    "text": "weleda logo",
+    "file": "media_111736f15ba80d40feddb49eebcfa9f630"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 1281,
+    "y": 3156,
+    "w": 429,
+    "h": 176,
+    "text": "",
+    "file": "media_179a94f4c6bdba2d901afa018ff523c85d"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 1352,
+    "y": 3163,
+    "w": 393,
+    "h": 161,
+    "text": "",
+    "file": "media_18d9195c9dcec98ebb4a0db382ecb37b79"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 1412,
+    "y": 3170,
+    "w": 362,
+    "h": 148,
+    "text": "mann stehend an heizungsrohren",
+    "file": "media_13450088468b85b3ea565e8e7b7c20bd78"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-nav > div.btn-arrow > button",
+    "x": 648,
+    "y": 3466,
+    "w": 64,
+    "h": 64,
+    "text": "go to previous slide"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-nav > div.btn-arrow.btn-arrow-next > button",
+    "x": 728,
+    "y": 3466,
+    "w": 64,
+    "h": 64,
+    "text": "go to next slide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3658,
+    "w": 186,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3688,
+    "w": 121,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3718,
+    "w": 185,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3748,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3778,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3808,
+    "w": 59,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3658,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3688,
+    "w": 127,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3718,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3748,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3778,
+    "w": 134,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3808,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 3658,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 3688,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 3718,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 3748,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 307,
+    "y": 3899,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 387,
+    "y": 3899,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 524,
+    "y": 3899,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 589,
+    "y": 3899,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-social-media > div.footer-bottom-newsletter > a.btn-link",
+    "x": 903,
+    "y": 3899,
+    "w": 217,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1153,
+    "y": 3895,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1201,
+    "y": 3895,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1249,
+    "y": 3895,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 68,
+    "controls": 59,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "digital experience platforms",
+   "variable": false,
+   "origin": {
+    "link": 21,
+    "button": 3,
+    "text": 21,
+    "image": 13
+   },
+   "eds": {
+    "link": 21,
+    "linkHidden": 0,
+    "button": 2,
+    "buttonHidden": 0,
+    "text": 21,
+    "textHidden": 0,
+    "image": 13,
+    "imageHidden": 6
+   },
+   "findings": [
+    "MISSING BUTTON",
+    "COUNT IMAGES"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"digital experience platforms\" (origin y 796) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "COUNT IMAGES",
+   "msg": "band \"digital experience platforms\": 13 origin → 13 served visible (+6 clipped away)",
+   "band": 1,
+   "origin": 13,
+   "eds": 13,
+   "hidden": 6
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 1,
+  "findings": 2,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 246,
+    "y": 55,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 340,
+    "y": 55,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 571,
+    "y": 55,
+    "w": 65,
+    "h": 18
+   },
+   {
+    "x": 669,
+    "y": 55,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 766,
+    "y": 55,
+    "w": 56,
+    "h": 18
+   },
+   {
+    "x": 855,
+    "y": 55,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 1034,
+    "y": 55,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 1062,
+    "y": 55,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "x": 1132,
+    "y": 55,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 426,
+    "w": 231,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 473,
+    "w": 876,
+    "h": 76
+   },
+   {
+    "x": 175,
+    "y": 946,
+    "w": 43,
+    "h": 18
+   },
+   {
+    "x": 245,
+    "y": 946,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 1078,
+    "w": 1003,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1108,
+    "w": 1051,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1138,
+    "w": 1065,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1168,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1228,
+    "w": 1067,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1258,
+    "w": 65,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 1468,
+    "w": 177,
+    "h": 23
+   },
+   {
+    "x": 215,
+    "y": 1511,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1535,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1559,
+    "w": 184,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1583,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1607,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1631,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1655,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1679,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1703,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1727,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1751,
+    "w": 70,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1794,
+    "w": 143,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1468,
+    "w": 183,
+    "h": 23
+   },
+   {
+    "x": 586,
+    "y": 1511,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1535,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1559,
+    "w": 193,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1583,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1607,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1631,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1655,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1679,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1703,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1727,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1751,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1794,
+    "w": 148,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1468,
+    "w": 260,
+    "h": 23
+   },
+   {
+    "x": 958,
+    "y": 1511,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1535,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1559,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1583,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1607,
+    "w": 199,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1631,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1655,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1679,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1703,
+    "w": 212,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1727,
+    "w": 205,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1770,
+    "w": 96,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1922,
+    "w": 205,
+    "h": 23
+   },
+   {
+    "x": 215,
+    "y": 2013,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2037,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2061,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2085,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2109,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2133,
+    "w": 165,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2157,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2181,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2205,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2229,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2253,
+    "w": 112,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2296,
+    "w": 165,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1922,
+    "w": 189,
+    "h": 23
+   },
+   {
+    "x": 586,
+    "y": 1946,
+    "w": 121,
+    "h": 23
+   },
+   {
+    "x": 586,
+    "y": 1970,
+    "w": 168,
+    "h": 23
+   },
+   {
+    "x": 586,
+    "y": 2013,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2037,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2061,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2085,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2109,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2133,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2157,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2181,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2205,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2229,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2272,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1922,
+    "w": 228,
+    "h": 23
+   },
+   {
+    "x": 958,
+    "y": 1946,
+    "w": 57,
+    "h": 23
+   },
+   {
+    "x": 958,
+    "y": 2013,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2037,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2061,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2085,
+    "w": 196,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2109,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2133,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2157,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2181,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2205,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2229,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2272,
+    "w": 184,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2424,
+    "w": 216,
+    "h": 23
+   },
+   {
+    "x": 215,
+    "y": 2467,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2491,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2515,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2539,
+    "w": 203,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2563,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2587,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2611,
+    "w": 214,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2635,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2659,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2683,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2707,
+    "w": 193,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2750,
+    "w": 175,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2424,
+    "w": 231,
+    "h": 23
+   },
+   {
+    "x": 586,
+    "y": 2467,
+    "w": 199,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2491,
+    "w": 177,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2515,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2539,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2563,
+    "w": 215,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2587,
+    "w": 189,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2611,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2635,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2659,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2683,
+    "w": 213,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2707,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2731,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2774,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2424,
+    "w": 99,
+    "h": 23
+   },
+   {
+    "x": 958,
+    "y": 2467,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2491,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2515,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2539,
+    "w": 211,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2563,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2587,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2611,
+    "w": 206,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2635,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2659,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2683,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2707,
+    "w": 191,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2750,
+    "w": 78,
+    "h": 18
+   },
+   {
+    "x": 781,
+    "y": 3103,
+    "w": 93,
+    "h": 40
+   },
+   {
+    "x": 781,
+    "y": 3159,
+    "w": 338,
+    "h": 20
+   },
+   {
+    "x": 781,
+    "y": 3186,
+    "w": 356,
+    "h": 20
+   },
+   {
+    "x": 781,
+    "y": 3213,
+    "w": 308,
+    "h": 20
+   },
+   {
+    "x": 781,
+    "y": 3240,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 809,
+    "y": 3307,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3634,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3664,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3694,
+    "w": 190,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3724,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3754,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3784,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3634,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3664,
+    "w": 130,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3694,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3724,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3754,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3784,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 3634,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 3664,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 3694,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 3724,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3876,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 3876,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 3876,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 3876,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 3876,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 907,
+    "y": 3876,
+    "w": 214,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 250,
+    "y": 55,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 344,
+    "y": 55,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 569,
+    "y": 55,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 664,
+    "y": 55,
+    "w": 63,
+    "h": 17
+   },
+   {
+    "x": 759,
+    "y": 55,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 847,
+    "y": 55,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 1026,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1056,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1129,
+    "y": 55,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 426,
+    "w": 231,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 475,
+    "w": 853,
+    "h": 73
+   },
+   {
+    "x": 175,
+    "y": 946,
+    "w": 44,
+    "h": 17
+   },
+   {
+    "x": 248,
+    "y": 946,
+    "w": 212,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 1078,
+    "w": 1003,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1108,
+    "w": 1051,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1138,
+    "w": 1065,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1168,
+    "w": 277,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1228,
+    "w": 1067,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1258,
+    "w": 65,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 1469,
+    "w": 183,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 1535,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1559,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1583,
+    "w": 184,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1607,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1631,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1655,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1679,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1703,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1727,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1751,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1775,
+    "w": 70,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1818,
+    "w": 141,
+    "h": 17
+   },
+   {
+    "x": 586,
+    "y": 1469,
+    "w": 186,
+    "h": 22
+   },
+   {
+    "x": 586,
+    "y": 1535,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1559,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1583,
+    "w": 193,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1607,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1631,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1655,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1679,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1703,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1727,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1751,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1775,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 1818,
+    "w": 143,
+    "h": 17
+   },
+   {
+    "x": 958,
+    "y": 1469,
+    "w": 231,
+    "h": 22
+   },
+   {
+    "x": 958,
+    "y": 1493,
+    "w": 30,
+    "h": 22
+   },
+   {
+    "x": 958,
+    "y": 1535,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1559,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1583,
+    "w": 232,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1607,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1631,
+    "w": 199,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1655,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1679,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1703,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1727,
+    "w": 212,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1751,
+    "w": 205,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 1794,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 215,
+    "y": 1947,
+    "w": 214,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 2037,
+    "w": 237,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2061,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2085,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2109,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2133,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2157,
+    "w": 165,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2181,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2205,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2229,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2253,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2277,
+    "w": 112,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2320,
+    "w": 162,
+    "h": 17
+   },
+   {
+    "x": 586,
+    "y": 1947,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 586,
+    "y": 1971,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 586,
+    "y": 1995,
+    "w": 162,
+    "h": 22
+   },
+   {
+    "x": 586,
+    "y": 2037,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2061,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2085,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2109,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2133,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2157,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2181,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2205,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2229,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2253,
+    "w": 233,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2296,
+    "w": 249,
+    "h": 17
+   },
+   {
+    "x": 958,
+    "y": 1947,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 958,
+    "y": 1971,
+    "w": 57,
+    "h": 22
+   },
+   {
+    "x": 958,
+    "y": 2037,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2061,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2085,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2109,
+    "w": 196,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2133,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2157,
+    "w": 244,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2181,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2205,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2229,
+    "w": 243,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2253,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2296,
+    "w": 180,
+    "h": 17
+   },
+   {
+    "x": 215,
+    "y": 2449,
+    "w": 225,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 2491,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2515,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2539,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2563,
+    "w": 203,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2587,
+    "w": 262,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2611,
+    "w": 247,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2635,
+    "w": 214,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2659,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2683,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2707,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2731,
+    "w": 193,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2774,
+    "w": 174,
+    "h": 17
+   },
+   {
+    "x": 586,
+    "y": 2449,
+    "w": 240,
+    "h": 22
+   },
+   {
+    "x": 586,
+    "y": 2491,
+    "w": 199,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2515,
+    "w": 177,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2539,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2563,
+    "w": 222,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2587,
+    "w": 215,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2611,
+    "w": 189,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2635,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2659,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2683,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2707,
+    "w": 213,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2731,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2755,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2798,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 958,
+    "y": 2449,
+    "w": 102,
+    "h": 22
+   },
+   {
+    "x": 958,
+    "y": 2491,
+    "w": 265,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2515,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2539,
+    "w": 234,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2563,
+    "w": 211,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2587,
+    "w": 256,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2611,
+    "w": 245,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2635,
+    "w": 206,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2659,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2683,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2707,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2731,
+    "w": 191,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2774,
+    "w": 77,
+    "h": 17
+   },
+   {
+    "x": 780,
+    "y": 3128,
+    "w": 100,
+    "h": 38
+   },
+   {
+    "x": 780,
+    "y": 3183,
+    "w": 338,
+    "h": 20
+   },
+   {
+    "x": 780,
+    "y": 3210,
+    "w": 356,
+    "h": 20
+   },
+   {
+    "x": 780,
+    "y": 3237,
+    "w": 308,
+    "h": 20
+   },
+   {
+    "x": 780,
+    "y": 3264,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 808,
+    "y": 3331,
+    "w": 86,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3658,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3688,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3718,
+    "w": 185,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3748,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3778,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3808,
+    "w": 59,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3658,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3688,
+    "w": 127,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3718,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3748,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3778,
+    "w": 134,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3808,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 3658,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 3688,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 3718,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 3748,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3900,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 3900,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 3900,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 3900,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 3900,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 903,
+    "y": 3900,
+    "w": 217,
+    "h": 16
+   }
+  ]
+ }
+}

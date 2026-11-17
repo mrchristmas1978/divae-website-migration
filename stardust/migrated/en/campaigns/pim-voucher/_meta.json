@@ -1,0 +1,375 @@
+{
+  "slug": "en-campaigns-pim-voucher",
+  "type": "program",
+  "renderBranch": "A'",
+  "template": "en-services-crm",
+  "modules": [
+    "hero",
+    "breadcrumbs",
+    "cards",
+    "button-group",
+    "mixed-media",
+    "form-block"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "hero",
+    "breadcrumbs",
+    "cards",
+    "button-group",
+    "mixed-media",
+    "cards",
+    "button-group",
+    "style",
+    "form-block"
+  ],
+  "canonShas": {
+    "header": "850e0cea0dc4",
+    "footer": "eb22b3f55c59",
+    "css": "89712814bf67"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Free PIM check - secure an analysis voucher | diva-e Conclusion",
+    "description": "For a limited time only: Receive a non-binding PIM analysis including recommendations for action - for efficient product data and better time-to-market.",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Free PIM check - secure an analysis voucher | diva-e Conclusion",
+    "description": "For a limited time only: Receive a non-binding PIM analysis including recommendations for action - for efficient product data and better time-to-market.",
+    "url": "https://www.diva-e.com/en/campaigns/pim-voucher/"
+  },
+  "migratedAt": "2026-11-13T13:41:31Z",
+  "designMdSha": "4192de5ef972",
+  "designJsonSha": "9768d88354b7",
+  "sourceCurrentSha": "f03bfc7846ca",
+  "sourceProposedSha": "9f290a174b13",
+  "fidelityTier": "sibling",
+  "archetypeSource": "en-services-crm",
+  "archetypeSha": "50d9aad9b076",
+  "variants": [
+    "cards.light cards.col-3 cards.icon cards.tagline-left cards.top button-group.top button-group.bottom mixed-media.right mixed-media.dark mixed-media.italic cards.dark button-group.dark-blue section.simple-text.dark.no-bottom"
+  ],
+  "gatesPassed": [
+    "content-fidelity",
+    "variance-probe"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "verbatim from stardust/current/pages/en-campaigns-pim-voucher.html via stardust/.work/rollout/program/encode.cjs (archetype en-services-crm encoder vocabulary); deviations logged in _meta contentDeviations; gate-all content probe per width",
+    "variance-probe": "stardust/.work/rollout/program/variance.json (sibling-variance 1440, exit 2, deltas budgeted as variants)"
+  },
+  "contentDeviations": [
+    {
+      "kind": "heading-promoted",
+      "source": "div.no-heading \"Product Data Makes the Difference\"",
+      "target": "h2",
+      "reason": "mixed-media title slot is a heading in the block model; the source renders the same display line without a heading tag"
+    },
+    {
+      "kind": "whitespace",
+      "source": "edge <br> spacers / empty <p><br></p>",
+      "target": "leading &#xA0;<br> on the next block element",
+      "reason": "the delivery pipeline strips edge <br>s and empty paragraphs; the blank lines are carried forward (no text change)"
+    }
+  ],
+  "assetsBundled": 12,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/en/search/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/services/digital-marketing/audits/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/digital-business-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/technology-architecture-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/strategic-transformation/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/e-commerce-platform/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/karriereportal/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/gaio/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/omnichannel-marketing/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-security/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cybersecurity/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/marketplace/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/customers/interamt/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/interamt/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/interamt/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/locations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/press/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/news/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/search/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/services/dxp/pim",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/data-privacy",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/newsletter/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/sap/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/salesforce/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/data-privacy/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/data-privacy/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/newsletter/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "en/campaigns/pim-voucher/index.html",
+  "outputPathDefault": null,
+  "sidecar": "en/campaigns/pim-voucher/_meta.json",
+  "driverVersion": "1"
+}

@@ -1,0 +1,665 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T11:23:31.142Z",
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "widths": [
+      1440
+    ],
+    "selectors": [
+      ".footer__main-navigation a",
+      ".hero__title",
+      ".teaser-slider h2"
+    ],
+    "props": [
+      "fontSize"
+    ],
+    "allMatches": true,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440
+  ],
+  "selectors": [
+    ".footer__main-navigation a",
+    ".hero__title",
+    ".teaser-slider h2"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/": {
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7139,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7167,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/": {
+      "1440": {
+        ".footer__main-navigation a": [
+          {
+            "index": 0,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6809,
+              "w": 187,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6839,
+              "w": 125,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Paid Advertising",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6869,
+              "w": 190,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Application Management",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6899,
+              "w": 33,
+              "h": 18
+            },
+            "visible": true,
+            "text": "CDP",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6929,
+              "w": 36,
+              "h": 18
+            },
+            "visible": true,
+            "text": "CMS",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6959,
+              "w": 62,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Content",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 6,
+            "of": 16,
+            "rect": {
+              "x": 609,
+              "y": 6809,
+              "w": 103,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Data Analysis",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 7,
+            "of": 16,
+            "rect": {
+              "x": 609,
+              "y": 6839,
+              "w": 130,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Online Marketing",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 8,
+            "of": 16,
+            "rect": {
+              "x": 609,
+              "y": 6869,
+              "w": 85,
+              "h": 18
+            },
+            "visible": true,
+            "text": "OneProSeo",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 9,
+            "of": 16,
+            "rect": {
+              "x": 609,
+              "y": 6899,
+              "w": 30,
+              "h": 18
+            },
+            "visible": true,
+            "text": "PIM",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 10,
+            "of": 16,
+            "rect": {
+              "x": 609,
+              "y": 6929,
+              "w": 140,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Monitor Reporting",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 11,
+            "of": 16,
+            "rect": {
+              "x": 609,
+              "y": 6959,
+              "w": 32,
+              "h": 18
+            },
+            "visible": true,
+            "text": "SAP",
+            "props": {
+              "fontSize": "16px"
+            }
+          }
+        ],
+        ".hero__title": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 145,
+              "y": 298,
+              "w": 989,
+              "h": 143
+            },
+            "visible": true,
+            "text": "Empowering the Evolution of Experience",
+            "props": {
+              "fontSize": "65px"
+            }
+          }
+        ],
+        ".teaser-slider h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 354,
+              "y": 2894,
+              "w": 732,
+              "h": 47
+            },
+            "visible": true,
+            "text": "Our projects",
+            "props": {
+              "fontSize": "39px"
+            }
+          }
+        ]
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "1440": {
+        ".footer__main-navigation a": [
+          {
+            "index": 0,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6836,
+              "w": 193,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 1,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6866,
+              "w": 128,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Paid Advertising",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 2,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6896,
+              "w": 194,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Application Management",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 3,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6926,
+              "w": 34,
+              "h": 18
+            },
+            "visible": true,
+            "text": "CDP",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 4,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6956,
+              "w": 37,
+              "h": 18
+            },
+            "visible": true,
+            "text": "CMS",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 5,
+            "of": 16,
+            "rect": {
+              "x": 175,
+              "y": 6986,
+              "w": 63,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Content",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 6,
+            "of": 16,
+            "rect": {
+              "x": 611,
+              "y": 6836,
+              "w": 106,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Data Analysis",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 7,
+            "of": 16,
+            "rect": {
+              "x": 611,
+              "y": 6866,
+              "w": 133,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Online Marketing",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 8,
+            "of": 16,
+            "rect": {
+              "x": 611,
+              "y": 6896,
+              "w": 88,
+              "h": 18
+            },
+            "visible": true,
+            "text": "OneProSeo",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 9,
+            "of": 16,
+            "rect": {
+              "x": 611,
+              "y": 6926,
+              "w": 29,
+              "h": 18
+            },
+            "visible": true,
+            "text": "PIM",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 10,
+            "of": 16,
+            "rect": {
+              "x": 611,
+              "y": 6956,
+              "w": 142,
+              "h": 18
+            },
+            "visible": true,
+            "text": "Monitor Reporting",
+            "props": {
+              "fontSize": "16px"
+            }
+          },
+          {
+            "index": 11,
+            "of": 16,
+            "rect": {
+              "x": 611,
+              "y": 6986,
+              "w": 32,
+              "h": 18
+            },
+            "visible": true,
+            "text": "SAP",
+            "props": {
+              "fontSize": "16px"
+            }
+          }
+        ],
+        ".hero__title": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 145,
+              "y": 298,
+              "w": 1019,
+              "h": 143
+            },
+            "visible": true,
+            "text": "Empowering the Evolution of Experience",
+            "props": {
+              "fontSize": "65px"
+            }
+          }
+        ],
+        ".teaser-slider h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 354,
+              "y": 2884,
+              "w": 732,
+              "h": 47
+            },
+            "visible": true,
+            "text": "Our projects",
+            "props": {
+              "fontSize": "39px"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "1440": {
+      ".footer__main-navigation a": {
+        "status": "ok",
+        "countA": 12,
+        "countB": 12,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 27,
+              "dw": 6,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 27,
+              "dw": 3,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 27,
+              "dw": 4,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": 27,
+              "dw": 1,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": 0,
+              "dy": 27,
+              "dw": 1,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": 0,
+              "dy": 27,
+              "dw": 1,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 6,
+            "rect": {
+              "dx": 2,
+              "dy": 27,
+              "dw": 3,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 7,
+            "rect": {
+              "dx": 2,
+              "dy": 27,
+              "dw": 3,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 8,
+            "rect": {
+              "dx": 2,
+              "dy": 27,
+              "dw": 3,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 9,
+            "rect": {
+              "dx": 2,
+              "dy": 27,
+              "dw": -1,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 10,
+            "rect": {
+              "dx": 2,
+              "dy": 27,
+              "dw": 2,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 11,
+            "rect": {
+              "dx": 2,
+              "dy": 27,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".hero__title": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 30,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".teaser-slider h2": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    }
+  },
+  "rootDeltas": {
+    "1440": {
+      "scrollWidth": 0,
+      "scrollHeight": 28
+    }
+  }
+}

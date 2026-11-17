@@ -1,0 +1,97 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/agentic-ai-unternehmen-ki-agenten",
+ "at": "2026-11-14T05:34:03.774Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 2,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 7,
+  "offPage": 21,
+  "textNodes": 286,
+  "controls": 52,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 3,
+   "clipper": "table",
+   "path": "table > tbody > tr > td",
+   "text": "executes predefined rules and workflows",
+   "cutMin": 8,
+   "cutMax": 15
+  },
+  {
+   "kind": "TEXT CLAMPED",
+   "advisory": true,
+   "n": 2,
+   "clipper": "p",
+   "path": "div.related-slide > article.article-card > div.card-teaser > p",
+   "text": "how ai agents can ease manufacturing processes, from tender ",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.card-media",
+   "path": "div.related-slide > article.article-card > div.card-media > a.card-media-link",
+   "text": "link",
+   "cutMin": 248,
+   "cutMax": 248
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.article-meta.has-cats > div.meta-cats > ul > li",
+   "text": "ai",
+   "cutMin": 9,
+   "cutMax": 9
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.related-slide > article.article-card > div.card-title > a.card-link",
+   "text": "go to ai use cases in sap lead-to-cash processes",
+   "cutMin": 248,
+   "cutMax": 248
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.related-track",
+   "path": "div.related-slide > article.article-card > div.card-title > h3#ai-use-cases-in-sap-lead-to-cash-processes",
+   "text": "ai use cases in sap lead-to-cash processes",
+   "cutMin": 247,
+   "cutMax": 247
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 2,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 50,
+   "offPage": 23,
+   "textNodes": 290,
+   "controls": 53,
+   "total": 0
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+  "type": "program",
+  "archetype": "en-services-crm",
+  "liveUrl": "https://www.diva-e.com/en/services/crm/",
+  "prototype": "stardust/prototypes/en-services-crm-proposed.html",
+  "canon": ["stardust/prototypes/canon.css", "stardust/prototypes/canon.js"],
+  "pageCss": "stardust/prototypes/en-services-crm.css",
+  "pageJs": "stardust/prototypes/en-services-crm.js",
+  "main": ".page",
+  "consent": "built-in (gate dismissOverlays, Usercentrics)",
+  "iterations": { "1440": 3, "360": 3 },
+  "confirmationRounds": [
+    "1440 iter3 --full: 0.95% Δh0, cd 0🔴/0🟡 (6 advisory), clip 0, overflow 0",
+    "360 iter3 --full: 1.71% Δh0, cd 0🔴/0🟡 (116 advisory, header drawer/font), clip 0, overflow 0"
+  ],
+  "gates": {
+    "1440": { "pixel": "0.95%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (6 advisory: font fork, icon file renames, arrow svg anchor)", "visualDiff": "6 advisory, all FONT MISMATCH (GT Planar VF -> Liberation Sans, register R-03, justified)", "clipped": 0, "overflow": "0px (scrollWidth 1440)" },
+    "360": { "pixel": "1.71%", "heightDelta": 0, "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (116 advisory: canon header drawer extras + font fork, same as landing)", "visualDiff": "6 advisory, all FONT MISMATCH (justified)", "clipped": 0, "overflow": "0px (scrollWidth 360)" }
+  },
+  "capProbe": "PASS (2560, 0 of 5 rows failed; section-count structure advisory live 3 vs build 9)",
+  "residuals": [
+    "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw 1-8px from the GT Planar -> Liberation Sans substitution (identical to landing canon residual); no offsets once page height matched",
+    "Hero button/CTA widths -4..-6px (substitute face metrics)",
+    "content-diff advisory: asset files renamed (viega_logo-cecb.png, cws_logo-aa57.png), coverflow arrow svgs anchored on their buttons"
+  ],
+  "captureState": [
+    { "what": "project coverflow", "restoreAtDelivery": "Swiper loop: 4 projects looped to 16 slides >=950px (active 9/16), single set of 4 below 950px (en-services-crm.js trims after canon.js halves)" }
+  ],
+  "motion": {
+    "observed": [
+      "project coverflow swiper-slide-active/prev/next/visible class churn (84x, Swiper init/loop on the teaser slider)",
+      "Usercentrics consent widget div.circle transform transition 300ms + 'show' class (third-party chrome)"
+    ],
+    "implemented": [
+      "coverflow prev/next/bullets via canon.js (same module as landing, toggles swiper-slide-* classes)",
+      "card title per-row min-height equalisation (source inline min-height 48/24px) in en-services-crm.js"
+    ],
+    "dead": [
+      "header scroll-morph (static on both)",
+      "consent widget motion (third-party, not part of the page)"
+    ],
+    "compare": "stardust/replica/motion/en-services-crm-compare.txt (live en-services-crm.json vs build en-services-crm-build.json; 6 missing are Swiper init churn + consent widget, not user interactions)"
+  },
+  "passed": true,
+  "canonCandidates": [
+    ".card__info p { letter-spacing: .02em } — canon inherits body letter-spacing as px (0.4px vs source 0.32px) and re-wraps card copy",
+    ".card__info i { font-synthesis-style: auto } — source renders <i> as synthesized oblique; canon's html font-synthesis-style:none makes it upright",
+    "cards-block col--3 variant (3-col grid at 1024, tagline flush on container: row-gap 0 / tagline margin-bottom -24px, card--col--3 billhead 2rem) + per-row card title min-height equalisation (JS)",
+    "hero--dark-blue variant (empty navy image container: 86px mobile spacer / 100vh desktop, hero__label Inter 16/500 -> 20/300, hero__cta 48->64px)",
+    "breadcrumbs (layout-breadcrumbs light), simple-text (light no-margin + dark-blue 64px padding, row-paragraph--large), image-caption (image-grid-10), button-group dark-blue center, .btn--light — all will recur on program/service pages; en.css hero/simple-text/cards-block--dark rules duplicate these",
+    "canon.js teaser mobile trim assumes the list is doubled; generalise to the source's loop factor (CRM loops 4 projects x4 = 16 desktop, 4 on mobile)"
+  ]
+}

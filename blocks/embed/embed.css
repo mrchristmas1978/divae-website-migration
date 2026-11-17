@@ -1,0 +1,54 @@
+/* embed — source CodeEmbed (CodeEmbed.css) */
+.embed {
+  margin: 80px 0;
+  padding: 0 24px;
+}
+
+.embed.dark-blue {
+  margin: 0;
+  padding: 80px 24px;
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+.embed .embed-container {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.embed .embed-headline {
+  max-width: 100%;
+  margin-bottom: 64px;
+}
+
+.embed .embed-content {
+  width: 100%;
+}
+
+.embed .embed-content iframe {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  border: none;
+}
+
+@media (width >= 768px) {
+  .embed,
+  .embed.dark-blue {
+    padding-right: 64px;
+    padding-left: 64px;
+  }
+
+  .embed .embed-container {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+}
+
+@media (width >= 950px) {
+  .embed .embed-headline {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}

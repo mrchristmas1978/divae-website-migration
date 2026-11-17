@@ -1,0 +1,29 @@
+
+Content diff @ 1440px (profile "generic", roots: .page, header, footer)
+⚠ root ".page": source fell back to <body>, build has it — both sides measured at <body> (aligned)
+root ".page" — source: ".page" absent, fell back to <body>
+  source: 292 text nodes — 2 headings, 4 eyebrows, 106 CTAs, 180 body; 50 img
+  build: 292 text nodes — 2 headings, 4 eyebrows, 106 CTAs, 180 body; 50 img
+  editable texts (outermost h*/p/ul/ol): source 8 / build 8
+  attributes (placeholder/aria-label/title): source 157 / build 157; icons: source 32 / build 32
+  accepted (invisible, nothing lost): 17 SAME IMAGE — "32x ↔ jasmin-guthmann-dbae-32x.png", "32x ↔ dorothee-haensch-176x176-0c9c-32x.jpeg", "32x ↔ verena-reineke-rugge-8a0e-32x.jpeg", "32x ↔ dorothee-haensch-176x176-0c9c-32x.jpeg" …
+root "header"
+  source: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  build: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 65 / build 65; icons: source 3 / build 3
+root "footer"
+  source: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  build: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 30 / build 30; icons: source 4 / build 4
+
+Findings: 7 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 17 (owner 0, auto 17) · advisory 7
+  🟠 FONT FORK [.page]: 1 matched line(s) render a DIFFERENT face: body "-": source GT Planar VF vs build GT Planar VF→sys (-20%). A matched line renders a different typeface. A "→sys" on the source side means it named a font it never loaded; confirm the substitution is intended, else load the missing face.
+  🟡 MISSING TITLE [.page]: source <iframe> title="archetype" has no build <iframe> with that title. Authored text a user or assistive tech reads, dropped by the build — carry it over verbatim.
+  🟡 EXTRA ARIA-LABEL [.page]: build <nav> aria-label="Pagination" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 ICON DIFF [.page]: source image 32x (32×32) vs build image anne-brosch-en-893e-32x.jpeg (32×32) at "anne brosch". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.page]: source image 32x (32×32) vs build image sirko-schneppe-176x176-7c82-32x.png (32×32) at "sirko schneppe". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.page]: source image 32x (32×32) vs build image dorothee-haensch-176x176-0c9c-32x.jpeg (32×32) at "dorothee haensch". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.page]: source image 32x (32×32) vs build image dorothee-haensch-176x176-0c9c-32x.jpeg (32×32) at "dorothee haensch". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).

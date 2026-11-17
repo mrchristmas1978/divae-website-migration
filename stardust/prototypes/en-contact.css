@@ -1,0 +1,65 @@
+/* en-contact — form archetype (page layer over canon.css)
+   Modules: hero (plain, no image) · layout-breadcrumbs--light · form-block--regular
+   (blue card HubSpot form). Values lifted from live Hero / LayoutBreadcrumbs / FormBlock sheets. */
+
+/* hero (default variant, empty image container = navy plate) ---------------- */
+.hero { position: relative; width: 100%; height: 100%; color: var(--white); }
+.hero__container { position: relative; display: flex; flex-direction: column; justify-content: flex-end; width: 100%; }
+.hero__image-wrapper { width: 100%; }
+.hero__image-container { position: relative; z-index: 0; width: 100%; max-width: 100%; margin: 0; overflow: hidden; background-color: var(--navy); }
+.hero__image-container::before { content: ""; display: block; padding-bottom: 86px; }
+.hero__info { width: 100%; }
+.hero__info-wrapper { position: relative; z-index: 1; width: 100%; max-width: 100%; margin: 0 auto; padding: 0 var(--pad-x); background-color: var(--navy); }
+.hero__info-container { display: flex; flex-direction: column; flex-wrap: wrap; column-gap: 24px; width: 100%; margin: 0 auto; padding: 36px 0; }
+.hero__info-title { position: relative; width: 100%; }
+.hero__title { font-variation-settings: "slnt" -30; }
+.hero__description { max-width: 1040px; margin-top: 16px; font-weight: 400; }
+.hero__description p { font-size: 1.6rem; }
+@media (min-width: 950px) {
+  .hero__container { justify-content: center; min-height: 100vh; padding-top: 70px; }
+  .hero__image-container { position: absolute; top: 0; height: 100%; }
+  .hero__image-container::before { padding-bottom: 100vh; }
+  .hero__info-wrapper { background-color: transparent; }
+  .hero__info-container { width: calc(1000% / 12 - 2 * 24px / 12); }
+  .hero__info-title { margin-left: -30px; padding-right: 100px; }
+  .hero__title { padding-left: 30px; font-style: italic; font-variation-settings: "slnt" 30; }
+  .hero__description { margin-top: 40px; font-weight: inherit; }
+}
+@media (min-width: 1600px) { .hero__description p { font-size: 2rem; } }
+
+/* layout-breadcrumbs (light) ------------------------------------------------ */
+.layout-breadcrumbs { padding: 40px var(--pad-x) 34px; }
+.layout-breadcrumbs__nav { width: 100%; margin: 0 auto; }
+.layout-breadcrumbs__nav ul { display: flex; flex-wrap: wrap; list-style: none; }
+.layout-breadcrumbs__nav li { display: flex; margin: 0 6px 6px 0; }
+.layout-breadcrumbs__nav li::before { content: "→"; margin: 0 6px 0 0; color: #6b7186; font-family: var(--font-display); font-size: 1.6rem; font-variation-settings: "slnt" 0; }
+.layout-breadcrumbs__nav li:first-child::before { display: none; }
+.layout-breadcrumbs__nav .btn { border-bottom-width: 2px; color: #6b7186; font-size: 1.2rem; line-height: 130%; text-align: left; }
+.layout-breadcrumbs--current.btn { border: none; text-decoration: none; pointer-events: none; font-style: italic; font-variation-settings: "slnt" 30; }
+@media (min-width: 768px) {
+  .layout-breadcrumbs__nav { width: calc(1000% / 12 - 2 * 24px / 12); }
+  .layout-breadcrumbs__nav .btn { border-bottom-width: 3px; font-size: 1.6rem; }
+}
+
+/* form-block--regular (blue card, white HubSpot form) ----------------------- */
+.form-block--regular { padding: 48px 0; background-color: var(--blue); color: var(--white); }
+.form-block--regular .form-block__container { padding: 0; background-color: transparent; }
+.form-block--regular .hs-form__input,
+.form-block--regular .hs-form__select { box-shadow: inset 0 -1px 0 var(--white); color: var(--white); }
+.form-block--regular .hs-form__input:focus,
+.form-block--regular .hs-form__select:focus { box-shadow: inset 0 -4px 0 var(--white); }
+.form-block--regular .hs-form__select { background-color: var(--blue); }
+.form-block--regular .hs-form__radio span { border-color: var(--white); }
+.form-block--regular .hs-form__radio:hover span { border-color: var(--white); }
+.form-block--regular .hs-form__radio input:checked + span { background-color: var(--white); border-color: var(--white); color: var(--blue); }
+.form-block--regular .hs-form__legal a { border-bottom-color: var(--white); color: inherit; }
+.form-block--regular .hs-form__checkbox > span::before { border-color: var(--white); }
+.form-block--regular .hs-form__checkbox input:checked + span::before { background-color: var(--white); }
+.form-block--regular .hs-form__submit { box-shadow: inset 0 0 0 2px var(--white); color: var(--white); }
+@media (min-width: 768px) {
+  .form-block--regular { padding: 40px 0; background-color: transparent; }
+  .form-block--regular .form-block__container { padding: 64px 0; background-color: var(--blue); }
+}
+@media (min-width: 1200px) {
+  .form-block--regular .form-block__container { padding: 80px 0; }
+}

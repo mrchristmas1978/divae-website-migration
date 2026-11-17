@@ -1,0 +1,1600 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T11:21:57.880Z",
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "selectors": [
+      ".text__description",
+      ".text__description p",
+      ".cards-block--dark h2",
+      ".teaser-slider h2",
+      ".teaser-slider__swiper",
+      ".footer__main-navigation",
+      ".footer__bottom-navigation",
+      ".footer__newsletter",
+      ".footer__top-navigation",
+      ".hs-input",
+      ".card__info p"
+    ],
+    "props": [
+      "height",
+      "fontSize",
+      "lineHeight",
+      "fontWeight",
+      "padding",
+      "margin",
+      "fontFamily"
+    ],
+    "allMatches": false,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440,
+    360
+  ],
+  "selectors": [
+    ".text__description",
+    ".text__description p",
+    ".cards-block--dark h2",
+    ".teaser-slider h2",
+    ".teaser-slider__swiper",
+    ".footer__main-navigation",
+    ".footer__bottom-navigation",
+    ".footer__newsletter",
+    ".footer__top-navigation",
+    ".hs-input",
+    ".card__info p"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8250,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7139,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8547,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7264,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        ".text__description": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 1124,
+              "w": 312,
+              "h": 456
+            },
+            "visible": true,
+            "text": "The digitalization of business models a…",
+            "props": {
+              "height": "456px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "48px 0px 0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".text__description p": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 24,
+              "y": 1124,
+              "w": 312,
+              "h": 120
+            },
+            "visible": true,
+            "text": "The digitalization of business models a…",
+            "props": {
+              "height": "120px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".cards-block--dark h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 5426,
+              "w": 312,
+              "h": 29
+            },
+            "visible": true,
+            "text": "Our certifications & seals",
+            "props": {
+              "height": "28.7969px",
+              "fontSize": "24px",
+              "lineHeight": "28.8px",
+              "fontWeight": "400",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive"
+            }
+          }
+        ],
+        ".teaser-slider h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 3669,
+              "w": 312,
+              "h": 29
+            },
+            "visible": true,
+            "text": "Our projects",
+            "props": {
+              "height": "28.7969px",
+              "fontSize": "24px",
+              "lineHeight": "28.8px",
+              "fontWeight": "400",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive"
+            }
+          }
+        ],
+        ".teaser-slider__swiper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 3698,
+              "w": 312,
+              "h": 625
+            },
+            "visible": true,
+            "text": "ZEISS Development of the ZEISS VISUSTOR…",
+            "props": {
+              "height": "625.141px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "24px 0px",
+              "margin": "0px 24px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".footer__main-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7617,
+              "w": 312,
+              "h": 288
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "288px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".footer__bottom-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7965,
+              "w": 312,
+              "h": 153
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection",
+            "props": {
+              "height": "153px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "60px 0px 0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".footer__newsletter": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7519,
+              "w": 312,
+              "h": 66
+            },
+            "visible": true,
+            "text": "Subscribe to diva-e newsletter!",
+            "props": {
+              "height": "66px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "32px 0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".footer__top-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7463,
+              "w": 312,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Jobs Whistleblower system",
+            "props": {
+              "height": "24px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".hs-input": [
+          {
+            "index": 0,
+            "of": 13,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "",
+            "props": {
+              "height": "auto",
+              "fontSize": "13.3333px",
+              "lineHeight": "normal",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".card__info p": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 48,
+              "y": 2063,
+              "w": 264,
+              "h": 235
+            },
+            "visible": true,
+            "text": "We bring digital and marketing strategi…",
+            "props": {
+              "height": "235.125px",
+              "fontSize": "14px",
+              "lineHeight": "19.6px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".text__description": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 398,
+              "y": 1163,
+              "w": 644,
+              "h": 390
+            },
+            "visible": true,
+            "text": "The digitalization of business models a…",
+            "props": {
+              "height": "390px",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "48px 111.344px 0px 111.328px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".text__description p": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 398,
+              "y": 1163,
+              "w": 644,
+              "h": 120
+            },
+            "visible": true,
+            "text": "The digitalization of business models a…",
+            "props": {
+              "height": "120px",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".cards-block--dark h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 175,
+              "y": 5092,
+              "w": 1089,
+              "h": 47
+            },
+            "visible": true,
+            "text": "Our certifications & seals",
+            "props": {
+              "height": "46.7969px",
+              "fontSize": "39px",
+              "lineHeight": "46.8px",
+              "fontWeight": "400",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive"
+            }
+          }
+        ],
+        ".teaser-slider h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 354,
+              "y": 2894,
+              "w": 732,
+              "h": 47
+            },
+            "visible": true,
+            "text": "Our projects",
+            "props": {
+              "height": "46.7969px",
+              "fontSize": "39px",
+              "lineHeight": "46.8px",
+              "fontWeight": "400",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive"
+            }
+          }
+        ],
+        ".teaser-slider__swiper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 2941,
+              "w": 1440,
+              "h": 444
+            },
+            "visible": true,
+            "text": "ZEISS Development of the ZEISS VISUSTOR…",
+            "props": {
+              "height": "443.594px",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "24px 237px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".footer__main-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 175,
+              "y": 6801,
+              "w": 1089,
+              "h": 180
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "180px",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".footer__bottom-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 175,
+              "y": 7046,
+              "w": 1089,
+              "h": 29
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection J…",
+            "props": {
+              "height": "29px",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "65px 0px 0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".footer__newsletter": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Subscribe to diva-e newsletter!",
+            "props": {
+              "height": "auto",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "32px 0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".footer__top-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "JobsWhistleblower system",
+            "props": {
+              "height": "auto",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".hs-input": [
+          {
+            "index": 0,
+            "of": 13,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "",
+            "props": {
+              "height": "auto",
+              "fontSize": "13.3333px",
+              "lineHeight": "normal",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ],
+        ".card__info p": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 215,
+              "y": 2026,
+              "w": 453,
+              "h": 192
+            },
+            "visible": true,
+            "text": "We bring digital and marketing strategi…",
+            "props": {
+              "height": "192px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, \"sans-serif\""
+            }
+          }
+        ]
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        ".text__description": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 1124,
+              "w": 312,
+              "h": 891
+            },
+            "visible": true,
+            "text": "The digitalization of business models a…",
+            "props": {
+              "height": "891px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "48px 0px 0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".text__description p": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 24,
+              "y": 1124,
+              "w": 312,
+              "h": 231
+            },
+            "visible": true,
+            "text": "The digitalization of business models a…",
+            "props": {
+              "height": "231px",
+              "fontSize": "24px",
+              "lineHeight": "33px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".cards-block--dark h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 5781,
+              "w": 312,
+              "h": 49
+            },
+            "visible": true,
+            "text": "Our certifications & seals",
+            "props": {
+              "height": "48.7969px",
+              "fontSize": "24px",
+              "lineHeight": "28.8px",
+              "fontWeight": "400",
+              "padding": "0px 0px 20px",
+              "margin": "0px",
+              "fontFamily": "\"GT Planar VF\", \"Liberation Sans\", Arimo, Helvetica, Arial, sans-serif"
+            }
+          }
+        ],
+        ".teaser-slider h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 4096,
+              "w": 312,
+              "h": 29
+            },
+            "visible": true,
+            "text": "Our projects",
+            "props": {
+              "height": "28.7969px",
+              "fontSize": "24px",
+              "lineHeight": "28.8px",
+              "fontWeight": "400",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "\"GT Planar VF\", \"Liberation Sans\", Arimo, Helvetica, Arial, sans-serif"
+            }
+          }
+        ],
+        ".teaser-slider__swiper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 4125,
+              "w": 312,
+              "h": 553
+            },
+            "visible": true,
+            "text": "ZEISS Development of the ZEISS VISUSTOR…",
+            "props": {
+              "height": "553.141px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "24px 0px",
+              "margin": "0px 24px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".footer__main-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7958,
+              "w": 312,
+              "h": 288
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "288px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".footer__bottom-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 8306,
+              "w": 312,
+              "h": 109
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection",
+            "props": {
+              "height": "109px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "60px 0px 0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".footer__newsletter": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7860,
+              "w": 312,
+              "h": 66
+            },
+            "visible": true,
+            "text": "Subscribe to diva-e newsletter!",
+            "props": {
+              "height": "66px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "32px 0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".footer__top-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7804,
+              "w": 312,
+              "h": 24
+            },
+            "visible": true,
+            "text": "Jobs Whistleblower system",
+            "props": {
+              "height": "24px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".hs-input": [],
+        ".card__info p": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 48,
+              "y": 2498,
+              "w": 264,
+              "h": 235
+            },
+            "visible": true,
+            "text": "We bring digital and marketing strategi…",
+            "props": {
+              "height": "235.125px",
+              "fontSize": "14px",
+              "lineHeight": "19.6px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".text__description": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 398,
+              "y": 1163,
+              "w": 644,
+              "h": 495
+            },
+            "visible": true,
+            "text": "The digitalization of business models a…",
+            "props": {
+              "height": "495px",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "48px 111.344px 0px 111.328px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".text__description p": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 398,
+              "y": 1163,
+              "w": 644,
+              "h": 132
+            },
+            "visible": true,
+            "text": "The digitalization of business models a…",
+            "props": {
+              "height": "132px",
+              "fontSize": "24px",
+              "lineHeight": "33px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".cards-block--dark h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 175,
+              "y": 5187,
+              "w": 1089,
+              "h": 87
+            },
+            "visible": true,
+            "text": "Our certifications & seals",
+            "props": {
+              "height": "86.7969px",
+              "fontSize": "39px",
+              "lineHeight": "46.8px",
+              "fontWeight": "400",
+              "padding": "0px 0px 40px",
+              "margin": "0px",
+              "fontFamily": "\"GT Planar VF\", \"Liberation Sans\", Arimo, Helvetica, Arial, sans-serif"
+            }
+          }
+        ],
+        ".teaser-slider h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 354,
+              "y": 2989,
+              "w": 732,
+              "h": 47
+            },
+            "visible": true,
+            "text": "Our projects",
+            "props": {
+              "height": "46.7969px",
+              "fontSize": "39px",
+              "lineHeight": "46.8px",
+              "fontWeight": "400",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "\"GT Planar VF\", \"Liberation Sans\", Arimo, Helvetica, Arial, sans-serif"
+            }
+          }
+        ],
+        ".teaser-slider__swiper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 3036,
+              "w": 1440,
+              "h": 444
+            },
+            "visible": true,
+            "text": "ZEISS Development of the ZEISS VISUSTOR…",
+            "props": {
+              "height": "443.594px",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "24px 237px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".footer__main-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 175,
+              "y": 6925,
+              "w": 1089,
+              "h": 180
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "180px",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".footer__bottom-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 175,
+              "y": 7170,
+              "w": 1089,
+              "h": 30
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection J…",
+            "props": {
+              "height": "30px",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "65px 0px 0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".footer__newsletter": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Subscribe to diva-e newsletter!",
+            "props": {
+              "height": "auto",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "32px 0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".footer__top-navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "JobsWhistleblower system",
+            "props": {
+              "height": "auto",
+              "fontSize": "20px",
+              "lineHeight": "30px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ],
+        ".hs-input": [],
+        ".card__info p": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 215,
+              "y": 2131,
+              "w": 453,
+              "h": 192
+            },
+            "visible": true,
+            "text": "We bring digital and marketing strategi…",
+            "props": {
+              "height": "192px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "fontWeight": "300",
+              "padding": "0px",
+              "margin": "0px",
+              "fontFamily": "Inter, sans-serif"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "360": {
+      ".text__description": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 435
+            },
+            "props": {
+              "height": [
+                "456px",
+                "891px"
+              ],
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".text__description p": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 111
+            },
+            "props": {
+              "height": [
+                "120px",
+                "231px"
+              ],
+              "fontSize": [
+                "16px",
+                "24px"
+              ],
+              "lineHeight": [
+                "24px",
+                "33px"
+              ],
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".cards-block--dark h2": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 355,
+              "dw": 0,
+              "dh": 20
+            },
+            "props": {
+              "height": [
+                "28.7969px",
+                "48.7969px"
+              ],
+              "padding": [
+                "0px",
+                "0px 0px 20px"
+              ],
+              "fontFamily": [
+                "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+                "\"GT Planar VF\", \"Liberation Sans\", Arimo, Helvetica, Arial, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".teaser-slider h2": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 427,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+                "\"GT Planar VF\", \"Liberation Sans\", Arimo, Helvetica, Arial, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".teaser-slider__swiper": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 427,
+              "dw": 0,
+              "dh": -72
+            },
+            "props": {
+              "height": [
+                "625.141px",
+                "553.141px"
+              ],
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__main-navigation": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 341,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__bottom-navigation": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 341,
+              "dw": 0,
+              "dh": -44
+            },
+            "props": {
+              "height": [
+                "153px",
+                "109px"
+              ],
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__newsletter": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 341,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__top-navigation": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 341,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".hs-input": {
+        "status": "missing-b",
+        "countA": 1,
+        "countB": 0,
+        "pairs": []
+      },
+      ".card__info p": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 435,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "1440": {
+      ".text__description": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 105
+            },
+            "props": {
+              "height": [
+                "390px",
+                "495px"
+              ],
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".text__description p": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 12
+            },
+            "props": {
+              "height": [
+                "120px",
+                "132px"
+              ],
+              "fontSize": [
+                "20px",
+                "24px"
+              ],
+              "lineHeight": [
+                "30px",
+                "33px"
+              ],
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".cards-block--dark h2": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 95,
+              "dw": 0,
+              "dh": 40
+            },
+            "props": {
+              "height": [
+                "46.7969px",
+                "86.7969px"
+              ],
+              "padding": [
+                "0px",
+                "0px 0px 40px"
+              ],
+              "fontFamily": [
+                "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+                "\"GT Planar VF\", \"Liberation Sans\", Arimo, Helvetica, Arial, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".teaser-slider h2": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 95,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+                "\"GT Planar VF\", \"Liberation Sans\", Arimo, Helvetica, Arial, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".teaser-slider__swiper": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 95,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__main-navigation": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 124,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__bottom-navigation": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 124,
+              "dw": 0,
+              "dh": 1
+            },
+            "props": {
+              "height": [
+                "29px",
+                "30px"
+              ],
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__newsletter": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__top-navigation": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".hs-input": {
+        "status": "missing-b",
+        "countA": 1,
+        "countB": 0,
+        "pairs": []
+      },
+      ".card__info p": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 105,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "Inter, \"sans-serif\"",
+                "Inter, sans-serif"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rootDeltas": {
+    "360": {
+      "scrollWidth": 0,
+      "scrollHeight": 297
+    },
+    "1440": {
+      "scrollWidth": 0,
+      "scrollHeight": 125
+    }
+  }
+}

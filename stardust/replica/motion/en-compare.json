@@ -1,0 +1,180 @@
+{
+  "live": "stardust/replica/motion/en.json",
+  "build": "stardust/replica/motion/en-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 1,
+  "counts": {
+    "behaviors": 23,
+    "parity": 11,
+    "missing": 1,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 10,
+    "advisory": 1
+  },
+  "verdicts": [
+    {
+      "cls": "header",
+      "name": "scroll-morph",
+      "state": "dead",
+      "note": "header static across the scroll traversal on both sides",
+      "line": "motion header scroll-morph: dead on live — not required (header static across the scroll traversal on both sides)"
+    },
+    {
+      "cls": "widget",
+      "name": ".teaser-slider__swiper-navigation .btn-arrow-next button → [data-teaser] [data-next]",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .teaser-slider__swiper-navigation .btn-arrow-next button → [data-teaser] [data-next]: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": ".slider-cards-copy__next → .slider-cards__arrow--next",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .slider-cards-copy__next → .slider-cards__arrow--next: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "widget",
+      "name": "button.menu-item__link",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget button.menu-item__link: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "hover",
+      "name": ".cards-block--light .card",
+      "state": "parity",
+      "note": "a.color, self.background, self.color; 250ms",
+      "line": "motion hover .cards-block--light .card: parity (a.color, self.background, self.color; 250ms)"
+    },
+    {
+      "cls": "hover",
+      "name": ".slider-cards-copy-item → .story-card",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .slider-cards-copy-item → .story-card: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".partners-bar-item__slide-item → .partners-bar__item",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .partners-bar-item__slide-item → .partners-bar__item: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".partners-bar__btn .btn",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .partners-bar__btn .btn: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".menu-item--top-parent > a.menu-item__link → .menu-item--top > a.menu-item__link",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .menu-item--top-parent > a.menu-item__link → .menu-item--top > a.menu-item__link: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".header__contact a",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .header__contact a: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".teaser-slider .swiper-slide-active .btn → .teaser-item.is-active .btn",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .teaser-slider .swiper-slide-active .btn → .teaser-item.is-active .btn: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "transition",
+      "name": "background-color",
+      "state": "parity",
+      "note": "2 event(s) on live, 2 on build, 250ms",
+      "line": "motion transition background-color: parity (2 event(s) on live, 2 on build, 250ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 250ms",
+      "line": "motion transition color: parity (4 event(s) on live, 4 on build, 250ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "filter",
+      "state": "parity",
+      "note": "4 event(s) on live, 2 on build, 300ms",
+      "line": "motion transition filter: parity (4 event(s) on live, 2 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "font-variation-settings",
+      "state": "parity",
+      "note": "12 event(s) on live, 12 on build, 300ms",
+      "line": "motion transition font-variation-settings: parity (12 event(s) on live, 12 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "opacity",
+      "state": "parity",
+      "note": "4 event(s) on live, 6 on build, 200ms",
+      "line": "motion transition opacity: parity (4 event(s) on live, 6 on build, 200ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "text-decoration-color",
+      "state": "parity",
+      "note": "4 event(s) on live, 4 on build, 300ms",
+      "line": "motion transition text-decoration-color: parity (4 event(s) on live, 4 on build, 300ms)"
+    },
+    {
+      "cls": "transition",
+      "name": "transform",
+      "state": "parity",
+      "note": "86 event(s) on live, 32 on build, 4000ms",
+      "line": "motion transition transform: parity (86 event(s) on live, 32 on build, 4000ms)"
+    },
+    {
+      "cls": "class",
+      "name": "swiper-slide-active",
+      "state": "parity",
+      "note": "added 151× on live, 17× on build",
+      "line": "motion class swiper-slide-active: parity (added 151× on live, 17× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "swiper-slide-next",
+      "state": "parity",
+      "note": "added 151× on live, 15× on build",
+      "line": "motion class swiper-slide-next: parity (added 151× on live, 15× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "swiper-slide-prev",
+      "state": "parity",
+      "note": "added 149× on live, 31× on build",
+      "line": "motion class swiper-slide-prev: parity (added 149× on live, 31× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "swiper-slide-visible",
+      "state": "missing",
+      "note": "trigger class added 154× on live, never on build",
+      "line": "motion class swiper-slide-visible: MISSING on build (trigger class added 154× on live, never on build)"
+    },
+    {
+      "cls": "class",
+      "name": "is-active",
+      "state": "advisory",
+      "note": "added 2× on build, never on live — check it drives no invented behavior",
+      "line": "motion class is-active: extra on build — advisory (added 2× on build, never on live — check it drives no invented behavior)"
+    }
+  ]
+}

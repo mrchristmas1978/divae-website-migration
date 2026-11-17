@@ -1,0 +1,57 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/postbank",
+ "at": "2026-11-14T06:42:43.605Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 3,
+  "offPage": 20,
+  "textNodes": 57,
+  "controls": 45,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li > a",
+   "text": "content optimization in e-commerce",
+   "cutMin": 7,
+   "cutMax": 142
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li.is-active > a",
+   "text": "content marketing",
+   "cutMin": 109,
+   "cutMax": 109
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 3,
+   "offPage": 20,
+   "textNodes": 57,
+   "controls": 46,
+   "total": 0
+  }
+ }
+}

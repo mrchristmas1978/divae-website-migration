@@ -1,0 +1,72 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-13T12:40:11.484Z",
+  "input": "stardust/current/_dynamics.json",
+  "martech": "stardust/martech"
+ },
+ "productionHosts": [
+  "www.diva-e.com"
+ ],
+ "consent": {
+  "cmp": {
+   "vendor": "Usercentrics",
+   "src": "https://web.cmp.usercentrics.eu/ui/loader.js",
+   "attrs": {
+    "data-settings-id": "zwbhh7MR"
+   },
+   "groups": null,
+   "event": null,
+   "viaTagManager": false,
+   "enabled": false,
+   "note": "re-added by hand after the B2 rebuild (2026-11-13): <script id=usercentrics-cmp data-settings-id=zwbhh7MR> in the server HTML of all 9 probed pages; vendor table has no Usercentrics cmp row, so every contract rebuild drops this entry — re-add it"
+  },
+  "model": "owner-decision",
+  "categories": [],
+  "ruleSets": 0,
+  "consentMode": null
+ },
+ "routes": [
+  {
+   "id": "google-tag-manager",
+   "vendor": "Google Tag Manager",
+   "src": "https://www.googletagmanager.com/gtag/js?id=AW-1056602529",
+   "boot": "gtag",
+   "category": null,
+   "cmpGroups": [],
+   "enabled": false
+  },
+  {
+   "id": "google-tag-manager-container",
+   "vendor": "Google Tag Manager",
+   "src": "https://load.data.diva-e.com/gtm.js?id=GTM-W77TLSS",
+   "boot": "gtm",
+   "category": null,
+   "cmpGroups": [],
+   "enabled": false,
+   "note": "source loads container GTM-W77TLSS through its first-party server-side GTM host load.data.diva-e.com (custom loader /7nqndmrluefj.js?bv2jl=<base64 id=GTM-W77TLSS>, noscript ns.html?id=GTM-W77TLSS); /gtm.js?id=GTM-W77TLSS on that host serves the same container (checked 2026-11-13). GTM then loads gtag G-LVE0DSYGPD, AW-1056602529, AW-16967774015 via the same host. Re-add after any rebuild"
+  }
+ ],
+ "otherTags": [
+  "consent: Usercentrics",
+  "analytics: Google Analytics / Ads",
+  "marketing: HubSpot tracking",
+  "marketing: ad / retargeting pixel"
+ ],
+ "tagManagers": [
+  "Google Tag Manager"
+ ],
+ "dataLayers": [
+  "dataLayer"
+ ],
+ "tagNotes": {},
+ "rewrite": {
+  "library": null,
+  "rules": [],
+  "dataElements": [],
+  "dataLayer": [],
+  "dataLayerPaths": []
+ },
+ "aemMartech": null,
+ "target": null
+}

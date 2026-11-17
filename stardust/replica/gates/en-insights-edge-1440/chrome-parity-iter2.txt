@@ -1,0 +1,31 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://www.diva-e.com/en/insights/edge/ (live side from cache stardust/replica/gates/en-insights-edge-1440/chrome-live.json, probed 2026-11-13T12:07:53.482Z — delete the file to re-probe)
+  build: http://localhost:8791/en-insights-edge-proposed.html
+
+■ header: 10 delta(s) — 10 paired of 10/10 texts, 2/2 icons
+  PAIR         "Services"  Δx +4px (230→234)
+  PAIR         "Marketplace"  Δx +4px (324→328); Δw -3px (127→124)
+  PAIR         "Industries"  Δw -3px (104→101)
+  PAIR         "Partners"  Δx -2px (555→553); Δw -2px (98→96)
+  PAIR         "About us"  Δx -5px (653→648); Δw -3px (98→95)
+  PAIR         "Insights"  Δx -7px (750→743); Δw -2px (89→87)
+  PAIR         "Careers"  Δx -8px (839→831)
+  PAIR         "de"  Δx -8px (1030→1022); Δw +2px (28→30)
+  PAIR         "en"  Δx -6px (1058→1052)
+  PAIR         "Contacts"  Δx -4px (1115→1111)
+
+■ footer: 12 delta(s) — 22 paired of 22/22 texts, 3/3 icons
+  PAIR         "Paid Advertising"  Δw -4px (125→121)
+  PAIR         "Application Management"  Δw -5px (190→185)
+  PAIR         "CDP"  Δw +2px (33→35)
+  PAIR         "Content"  Δw -3px (62→59)
+  PAIR         "Online Marketing"  Δw -3px (130→127)
+  PAIR         "OneProSeo"  Δw +2px (85→87)
+  PAIR         "Monitor Reporting"  Δw -6px (140→134)
+  PAIR         "SEO"  Δx -3px (993→990); Δw +3px (32→35)
+  PAIR         "Salesforce"  Δx -3px (993→990)
+  PAIR         "AI"  Δx -3px (993→990)
+  PAIR         "UX"  Δx -3px (993→990)
+  PAIR         "Subscribe to diva-e newsletter!"  Δx -4px (907→903); Δw +3px (214→217); Δh -4px (20→16); <a> box 214×20 → 217×20
+
+✗ 22 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

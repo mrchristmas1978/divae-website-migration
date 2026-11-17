@@ -1,0 +1,57 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/postbank",
+ "at": "2026-11-14T04:04:07.759Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 3,
+  "offPage": 15,
+  "textNodes": 65,
+  "controls": 52,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li > a",
+   "text": "user experience (ux)",
+   "cutMin": 270,
+   "cutMax": 272
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li > a",
+   "text": "content optimization in e-commerce",
+   "cutMin": 204,
+   "cutMax": 204
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 3,
+   "offPage": 15,
+   "textNodes": 65,
+   "controls": 53,
+   "total": 0
+  }
+ }
+}

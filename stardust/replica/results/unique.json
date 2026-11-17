@@ -1,0 +1,64 @@
+{
+  "archetype": "en-connect",
+  "liveUrl": "https://www.diva-e.com/en/connect/",
+  "prototype": "stardust/prototypes/en-connect-proposed.html",
+  "canon": ["stardust/prototypes/canon.css", "stardust/prototypes/canon.js"],
+  "pageCss": "stardust/prototypes/en-connect.css",
+  "main": ".page",
+  "consent": "built-in (gate dismissOverlays cleared Usercentrics on both captures)",
+  "iterations": { "1440": 2, "360": 2 },
+  "confirmationRounds": [
+    "stardust/replica/gates/en-connect-1440/ iter3 (--full)",
+    "stardust/replica/gates/en-connect-360/ iter3 (--full)"
+  ],
+  "gates": {
+    "1440": {
+      "pixel": "0.69%",
+      "heightDelta": 0,
+      "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (2 advisory: added aria-label on breadcrumb nav; FONT FORK on GT Planar substitute R-03)",
+      "visualDiff": "7 advisory: FONT MISMATCH only (GT Planar → Liberation Sans, register R-03, justified)",
+      "clipped": 0,
+      "overflow": "0px (scrollWidth 1440)"
+    },
+    "360": {
+      "pixel": "1.28%",
+      "heightDelta": -1,
+      "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (114 advisory: mega-menu/drawer copy + aria-labels in canon header, same as landing/article/static)",
+      "visualDiff": "7 advisory: FONT MISMATCH only (R-03, justified)",
+      "clipped": 0,
+      "overflow": "0px (scrollWidth 360)"
+    }
+  },
+  "capProbe": "PASS at 2560 — 0 of 9 rows failed (run with --main .page --build-main .page; default root pairing FAILed as an artefact, same as form archetype) — stardust/replica/gates/en-connect-2560/cap-iter.json",
+  "residuals": [
+    "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw deltas in canon header/footer — GT Planar substitute metrics (R-03); identical to the gated landing/static archetypes; canon not editable here",
+    "iter1 360: speaker card copy <b> rendered 700 (canon b{700}) vs source UA bolder → 400; one extra wrap on 'Chief Executive Officer | MORESOPHY' (+20px) and +59px page height; fixed page-scoped with .page b{font-weight:bolder} (same finding as the article archetype)",
+    "partners-bar sponsor marquee: live capture mid-transition (random offset), build rests at transition start — canon behaviour, same as landing",
+    "form-block__heading box: live div computes font-size 16px / margin 0 vs canon 2.4rem / margin-bottom 16px; heading + form positions match (Δy 0 relative), box height differs 16px — no visual delta",
+    "speaker portraits / agenda image served from local copies of the source renditions (agenda is the 3166×4675 original, as live)"
+  ],
+  "captureState": [
+    { "what": "sponsor marquee (partners-bar, 15 slides = 3×5 logos, bottom row empty as live)", "restoreAtDelivery": "Swiper autoplay delay 1ms, speed 4000ms linear, RTL loop — canon.js marquee" }
+  ],
+  "motion": {
+    "observed": ["transition transform 4000ms (sponsor marquee)", "swiper-slide-active/next/prev/visible classes", "header langs 'show' class (1×)"],
+    "implemented": ["sponsor marquee via canon.js [data-marquee] (parity)"],
+    "dead": ["header scroll-morph"],
+    "compare": "stardust/replica/motion/en-connect-compare.txt — 4 parity, 2 missing (header 'show' = canon header, same as imprint/article; swiper-slide-visible = Swiper state class with no style effect, canon marquee), 0 extra"
+  },
+  "fonts": {
+    "body": "Inter self-hosted (canon)",
+    "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)"
+  },
+  "unitsFamilies": "none declared (units.json is shared/not editable here); suggested family: speaker-card origin '.cards-block__container-item > .card' build '.cards-block--speakers .card' n 3",
+  "passed": true,
+  "canonCandidates": [
+    "b, strong { font-weight: bolder } — source sets no weight (UA bolder: 300 → 400); canon b{700} over-bolds 300-weight copy (now found by article AND unique archetypes)",
+    ".richtext ul/li bullets (entry sheet: padding-left 27px, li margin-top 16px, 8px blue dot at left -24px top 12px)",
+    ".hero default variant with full-bleed image (image-container :has(>*) 56% below 950, 100vh above; img opacity .8; gradient ::after) — superset of contact's empty-plate hero and crm's hero; one canon hero would serve contact/crm/connect",
+    ".layout-breadcrumbs (light) and .simple-text (light + dark-blue) — authored again here, identical to imprint/mann-hummel/crm",
+    ".mixed-media (light, --right, media-img / info-img-wrapper 87% ratio) — authored by mann-hummel, insights-edge and here",
+    ".card__billhead / .card__billhead-icon (180×180 contain) for card--icon with image billhead — canon only has .card__icon",
+    ".form-block__heading as a block (h2 2.4/3.9/4.7rem + p note) for form-block--regular--dark-blue"
+  ]
+}

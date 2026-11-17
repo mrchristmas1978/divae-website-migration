@@ -1,0 +1,107 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-11-14T07:10:56.760Z",
+  "origin": "https://main--a608424f--aemcoder.aem.live",
+  "parity": "stardust/dynamics/parity.json",
+  "contract": "stardust/martech-contract.json"
+ },
+ "results": [
+  {
+   "feature": "site search results (/en/search)",
+   "id": "s-search-hosted-search-service",
+   "class": "S",
+   "status": "done",
+   "type": "search-query",
+   "pass": true,
+   "detail": "1 results (source 1) · first: innovative b2b e-commerce platform for spinner · matches the source",
+   "thirdParty": "",
+   "ms": 4478,
+   "environmentLimit": "the source searches body text over its whole site; the EDS index covers the 100 delivered pages (title, description, path), so source counts are compared restricted to the run scope"
+  },
+  {
+   "feature": "site search results (/en/search)",
+   "id": "s-search-hosted-search-service",
+   "class": "S",
+   "status": "done",
+   "type": "search-query",
+   "pass": true,
+   "detail": "1 results (source 1) · first: successful omnichannel transformation for walz · matches the source",
+   "thirdParty": "",
+   "ms": 2219,
+   "environmentLimit": "the source searches body text over its whole site; the EDS index covers the 100 delivered pages (title, description, path), so source counts are compared restricted to the run scope"
+  },
+  {
+   "feature": "HubSpot contact form (form-block, Forms API v3, portal 3937475)",
+   "id": "f-form-backend-hubspot-forms",
+   "class": "F",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × .form-block form input[name=\"email\"] (min 1)",
+   "thirdParty": "",
+   "ms": 2911,
+   "environmentLimit": null
+  },
+  {
+   "feature": "HubSpot contact form (form-block, Forms API v3, portal 3937475)",
+   "id": "f-form-backend-hubspot-forms",
+   "class": "F",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "8 × .form-block form [required] (min 3)",
+   "thirdParty": "",
+   "ms": 2185,
+   "environmentLimit": null
+  },
+  {
+   "feature": "insights listing cards (static first page + pagination)",
+   "id": "listing-article-list",
+   "class": "CR",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "21 × .article-list .list-article-card (min 21)",
+   "thirdParty": "",
+   "ms": 3268,
+   "environmentLimit": null
+  },
+  {
+   "feature": "partner logo marquee (home)",
+   "id": "partners-marquee",
+   "class": "CR",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "40 × .partners-bar .partners-bar-slide (min 5)",
+   "thirdParty": "",
+   "ms": 3763,
+   "environmentLimit": null
+  },
+  {
+   "feature": "archetype pages run without uncaught exceptions",
+   "id": "page-errors",
+   "class": "A",
+   "status": "done",
+   "type": "no-page-errors",
+   "pass": true,
+   "detail": "none on 8 page(s)",
+   "thirdParty": "",
+   "ms": 17116,
+   "environmentLimit": null
+  },
+  {
+   "feature": "martech: consent + tag routing",
+   "id": "martech",
+   "class": "T",
+   "status": "scaffolded-off",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (3 gated · 0 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6216,
+   "environmentLimit": null
+  }
+ ]
+}

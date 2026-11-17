@@ -1,0 +1,12 @@
+Source	Destination
+# path-safety: source path not EDS-safe (uppercase/underscore), delivered lowercased
+/en/insights/edge/QA_SAP_AI	/en/insights/edge/qa-sap-ai
+/en/insights/edge/QA_SAP_AI/	/en/insights/edge/qa-sap-ai
+# source root 301s to /de/; its content is delivered as the root document
+/de	/
+/de/	/
+# legacy: source 301s to a delivered page (E2)
+/en/home	/en
+/en/home/	/en
+/en/kampagnen/next-gen-crm-pharma	/en/campaigns/next-gen-crm-pharma
+/en/kampagnen/next-gen-crm-pharma/	/en/campaigns/next-gen-crm-pharma

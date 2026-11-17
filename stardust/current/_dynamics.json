@@ -1,0 +1,3333 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-11-13T12:37:03.057Z",
+  "settleMs": 5000,
+  "width": 1440,
+  "urls": [
+   "https://www.diva-e.com/en/",
+   "https://www.diva-e.com/en/insights/edge/ai-radar-october/",
+   "https://www.diva-e.com/en/about-us/customers/mann-hummel/",
+   "https://www.diva-e.com/en/services/crm/",
+   "https://www.diva-e.com/en/insights/edge/",
+   "https://www.diva-e.com/en/imprint/",
+   "https://www.diva-e.com/en/contact/",
+   "https://www.diva-e.com/en/connect/"
+  ]
+ },
+ "pages": {
+  "/en/": {
+   "url": "https://www.diva-e.com/en/",
+   "status": 200,
+   "host": "www.diva-e.com",
+   "title": "Your digital experience partner | diva-e Conclusion",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [
+    {
+     "tag": "iframe",
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "archetype",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [
+    {
+     "cls": "",
+     "attrs": [
+      "data-ads-portal-id",
+      "data-ads-env",
+      "data-loader",
+      "data-hsjs-portal",
+      "data-hsjs-env",
+      "data-hsjs-hublet"
+     ]
+    }
+   ],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://www.diva-e.com/de/branchen/b2b-manufacturing/",
+     "https://www.diva-e.com/de/branchen/automotive/",
+     "https://www.diva-e.com/de/branchen/retail/",
+     "https://www.diva-e.com/de/branchen/financial-services/",
+     "https://www.aldi-sued.de/de/homepage.html"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "push"
+    ],
+    "__NUXT__": [
+     "data",
+     "state",
+     "_errors",
+     "config",
+     "serverRendered",
+     "pinia"
+    ]
+   },
+   "framework": "nuxt",
+   "globals": [
+    "google_tag_manager",
+    "grecaptcha"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 6199,
+   "domAddedAfterLoad": 142,
+   "hosts": {
+    "www.diva-e.com": 95,
+    "privacy-proxy.usercentrics.eu": 1,
+    "a.storyblok.com": 46,
+    "web.cmp.usercentrics.eu": 10,
+    "v1.api.service.cmp.usercentrics.eu": 2,
+    "load.data.diva-e.com": 4,
+    "app.usercentrics.eu": 1,
+    "api.storyblok.com": 5,
+    "consent-api.service.consent.usercentrics.eu": 2,
+    "uct.service.usercentrics.eu": 3,
+    "snap.licdn.com": 1,
+    "connect.facebook.net": 2,
+    "ad.doubleclick.net": 1,
+    "www.google.com": 8,
+    "js.hs-scripts.com": 1,
+    "px.ads.linkedin.com": 2,
+    "googleads.g.doubleclick.net": 3,
+    "js.hsadspixel.net": 1,
+    "www.facebook.com": 1,
+    "js.hscollectedforms.net": 1,
+    "js.hs-analytics.net": 1,
+    "forms.hscollectedforms.net": 1,
+    "js.hs-banner.com": 1,
+    "track.hubspot.com": 1,
+    "js-na1.hs-scripts.com": 1,
+    "api.hubapi.com": 1,
+    "www.googletagmanager.com": 1,
+    "data.diva-e.com": 2
+   },
+   "thirdPartyHosts": [
+    "privacy-proxy.usercentrics.eu",
+    "a.storyblok.com",
+    "web.cmp.usercentrics.eu",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu",
+    "api.storyblok.com",
+    "consent-api.service.consent.usercentrics.eu",
+    "uct.service.usercentrics.eu",
+    "snap.licdn.com",
+    "connect.facebook.net",
+    "ad.doubleclick.net",
+    "www.google.com",
+    "js.hs-scripts.com",
+    "px.ads.linkedin.com",
+    "googleads.g.doubleclick.net",
+    "js.hsadspixel.net",
+    "www.facebook.com",
+    "js.hscollectedforms.net",
+    "js.hs-analytics.net",
+    "forms.hscollectedforms.net",
+    "js.hs-banner.com",
+    "track.hubspot.com",
+    "js-na1.hs-scripts.com",
+    "api.hubapi.com",
+    "www.googletagmanager.com"
+   ],
+   "scripts": [
+    "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "https://www.diva-e.com/_nuxt/icon-search.71f94b8f.js",
+    "https://www.diva-e.com/_nuxt/default.fe9eae6a.js",
+    "https://www.diva-e.com/_nuxt/ResponsiveImage.vue.262bdd56.js",
+    "https://www.diva-e.com/_nuxt/global.e405b7b1.js",
+    "https://www.diva-e.com/_nuxt/AnchorLink.vue.e3e3c86d.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-youtube.a2f265d0.js",
+    "https://www.diva-e.com/_nuxt/useAsyncStoryblok.e57658aa.js",
+    "https://www.diva-e.com/_nuxt/icon-close.3a1d27ca.js",
+    "https://www.diva-e.com/_nuxt/_...slug_.b24fcda6.js",
+    "https://www.diva-e.com/_nuxt/SimpleText.5fe51299.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-instagram.59ab98ae.js",
+    "https://www.diva-e.com/_nuxt/logo-diva-e-conclusion.289ecdb8.js",
+    "https://www.diva-e.com/_nuxt/arrow-slider.2d79917c.js",
+    "https://www.diva-e.com/_nuxt/helper.9024b3e4.js",
+    "https://www.diva-e.com/_nuxt/TeaserSlider.e0b52a9d.js",
+    "https://www.diva-e.com/_nuxt/LayoutBreadcrumbs.7fe5ea65.js",
+    "https://www.diva-e.com/_nuxt/Hero.9d2b85af.js",
+    "https://www.diva-e.com/_nuxt/CardsBlockItem.44584d1d.js",
+    "https://www.diva-e.com/_nuxt/entry.ad64c700.js",
+    "https://www.diva-e.com/_nuxt/useCollection.838d6c86.js",
+    "https://www.diva-e.com/_nuxt/swiper-vue.d06afa39.js",
+    "https://www.diva-e.com/_nuxt/PartnersBar.e9f89bce.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-facebook.45c9c88b.js",
+    "https://www.diva-e.com/_nuxt/CardsBlock.90cc46e8.js",
+    "https://www.diva-e.com/_nuxt/asyncData.9c4fca0b.js",
+    "https://www.diva-e.com/_nuxt/SliderCardsCopy.f7b09768.js",
+    "https://www.diva-e.com/_nuxt/ScrollTrigger.42d31154.js",
+    "https://www.diva-e.com/_nuxt/Text.8196f6e9.js",
+    "https://www.diva-e.com/_nuxt/PartnersBarItem.f5573167.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-xing.ca9d992a.js",
+    "https://www.diva-e.com/_nuxt/composables.90d9aa86.js",
+    "https://www.diva-e.com/_nuxt/FormBlock.f773021a.js",
+    "https://www.diva-e.com/_nuxt/SliderCardsCopyItem.cdf0ea55.js",
+    "https://www.diva-e.com/_nuxt/Page.6fa7d24f.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-linkedin.5ab11db9.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-twitter.508f5b51.js",
+    "https://www.diva-e.com/_nuxt/icon-heart.6f27c9b9.js",
+    "https://www.diva-e.com/_nuxt/HoverButton.vue.70ff13c8.js",
+    "https://www.diva-e.com/_nuxt/HeadingType.vue.1146a9d9.js",
+    "https://www.diva-e.com/_nuxt/index.9e2476f3.js",
+    "https://www.diva-e.com/_nuxt/TeaserSliderItem.bcffaead.js",
+    "https://www.diva-e.com/_nuxt/algoliasearch-lite.esm.browser.a0ea2945.js",
+    "https://web.cmp.usercentrics.eu/ui/loader.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/WebSdk.lib.eb8e107d.js",
+    "https://load.data.diva-e.com/7nqndmrluefj.js?bv2jl=aWQ9R1RNLVc3N1RMU1M%3D&sort=desc",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/GdprCmpController.e50d956f.js",
+    "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.cbaf4926.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/UcGdprCmpView.800ca8ac.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/sections.5a153160.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/secondLayer.03af4dcd.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/getToastifyStyle.4f0a73d7.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/privacyButton.b88220a4.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://js.hs-scripts.com/3937475.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-16967774015&cx=c&gtm=4e6bb1",
+    "https://load.data.diva-e.com/gtag/js?id=G-LVE0DSYGPD&cx=c&gtm=4e6bb1",
+    "https://connect.facebook.net/signals/config/445716410367488?v=2.9.439&r=stable&domain=www.diva-e.com&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f865dc776&ex_m=119%2C243%2C172%2C27%2C82",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573426344&cv=11&fst=1794573426344&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb785533"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "data.diva-e.com",
+     "path": "/g/collect",
+     "query": [
+      "_eu",
+      "_fplc",
+      "_fv",
+      "_nsi",
+      "_p",
+      "_s",
+      "_ss",
+      "_tu",
+      "cid",
+      "dl",
+      "dma",
+      "dt",
+      "ecid",
+      "en",
+      "ep.consent_conversion_linker",
+      "ep.consent_google_ads",
+      "ep.consent_google_ads_conversion_tracking",
+      "ep.consent_google_ads_remarketing",
+      "ep.consent_google_analytics_4",
+      "ep.consent_hubspot",
+      "ep.consent_linkedin_insight_tag",
+      "ep.consent_microsoft_advertising",
+      "ep.consent_microsoft_conversion_tracking",
+      "evnid",
+      "frm",
+      "gap.sstd",
+      "gcd",
+      "gcs",
+      "gdid",
+      "gtm",
+      "ibt",
+      "ngs",
+      "npa",
+      "pscdl",
+      "rcb",
+      "richsstsse",
+      "sct",
+      "seg",
+      "sid",
+      "sr",
+      "sst.gch",
+      "sst.lpc",
+      "sst.navt",
+      "sst.rnd",
+      "sst.sw_exp",
+      "sst.tft",
+      "sst.ude",
+      "tag_exp",
+      "tfd",
+      "tid",
+      "uaa",
+      "uab",
+      "uafvl",
+      "uam",
+      "uamb",
+      "uap",
+      "uapv",
+      "uaw",
+      "ul",
+      "up.user_referral_category",
+      "up.user_referral_dest",
+      "up.user_referral_location",
+      "ur",
+      "v"
+     ],
+     "status": 200,
+     "contentType": "text/plain",
+     "example": "https://data.diva-e.com/g/collect"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+    "GET api.storyblok.com/v2/cdn/stories",
+    "GET v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+    "POST consent-api.service.consent.usercentrics.eu/consent/uw/3",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST www.google.com/ccm/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST www.google.com/rmkt/collect/16967774015/",
+    "GET forms.hscollectedforms.net/collected-forms/v1/config/json",
+    "GET api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json"
+   ],
+   "postBodies": [
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onInitialPageLoad\",\"analytics\":true,\"controllerId\":\"50f7c5f2476cdb55fe1e9c3dc18f3aa6a51560f4679d1e437f0731935646ca7a\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IBWegDMA7M2FiaZCQDZmAgEbCZEdBACczKgOboAHGKoBDMwrPD0wheLIKJ2gVrJUJY+hKrptVO0dmMwkzJhAuMy"
+    },
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onAcceptAllServices\",\"analytics\":true,\"controllerId\":\"50f7c5f2476cdb55fe1e9c3dc18f3aa6a51560f4679d1e437f0731935646ca7a\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IBWegDMA7M2FiaZCQDZmAgEbCZEdBACczKgOboAHGKoBDMwrPD0wheLIKJ2gVrJUJY+hKrptVO0dmMwkzJhAu"
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=1&ae=g&auid=332749713.1794573426&dt=Your%20digital%20experience%20partner%20%7C%20diva-e%20Conclusion&en=page_view&dl=https%3A%2F%2Fwww.diva-e.com%2",
+     "body": ""
+    },
+    {
+     "url": "https://ad.doubleclick.net/ccm/s/collect?auid=332749713.1794573426&gtm=45He6bb1v78553390za204zd78553390xeaxf3&fmt=8",
+     "body": ""
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA0WQ3WrcMBCFX8XMtdSVLNla6y6UNhhyEbpLoJRQ9DPeiMqyYsn9Ic27l90tyeVhmO/MfC+Qgy+gv/F9r1ohHgkUt4ZcH3AtYUmgOWOMiYFADTOC5mqQnRKy7bkcCPhlNiGBBh9+Goof3DIDgW2NoOGp1lz0bvc+2mHaAYFfaEuoeAinZOIXfN6w1NGDhra37cCEp1J2LZU9k7QTjFHvhRBeGTfYCQhkc8K7xfjLjkfkUnUT5VxNVE5uoINCpIJ3rOPOTtb3QCCU42pSiaaiBz2ZWJBADJ/NtRnO4TaYVK9hDsWBfoFc7KGaiqCpfD1T7kL6gX5MNzm/Yc73HEONCBq+Ltva+HAK1cQGf2dcAyaHTTZrTbg2f5urjubjklzcLo4J"
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573426344&cv=11&fst=1794573426344&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb78553390zd78553390xecxf3&gcd=",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573426397&cv=11&fst=1794573426397&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd78553390xeaxf3&gcd=13n3n",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=18&frm=0&apvc=0&auid=332749713.1794573426&dt=Your%20digital%20experience%20partner%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&en=page_view&dl=https%3A%2F%2Fw",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=18&frm=0&apvc=0&ae=g&auid=332749713.1794573426&dt=Your%20digital%20experience%20partner%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&dl=https%3A%2F%2Fwww.diva-",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=2007619023&fst=1794573427197&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1440&u_h=900&gtm=45j91e6bb1v870328607z878553390z99207980992za20kzb78553390zd78553",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 5778,
+   "mainEmptyAtLoad": false
+  },
+  "/en/insights/edge/ai-radar-october/": {
+   "url": "https://www.diva-e.com/en/insights/edge/ai-radar-october/",
+   "status": 200,
+   "host": "www.diva-e.com",
+   "title": "Agentic Enterprise: Why Software Licensing Is Changing | diva-e Conclusion",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [
+    {
+     "tag": "iframe",
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "archetype",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [
+    {
+     "cls": "",
+     "attrs": [
+      "data-ads-portal-id",
+      "data-ads-env",
+      "data-loader",
+      "data-hsjs-portal",
+      "data-hsjs-env",
+      "data-hsjs-hublet"
+     ]
+    }
+   ],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://www.linkedin.com/in/jguthmann/"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "push"
+    ],
+    "__NUXT__": [
+     "data",
+     "state",
+     "_errors",
+     "config",
+     "serverRendered",
+     "pinia"
+    ]
+   },
+   "framework": "nuxt",
+   "globals": [
+    "google_tag_manager",
+    "grecaptcha"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 7186,
+   "domAddedAfterLoad": 75,
+   "hosts": {
+    "www.diva-e.com": 77,
+    "a.storyblok.com": 14,
+    "privacy-proxy.usercentrics.eu": 1,
+    "web.cmp.usercentrics.eu": 10,
+    "load.data.diva-e.com": 4,
+    "v1.api.service.cmp.usercentrics.eu": 2,
+    "app.usercentrics.eu": 1,
+    "api.storyblok.com": 6,
+    "consent-api.service.consent.usercentrics.eu": 2,
+    "uct.service.usercentrics.eu": 3,
+    "js.hs-scripts.com": 1,
+    "snap.licdn.com": 1,
+    "ad.doubleclick.net": 1,
+    "www.google.com": 8,
+    "connect.facebook.net": 2,
+    "js.hs-banner.com": 1,
+    "js.hsadspixel.net": 1,
+    "js.hs-analytics.net": 1,
+    "js.hscollectedforms.net": 1,
+    "px.ads.linkedin.com": 2,
+    "googleads.g.doubleclick.net": 3,
+    "js-na1.hs-scripts.com": 1,
+    "api.hubapi.com": 1,
+    "track.hubspot.com": 1,
+    "www.facebook.com": 1,
+    "forms.hscollectedforms.net": 1,
+    "www.googletagmanager.com": 1,
+    "forms.hsforms.com": 1,
+    "data.diva-e.com": 2
+   },
+   "thirdPartyHosts": [
+    "a.storyblok.com",
+    "privacy-proxy.usercentrics.eu",
+    "web.cmp.usercentrics.eu",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu",
+    "api.storyblok.com",
+    "consent-api.service.consent.usercentrics.eu",
+    "uct.service.usercentrics.eu",
+    "js.hs-scripts.com",
+    "snap.licdn.com",
+    "ad.doubleclick.net",
+    "www.google.com",
+    "connect.facebook.net",
+    "js.hs-banner.com",
+    "js.hsadspixel.net",
+    "js.hs-analytics.net",
+    "js.hscollectedforms.net",
+    "px.ads.linkedin.com",
+    "googleads.g.doubleclick.net",
+    "js-na1.hs-scripts.com",
+    "api.hubapi.com",
+    "track.hubspot.com",
+    "www.facebook.com",
+    "forms.hscollectedforms.net",
+    "www.googletagmanager.com",
+    "forms.hsforms.com"
+   ],
+   "scripts": [
+    "https://www.diva-e.com/_nuxt/entry.ad64c700.js",
+    "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "https://www.diva-e.com/_nuxt/logo-diva-e-conclusion.289ecdb8.js",
+    "https://www.diva-e.com/_nuxt/ResponsiveImage.vue.262bdd56.js",
+    "https://www.diva-e.com/_nuxt/icon-search.71f94b8f.js",
+    "https://www.diva-e.com/_nuxt/HeadingType.vue.1146a9d9.js",
+    "https://www.diva-e.com/_nuxt/useArticles.cd3d2b11.js",
+    "https://www.diva-e.com/_nuxt/global.e405b7b1.js",
+    "https://www.diva-e.com/_nuxt/helper.9024b3e4.js",
+    "https://www.diva-e.com/_nuxt/icon-xing.377b9805.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-youtube.a2f265d0.js",
+    "https://www.diva-e.com/_nuxt/HoverButton.vue.70ff13c8.js",
+    "https://www.diva-e.com/_nuxt/ListTopics.0b264696.js",
+    "https://www.diva-e.com/_nuxt/icon-close.3a1d27ca.js",
+    "https://www.diva-e.com/_nuxt/default.fe9eae6a.js",
+    "https://www.diva-e.com/_nuxt/Article.527fb2df.js",
+    "https://www.diva-e.com/_nuxt/AnchorLink.vue.e3e3c86d.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-twitter.508f5b51.js",
+    "https://www.diva-e.com/_nuxt/useAsyncStoryblok.e57658aa.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-instagram.59ab98ae.js",
+    "https://www.diva-e.com/_nuxt/_...slug_.b24fcda6.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-linkedin.5ab11db9.js",
+    "https://www.diva-e.com/_nuxt/useAuthor.a7225523.js",
+    "https://www.diva-e.com/_nuxt/useCategories.2809236b.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-xing.ca9d992a.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-facebook.45c9c88b.js",
+    "https://www.diva-e.com/_nuxt/ButtonGroup.5bc977b0.js",
+    "https://www.diva-e.com/_nuxt/icon-twitter.09db254f.js",
+    "https://www.diva-e.com/_nuxt/icon-linkedin.faa5122a.js",
+    "https://www.diva-e.com/_nuxt/composables.90d9aa86.js",
+    "https://www.diva-e.com/_nuxt/arrow-slider.2d79917c.js",
+    "https://www.diva-e.com/_nuxt/ListArticleCard.b29aacf9.js",
+    "https://www.diva-e.com/_nuxt/icon-list.562ccdf1.js",
+    "https://www.diva-e.com/_nuxt/asyncData.9c4fca0b.js",
+    "https://www.diva-e.com/_nuxt/swiper-vue.d06afa39.js",
+    "https://web.cmp.usercentrics.eu/ui/loader.js",
+    "https://load.data.diva-e.com/7nqndmrluefj.js?bv2jl=aWQ9R1RNLVc3N1RMU1M%3D&sort=desc",
+    "https://www.diva-e.com/_nuxt/algoliasearch-lite.esm.browser.a0ea2945.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/WebSdk.lib.eb8e107d.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/GdprCmpController.e50d956f.js",
+    "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.cbaf4926.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/UcGdprCmpView.800ca8ac.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/sections.5a153160.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/secondLayer.03af4dcd.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/getToastifyStyle.4f0a73d7.js",
+    "https://js.hs-scripts.com/3937475.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/privacyButton.b88220a4.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://js.hs-banner.com/v2/3937475/banner.js",
+    "https://js.hsadspixel.net/pixels.js",
+    "https://load.data.diva-e.com/gtag/js?id=G-LVE0DSYGPD&cx=c&gtm=4e6bb1",
+    "https://js.hs-analytics.net/analytics/1794573300000/3937475.js",
+    "https://js.hscollectedforms.net/collectedforms.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-16967774015&cx=c&gtm=4e6bb1",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573437510&cv=11&fst=1794573437510&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb785533",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573437550&cv=11&fst=1794573437550&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd7",
+    "https://connect.facebook.net/signals/config/445716410367488?v=2.9.439&r=stable&domain=www.diva-e.com&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f865dc776&ex_m=119%2C243%2C172%2C27%2C82",
+    "https://js-na1.hs-scripts.com/3937475.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-1056602529&cx=c&gtm=4e6bb1"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "data.diva-e.com",
+     "path": "/g/collect",
+     "query": [
+      "_eu",
+      "_fplc",
+      "_fv",
+      "_nsi",
+      "_p",
+      "_s",
+      "_ss",
+      "_tu",
+      "cid",
+      "dl",
+      "dma",
+      "dt",
+      "ecid",
+      "en",
+      "ep.consent_conversion_linker",
+      "ep.consent_google_ads",
+      "ep.consent_google_ads_conversion_tracking",
+      "ep.consent_google_ads_remarketing",
+      "ep.consent_google_analytics_4",
+      "ep.consent_hubspot",
+      "ep.consent_linkedin_insight_tag",
+      "ep.consent_microsoft_advertising",
+      "ep.consent_microsoft_conversion_tracking",
+      "evnid",
+      "frm",
+      "gap.sstd",
+      "gcd",
+      "gcs",
+      "gdid",
+      "gtm",
+      "ibt",
+      "ngs",
+      "npa",
+      "pscdl",
+      "rcb",
+      "richsstsse",
+      "sct",
+      "seg",
+      "sid",
+      "sr",
+      "sst.gch",
+      "sst.lpc",
+      "sst.navt",
+      "sst.rnd",
+      "sst.sw_exp",
+      "sst.tft",
+      "sst.ude",
+      "tag_exp",
+      "tfd",
+      "tid",
+      "uaa",
+      "uab",
+      "uafvl",
+      "uam",
+      "uamb",
+      "uap",
+      "uapv",
+      "uaw",
+      "ul",
+      "up.user_referral_category",
+      "up.user_referral_dest",
+      "up.user_referral_location",
+      "ur",
+      "v"
+     ],
+     "status": 200,
+     "contentType": "text/plain",
+     "example": "https://data.diva-e.com/g/collect"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+    "GET v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+    "GET api.storyblok.com/v2/cdn/stories",
+    "POST consent-api.service.consent.usercentrics.eu/consent/uw/3",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST www.google.com/ccm/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST www.google.com/rmkt/collect/16967774015/",
+    "GET api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+    "GET forms.hscollectedforms.net/collected-forms/v1/config/json"
+   ],
+   "postBodies": [
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onInitialPageLoad\",\"analytics\":true,\"controllerId\":\"b11bb5b81822c93825461844fd99f134ce6b50c547bbd63725d2a850419e0db4\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IAjdOmHCArMIAc6GTRrMAnFQWSyANnlkyAMwHLle9FTLMImqfWYaA7BIGaqdmpIE0AhjMn0y6ZQh6AWEyJhAuTy"
+    },
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onAcceptAllServices\",\"analytics\":true,\"controllerId\":\"b11bb5b81822c93825461844fd99f134ce6b50c547bbd63725d2a850419e0db4\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IAjdOmHCArMIAc6GTRrMAnFQWSyANnlkyAMwHLle9FTLMImqfWYaA7BIGaqdmpIE0AhjMn0y6ZQh6AWEyJhAu"
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=1&ae=g&auid=250746070.1794573437&dt=Agentic%20Enterprise%3A%20Why%20Software%20Licensing%20Is%20Changing%20%7C%20diva-e%20Conclusion&en=page_view&dl",
+     "body": ""
+    },
+    {
+     "url": "https://ad.doubleclick.net/ccm/s/collect?auid=250746070.1794573437&gtm=45He6bb1v78553390za204zd78553390xeaxf3&fmt=8",
+     "body": ""
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA0WRT2vcQAzFv4rReaYe/4/ntoQkGPZQukt6KKVoZmRbxB67ntmGkOa7F++W9qaH0HvST++wsgugv2V3dZMXxXcBwW68xmfaAi8edKaUUkUrIPJMoLOmLaumKIsmrzIBbpmRPWhw/AslfbLLDAIu2wQaxhjXoNP0fysln7IPPIwxpOQGSpHlhg43udi4GNpSEPBKJnCkEw8epy/080Ihdg40YK9aQlJSqbqSOWElyzIvpEFTOdfYyrQIAlYc6Ligu8605Oo+U0bWpspl2dYoTd/m0vY13blGZXVRgQAO5w19mDCSA93jFEjAxI94S4ZdPDH6eBMzBwv6HdZgThEjgZblx+5yZP9CrvOHdf1ns+9z5jgRaDgM5CPb5MFH2taNA+nk"
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573437510&cv=11&fst=1794573437510&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb78553390zd78553390xecxf3&gcd=",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573437550&cv=11&fst=1794573437550&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd78553390xeaxf3&gcd=13n3n",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=0&auid=250746070.1794573437&dt=Agentic%20Enterprise%3A%20Why%20Software%20Licensing%20Is%20Changing%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&e",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=0&ae=g&auid=250746070.1794573437&dt=Agentic%20Enterprise%3A%20Why%20Software%20Licensing%20Is%20Changing%20%7C%20diva-e%20Conclusion&tid=AW-16967774",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1810030939&fst=1794573438301&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1440&u_h=900&gtm=45j91e6bb1h1v870328607z878553390z99207980992za20kzb78553390zd785",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 7186,
+   "mainEmptyAtLoad": false
+  },
+  "/en/about-us/customers/mann-hummel/": {
+   "url": "https://www.diva-e.com/en/about-us/customers/mann-hummel/",
+   "status": 200,
+   "host": "www.diva-e.com",
+   "title": "MANN+HUMMEL: Digital success story | diva-e Conclusion",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [
+    {
+     "tag": "iframe",
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "archetype",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [
+    {
+     "cls": "",
+     "attrs": [
+      "data-ads-portal-id",
+      "data-ads-env",
+      "data-loader",
+      "data-hsjs-portal",
+      "data-hsjs-env",
+      "data-hsjs-hublet"
+     ]
+    }
+   ],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": []
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "push"
+    ],
+    "__NUXT__": [
+     "data",
+     "state",
+     "_errors",
+     "config",
+     "serverRendered",
+     "pinia"
+    ]
+   },
+   "framework": "nuxt",
+   "globals": [
+    "google_tag_manager",
+    "grecaptcha"
+   ],
+   "clientRendered": [
+    {
+     "cls": "swiper-slide tags-carousel__slider-frame js-frame",
+     "attrs": [],
+     "text": "Consulting & Innovation"
+    },
+    {
+     "cls": "swiper-slide tags-carousel__slider-frame js-frame",
+     "attrs": [],
+     "text": "Solutions & Experiences"
+    },
+    {
+     "cls": "swiper-slide swiper-slide-prev tags-carousel__slider-frame",
+     "attrs": [],
+     "text": "Marketing & Performance"
+    },
+    {
+     "cls": "swiper-slide swiper-slide-visible swiper-slide-active",
+     "attrs": [],
+     "text": "Data Consulting & Solution"
+    },
+    {
+     "cls": "swiper-slide swiper-slide-visible swiper-slide-next",
+     "attrs": [],
+     "text": "Managed Cloud Services"
+    },
+    {
+     "cls": "swiper-slide tags-carousel__slider-frame js-frame",
+     "attrs": [],
+     "text": "Consulting & Innovation"
+    },
+    {
+     "cls": "swiper-slide swiper-slide-visible tags-carousel__slider-frame",
+     "attrs": [],
+     "text": "Solutions & Experiences"
+    },
+    {
+     "cls": "swiper-slide tags-carousel__slider-frame js-frame",
+     "attrs": [],
+     "text": "Marketing & Performance"
+    },
+    {
+     "cls": "swiper-slide tags-carousel__slider-frame js-frame",
+     "attrs": [],
+     "text": "Data Consulting & Solution"
+    },
+    {
+     "cls": "swiper-slide tags-carousel__slider-frame js-frame",
+     "attrs": [],
+     "text": "Managed Cloud Services"
+    },
+    {
+     "cls": "swiper-slide tags-carousel__slider-frame js-frame",
+     "attrs": [],
+     "text": "Consulting & Innovation"
+    },
+    {
+     "cls": "swiper-slide tags-carousel__slider-frame js-frame",
+     "attrs": [],
+     "text": "Solutions & Experiences"
+    }
+   ],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 6962,
+   "domAddedAfterLoad": 68,
+   "hosts": {
+    "www.diva-e.com": 80,
+    "a.storyblok.com": 10,
+    "privacy-proxy.usercentrics.eu": 1,
+    "web.cmp.usercentrics.eu": 10,
+    "load.data.diva-e.com": 4,
+    "v1.api.service.cmp.usercentrics.eu": 2,
+    "app.usercentrics.eu": 1,
+    "uct.service.usercentrics.eu": 3,
+    "consent-api.service.consent.usercentrics.eu": 2,
+    "js.hs-scripts.com": 1,
+    "snap.licdn.com": 1,
+    "connect.facebook.net": 2,
+    "www.google.com": 8,
+    "ad.doubleclick.net": 1,
+    "js.hsadspixel.net": 1,
+    "js.hs-banner.com": 1,
+    "js.hscollectedforms.net": 1,
+    "js.hs-analytics.net": 1,
+    "px.ads.linkedin.com": 2,
+    "googleads.g.doubleclick.net": 3,
+    "js-na1.hs-scripts.com": 1,
+    "api.hubapi.com": 1,
+    "forms.hscollectedforms.net": 1,
+    "track.hubspot.com": 1,
+    "www.facebook.com": 1,
+    "forms.hsforms.com": 1,
+    "www.googletagmanager.com": 1,
+    "data.diva-e.com": 2
+   },
+   "thirdPartyHosts": [
+    "a.storyblok.com",
+    "privacy-proxy.usercentrics.eu",
+    "web.cmp.usercentrics.eu",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu",
+    "uct.service.usercentrics.eu",
+    "consent-api.service.consent.usercentrics.eu",
+    "js.hs-scripts.com",
+    "snap.licdn.com",
+    "connect.facebook.net",
+    "www.google.com",
+    "ad.doubleclick.net",
+    "js.hsadspixel.net",
+    "js.hs-banner.com",
+    "js.hscollectedforms.net",
+    "js.hs-analytics.net",
+    "px.ads.linkedin.com",
+    "googleads.g.doubleclick.net",
+    "js-na1.hs-scripts.com",
+    "api.hubapi.com",
+    "forms.hscollectedforms.net",
+    "track.hubspot.com",
+    "www.facebook.com",
+    "forms.hsforms.com",
+    "www.googletagmanager.com"
+   ],
+   "scripts": [
+    "https://www.diva-e.com/_nuxt/SimpleText.5fe51299.js",
+    "https://www.diva-e.com/_nuxt/TagsCarouselItem.06a82740.js",
+    "https://www.diva-e.com/_nuxt/_...slug_.b24fcda6.js",
+    "https://www.diva-e.com/_nuxt/index.9e2476f3.js",
+    "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "https://www.diva-e.com/_nuxt/global.e405b7b1.js",
+    "https://www.diva-e.com/_nuxt/composables.90d9aa86.js",
+    "https://www.diva-e.com/_nuxt/asyncData.9c4fca0b.js",
+    "https://www.diva-e.com/_nuxt/default.fe9eae6a.js",
+    "https://www.diva-e.com/_nuxt/logo-diva-e-conclusion.289ecdb8.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-youtube.a2f265d0.js",
+    "https://www.diva-e.com/_nuxt/icon-close.3a1d27ca.js",
+    "https://www.diva-e.com/_nuxt/ResponsiveImage.vue.262bdd56.js",
+    "https://www.diva-e.com/_nuxt/Hero.9d2b85af.js",
+    "https://www.diva-e.com/_nuxt/MixedMedia.04c859a8.js",
+    "https://www.diva-e.com/_nuxt/helper.9024b3e4.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-twitter.508f5b51.js",
+    "https://www.diva-e.com/_nuxt/AnchorLink.vue.e3e3c86d.js",
+    "https://www.diva-e.com/_nuxt/arrow-slider.2d79917c.js",
+    "https://www.diva-e.com/_nuxt/icon-search.71f94b8f.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-instagram.59ab98ae.js",
+    "https://www.diva-e.com/_nuxt/swiper-vue.d06afa39.js",
+    "https://www.diva-e.com/_nuxt/HeadingType.vue.1146a9d9.js",
+    "https://www.diva-e.com/_nuxt/useAsyncStoryblok.e57658aa.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-xing.ca9d992a.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-facebook.45c9c88b.js",
+    "https://www.diva-e.com/_nuxt/TagsCarousel.ea44cd13.js",
+    "https://www.diva-e.com/_nuxt/LayoutBreadcrumbs.7fe5ea65.js",
+    "https://www.diva-e.com/_nuxt/Page.6fa7d24f.js",
+    "https://www.diva-e.com/_nuxt/SingleQuote.d2e82ea4.js",
+    "https://www.diva-e.com/_nuxt/ScrollTrigger.42d31154.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-linkedin.5ab11db9.js",
+    "https://www.diva-e.com/_nuxt/entry.ad64c700.js",
+    "https://web.cmp.usercentrics.eu/ui/loader.js",
+    "https://load.data.diva-e.com/7nqndmrluefj.js?bv2jl=aWQ9R1RNLVc3N1RMU1M%3D&sort=desc",
+    "https://www.diva-e.com/_nuxt/algoliasearch-lite.esm.browser.a0ea2945.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/WebSdk.lib.eb8e107d.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/GdprCmpController.e50d956f.js",
+    "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.cbaf4926.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/UcGdprCmpView.800ca8ac.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/sections.5a153160.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/secondLayer.03af4dcd.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/getToastifyStyle.4f0a73d7.js",
+    "https://js.hs-scripts.com/3937475.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/privacyButton.b88220a4.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-16967774015&cx=c&gtm=4e6bb1",
+    "https://js.hsadspixel.net/pixels.js",
+    "https://js.hs-banner.com/v2/3937475/banner.js",
+    "https://js.hscollectedforms.net/collectedforms.js",
+    "https://js.hs-analytics.net/analytics/1794573300000/3937475.js",
+    "https://load.data.diva-e.com/gtag/js?id=G-LVE0DSYGPD&cx=c&gtm=4e6bb1",
+    "https://connect.facebook.net/signals/config/445716410367488?v=2.9.439&r=stable&domain=www.diva-e.com&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f865dc776&ex_m=119%2C243%2C172%2C27%2C82",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573448214&cv=11&fst=1794573448214&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb785533",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573448265&cv=11&fst=1794573448265&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd7",
+    "https://js-na1.hs-scripts.com/3937475.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-1056602529&cx=c&gtm=4e6bb1",
+    "https://www.googletagmanager.com/gtag/js?id=AW-1056602529"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "data.diva-e.com",
+     "path": "/g/collect",
+     "query": [
+      "_eu",
+      "_fplc",
+      "_fv",
+      "_nsi",
+      "_p",
+      "_s",
+      "_ss",
+      "_tu",
+      "cid",
+      "dl",
+      "dma",
+      "dt",
+      "ecid",
+      "en",
+      "ep.consent_conversion_linker",
+      "ep.consent_google_ads",
+      "ep.consent_google_ads_conversion_tracking",
+      "ep.consent_google_ads_remarketing",
+      "ep.consent_google_analytics_4",
+      "ep.consent_hubspot",
+      "ep.consent_linkedin_insight_tag",
+      "ep.consent_microsoft_advertising",
+      "ep.consent_microsoft_conversion_tracking",
+      "evnid",
+      "frm",
+      "gap.sstd",
+      "gcd",
+      "gcs",
+      "gdid",
+      "gtm",
+      "ibt",
+      "ngs",
+      "npa",
+      "pscdl",
+      "rcb",
+      "richsstsse",
+      "sct",
+      "seg",
+      "sid",
+      "sr",
+      "sst.gch",
+      "sst.lpc",
+      "sst.navt",
+      "sst.rnd",
+      "sst.sw_exp",
+      "sst.tft",
+      "sst.ude",
+      "tag_exp",
+      "tfd",
+      "tid",
+      "uaa",
+      "uab",
+      "uafvl",
+      "uam",
+      "uamb",
+      "uap",
+      "uapv",
+      "uaw",
+      "ul",
+      "up.user_referral_category",
+      "up.user_referral_dest",
+      "up.user_referral_location",
+      "ur",
+      "v"
+     ],
+     "status": 200,
+     "contentType": "text/plain",
+     "example": "https://data.diva-e.com/g/collect"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+    "GET v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+    "POST consent-api.service.consent.usercentrics.eu/consent/uw/3",
+    "POST www.google.com/ccm/collect",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST www.google.com/rmkt/collect/16967774015/",
+    "GET api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+    "GET forms.hscollectedforms.net/collected-forms/v1/config/json"
+   ],
+   "postBodies": [
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onInitialPageLoad\",\"analytics\":true,\"controllerId\":\"e75c7e9850b68d5d86a57b667247a4b40d19849d970f7d0c54bcb22ca298b319\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IQA7AFZmIiAE4AHGPoAjAGyyBYgbOUBDMSJXKRNMiO1lFZegPRyy0gdJH0AZiIH1mY880U0azbRo5RSobJhAubS"
+    },
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onAcceptAllServices\",\"analytics\":true,\"controllerId\":\"e75c7e9850b68d5d86a57b667247a4b40d19849d970f7d0c54bcb22ca298b319\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IQA7AFZmIiAE4AHGPoAjAGyyBYgbOUBDMSJXKRNMiO1lFZegPRyy0gdJH0AZiIH1mY880U0azbRo5RSobJhAu"
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=1&ae=g&auid=712005475.1794573448&dt=MANN%2BHUMMEL%3A%20Digital%20success%20story%20%7C%20diva-e%20Conclusion&en=page_view&dl=https%3A%2F%2Fwww.diva",
+     "body": ""
+    },
+    {
+     "url": "https://ad.doubleclick.net/ccm/s/collect?_gsid=cZN1jfAjaGkemMWFmynDxmmFkDAXfANyLw&auid=712005475.1794573448&gtm=45He6bb1v78553390za204zd78553390xeaxf3&fmt=8",
+     "body": ""
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA0WRQW/UMBCF/0o0V2ziJI6T9W0FpUTarRC79IIQmtiTXQvHCbEDqkr/O9pu1R6fRvPNvPceYXY2gv5etKopq+oHg2gWN6d7WqKbAuhCCCGqDYPkRgJdNBtZN5WUzUZKBnYa0QXQYN0f5PTeTCMwWBcPGs4pzVHn+dsop5BjP62JrzE3a0zTSEvMRwyBn9dxJJ8Dg7/UR5fo4E4B/Vf6vVJMnQUNoq1sTdLwejAtHxT1nKTa8KpStbKyqduWgMGMJ9pNaK87qBqF9cALUROXygjeE5a8QkSForaoGmDg4nHBED0msqAH9JEYePcJr5fhIm4dhnQVo4sG9CPMsT8kTASay6cLZefCL7Jd2M7zK+byz9ElT6Bhv727e/f5235/s9PZ"
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573448214&cv=11&fst=1794573448214&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb78553390zd78553390xecxf3&gcd=",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573448265&cv=11&fst=1794573448265&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd78553390xeaxf3&gcd=13n3n",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=0&auid=712005475.1794573448&dt=MANN%2BHUMMEL%3A%20Digital%20success%20story%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&en=page_view&dl=https%3A%",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=0&ae=g&auid=712005475.1794573448&dt=MANN%2BHUMMEL%3A%20Digital%20success%20story%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&dl=https%3A%2F%2Fwww",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=171000415&fst=1794573449055&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1440&u_h=900&gtm=45j91e6bb1h1v870328607z878553390z99207980992za20kzb78553390zd7855",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 6962,
+   "mainEmptyAtLoad": false
+  },
+  "/en/services/crm/": {
+   "url": "https://www.diva-e.com/en/services/crm/",
+   "status": 200,
+   "host": "www.diva-e.com",
+   "title": "CRM Services for Stronger Customer Relationships | diva-e Conclusion",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [
+    {
+     "tag": "iframe",
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "archetype",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [
+    {
+     "cls": "",
+     "attrs": [
+      "data-ads-portal-id",
+      "data-ads-env",
+      "data-loader",
+      "data-hsjs-portal",
+      "data-hsjs-env",
+      "data-hsjs-hublet"
+     ]
+    }
+   ],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": []
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "push"
+    ],
+    "__NUXT__": [
+     "data",
+     "state",
+     "_errors",
+     "config",
+     "serverRendered",
+     "pinia"
+    ]
+   },
+   "framework": "nuxt",
+   "globals": [
+    "google_tag_manager",
+    "grecaptcha"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 3269,
+   "domAddedAfterLoad": 139,
+   "hosts": {
+    "www.diva-e.com": 87,
+    "privacy-proxy.usercentrics.eu": 1,
+    "web.cmp.usercentrics.eu": 10,
+    "a.storyblok.com": 14,
+    "load.data.diva-e.com": 4,
+    "v1.api.service.cmp.usercentrics.eu": 2,
+    "app.usercentrics.eu": 1,
+    "api.storyblok.com": 3,
+    "consent-api.service.consent.usercentrics.eu": 2,
+    "uct.service.usercentrics.eu": 3,
+    "js.hs-scripts.com": 1,
+    "snap.licdn.com": 1,
+    "ad.doubleclick.net": 1,
+    "www.google.com": 8,
+    "connect.facebook.net": 2,
+    "js.hsadspixel.net": 1,
+    "js.hs-banner.com": 1,
+    "js.hs-analytics.net": 1,
+    "js.hscollectedforms.net": 1,
+    "px.ads.linkedin.com": 2,
+    "googleads.g.doubleclick.net": 3,
+    "js-na1.hs-scripts.com": 1,
+    "track.hubspot.com": 1,
+    "api.hubapi.com": 1,
+    "www.facebook.com": 1,
+    "forms.hscollectedforms.net": 1,
+    "www.googletagmanager.com": 1,
+    "forms.hsforms.com": 1,
+    "data.diva-e.com": 2
+   },
+   "thirdPartyHosts": [
+    "privacy-proxy.usercentrics.eu",
+    "web.cmp.usercentrics.eu",
+    "a.storyblok.com",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu",
+    "api.storyblok.com",
+    "consent-api.service.consent.usercentrics.eu",
+    "uct.service.usercentrics.eu",
+    "js.hs-scripts.com",
+    "snap.licdn.com",
+    "ad.doubleclick.net",
+    "www.google.com",
+    "connect.facebook.net",
+    "js.hsadspixel.net",
+    "js.hs-banner.com",
+    "js.hs-analytics.net",
+    "js.hscollectedforms.net",
+    "px.ads.linkedin.com",
+    "googleads.g.doubleclick.net",
+    "js-na1.hs-scripts.com",
+    "track.hubspot.com",
+    "api.hubapi.com",
+    "www.facebook.com",
+    "forms.hscollectedforms.net",
+    "www.googletagmanager.com",
+    "forms.hsforms.com"
+   ],
+   "scripts": [
+    "https://www.diva-e.com/_nuxt/asyncData.9c4fca0b.js",
+    "https://www.diva-e.com/_nuxt/helper.9024b3e4.js",
+    "https://www.diva-e.com/_nuxt/useAsyncStoryblok.e57658aa.js",
+    "https://www.diva-e.com/_nuxt/AnchorLink.vue.e3e3c86d.js",
+    "https://www.diva-e.com/_nuxt/HeadingType.vue.1146a9d9.js",
+    "https://www.diva-e.com/_nuxt/composables.90d9aa86.js",
+    "https://www.diva-e.com/_nuxt/TeaserSliderItem.bcffaead.js",
+    "https://www.diva-e.com/_nuxt/CardsBlockItem.44584d1d.js",
+    "https://www.diva-e.com/_nuxt/LayoutBreadcrumbs.7fe5ea65.js",
+    "https://www.diva-e.com/_nuxt/ImageCaption.40ebf842.js",
+    "https://www.diva-e.com/_nuxt/default.fe9eae6a.js",
+    "https://www.diva-e.com/_nuxt/Page.6fa7d24f.js",
+    "https://www.diva-e.com/_nuxt/logo-diva-e-conclusion.289ecdb8.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-linkedin.5ab11db9.js",
+    "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "https://www.diva-e.com/_nuxt/ButtonGroup.5bc977b0.js",
+    "https://www.diva-e.com/_nuxt/global.e405b7b1.js",
+    "https://www.diva-e.com/_nuxt/_...slug_.b24fcda6.js",
+    "https://www.diva-e.com/_nuxt/icon-search.71f94b8f.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-twitter.508f5b51.js",
+    "https://www.diva-e.com/_nuxt/SimpleText.5fe51299.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-facebook.45c9c88b.js",
+    "https://www.diva-e.com/_nuxt/CardsBlock.90cc46e8.js",
+    "https://www.diva-e.com/_nuxt/ResponsiveImage.vue.262bdd56.js",
+    "https://www.diva-e.com/_nuxt/arrow-slider.2d79917c.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-youtube.a2f265d0.js",
+    "https://www.diva-e.com/_nuxt/TeaserSlider.e0b52a9d.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-xing.ca9d992a.js",
+    "https://www.diva-e.com/_nuxt/useCollection.838d6c86.js",
+    "https://www.diva-e.com/_nuxt/HoverButton.vue.70ff13c8.js",
+    "https://www.diva-e.com/_nuxt/FormBlock.f773021a.js",
+    "https://www.diva-e.com/_nuxt/icon-close.3a1d27ca.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-instagram.59ab98ae.js",
+    "https://www.diva-e.com/_nuxt/Hero.9d2b85af.js",
+    "https://www.diva-e.com/_nuxt/entry.ad64c700.js",
+    "https://www.diva-e.com/_nuxt/swiper-vue.d06afa39.js",
+    "https://web.cmp.usercentrics.eu/ui/loader.js",
+    "https://www.diva-e.com/_nuxt/algoliasearch-lite.esm.browser.a0ea2945.js",
+    "https://load.data.diva-e.com/7nqndmrluefj.js?bv2jl=aWQ9R1RNLVc3N1RMU1M%3D&sort=desc",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/WebSdk.lib.eb8e107d.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/GdprCmpController.e50d956f.js",
+    "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.cbaf4926.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/UcGdprCmpView.800ca8ac.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/sections.5a153160.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/secondLayer.03af4dcd.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/getToastifyStyle.4f0a73d7.js",
+    "https://js.hs-scripts.com/3937475.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/privacyButton.b88220a4.js",
+    "https://load.data.diva-e.com/gtag/js?id=G-LVE0DSYGPD&cx=c&gtm=4e6bb1",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://js.hsadspixel.net/pixels.js",
+    "https://js.hs-banner.com/v2/3937475/banner.js",
+    "https://js.hs-analytics.net/analytics/1794573300000/3937475.js",
+    "https://js.hscollectedforms.net/collectedforms.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-16967774015&cx=c&gtm=4e6bb1",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573459203&cv=11&fst=1794573459203&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb785533",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573459263&cv=11&fst=1794573459263&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd7",
+    "https://connect.facebook.net/signals/config/445716410367488?v=2.9.439&r=stable&domain=www.diva-e.com&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f865dc776&ex_m=119%2C243%2C172%2C27%2C82",
+    "https://js-na1.hs-scripts.com/3937475.js"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "data.diva-e.com",
+     "path": "/g/collect",
+     "query": [
+      "_eu",
+      "_fplc",
+      "_fv",
+      "_nsi",
+      "_p",
+      "_s",
+      "_ss",
+      "_tu",
+      "cid",
+      "dl",
+      "dma",
+      "dt",
+      "ecid",
+      "en",
+      "ep.consent_conversion_linker",
+      "ep.consent_google_ads",
+      "ep.consent_google_ads_conversion_tracking",
+      "ep.consent_google_ads_remarketing",
+      "ep.consent_google_analytics_4",
+      "ep.consent_hubspot",
+      "ep.consent_linkedin_insight_tag",
+      "ep.consent_microsoft_advertising",
+      "ep.consent_microsoft_conversion_tracking",
+      "evnid",
+      "frm",
+      "gap.sstd",
+      "gcd",
+      "gcs",
+      "gdid",
+      "gtm",
+      "ibt",
+      "ngs",
+      "npa",
+      "pscdl",
+      "rcb",
+      "richsstsse",
+      "sct",
+      "seg",
+      "sid",
+      "sr",
+      "sst.gch",
+      "sst.lpc",
+      "sst.navt",
+      "sst.rnd",
+      "sst.sw_exp",
+      "sst.tft",
+      "sst.ude",
+      "tag_exp",
+      "tfd",
+      "tid",
+      "uaa",
+      "uab",
+      "uafvl",
+      "uam",
+      "uamb",
+      "uap",
+      "uapv",
+      "uaw",
+      "ul",
+      "up.user_referral_category",
+      "up.user_referral_dest",
+      "up.user_referral_location",
+      "ur",
+      "v"
+     ],
+     "status": 200,
+     "contentType": "text/plain",
+     "example": "https://data.diva-e.com/g/collect"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+    "GET v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+    "GET api.storyblok.com/v2/cdn/stories",
+    "POST consent-api.service.consent.usercentrics.eu/consent/uw/3",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST www.google.com/ccm/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST www.google.com/rmkt/collect/16967774015/",
+    "GET api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+    "GET forms.hscollectedforms.net/collected-forms/v1/config/json"
+   ],
+   "postBodies": [
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onInitialPageLoad\",\"analytics\":true,\"controllerId\":\"ee1da473507f7bc7813cb5f49b576f84335ff162e864940d12dc7c5526c70a4a\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IQI6AQEMyAdioBWelIBmUgEbMpADnRVmK2YrIBOPVIBsijWSpzFi9KZoQNpo2XoD0NAeuazZNU3V6SXEmEC5xJA"
+    },
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onAcceptAllServices\",\"analytics\":true,\"controllerId\":\"ee1da473507f7bc7813cb5f49b576f84335ff162e864940d12dc7c5526c70a4a\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IQI6AQEMyAdioBWelIBmUgEbMpADnRVmK2YrIBOPVIBsijWSpzFi9KZoQNpo2XoD0NAeuazZNU3V6SXEmEC5x"
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=1&ae=g&auid=1096061414.1794573459&dt=CRM%20Services%20for%20Stronger%20Customer%20Relationships%20%7C%20diva-e%20Conclusion&en=page_view&dl=https%3A",
+     "body": ""
+    },
+    {
+     "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1096061414.1794573459&gtm=45He6bb1v78553390za204zd78553390xeaxf3&fmt=8",
+     "body": ""
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA0WRQYvbMBCF/4qZs1TLlmNZui2hXQxbKEnYSylFlkaJqCy7krylbPe/lyRLe3wM82be915h9TaD+toMvWg5/0Ygm+TX8owp+yWCahhjjEsCxc8IqhGy2wne7YZhYATsMmsfQYH1L5riB7PMQGBLARRcSlmzquv/oxpjnTG9eIO5NmmugcAvnLIvePTnqMMBf26Yy2hBgTDacbHjlA+CU5w6Ttu26WnPjEE7CDv0Egis+oxPi7a3HTk41zFsqGgt0k7aiQ6tbCifZN9K25vJIRDw+ZR0zEEXtKCcDhkJBP9J3y/DVTx6HctdzD4bUK+w5ulYdEFQtHu7ujz5+APtGB/W9Z/N9Z+TLwFBwf7wuTq+563ckqpjSUs8Y6r2Wy7LjKk6"
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573459203&cv=11&fst=1794573459203&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb78553390zd78553390xecxf3&gcd=",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573459263&cv=11&fst=1794573459263&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd78553390xeaxf3&gcd=13n3n",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=10&frm=0&apvc=0&auid=1096061414.1794573459&dt=CRM%20Services%20for%20Stronger%20Customer%20Relationships%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&en=page_v",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=10&frm=0&apvc=0&ae=g&auid=1096061414.1794573459&dt=CRM%20Services%20for%20Stronger%20Customer%20Relationships%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&dl=h",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=773255365&fst=1794573460012&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1440&u_h=900&gtm=45j91e6bb1v870328607z878553390z99207980992za20kzb78553390zd785533",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 2870,
+   "mainEmptyAtLoad": false
+  },
+  "/en/insights/edge/": {
+   "url": "https://www.diva-e.com/en/insights/edge/",
+   "status": 200,
+   "host": "www.diva-e.com",
+   "title": "edge - Our blog with updates, trends & news | diva-e Conclusion",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [
+    {
+     "tag": "iframe",
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "archetype",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [
+    {
+     "cls": "",
+     "attrs": [
+      "data-ads-portal-id",
+      "data-ads-env",
+      "data-loader",
+      "data-hsjs-portal",
+      "data-hsjs-env",
+      "data-hsjs-hublet"
+     ]
+    }
+   ],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": []
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "push"
+    ],
+    "__NUXT__": [
+     "data",
+     "state",
+     "_errors",
+     "config",
+     "serverRendered",
+     "pinia"
+    ]
+   },
+   "framework": "nuxt",
+   "globals": [
+    "google_tag_manager",
+    "grecaptcha"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 6877,
+   "domAddedAfterLoad": 80,
+   "hosts": {
+    "www.diva-e.com": 84,
+    "privacy-proxy.usercentrics.eu": 1,
+    "web.cmp.usercentrics.eu": 10,
+    "load.data.diva-e.com": 4,
+    "a.storyblok.com": 36,
+    "v1.api.service.cmp.usercentrics.eu": 2,
+    "app.usercentrics.eu": 1,
+    "uct.service.usercentrics.eu": 3,
+    "api.storyblok.com": 7,
+    "consent-api.service.consent.usercentrics.eu": 2,
+    "js.hs-scripts.com": 1,
+    "snap.licdn.com": 1,
+    "www.google.com": 8,
+    "ad.doubleclick.net": 1,
+    "connect.facebook.net": 2,
+    "googleads.g.doubleclick.net": 3,
+    "js.hsadspixel.net": 1,
+    "js.hs-banner.com": 1,
+    "js.hscollectedforms.net": 1,
+    "js.hs-analytics.net": 1,
+    "px.ads.linkedin.com": 2,
+    "js-na1.hs-scripts.com": 1,
+    "api.hubapi.com": 1,
+    "forms.hscollectedforms.net": 1,
+    "www.facebook.com": 1,
+    "track.hubspot.com": 1,
+    "www.googletagmanager.com": 1,
+    "data.diva-e.com": 2,
+    "forms.hsforms.com": 1
+   },
+   "thirdPartyHosts": [
+    "privacy-proxy.usercentrics.eu",
+    "web.cmp.usercentrics.eu",
+    "a.storyblok.com",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu",
+    "uct.service.usercentrics.eu",
+    "api.storyblok.com",
+    "consent-api.service.consent.usercentrics.eu",
+    "js.hs-scripts.com",
+    "snap.licdn.com",
+    "www.google.com",
+    "ad.doubleclick.net",
+    "connect.facebook.net",
+    "googleads.g.doubleclick.net",
+    "js.hsadspixel.net",
+    "js.hs-banner.com",
+    "js.hscollectedforms.net",
+    "js.hs-analytics.net",
+    "px.ads.linkedin.com",
+    "js-na1.hs-scripts.com",
+    "api.hubapi.com",
+    "forms.hscollectedforms.net",
+    "www.facebook.com",
+    "track.hubspot.com",
+    "www.googletagmanager.com",
+    "forms.hsforms.com"
+   ],
+   "scripts": [
+    "https://www.diva-e.com/_nuxt/MixedMedia.04c859a8.js",
+    "https://www.diva-e.com/_nuxt/useCategories.2809236b.js",
+    "https://www.diva-e.com/_nuxt/MixedMediaArticle.f97b6604.js",
+    "https://www.diva-e.com/_nuxt/ArticleList.f30a0cfd.js",
+    "https://www.diva-e.com/_nuxt/ListPagination.dde0e64c.js",
+    "https://www.diva-e.com/_nuxt/logo-diva-e-conclusion.289ecdb8.js",
+    "https://www.diva-e.com/_nuxt/icon-arrow-down-accordion.19c7bd10.js",
+    "https://www.diva-e.com/_nuxt/icon-arrow-right-list-item.a4c93569.js",
+    "https://www.diva-e.com/_nuxt/HoverButton.vue.70ff13c8.js",
+    "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "https://www.diva-e.com/_nuxt/entry.ad64c700.js",
+    "https://www.diva-e.com/_nuxt/AnchorLink.vue.e3e3c86d.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-xing.ca9d992a.js",
+    "https://www.diva-e.com/_nuxt/asyncData.9c4fca0b.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-twitter.508f5b51.js",
+    "https://www.diva-e.com/_nuxt/global.e405b7b1.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-instagram.59ab98ae.js",
+    "https://www.diva-e.com/_nuxt/useAsyncStoryblok.e57658aa.js",
+    "https://www.diva-e.com/_nuxt/helper.9024b3e4.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-youtube.a2f265d0.js",
+    "https://www.diva-e.com/_nuxt/icon-close.3a1d27ca.js",
+    "https://www.diva-e.com/_nuxt/_...slug_.b24fcda6.js",
+    "https://www.diva-e.com/_nuxt/ListArticleCard.b29aacf9.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-linkedin.5ab11db9.js",
+    "https://www.diva-e.com/_nuxt/arrow-slider.2d79917c.js",
+    "https://www.diva-e.com/_nuxt/default.fe9eae6a.js",
+    "https://www.diva-e.com/_nuxt/PageEdge.83165ebb.js",
+    "https://www.diva-e.com/_nuxt/icon-search.71f94b8f.js",
+    "https://www.diva-e.com/_nuxt/PillsItem.cc7cd525.js",
+    "https://www.diva-e.com/_nuxt/FilterButtons.5d586414.js",
+    "https://www.diva-e.com/_nuxt/composables.90d9aa86.js",
+    "https://www.diva-e.com/_nuxt/useCategoryBySlug.803bd9e0.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-facebook.45c9c88b.js",
+    "https://www.diva-e.com/_nuxt/HeadingType.vue.1146a9d9.js",
+    "https://www.diva-e.com/_nuxt/ResponsiveImage.vue.262bdd56.js",
+    "https://www.diva-e.com/_nuxt/useArticles.cd3d2b11.js",
+    "https://www.diva-e.com/_nuxt/swiper-vue.d06afa39.js",
+    "https://web.cmp.usercentrics.eu/ui/loader.js",
+    "https://load.data.diva-e.com/7nqndmrluefj.js?bv2jl=aWQ9R1RNLVc3N1RMU1M%3D&sort=desc",
+    "https://www.diva-e.com/_nuxt/algoliasearch-lite.esm.browser.a0ea2945.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/WebSdk.lib.eb8e107d.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/GdprCmpController.e50d956f.js",
+    "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.cbaf4926.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/UcGdprCmpView.800ca8ac.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/sections.5a153160.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/secondLayer.03af4dcd.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/getToastifyStyle.4f0a73d7.js",
+    "https://js.hs-scripts.com/3937475.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/privacyButton.b88220a4.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://load.data.diva-e.com/gtag/js?id=G-LVE0DSYGPD&cx=c&gtm=4e6bb1",
+    "https://load.data.diva-e.com/gtag/js?id=AW-16967774015&cx=c&gtm=4e6bb1",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573469951&cv=11&fst=1794573469951&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb785533",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573469998&cv=11&fst=1794573469998&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd7",
+    "https://js.hsadspixel.net/pixels.js",
+    "https://js.hs-banner.com/v2/3937475/banner.js",
+    "https://js.hscollectedforms.net/collectedforms.js",
+    "https://js.hs-analytics.net/analytics/1794573300000/3937475.js",
+    "https://connect.facebook.net/signals/config/445716410367488?v=2.9.439&r=stable&domain=www.diva-e.com&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f865dc776&ex_m=119%2C243%2C172%2C27%2C82"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "data.diva-e.com",
+     "path": "/g/collect",
+     "query": [
+      "_eu",
+      "_fplc",
+      "_fv",
+      "_nsi",
+      "_p",
+      "_s",
+      "_ss",
+      "_tu",
+      "cid",
+      "dl",
+      "dma",
+      "dt",
+      "ecid",
+      "en",
+      "ep.consent_conversion_linker",
+      "ep.consent_google_ads",
+      "ep.consent_google_ads_conversion_tracking",
+      "ep.consent_google_ads_remarketing",
+      "ep.consent_google_analytics_4",
+      "ep.consent_hubspot",
+      "ep.consent_linkedin_insight_tag",
+      "ep.consent_microsoft_advertising",
+      "ep.consent_microsoft_conversion_tracking",
+      "evnid",
+      "frm",
+      "gap.sstd",
+      "gcd",
+      "gcs",
+      "gdid",
+      "gtm",
+      "ibt",
+      "ngs",
+      "npa",
+      "pscdl",
+      "rcb",
+      "richsstsse",
+      "sct",
+      "seg",
+      "sid",
+      "sr",
+      "sst.gch",
+      "sst.lpc",
+      "sst.navt",
+      "sst.rnd",
+      "sst.sw_exp",
+      "sst.tft",
+      "sst.ude",
+      "tag_exp",
+      "tfd",
+      "tid",
+      "uaa",
+      "uab",
+      "uafvl",
+      "uam",
+      "uamb",
+      "uap",
+      "uapv",
+      "uaw",
+      "ul",
+      "up.user_referral_category",
+      "up.user_referral_dest",
+      "up.user_referral_location",
+      "ur",
+      "v"
+     ],
+     "status": 200,
+     "contentType": "text/plain",
+     "example": "https://data.diva-e.com/g/collect"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+    "GET v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+    "GET api.storyblok.com/v2/cdn/stories",
+    "POST consent-api.service.consent.usercentrics.eu/consent/uw/3",
+    "POST www.google.com/ccm/collect",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST www.google.com/rmkt/collect/16967774015/",
+    "POST px.ads.linkedin.com/wa/",
+    "GET api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+    "GET forms.hscollectedforms.net/collected-forms/v1/config/json"
+   ],
+   "postBodies": [
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onInitialPageLoad\",\"analytics\":true,\"controllerId\":\"38ecc843aea3068cca421a459737767a942ab9d95bb4b7e1c1f8764cc0597048\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1JUAHBGbMRZKgEMIMqvQBsIiTLI106gKwBOAOxV9+pfpm6NMgEa6Bu7Vatkr+iOmboAZiJNkJ9PX16MhEmEC4ZJA"
+    },
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onAcceptAllServices\",\"analytics\":true,\"controllerId\":\"38ecc843aea3068cca421a459737767a942ab9d95bb4b7e1c1f8764cc0597048\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1JUAHBGbMRZKgEMIMqvQBsIiTLI106gKwBOAOxV9+pfpm6NMgEa6Bu7Vatkr+iOmboAZiJNkJ9PX16MhEmEC4Z"
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&ae=g&auid=1273245440.1794573470&dt=edge%20-%20Our%20blog%20with%20updates%2C%20trends%20%26%20news%20%7C%20diva-e%20Conclusion&en=page_view&dl=htt",
+     "body": ""
+    },
+    {
+     "url": "https://ad.doubleclick.net/ccm/s/collect?_gsid=V2Lnw7OYtPDUQTBhva-eSBd04KUrgLPhQg&auid=1273245440.1794573470&gtm=45He6bb1v78553390za204zd78553390xeaxf3&fmt=8",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573469951&cv=11&fst=1794573469951&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb78553390zd78553390xecxf3&gcd=",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573469998&cv=11&fst=1794573469998&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd78553390xeaxf3&gcd=13n3n",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=0&auid=1273245440.1794573470&dt=edge%20-%20Our%20blog%20with%20updates%2C%20trends%20%26%20news%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&en=p",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=0&ae=g&auid=1273245440.1794573470&dt=edge%20-%20Our%20blog%20with%20updates%2C%20trends%20%26%20news%20%7C%20diva-e%20Conclusion&tid=AW-16967774015",
+     "body": ""
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA0WQXavUMBCG/0qYC68Sm+1X0twdRA8LBxR3OTciMk2m3WCa1iZ1keP579Jd0cuXYZ6Z93mBxbsE5stBt6qsqq8ckl39kp9pTX6OYA5SSll1HLKfCMxBdXWjqlpJqRUHN0/oIxhw/icKemvnCThsawADl5yXZIri/6igWPiY/HjJqSA3UgEcrtQnn+nkx4jhM/3YKOWjAwPobGl11YvOaivKiqyQrSZxGMjWHTau0ho4LDjS04zutqOJqEOSwmpJom51K1CpUvTNMDSuJ4u2BQ4+nVeMKWAmB2bAkIhD8B/wfhn28Ogx5nuYfLJgXmBJ/SljJjCift0pTz5+J3eMD8vyD7P/c/Y5EBjYOzLBPm4r68M8sqvPF7YtDjMlzvJK0SX2"
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=739304192&fst=1794573470742&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1440&u_h=900&gtm=45j91e6bb1h1v870328607z878553390z99207980992za20kzb78553390zd7855",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 6877,
+   "mainEmptyAtLoad": false
+  },
+  "/en/imprint/": {
+   "url": "https://www.diva-e.com/en/imprint/",
+   "status": 200,
+   "host": "www.diva-e.com",
+   "title": "Imprint | diva-e Conclusion",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [
+    {
+     "tag": "iframe",
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "archetype",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [
+    {
+     "cls": "",
+     "attrs": [
+      "data-ads-portal-id",
+      "data-ads-env",
+      "data-loader",
+      "data-hsjs-portal",
+      "data-hsjs-env",
+      "data-hsjs-hublet"
+     ]
+    }
+   ],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": []
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "push"
+    ],
+    "__NUXT__": [
+     "data",
+     "state",
+     "_errors",
+     "config",
+     "serverRendered",
+     "pinia"
+    ]
+   },
+   "framework": "nuxt",
+   "globals": [
+    "google_tag_manager",
+    "grecaptcha"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 4044,
+   "domAddedAfterLoad": 71,
+   "hosts": {
+    "www.diva-e.com": 68,
+    "privacy-proxy.usercentrics.eu": 1,
+    "web.cmp.usercentrics.eu": 10,
+    "load.data.diva-e.com": 4,
+    "a.storyblok.com": 6,
+    "v1.api.service.cmp.usercentrics.eu": 2,
+    "app.usercentrics.eu": 1,
+    "uct.service.usercentrics.eu": 3,
+    "consent-api.service.consent.usercentrics.eu": 2,
+    "snap.licdn.com": 1,
+    "js.hs-scripts.com": 1,
+    "ad.doubleclick.net": 1,
+    "www.google.com": 6,
+    "connect.facebook.net": 2,
+    "js.hs-banner.com": 1,
+    "js.hsadspixel.net": 1,
+    "js.hscollectedforms.net": 1,
+    "js.hs-analytics.net": 1,
+    "px.ads.linkedin.com": 2,
+    "googleads.g.doubleclick.net": 3,
+    "js-na1.hs-scripts.com": 1,
+    "api.hubapi.com": 1,
+    "track.hubspot.com": 1,
+    "forms.hscollectedforms.net": 1,
+    "www.facebook.com": 1,
+    "forms.hsforms.com": 1,
+    "www.googletagmanager.com": 1,
+    "data.diva-e.com": 2
+   },
+   "thirdPartyHosts": [
+    "privacy-proxy.usercentrics.eu",
+    "web.cmp.usercentrics.eu",
+    "a.storyblok.com",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu",
+    "uct.service.usercentrics.eu",
+    "consent-api.service.consent.usercentrics.eu",
+    "snap.licdn.com",
+    "js.hs-scripts.com",
+    "ad.doubleclick.net",
+    "www.google.com",
+    "connect.facebook.net",
+    "js.hs-banner.com",
+    "js.hsadspixel.net",
+    "js.hscollectedforms.net",
+    "js.hs-analytics.net",
+    "px.ads.linkedin.com",
+    "googleads.g.doubleclick.net",
+    "js-na1.hs-scripts.com",
+    "api.hubapi.com",
+    "track.hubspot.com",
+    "forms.hscollectedforms.net",
+    "www.facebook.com",
+    "forms.hsforms.com",
+    "www.googletagmanager.com"
+   ],
+   "scripts": [
+    "https://www.diva-e.com/_nuxt/asyncData.9c4fca0b.js",
+    "https://www.diva-e.com/_nuxt/default.fe9eae6a.js",
+    "https://www.diva-e.com/_nuxt/useAsyncStoryblok.e57658aa.js",
+    "https://www.diva-e.com/_nuxt/helper.9024b3e4.js",
+    "https://www.diva-e.com/_nuxt/logo-diva-e-conclusion.289ecdb8.js",
+    "https://www.diva-e.com/_nuxt/AnchorLink.vue.e3e3c86d.js",
+    "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "https://www.diva-e.com/_nuxt/swiper-vue.d06afa39.js",
+    "https://www.diva-e.com/_nuxt/global.e405b7b1.js",
+    "https://www.diva-e.com/_nuxt/entry.ad64c700.js",
+    "https://www.diva-e.com/_nuxt/icon-close.3a1d27ca.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-youtube.a2f265d0.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-xing.ca9d992a.js",
+    "https://www.diva-e.com/_nuxt/HeadingType.vue.1146a9d9.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-linkedin.5ab11db9.js",
+    "https://www.diva-e.com/_nuxt/_...slug_.b24fcda6.js",
+    "https://www.diva-e.com/_nuxt/Page.6fa7d24f.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-instagram.59ab98ae.js",
+    "https://www.diva-e.com/_nuxt/icon-search.71f94b8f.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-facebook.45c9c88b.js",
+    "https://www.diva-e.com/_nuxt/ResponsiveImage.vue.262bdd56.js",
+    "https://www.diva-e.com/_nuxt/LayoutBreadcrumbs.7fe5ea65.js",
+    "https://www.diva-e.com/_nuxt/composables.90d9aa86.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-twitter.508f5b51.js",
+    "https://www.diva-e.com/_nuxt/arrow-slider.2d79917c.js",
+    "https://www.diva-e.com/_nuxt/SimpleText.5fe51299.js",
+    "https://web.cmp.usercentrics.eu/ui/loader.js",
+    "https://load.data.diva-e.com/7nqndmrluefj.js?bv2jl=aWQ9R1RNLVc3N1RMU1M%3D&sort=desc",
+    "https://www.diva-e.com/_nuxt/algoliasearch-lite.esm.browser.a0ea2945.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/WebSdk.lib.eb8e107d.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/GdprCmpController.e50d956f.js",
+    "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.cbaf4926.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/UcGdprCmpView.800ca8ac.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/sections.5a153160.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/secondLayer.03af4dcd.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/getToastifyStyle.4f0a73d7.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://js.hs-scripts.com/3937475.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/privacyButton.b88220a4.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-16967774015&cx=c&gtm=4e6bb1",
+    "https://load.data.diva-e.com/gtag/js?id=G-LVE0DSYGPD&cx=c&gtm=4e6bb1",
+    "https://js.hs-banner.com/v2/3937475/banner.js",
+    "https://js.hsadspixel.net/pixels.js",
+    "https://js.hscollectedforms.net/collectedforms.js",
+    "https://js.hs-analytics.net/analytics/1794573300000/3937475.js",
+    "https://connect.facebook.net/signals/config/445716410367488?v=2.9.439&r=stable&domain=www.diva-e.com&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f865dc776&ex_m=119%2C243%2C172%2C27%2C82",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573480681&cv=11&fst=1794573480681&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd7",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573480638&cv=11&fst=1794573480638&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb785533",
+    "https://js-na1.hs-scripts.com/3937475.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-1056602529&cx=c&gtm=4e6bb1",
+    "https://www.googletagmanager.com/gtag/js?id=AW-1056602529"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "data.diva-e.com",
+     "path": "/g/collect",
+     "query": [
+      "_eu",
+      "_fplc",
+      "_fv",
+      "_nsi",
+      "_p",
+      "_s",
+      "_ss",
+      "_tu",
+      "cid",
+      "dl",
+      "dma",
+      "dt",
+      "ecid",
+      "en",
+      "ep.consent_conversion_linker",
+      "ep.consent_google_ads",
+      "ep.consent_google_ads_conversion_tracking",
+      "ep.consent_google_ads_remarketing",
+      "ep.consent_google_analytics_4",
+      "ep.consent_hubspot",
+      "ep.consent_linkedin_insight_tag",
+      "ep.consent_microsoft_advertising",
+      "ep.consent_microsoft_conversion_tracking",
+      "evnid",
+      "frm",
+      "gap.sstd",
+      "gcd",
+      "gcs",
+      "gdid",
+      "gtm",
+      "ibt",
+      "ngs",
+      "npa",
+      "pscdl",
+      "rcb",
+      "richsstsse",
+      "sct",
+      "seg",
+      "sid",
+      "sr",
+      "sst.gch",
+      "sst.lpc",
+      "sst.navt",
+      "sst.rnd",
+      "sst.sw_exp",
+      "sst.tft",
+      "sst.ude",
+      "tag_exp",
+      "tfd",
+      "tid",
+      "uaa",
+      "uab",
+      "uafvl",
+      "uam",
+      "uamb",
+      "uap",
+      "uapv",
+      "uaw",
+      "ul",
+      "up.user_referral_category",
+      "up.user_referral_dest",
+      "up.user_referral_location",
+      "ur",
+      "v"
+     ],
+     "status": 200,
+     "contentType": "text/plain",
+     "example": "https://data.diva-e.com/g/collect"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+    "GET v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+    "POST consent-api.service.consent.usercentrics.eu/consent/uw/3",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST www.google.com/ccm/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST www.google.com/rmkt/collect/16967774015/",
+    "GET api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+    "GET forms.hscollectedforms.net/collected-forms/v1/config/json"
+   ],
+   "postBodies": [
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onInitialPageLoad\",\"analytics\":true,\"controllerId\":\"80d3a72db21f13ed4d65bd46eb77ce85d2b135e2782237219f9ec3cd765d08a2\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IAOegKoBDAOw0BAIxroAZuioQBZAQDYArHI1aIcqVOYRhOgTTmqdEGlOE0aVGegCcS9xGZVmAqV0BemEJGiYQLg"
+    },
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onAcceptAllServices\",\"analytics\":true,\"controllerId\":\"80d3a72db21f13ed4d65bd46eb77ce85d2b135e2782237219f9ec3cd765d08a2\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1IAOegKoBDAOw0BAIxroAZuioQBZAQDYArHI1aIcqVOYRhOgTTmqdEGlOE0aVGegCcS9xGZVmAqV0BemEJGiYQ"
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&ae=g&auid=699433224.1794573480&dt=Imprint%20%7C%20diva-e%20Conclusion&en=page_view&dl=https%3A%2F%2Fwww.diva-e.com%2Fen%2Fimprint%2F&scrsrc=load.d",
+     "body": ""
+    },
+    {
+     "url": "https://ad.doubleclick.net/ccm/s/collect?auid=699433224.1794573480&gtm=45He6bb1v78553390za204zd78553390xeaxf3&fmt=8",
+     "body": ""
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA0WQT2vcMBTEv8ryzlKstSRb0i2UNhhyKN0ll1KC/jwlorLsWNqWkua7l90tyXF4zLz5zSusKVQw3/dqGHvOfxCofktre8CtpqWA2TPGGNcEWpoRzH7UQo5cKMYHRiAss00FDIT0y1K88csMBE5bBgPPra3VdN3HqcPSpXndUmkdEPiNrqaGh/RUbP6GLyesbQpgQAiBXA2OcqkidcEr6hyTVMnee6U0BqWAwGqf8H6x4eIZRuv0iAPlwY1USDtSK/pIWb9XUTsfWO+BQKrHzZaabcMAJtpckUBOX+z1M5zFXbKlXcWcqgfzCmt1h2YbgqHi7Zxyn8pPDFO5Xdf3mHOfY2oZwcB0xdz93V3xd5+W4vPpsimBZ5zBlFPOBOqF/vhn"
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573480638&cv=11&fst=1794573480638&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1v9223364703za20szb78553390zd78553390xecxf3&gcd=",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573480681&cv=11&fst=1794573480681&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6bb1v9223364703z878553390za20kzb78553390zd78553390xeaxf3&gcd=13n3n",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=5&frm=0&apvc=0&auid=699433224.1794573480&dt=Imprint%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&en=page_view&dl=https%3A%2F%2Fwww.diva-e.com%2Fen%2Fimprint%2F",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=5&frm=0&apvc=0&ae=g&auid=699433224.1794573480&dt=Imprint%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&dl=https%3A%2F%2Fwww.diva-e.com%2Fen%2Fimprint%2F&scrsrc=",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=340497265&fst=1794573481648&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1440&u_h=900&gtm=45j91e6bb1v870328607z878553390z99207980992za20kzb78553390zd785533",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 4080,
+   "mainEmptyAtLoad": false
+  },
+  "/en/contact/": {
+   "url": "https://www.diva-e.com/en/contact/",
+   "status": 200,
+   "host": "www.diva-e.com",
+   "title": "Get in touch with us | diva-e Conclusion",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [
+    {
+     "tag": "iframe",
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "archetype",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [
+    {
+     "cls": "",
+     "attrs": [
+      "data-ads-portal-id",
+      "data-ads-env",
+      "data-loader",
+      "data-hsjs-portal",
+      "data-hsjs-env",
+      "data-hsjs-hublet"
+     ]
+    }
+   ],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": []
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "push"
+    ],
+    "__NUXT__": [
+     "data",
+     "state",
+     "_errors",
+     "config",
+     "serverRendered",
+     "pinia"
+    ]
+   },
+   "framework": "nuxt",
+   "globals": [
+    "google_tag_manager",
+    "grecaptcha"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 677,
+   "domAddedAfterLoad": 60,
+   "hosts": {
+    "www.diva-e.com": 70,
+    "privacy-proxy.usercentrics.eu": 1,
+    "web.cmp.usercentrics.eu": 10,
+    "a.storyblok.com": 6,
+    "v1.api.service.cmp.usercentrics.eu": 2,
+    "load.data.diva-e.com": 4,
+    "app.usercentrics.eu": 1,
+    "uct.service.usercentrics.eu": 3,
+    "js.hs-scripts.com": 1,
+    "snap.licdn.com": 1,
+    "connect.facebook.net": 2,
+    "ad.doubleclick.net": 1,
+    "www.google.com": 6,
+    "js.hs-banner.com": 1,
+    "js.hscollectedforms.net": 1,
+    "js.hsadspixel.net": 1,
+    "js.hs-analytics.net": 1,
+    "consent-api.service.consent.usercentrics.eu": 2,
+    "px.ads.linkedin.com": 2,
+    "forms.hscollectedforms.net": 1,
+    "googleads.g.doubleclick.net": 3,
+    "js-na1.hs-scripts.com": 1,
+    "api.hubapi.com": 1,
+    "www.facebook.com": 1,
+    "track.hubspot.com": 1,
+    "forms.hsforms.com": 1,
+    "www.googletagmanager.com": 1,
+    "data.diva-e.com": 2
+   },
+   "thirdPartyHosts": [
+    "privacy-proxy.usercentrics.eu",
+    "web.cmp.usercentrics.eu",
+    "a.storyblok.com",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu",
+    "uct.service.usercentrics.eu",
+    "js.hs-scripts.com",
+    "snap.licdn.com",
+    "connect.facebook.net",
+    "ad.doubleclick.net",
+    "www.google.com",
+    "js.hs-banner.com",
+    "js.hscollectedforms.net",
+    "js.hsadspixel.net",
+    "js.hs-analytics.net",
+    "consent-api.service.consent.usercentrics.eu",
+    "px.ads.linkedin.com",
+    "forms.hscollectedforms.net",
+    "googleads.g.doubleclick.net",
+    "js-na1.hs-scripts.com",
+    "api.hubapi.com",
+    "www.facebook.com",
+    "track.hubspot.com",
+    "forms.hsforms.com",
+    "www.googletagmanager.com"
+   ],
+   "scripts": [
+    "https://www.diva-e.com/_nuxt/icon-footer-xing.ca9d992a.js",
+    "https://www.diva-e.com/_nuxt/ResponsiveImage.vue.262bdd56.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-linkedin.5ab11db9.js",
+    "https://www.diva-e.com/_nuxt/icon-close.3a1d27ca.js",
+    "https://www.diva-e.com/_nuxt/LayoutBreadcrumbs.7fe5ea65.js",
+    "https://www.diva-e.com/_nuxt/icon-search.71f94b8f.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-facebook.45c9c88b.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-instagram.59ab98ae.js",
+    "https://www.diva-e.com/_nuxt/global.e405b7b1.js",
+    "https://www.diva-e.com/_nuxt/asyncData.9c4fca0b.js",
+    "https://www.diva-e.com/_nuxt/_...slug_.b24fcda6.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-twitter.508f5b51.js",
+    "https://www.diva-e.com/_nuxt/Hero.9d2b85af.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-youtube.a2f265d0.js",
+    "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "https://www.diva-e.com/_nuxt/AnchorLink.vue.e3e3c86d.js",
+    "https://www.diva-e.com/_nuxt/FormBlock.f773021a.js",
+    "https://www.diva-e.com/_nuxt/logo-diva-e-conclusion.289ecdb8.js",
+    "https://www.diva-e.com/_nuxt/helper.9024b3e4.js",
+    "https://www.diva-e.com/_nuxt/arrow-slider.2d79917c.js",
+    "https://www.diva-e.com/_nuxt/HeadingType.vue.1146a9d9.js",
+    "https://www.diva-e.com/_nuxt/composables.90d9aa86.js",
+    "https://www.diva-e.com/_nuxt/Page.6fa7d24f.js",
+    "https://www.diva-e.com/_nuxt/entry.ad64c700.js",
+    "https://www.diva-e.com/_nuxt/useAsyncStoryblok.e57658aa.js",
+    "https://www.diva-e.com/_nuxt/default.fe9eae6a.js",
+    "https://www.diva-e.com/_nuxt/swiper-vue.d06afa39.js",
+    "https://web.cmp.usercentrics.eu/ui/loader.js",
+    "https://www.diva-e.com/_nuxt/algoliasearch-lite.esm.browser.a0ea2945.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/WebSdk.lib.eb8e107d.js",
+    "https://load.data.diva-e.com/7nqndmrluefj.js?bv2jl=aWQ9R1RNLVc3N1RMU1M%3D&sort=desc",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/GdprCmpController.e50d956f.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/UcGdprCmpView.800ca8ac.js",
+    "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.cbaf4926.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/sections.5a153160.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/secondLayer.03af4dcd.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/getToastifyStyle.4f0a73d7.js",
+    "https://js.hs-scripts.com/3937475.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/privacyButton.b88220a4.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://js.hs-banner.com/v2/3937475/banner.js",
+    "https://js.hscollectedforms.net/collectedforms.js",
+    "https://js.hsadspixel.net/pixels.js",
+    "https://js.hs-analytics.net/analytics/1794573300000/3937475.js",
+    "https://load.data.diva-e.com/gtag/js?id=G-LVE0DSYGPD&cx=c&gtm=4e6bb1h1",
+    "https://connect.facebook.net/signals/config/445716410367488?v=2.9.439&r=stable&domain=www.diva-e.com&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f865dc776&ex_m=119%2C243%2C172%2C27%2C82",
+    "https://load.data.diva-e.com/gtag/js?id=AW-16967774015&cx=c&gtm=4e6bb1h1",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573490445&cv=11&fst=1794573490445&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1h1v9223364703za20szb7855",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573490507&cv=11&fst=1794573490507&bg=ffffff&guid=ON&async=1&gtm=45be6bb1h1v9223364703z878553390za20kzb78553390z",
+    "https://js-na1.hs-scripts.com/3937475.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-1056602529",
+    "https://load.data.diva-e.com/gtag/js?id=AW-1056602529&cx=c&gtm=4e6bb1h1"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "data.diva-e.com",
+     "path": "/g/collect",
+     "query": [
+      "_eu",
+      "_fplc",
+      "_fv",
+      "_nsi",
+      "_p",
+      "_s",
+      "_ss",
+      "_tu",
+      "cid",
+      "dl",
+      "dma",
+      "dt",
+      "ecid",
+      "en",
+      "ep.consent_conversion_linker",
+      "ep.consent_google_ads",
+      "ep.consent_google_ads_conversion_tracking",
+      "ep.consent_google_ads_remarketing",
+      "ep.consent_google_analytics_4",
+      "ep.consent_hubspot",
+      "ep.consent_linkedin_insight_tag",
+      "ep.consent_microsoft_advertising",
+      "ep.consent_microsoft_conversion_tracking",
+      "evnid",
+      "frm",
+      "gap.sstd",
+      "gcd",
+      "gcs",
+      "gdid",
+      "gtm",
+      "ibt",
+      "ngs",
+      "npa",
+      "pscdl",
+      "rcb",
+      "richsstsse",
+      "sct",
+      "seg",
+      "sid",
+      "sr",
+      "sst.gch",
+      "sst.lpc",
+      "sst.navt",
+      "sst.rnd",
+      "sst.sw_exp",
+      "sst.tft",
+      "sst.ude",
+      "tag_exp",
+      "tfd",
+      "tid",
+      "uaa",
+      "uab",
+      "uafvl",
+      "uam",
+      "uamb",
+      "uap",
+      "uapv",
+      "uaw",
+      "ul",
+      "up.user_referral_category",
+      "up.user_referral_dest",
+      "up.user_referral_location",
+      "ur",
+      "v"
+     ],
+     "status": 200,
+     "contentType": "text/plain",
+     "example": "https://data.diva-e.com/g/collect"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+    "GET v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST www.google.com/ccm/collect",
+    "POST consent-api.service.consent.usercentrics.eu/consent/uw/3",
+    "POST px.ads.linkedin.com/wa/",
+    "GET forms.hscollectedforms.net/collected-forms/v1/config/json",
+    "POST www.google.com/rmkt/collect/16967774015/",
+    "GET api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json"
+   ],
+   "postBodies": [
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onInitialPageLoad\",\"analytics\":true,\"controllerId\":\"3cc41be5f49db9e90eae69fbd3ce268c1822ebcbcaad6f49581a9601f4cf6778\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1JVmzMugBGEAKwAzMgE4BEhRAX0IAQwgA2BbIkCREGjoAczdGZo0IE5vc2aBO+Quln0mhTvrp5zLI6AOzBZkwgXJ"
+    },
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onAcceptAllServices\",\"analytics\":true,\"controllerId\":\"3cc41be5f49db9e90eae69fbd3ce268c1822ebcbcaad6f49581a9601f4cf6778\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1JVmzMugBGEAKwAzMgE4BEhRAX0IAQwgA2BbIkCREGjoAczdGZo0IE5vc2aBO+Quln0mhTvrp5zLI6AOzBZkwg"
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=13&frm=0&apvc=1&ae=g&auid=1266728244.1794573490&dt=Get%20in%20touch%20with%20us%20%7C%20diva-e%20Conclusion&en=page_view&dl=https%3A%2F%2Fwww.diva-e.com%2Fen%2Fc",
+     "body": ""
+    },
+    {
+     "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1266728244.1794573490&gtm=45He6bb1h1v78553390za204zd78553390xeaxf3&fmt=8",
+     "body": ""
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA0WQTWvcMBCG/4qZsxRLtvwh3UJpFkMOobvkUkoZa2azorbsrOSGkua/l90t7fFlmGfeed5hDZTAfdV921V1/U1A8uew5mc+p7BEcFoppWorIIeZwenOmqarjVWqbgXQMmOI4IDCT5R855cZBGznCRyccl6TK8v/o5Jj6ZeY0ecSBLzxmELmfXiJOH3h141THggc9E1rTWdGaW2N8mhQy7byjURPWhMfbU8EAlZ84ccF6bpDTctjb1FaVl6akSppsTOSq5YqVGSxRRAQ0uGMMU2YmcAdcUosYAoPeLsMl7ALGPMtzCF5cO+wpnGfMTM4aT4ulMcQfzAN8X5d/2EufQ4hTwwOdpyLEIu8bP5UvIV8KrZU/C5uLopPS/TTdhUs4MQz"
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573490445&cv=11&fst=1794573490445&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1h1v9223364703za20szb78553390zd78553390xecxf3&gc",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573490507&cv=11&fst=1794573490507&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6bb1h1v9223364703z878553390za20kzb78553390zd78553390xeaxf3&gcd=13n",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=0&auid=1266728244.1794573490&dt=Get%20in%20touch%20with%20us%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&en=page_view&dl=https%3A%2F%2Fwww.diva-",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=0&ae=g&auid=1266728244.1794573490&dt=Get%20in%20touch%20with%20us%20%7C%20diva-e%20Conclusion&tid=AW-16967774015&dl=https%3A%2F%2Fwww.diva-e.com%2F",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1954360527&fst=1794573490981&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1440&u_h=900&gtm=45j91e6bb1v870328607z878553390z99207980992za20kzb78553390zd78553",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 394,
+   "mainEmptyAtLoad": false
+  },
+  "/en/connect/": {
+   "url": "https://www.diva-e.com/en/connect/",
+   "status": 200,
+   "host": "www.diva-e.com",
+   "title": "Conclusion Connect: Turning AI Vision into Business Value | diva-e Conclusion",
+   "forms": [],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [],
+   "dialogCount": 0,
+   "media": [
+    {
+     "tag": "iframe",
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": "https://web.cmp.usercentrics.eu/cdcs/v/1.0.0/index.html",
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "archetype",
+     "w": 0,
+     "h": 0
+    }
+   ],
+   "mounts": [
+    {
+     "cls": "",
+     "attrs": [
+      "data-ads-portal-id",
+      "data-ads-env",
+      "data-loader",
+      "data-hsjs-portal",
+      "data-hsjs-env",
+      "data-hsjs-hublet"
+     ]
+    }
+   ],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": []
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "push"
+    ],
+    "__NUXT__": [
+     "data",
+     "state",
+     "_errors",
+     "config",
+     "serverRendered",
+     "pinia"
+    ]
+   },
+   "framework": "nuxt",
+   "globals": [
+    "google_tag_manager",
+    "grecaptcha"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 4,
+   "inlineFetch": false,
+   "mainText": 6014,
+   "domAddedAfterLoad": 84,
+   "hosts": {
+    "www.diva-e.com": 82,
+    "a.storyblok.com": 37,
+    "privacy-proxy.usercentrics.eu": 1,
+    "web.cmp.usercentrics.eu": 10,
+    "load.data.diva-e.com": 4,
+    "v1.api.service.cmp.usercentrics.eu": 2,
+    "app.usercentrics.eu": 1,
+    "consent-api.service.consent.usercentrics.eu": 2,
+    "js.hs-scripts.com": 1,
+    "snap.licdn.com": 1,
+    "www.google.com": 6,
+    "ad.doubleclick.net": 1,
+    "connect.facebook.net": 2,
+    "js.hs-banner.com": 1,
+    "js.hsadspixel.net": 1,
+    "js.hscollectedforms.net": 1,
+    "js.hs-analytics.net": 1,
+    "px.ads.linkedin.com": 2,
+    "uct.service.usercentrics.eu": 3,
+    "googleads.g.doubleclick.net": 3,
+    "js-na1.hs-scripts.com": 1,
+    "api.hubapi.com": 1,
+    "forms.hscollectedforms.net": 1,
+    "www.facebook.com": 1,
+    "track.hubspot.com": 1,
+    "data.diva-e.com": 2,
+    "forms.hsforms.com": 1,
+    "www.googletagmanager.com": 1
+   },
+   "thirdPartyHosts": [
+    "a.storyblok.com",
+    "privacy-proxy.usercentrics.eu",
+    "web.cmp.usercentrics.eu",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu",
+    "consent-api.service.consent.usercentrics.eu",
+    "js.hs-scripts.com",
+    "snap.licdn.com",
+    "www.google.com",
+    "ad.doubleclick.net",
+    "connect.facebook.net",
+    "js.hs-banner.com",
+    "js.hsadspixel.net",
+    "js.hscollectedforms.net",
+    "js.hs-analytics.net",
+    "px.ads.linkedin.com",
+    "uct.service.usercentrics.eu",
+    "googleads.g.doubleclick.net",
+    "js-na1.hs-scripts.com",
+    "api.hubapi.com",
+    "forms.hscollectedforms.net",
+    "www.facebook.com",
+    "track.hubspot.com",
+    "forms.hsforms.com",
+    "www.googletagmanager.com"
+   ],
+   "scripts": [
+    "https://www.diva-e.com/_nuxt/ResponsiveImage.vue.262bdd56.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-instagram.59ab98ae.js",
+    "https://www.diva-e.com/_nuxt/icon-search.71f94b8f.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-youtube.a2f265d0.js",
+    "https://www.diva-e.com/_nuxt/Page.6fa7d24f.js",
+    "https://www.diva-e.com/_nuxt/CardsBlockItem.44584d1d.js",
+    "https://www.diva-e.com/_nuxt/MixedMedia.04c859a8.js",
+    "https://www.diva-e.com/_nuxt/Hero.9d2b85af.js",
+    "https://www.diva-e.com/_nuxt/_...slug_.b24fcda6.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-twitter.508f5b51.js",
+    "https://www.diva-e.com/_nuxt/LayoutBreadcrumbs.7fe5ea65.js",
+    "https://www.diva-e.com/_nuxt/PartnersBar.e9f89bce.js",
+    "https://www.diva-e.com/_nuxt/AnchorLink.vue.e3e3c86d.js",
+    "https://www.diva-e.com/_nuxt/global.e405b7b1.js",
+    "https://www.diva-e.com/_nuxt/useAsyncStoryblok.e57658aa.js",
+    "https://www.diva-e.com/_nuxt/arrow-slider.2d79917c.js",
+    "https://www.diva-e.com/_nuxt/asyncData.9c4fca0b.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-linkedin.5ab11db9.js",
+    "https://www.diva-e.com/_nuxt/helper.9024b3e4.js",
+    "https://www.diva-e.com/_nuxt/composables.90d9aa86.js",
+    "https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js",
+    "https://www.diva-e.com/_nuxt/default.fe9eae6a.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-facebook.45c9c88b.js",
+    "https://www.diva-e.com/_nuxt/FormBlock.f773021a.js",
+    "https://www.diva-e.com/_nuxt/logo-diva-e-conclusion.289ecdb8.js",
+    "https://www.diva-e.com/_nuxt/SimpleText.5fe51299.js",
+    "https://www.diva-e.com/_nuxt/PartnersBarItem.f5573167.js",
+    "https://www.diva-e.com/_nuxt/CardsBlock.90cc46e8.js",
+    "https://www.diva-e.com/_nuxt/icon-footer-xing.ca9d992a.js",
+    "https://www.diva-e.com/_nuxt/HeadingType.vue.1146a9d9.js",
+    "https://www.diva-e.com/_nuxt/icon-close.3a1d27ca.js",
+    "https://www.diva-e.com/_nuxt/icon-heart.6f27c9b9.js",
+    "https://www.diva-e.com/_nuxt/entry.ad64c700.js",
+    "https://www.diva-e.com/_nuxt/swiper-vue.d06afa39.js",
+    "https://web.cmp.usercentrics.eu/ui/loader.js",
+    "https://load.data.diva-e.com/7nqndmrluefj.js?bv2jl=aWQ9R1RNLVc3N1RMU1M%3D&sort=desc",
+    "https://www.diva-e.com/_nuxt/algoliasearch-lite.esm.browser.a0ea2945.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/WebSdk.lib.eb8e107d.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/GdprCmpController.e50d956f.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/UcGdprCmpView.800ca8ac.js",
+    "https://web.cmp.usercentrics.eu/ui/TvGdprCmpView.cbaf4926.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/sections.5a153160.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/secondLayer.03af4dcd.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/getToastifyStyle.4f0a73d7.js",
+    "https://js.hs-scripts.com/3937475.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://web.cmp.usercentrics.eu/ui/v/4.32.0/privacyButton.b88220a4.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://load.data.diva-e.com/gtag/js?id=G-LVE0DSYGPD&cx=c&gtm=4e6bb1h1",
+    "https://js.hs-banner.com/v2/3937475/banner.js",
+    "https://js.hsadspixel.net/pixels.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-16967774015&cx=c&gtm=4e6bb1h1",
+    "https://js.hscollectedforms.net/collectedforms.js",
+    "https://js.hs-analytics.net/analytics/1794573300000/3937475.js",
+    "https://connect.facebook.net/signals/config/445716410367488?v=2.9.439&r=stable&domain=www.diva-e.com&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f865dc776&ex_m=119%2C243%2C172%2C27%2C82",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573499912&cv=11&fst=1794573499912&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1h1v9223364703za20szb7855",
+    "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16967774015/?random=1794573499953&cv=11&fst=1794573499953&bg=ffffff&guid=ON&async=1&gtm=45be6bb1h1v9223364703z878553390za20kzb78553390z",
+    "https://js-na1.hs-scripts.com/3937475.js",
+    "https://load.data.diva-e.com/gtag/js?id=AW-1056602529&cx=c&gtm=4e6bb1h1",
+    "https://www.googletagmanager.com/gtag/js?id=AW-1056602529"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "data.diva-e.com",
+     "path": "/g/collect",
+     "query": [
+      "_eu",
+      "_fplc",
+      "_fv",
+      "_nsi",
+      "_p",
+      "_s",
+      "_ss",
+      "_tu",
+      "cid",
+      "dl",
+      "dma",
+      "dt",
+      "ecid",
+      "en",
+      "ep.consent_conversion_linker",
+      "ep.consent_google_ads",
+      "ep.consent_google_ads_conversion_tracking",
+      "ep.consent_google_ads_remarketing",
+      "ep.consent_google_analytics_4",
+      "ep.consent_hubspot",
+      "ep.consent_linkedin_insight_tag",
+      "ep.consent_microsoft_advertising",
+      "ep.consent_microsoft_conversion_tracking",
+      "evnid",
+      "frm",
+      "gap.sstd",
+      "gcd",
+      "gcs",
+      "gdid",
+      "gtm",
+      "ibt",
+      "ngs",
+      "npa",
+      "pscdl",
+      "rcb",
+      "richsstsse",
+      "sct",
+      "seg",
+      "sid",
+      "sr",
+      "sst.gch",
+      "sst.lpc",
+      "sst.navt",
+      "sst.rnd",
+      "sst.sw_exp",
+      "sst.tft",
+      "sst.ude",
+      "tag_exp",
+      "tfd",
+      "tid",
+      "uaa",
+      "uab",
+      "uafvl",
+      "uam",
+      "uamb",
+      "uap",
+      "uapv",
+      "uaw",
+      "ul",
+      "up.user_referral_category",
+      "up.user_referral_dest",
+      "up.user_referral_location",
+      "ur",
+      "v"
+     ],
+     "status": 200,
+     "contentType": "text/plain",
+     "example": "https://data.diva-e.com/g/collect"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+    "GET v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/zwbhh7MR/179.37.251/179.37.251",
+    "POST consent-api.service.consent.usercentrics.eu/consent/uw/3",
+    "POST www.google.com/ccm/collect",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST www.google.com/rmkt/collect/16967774015/",
+    "GET api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+    "GET forms.hscollectedforms.net/collected-forms/v1/config/json"
+   ],
+   "postBodies": [
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onInitialPageLoad\",\"analytics\":true,\"controllerId\":\"dd19de79de6f814fb996ad7bcb2813cff274c7cd72cbdb214c57ce7b9b9f04d3\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1ICB6AJwCIAdgkQAbADMAHOjIKARmLFyAhgKnrm6miqrMFCmlLLMpzfTSMDjq5gFY70zZoX0yAqiYQLh0kAHMcHT"
+    },
+    {
+     "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+     "body": "{\"action\":\"onAcceptAllServices\",\"analytics\":true,\"controllerId\":\"dd19de79de6f814fb996ad7bcb2813cff274c7cd72cbdb214c57ce7b9b9f04d3\",\"appVersion\":\"sdk-1.0.0-alpha.0\",\"language\":\"en\",\"settingsId\":\"zwbhh7MR\",\"settingsVersion\":\"179.37.251\",\"ucString\":\"N4IgbgpgTgzglgewHYgFwEYA0ICucBq08yaIALAHQDMATBQAwjYDGyALlAgDZfQCSAE1ICB6AJwCIAdgkQAbADMAHOjIKARmLFyAhgKnrm6miqrMFCmlLLMpzfTSMDjq5gFY70zZoX0yAqiYQLh0kAHMc"
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&apvc=1&ae=g&auid=784048528.1794573499&dt=Conclusion%20Connect%3A%20Turning%20AI%20Vision%20into%20Business%20Value%20%7C%20diva-e%20Conclusion&en=page_v",
+     "body": ""
+    },
+    {
+     "url": "https://ad.doubleclick.net/ccm/s/collect?auid=784048528.1794573499&gtm=45He6bb1h1v78553390za204zd78553390xeaxf3&fmt=8",
+     "body": ""
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA0WQS4/UMBCE/0rUZ5s8HMexb8MKVpH2gJhoLgghPzqzFo4TYgeElv3vKDOIPZZKXdX1vcDqXQL1pe470TD2lUCym1/zBbfklwiqrqqqYpJA9jOCqoVsuWCtlJzVBNwyax9BgfM/NcV3dpmBwL4FUPCc85pUWb5ZJcbSLjGizSUQ+IUm+Yxnf406fMYfO6Y8OFDAuOgk6zmt0HDqWC1o2zJDJytMz5qOda0FAqu+4tOi3e0GmUMtpKbSNJq2UhsqO8lpZaa+4cJOrNZAwKdx0zEFndGBmnRISCD4j/reDId49Drmu5h9sqBeYE3mnHVGULR9PVKefPyOboindf0fc/wz+hwQFDws0Yb9QFg83BerYty36OO1OA3Fxd8sH/NSvN+T"
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573499912&cv=11&fst=1794573499912&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6bb1h1v9223364703za20szb78553390zd78553390xecxf3&gc",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=1794573499953&cv=11&fst=1794573499953&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6bb1h1v9223364703z878553390za20kzb78553390zd78553390xeaxf3&gcd=13n",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=0&auid=784048528.1794573499&dt=Conclusion%20Connect%3A%20Turning%20AI%20Vision%20into%20Business%20Value%20%7C%20diva-e%20Conclusion&tid=AW-16967774",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=0&ae=g&auid=784048528.1794573499&dt=Conclusion%20Connect%3A%20Turning%20AI%20Vision%20into%20Business%20Value%20%7C%20diva-e%20Conclusion&tid=AW-169",
+     "body": ""
+    },
+    {
+     "url": "https://www.google.com/rmkt/collect/16967774015/?random=950528607&fst=1794573500488&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1440&u_h=900&gtm=45j91e6bb1h1v870328607z878553390z99207980992za20kzb78553390zd7855",
+     "body": ""
+    }
+   ],
+   "textAtLoad": 5731,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-unknown-third-party-host-www-google-com",
+   "class": "A",
+   "feature": "unknown third-party host www.google.com",
+   "hint": "inspect",
+   "evidence": [
+    "www.google.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-px-ads-linkedin-com",
+   "class": "A",
+   "feature": "unknown third-party host px.ads.linkedin.com",
+   "hint": "inspect",
+   "evidence": [
+    "px.ads.linkedin.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-api-hubapi-com",
+   "class": "A",
+   "feature": "unknown third-party host api.hubapi.com",
+   "hint": "inspect",
+   "evidence": [
+    "api.hubapi.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-nuxt",
+   "class": "A",
+   "feature": "CMS / app settings object __NUXT__",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-api-storyblok-com",
+   "class": "A",
+   "feature": "unknown third-party host api.storyblok.com",
+   "hint": "inspect",
+   "evidence": [
+    "api.storyblok.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/services/crm/",
+    "/en/insights/edge/"
+   ]
+  },
+  {
+   "id": "cr-client-framework-nuxt",
+   "class": "CR",
+   "feature": "client framework nuxt",
+   "hint": "framework",
+   "evidence": [],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-tags-carousel-slider-fr",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide tags-carousel__slider-frame js-frame",
+   "hint": "client-rendered",
+   "evidence": [
+    "Consulting & Innovation",
+    "Solutions & Experiences",
+    "Marketing & Performance",
+    "Data Consulting & Solution",
+    "Managed Cloud Services"
+   ],
+   "pages": [
+    "/en/about-us/customers/mann-hummel/"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-swiper-slide-prev-tags-",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide swiper-slide-prev tags-carousel__slider-frame",
+   "hint": "client-rendered",
+   "evidence": [
+    "Marketing & Performance"
+   ],
+   "pages": [
+    "/en/about-us/customers/mann-hummel/"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-swiper-slide-visible-sw",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide swiper-slide-visible swiper-slide-active",
+   "hint": "client-rendered",
+   "evidence": [
+    "Data Consulting & Solution"
+   ],
+   "pages": [
+    "/en/about-us/customers/mann-hummel/"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-swiper-slide-visible-sw",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide swiper-slide-visible swiper-slide-next",
+   "hint": "client-rendered",
+   "evidence": [
+    "Managed Cloud Services"
+   ],
+   "pages": [
+    "/en/about-us/customers/mann-hummel/"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-swiper-slide-swiper-slide-visible-ta",
+   "class": "CR",
+   "feature": "client-rendered slot swiper-slide swiper-slide-visible tags-carousel__slider-frame",
+   "hint": "client-rendered",
+   "evidence": [
+    "Solutions & Experiences"
+   ],
+   "pages": [
+    "/en/about-us/customers/mann-hummel/"
+   ]
+  },
+  {
+   "id": "f-form-backend-hubspot-forms",
+   "class": "F",
+   "feature": "form backend: HubSpot forms",
+   "role": "form backend: HubSpot forms",
+   "hint": "forms",
+   "evidence": [
+    "js.hs-scripts.com",
+    "js-na1.hs-scripts.com",
+    "forms.hsforms.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-de-de-de-de-de",
+   "class": "I18N",
+   "feature": "locale variants de,de,de,de,de",
+   "hint": "locale",
+   "evidence": [
+    "https://www.diva-e.com/de/branchen/b2b-manufacturing/",
+    "https://www.diva-e.com/de/branchen/automotive/",
+    "https://www.diva-e.com/de/branchen/retail/"
+   ],
+   "pages": [
+    "/en/"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-in",
+   "class": "I18N",
+   "feature": "locale variants in",
+   "hint": "locale",
+   "evidence": [
+    "https://www.linkedin.com/in/jguthmann/"
+   ],
+   "pages": [
+    "/en/insights/edge/ai-radar-october/"
+   ]
+  },
+  {
+   "id": "t-consent-usercentrics",
+   "class": "T",
+   "feature": "consent: Usercentrics",
+   "role": "consent: Usercentrics",
+   "hint": "tags",
+   "evidence": [
+    "privacy-proxy.usercentrics.eu",
+    "web.cmp.usercentrics.eu",
+    "v1.api.service.cmp.usercentrics.eu",
+    "app.usercentrics.eu",
+    "consent-api.service.consent.usercentrics.eu",
+    "uct.service.usercentrics.eu"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-a-storyblok-com",
+   "class": "T",
+   "feature": "unknown third-party host a.storyblok.com",
+   "hint": "inspect",
+   "evidence": [
+    "a.storyblok.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "role": "marketing: ad / retargeting pixel",
+   "hint": "tags",
+   "evidence": [
+    "snap.licdn.com",
+    "connect.facebook.net",
+    "ad.doubleclick.net",
+    "googleads.g.doubleclick.net"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-js-hsadspixel-net",
+   "class": "T",
+   "feature": "unknown third-party host js.hsadspixel.net",
+   "hint": "inspect",
+   "evidence": [
+    "js.hsadspixel.net"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-www-facebook-com",
+   "class": "T",
+   "feature": "unknown third-party host www.facebook.com",
+   "hint": "inspect",
+   "evidence": [
+    "www.facebook.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "t-marketing-hubspot-tracking",
+   "class": "T",
+   "feature": "marketing: HubSpot tracking",
+   "role": "marketing: HubSpot tracking",
+   "hint": "tags",
+   "evidence": [
+    "js.hscollectedforms.net",
+    "js.hs-analytics.net",
+    "forms.hscollectedforms.net",
+    "js.hs-banner.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-track-hubspot-com",
+   "class": "T",
+   "feature": "unknown third-party host track.hubspot.com",
+   "hint": "inspect",
+   "evidence": [
+    "track.hubspot.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "role": "tag manager: Google Tag Manager",
+   "hint": "tags",
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "t-third-party-mount-div-data-ads-portal-id-tag-manager-injec",
+   "class": "T",
+   "feature": "third-party mount <div data-ads-portal-id> (tag-manager-injected widget)",
+   "hint": "tags",
+   "evidence": [
+    "data-ads-portal-id data-ads-env data-loader data-hsjs-portal data-hsjs-env data-hsjs-hublet"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  },
+  {
+   "id": "v-iframe-without-src-runtime-injected-embed",
+   "class": "V",
+   "feature": "iframe without src (runtime-injected embed)",
+   "hint": "embed-runtime",
+   "evidence": [
+    "0×0",
+    "archetype"
+   ],
+   "pages": [
+    "/en/",
+    "/en/insights/edge/ai-radar-october/",
+    "/en/about-us/customers/mann-hummel/",
+    "/en/services/crm/",
+    "/en/insights/edge/",
+    "/en/imprint/",
+    "/en/contact/",
+    "/en/connect/"
+   ]
+  }
+ ]
+}

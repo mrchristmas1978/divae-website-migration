@@ -1,27 +1,641 @@
-.cards > ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
-  gap: 24px;
+/* cards — diva-e CardsBlock (canon § 8 + program page col-3 / dark rules) */
+.cards {
+  padding: 0 var(--pad-x);
 }
 
-.cards > ul > li {
-  border: 1px solid #dadada;
-  background-color: var(--background-color);
+.cards.dark {
+  background-color: var(--navy);
 }
 
-.cards .cards-card-body {
-  margin: 16px;
-}
-
-.cards .cards-card-image {
-  line-height: 0;
-}
-
-.cards > ul > li img {
+.cards .cards-grid {
+  display: block;
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
+  margin: 0 auto;
+}
+
+.cards .cards-tagline {
+  width: 100%;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.cards.tagline-left .cards-tagline {
+  text-align: left;
+}
+
+.cards .cards-tagline :is(h2, h3) {
+  font-size: 2.4rem;
+  line-height: 120%;
+}
+
+/* source .cards-block__tagline h3: 2rem, 2.4rem >= 768, 3.4rem >= 1600 (h2 keeps its own ramp) */
+.cards .cards-tagline h3 {
+  font-size: 2rem;
+}
+
+@media (width >= 768px) {
+  .cards .cards-tagline h3 {
+    font-size: 2.4rem;
+  }
+}
+
+.cards.dark .cards-tagline {
+  color: var(--ink-light);
+}
+
+.cards .card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+  padding: 32px 24px;
+  border-radius: var(--radius-card);
+  background-color: var(--card-light);
+  box-shadow: 0 0 30px var(--hairline);
+  transition: background-color var(--ease), color var(--ease);
+}
+
+.cards .card + .card {
+  margin-top: 16px;
+}
+
+.cards .card-dark {
+  background-color: var(--card-dark);
+  box-shadow: 0 0 30px var(--navy);
+  color: var(--ink-light);
+}
+
+.cards .card-light.has-link:hover {
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+.cards .card-info {
+  width: 100%;
+}
+
+/* the title wrapper carries the type; the authored heading inherits it (EW2) */
+.cards .card-title {
+  display: block;
+  width: 100%;
+  font-size: 1.8rem;
+  line-height: 120%;
+}
+
+.cards.col-3 .card-title {
+  font-size: 2rem;
+}
+
+.cards .card-title :is(p, h2, h3, h4, h5, h6) {
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  hyphens: manual;
+}
+
+.cards .card-txt {
+  padding-top: 16px;
+}
+
+/* letter-spacing resolves against the copy's own size (source .02em) */
+.cards .card-txt p {
+  font-size: 1.4rem;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  hyphens: auto;
+}
+
+.cards .card-txt i {
+  font-synthesis-style: auto;
+}
+
+.cards .card-cta p {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.cards .card-cta a:any-link {
+  position: relative;
+  z-index: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 16px;
+  color: inherit;
+  font-family: var(--font-display);
+  font-size: 14px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: var(--blue);
+  text-underline-offset: 1px;
+  text-underline-position: under;
+}
+
+.cards .card-light.has-link:hover .card-cta a:any-link {
+  color: var(--white);
+  text-decoration-color: var(--white);
+}
+
+.cards .card-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.cards.icon .card {
+  text-align: center;
+}
+
+/* the source centres the icon card's billhead (icon + title); its text and CTA stay left */
+.cards.icon .card-txt,
+.cards.icon .card-cta {
+  text-align: left;
+}
+
+.cards .card-icon {
+  display: block;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto 16px;
+}
+
+.cards .card-icon img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* program page (col-3): with the source top-margin flag (`top`) the grid starts below the
+   band's top padding, row-gap 0 */
+.cards.col-3.top .cards-grid {
+  padding-top: 40px;
+}
+
+@media (width >= 768px) {
+  .cards .cards-tagline {
+    padding-bottom: 40px;
+  }
+
+  .cards .card {
+    flex-direction: row;
+  }
+
+  .cards .card-title {
+    font-size: 2rem;
+  }
+
+  .cards .card-txt p {
+    font-size: 1.6rem;
+    line-height: 150%;
+  }
+
+  .cards .card-cta a:any-link {
+    font-size: 16px;
+  }
+
+  .cards.col-3.top .cards-grid {
+    padding-top: 64px;
+  }
+}
+
+@media (width >= 1024px) {
+  .cards .card {
+    flex-direction: column;
+    height: 100%;
+    padding: 40px;
+  }
+
+  .cards .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+  }
+
+  .cards .cards-grid > .card {
+    grid-column: span 2;
+  }
+
+  .cards .cards-grid > .cards-tagline {
+    grid-column: 1 / -1;
+  }
+
+  /* the source tagline sits outside the card container: no grid row gap below it */
+  .cards:not(.flush) .cards-grid > .cards-tagline {
+    margin-bottom: -24px;
+  }
+
+  .cards .card + .card {
+    margin-top: 0;
+  }
+
+  .cards .card-icon {
+    margin-bottom: 24px;
+  }
+
+  .cards.col-3 .cards-grid {
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 24px;
+  }
+
+  .cards.col-3 .cards-grid > .card {
+    grid-column: span 1;
+  }
+}
+
+@media (width >= 1200px) {
+  .cards .cards-tagline h2 {
+    font-size: 3.9rem;
+  }
+
+  .cards.col-3.top .cards-grid {
+    padding-top: 80px;
+  }
+}
+
+@media (width >= 1440px) {
+  .cards .cards-grid {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+}
+
+@media (width >= 1600px) {
+  .cards .cards-tagline h2 {
+    font-size: 4.7rem;
+  }
+
+  .cards .cards-tagline h3 {
+    font-size: 3.4rem;
+  }
+}
+
+/*
+ * simple-text sections with an authored <h2> (default content + section metadata
+ * `Style: simple-text[, dark]`). The base section rules ship INTERIM in blocks/hero/hero.css;
+ * this adds the heading ramp and the one-section dark band (64px top and bottom). Moves to
+ * styles/styles.css at C-final (stardust/rollout/foundation-requests.md).
+ */
+main > .section.simple-text.dark:not(.headline, .body) {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+main > .section.simple-text h2 {
+  max-width: 100%;
+  margin-bottom: 48px;
+  font-size: 2.4rem;
+  line-height: 120%;
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text h2 {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+@media (width >= 1200px) {
+  main > .section.simple-text h2 {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  main > .section.simple-text h2 {
+    font-size: 4.7rem;
+  }
+}
+
+/*
+ * simple-text section variants for the program siblings (INTERIM, same queue as above —
+ * stardust/rollout/foundation-requests.md): `no-top` / `no-bottom` drop the source module's
+ * missing top / bottom margin (light) or band padding (dark); `lead` = the source's no-heading
+ * display line authored as the section's first paragraph; inner h3 ramp of the source richtext.
+ * Kept identical in blocks/cards/cards.css and blocks/form-block/form-block.css (one of the two
+ * loads on every program page).
+ */
+main > .section.section.simple-text.light.no-top {
+  margin-top: 0;
+}
+
+main > .section.section.simple-text.light.no-bottom {
+  margin-bottom: 0;
+}
+
+main > .section.section.simple-text.dark.no-top {
+  padding-top: 0;
+}
+
+main > .section.section.simple-text.dark.no-bottom {
+  padding-bottom: 0;
+}
+
+main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+main > .section.simple-text h2 {
+  max-width: 100%;
+  margin-bottom: 48px;
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+/* the source richtext list (.richtext ul/ol): 27px indent, 16px item rhythm, blue 8px dot */
+main > .section.simple-text .default-content-wrapper :is(ul, ol) {
+  padding-left: 27px;
+  text-align: left;
+}
+
+main > .section.simple-text .default-content-wrapper li {
+  position: relative;
+  margin-top: 16px;
+}
+
+main > .section.simple-text .default-content-wrapper ul > li::before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: -24px;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--blue);
+}
+
+main > .section.simple-text .default-content-wrapper ol {
+  list-style: decimal;
+}
+
+/* the source SimpleText button row (simple-text__btn): 64px above, light outline on dark */
+main > .section.simple-text .default-content-wrapper > p.button-wrapper,
+main > .section.simple-text .default-content-wrapper > p.link-only:last-child {
+  margin-top: 64px;
+}
+
+main > .section.simple-text.dark a.button.secondary:any-link {
+  box-shadow: inset 0 0 0 2px var(--white);
+  color: var(--white);
+}
+
+/* the source has no b/strong rule: bold is `bolder` of the 300 body = 400 (canon sets 700) */
+main > .section.simple-text :is(strong, b) {
+  font-weight: 400;
+}
+
+main > .section.simple-text .default-content-wrapper h3 {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+@media (width >= 768px) {
+  main > .section.simple-text .default-content-wrapper h3 {
+    font-size: 2.4rem;
+  }
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+  main > .section.simple-text h2 {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+@media (width >= 1200px) {
+  main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+  main > .section.simple-text h2 {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+  main > .section.simple-text h2 {
+    font-size: 4.7rem;
+  }
+
+  main > .section.simple-text .default-content-wrapper h3 {
+    font-size: 3.4rem;
+  }
+}
+
+/* source module margins (cards-block top-margin / bottom-margin) on the grid */
+/* stylelint-disable no-descending-specificity -- margin variants, independent properties */
+.cards.top:not(.col-3) .cards-grid {
+  padding-top: 40px;
+}
+
+.cards.bottom .cards-grid {
+  padding-bottom: 40px;
+}
+
+@media (width >= 768px) {
+  .cards.top:not(.col-3) .cards-grid {
+    padding-top: 64px;
+  }
+
+  .cards.bottom .cards-grid {
+    padding-bottom: 64px;
+  }
+}
+
+@media (width >= 1200px) {
+  .cards.top:not(.col-3) .cards-grid {
+    padding-top: 80px;
+  }
+
+  .cards.bottom .cards-grid {
+    padding-bottom: 80px;
+  }
+}
+/* stylelint-enable no-descending-specificity */
+
+/* stylelint-disable no-descending-specificity -- list / interim overrides below, scoped per block */
+
+/* card text lists: the source richtext list inside a card — its items are <li><p>, so they
+   take the card copy's type (1.4rem / 140 % below 768) */
+.cards .card-txt ul {
+  padding-left: 27px;
+  text-align: left;
+}
+
+.cards .card-txt :is(ul, ol) {
+  font-size: 1.4rem;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  hyphens: auto;
+}
+
+@media (width >= 768px) {
+  .cards .card-txt :is(ul, ol) {
+    font-size: 1.6rem;
+    line-height: 150%;
+  }
+}
+
+.cards .card-txt li {
+  position: relative;
+  margin-top: 16px;
+}
+
+/* source .card__info-txt li:first-child */
+.cards .card-txt li:first-child {
+  margin-top: 0;
+}
+
+.cards .card-txt ul > li::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: -24px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--blue);
+}
+
+@media (width < 768px) {
+  .cards .card-txt ul > li::before {
+    top: 6px;
+  }
+}
+
+/*
+ * INTERIM overrides for the reused mixed-media block (owner: case-study; request queued in
+ * stardust/rollout/foundation-requests.md — move into blocks/mixed-media at C-final):
+ * an <h3> title takes the source's h3 ramp (2 / 2.4 / 3.4rem), `italic` slants the title
+ * (source mixed-media__info-title--italic), `dark` is the navy band (source mixed-media--dark).
+ */
+main .mixed-media .mixed-media-info-title h3 {
+  font-size: 2rem;
+  line-height: 120%;
+}
+
+main .mixed-media.italic .mixed-media-info-title :is(h1, h2, h3) {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+main .mixed-media.dark {
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+main .mixed-media .mixed-media-info-txt ul {
+  padding-left: 27px;
+}
+
+main .mixed-media .mixed-media-info-txt li {
+  position: relative;
+  margin-top: 16px;
+}
+
+main .mixed-media .mixed-media-info-txt ul > li::before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: -24px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--blue);
+}
+
+@media (width >= 768px) {
+  main .mixed-media .mixed-media-info-title h3 {
+    font-size: 2.4rem;
+  }
+
+  main .mixed-media.dark {
+    padding-top: 64px;
+  }
+}
+
+@media (width >= 1200px) {
+  main .mixed-media.dark {
+    padding-top: 80px;
+  }
+}
+
+@media (width >= 1600px) {
+  main .mixed-media .mixed-media-info-title h3 {
+    font-size: 3.4rem;
+  }
+}
+
+/*
+ * speakers — event speaker cards (source card--col-3 card--dark card--icon with a billhead
+ * image, en/connect): copy left, name centred under the portrait (left 768–1023 where the
+ * card runs as a row), 24px before the copy, source weights (300 copy, UA `bolder` <strong>).
+ */
+.cards.speakers .card {
+  text-align: left;
+}
+
+.cards.speakers .card-title {
+  text-align: center;
+}
+
+.cards.speakers .card-txt {
+  padding-top: 24px;
+}
+
+.cards.speakers .card-txt p {
+  font-weight: 300;
+}
+
+.cards.speakers .card-txt :is(b, strong) {
+  font-weight: bolder;
+}
+
+@media (width >= 768px) {
+  .cards.speakers .card-info {
+    padding: 0 32px;
+  }
+
+  .cards.speakers .card-title {
+    text-align: left;
+  }
+}
+
+@media (width >= 1024px) {
+  .cards.speakers .card-info {
+    padding: 0;
+  }
+
+  .cards.speakers .card-title {
+    text-align: center;
+  }
+}
+
+/* source col--2.col--aligned: an odd last card is centred (grid-column-end: -2) */
+@media (width >= 1024px) {
+  .cards:not(.col-3) .cards-grid > .card:last-child:nth-of-type(odd) {
+    grid-column-end: -2;
+  }
+}
+
+/* flush (landing cert cards): no row gap between the tagline and the cards */
+.cards.flush .cards-grid {
+  row-gap: 0;
+}
+
+/* the source has no b/strong rule: bold inside the 300 card text is `bolder` = 400 */
+.cards .card-txt :is(strong, b),
+main .mixed-media .mixed-media-info-txt :is(strong, b) {
+  font-weight: 400;
+}
+
+/* an image inside the card text (source richtext image): full card width */
+.cards .card-txt img {
+  display: block;
+  width: 100%;
+  height: auto;
 }

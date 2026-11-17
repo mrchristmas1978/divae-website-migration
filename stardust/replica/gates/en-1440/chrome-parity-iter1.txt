@@ -1,0 +1,47 @@
+[live-session] waiting to pace live navigations to www.diva-e.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://www.diva-e.com/en/
+  build: http://localhost:8791/en-proposed.html
+
+■ header: 11 delta(s) — 10 paired of 10/10 texts, 2/2 icons
+  PAIR         "Services"  fontWeight 300 → 400; Δx +9px (230→239)
+  PAIR         "Marketplace"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx +9px (324→333); Δw -8px (127→119)
+  PAIR         "Industries"  fontWeight 300 → 400; Δw -3px (104→101)
+  PAIR         "Partners"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -2px (555→553); Δw -6px (98→92)
+  PAIR         "About us"  fontWeight 300 → 400; Δx -7px (653→646); Δw -3px (98→95)
+  PAIR         "Insights"  fontWeight 300 → 400; Δx -9px (750→741); Δw -2px (89→87)
+  PAIR         "Careers"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -11px (839→828); Δw -2px (91→89)
+  PAIR         "de"  Δx -13px (1030→1017); Δw +2px (28→30)
+  PAIR         "en"  Δx -11px (1058→1047)
+  PAIR         "Contacts"  tag <a> → <span>; fontWeight 300 → 400; lineHeight 30px → 24px; letterSpacing 0.4px → normal; paddingRight 16px → 0px; paddingLeft 16px → 0px; borderRadius 50px → 0px; Δx +10px (1115→1125); Δy +12px (40→52); Δw -40px (103→63); Δh -24px (48→24)
+  ICON         "Open search"  icon #1 near "Open search": signature "viewBox=0 0 32 33 paths=1" → "search.svg"
+
+■ footer: 26 delta(s) — 22 paired of 22/22 texts, 3/3 icons
+  REGION BOX   Δy +124px (6761→6885)
+  PAIR         "Adobe Experience Cloud"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δy +124px (6809→6933); Δw -10px (187→177)
+  PAIR         "Paid Advertising"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δy +124px (6839→6963); Δw -10px (125→115)
+  PAIR         "Application Management"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δy +124px (6869→6993); Δw -14px (190→176)
+  PAIR         "CDP"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δy +124px (6899→7023)
+  PAIR         "CMS"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δy +124px (6929→7053)
+  PAIR         "Content"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δy +124px (6959→7083); Δw -6px (62→56)
+  PAIR         "Data Analysis"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -3px (609→606); Δy +124px (6809→6933); Δw -6px (103→97)
+  PAIR         "Online Marketing"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -3px (609→606); Δy +124px (6839→6963); Δw -9px (130→121)
+  PAIR         "OneProSeo"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -3px (609→606); Δy +124px (6869→6993)
+  PAIR         "PIM"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -3px (609→606); Δy +124px (6899→7023); Δw -2px (30→28)
+  PAIR         "Monitor Reporting"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -3px (609→606); Δy +124px (6929→7053); Δw -13px (140→127)
+  PAIR         "SAP"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -3px (609→606); Δy +124px (6959→7083)
+  PAIR         "SEO"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -6px (993→987); Δy +124px (6809→6933); Δw +2px (32→34)
+  PAIR         "Salesforce"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -6px (993→987); Δy +124px (6839→6963); Δw -4px (80→76)
+  PAIR         "AI"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -6px (993→987); Δy +124px (6869→6993)
+  PAIR         "UX"  fontWeight 300 → 400; letterSpacing 0.4px → normal; Δx -6px (993→987); Δy +124px (6899→7023)
+  PAIR         "diva-e © 2026"  Δy +119px (7051→7170); Δh +10px (20→30)
+  PAIR         "Imprint"  fontFamily inter → gt planar vf; fontWeight 300 → 400; letterSpacing 0.28px → normal; Δx +20px (307→327); Δy +127px (7051→7178); Δw -4px (47→43)
+  PAIR         "Data protection"  fontFamily inter → gt planar vf; fontWeight 300 → 400; letterSpacing 0.28px → normal; Δx +35px (387→422); Δy +127px (7051→7178); Δw -11px (106→95)
+  PAIR         "Jobs"  fontFamily inter → gt planar vf; fontWeight 300 → 400; letterSpacing 0.28px → normal; Δx +45px (524→569); Δy +127px (7051→7178); Δw -3px (33→30)
+  PAIR         "Whistleblower system"  fontFamily inter → gt planar vf; fontWeight 300 → 400; letterSpacing 0.28px → normal; Δx +62px (589→651); Δy +127px (7051→7178); Δw -14px (149→135)
+  PAIR         "Subscribe to diva-e newsletter!"  fontSize 14px → 20px; lineHeight 19.6px → 30px; Δx -91px (907→816); Δy +123px (7051→7174); Δw +91px (214→305); Δh +2px (20→22); <a> box 214×20 → 305×30
+  ICON         "Go to diva-e instagram"  icon #0 near "Go to diva-e instagram": Δh -13px (29→16); signature "viewBox=0 0 29 29 paths=1" → "instagram.svg"
+  ICON         "Go to diva-e youtube"  icon #1 near "Go to diva-e youtube": Δh -13px (29→16); signature "viewBox=0 0 29 29 paths=1" → "youtube.svg"
+  ICON         "Go to diva-e linkedin"  icon #2 near "Go to diva-e linkedin": Δh -13px (29→16); signature "viewBox=0 0 29 29 paths=1" → "linkedin.svg"
+
+✗ 37 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

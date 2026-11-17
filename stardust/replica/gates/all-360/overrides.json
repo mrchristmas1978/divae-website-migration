@@ -1,0 +1,127 @@
+{
+ "index": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay loop of the same authored set): only HIDDEN links inside the variable region failed — origin 12 visible + 4 edge-clipped; served 12 visible + 4 edge-clipped; origin-visible items not visible served at this instant: 1; origin items absent from the served region: 3; the origin's own edge-clipped copies are not counted (gate-all 360 fix round)",
+  "at": "2026-11-14"
+ },
+ "en-connect": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay loop of the same authored set): only HIDDEN links inside the variable region failed — origin 6 visible + 2 edge-clipped; served 6 visible + 2 edge-clipped; origin-visible items not visible served at this instant: 0; origin items absent from the served region: 0; the origin's own edge-clipped copies are not counted (gate-all 360 fix round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay loop of the same authored set): only HIDDEN links inside the variable region failed — origin 14 visible + 2 edge-clipped; served 12 visible + 4 edge-clipped; origin-visible items not visible served at this instant: 3; origin items absent from the served region: 3; the origin's own edge-clipped copies are not counted (gate-all 360 fix round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-sma": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay loop of the same authored set): only HIDDEN links inside the variable region failed — origin 4 visible + 0 edge-clipped; served 4 visible + 2 edge-clipped; origin-visible items not visible served at this instant: 1; origin items absent from the served region: 0; the origin's own edge-clipped copies are not counted (gate-all 360 fix round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-wilo": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay loop of the same authored set): only HIDDEN links inside the variable region failed — origin 2 visible + 1 edge-clipped; served 3 visible + 1 edge-clipped; origin-visible items not visible served at this instant: 0; origin items absent from the served region: 0; the origin's own edge-clipped copies are not counted (gate-all 360 fix round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-unitymedia": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay loop of the same authored set): only HIDDEN links inside the variable region failed — origin 1 visible + 2 edge-clipped; served 2 visible + 2 edge-clipped; origin-visible items not visible served at this instant: 0; origin items absent from the served region: 0; the origin's own edge-clipped copies are not counted (gate-all 360 fix round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-seat": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay loop of the same authored set): only HIDDEN links inside the variable region failed — origin 1 visible + 1 edge-clipped; served 2 visible + 1 edge-clipped; origin-visible items not visible served at this instant: 0; origin items absent from the served region: 0; the origin's own edge-clipped copies are not counted (gate-all 360 fix round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-multivac": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay loop of the same authored set): only HIDDEN links inside the variable region failed — origin 2 visible + 1 edge-clipped; served 2 visible + 2 edge-clipped; origin-visible items not visible served at this instant: 1; origin items absent from the served region: 1; the origin's own edge-clipped copies are not counted (gate-all 360 fix round)",
+  "at": "2026-11-14"
+ },
+ "en": {
+  "verdict": "marquee-phase",
+  "reason": "content: only HIDDEN links inside the presence.json variable partners-bar marquee (origin 12 visible + 4 edge-clipped; served 12 visible + 8 edge-clipped). units: instrument artefact — the origin side of all-360/en/units.json is the cached 1440 measurement (origin docH 7139 = the 1440 page, cached 2026-11-13T11:18; the 360 origin is 8270 px), so every 360 card reads off by the 1440 grid; pixel 2.1 % Δh -1",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-best4tires": {
+  "verdict": "heading-split",
+  "reason": "MISSING HEADING is a #87 granularity false-red: origin h2 'Managing Complexity with a User-' + squiggle span 'Centric' reads 'user- centric'; the served h2 'managing complexity with a user-centric approach' is visible; pixel 9.17 %",
+  "at": "2026-11-14"
+ },
+ "en-insights-edge-cypress-playwright-selenium": {
+  "verdict": "source-overflow",
+  "reason": "R-04: the source page overflows the 360 viewport (measure.mjs: cypress scrollWidth 1519, agentic 824) so its text runs on a wider column and the page is shorter; the served page keeps the viewport width (no overflow) — the pixel/height delta is the source defect, clip 0, content 0 missing/hidden",
+  "at": "2026-11-14"
+ },
+ "en-insights-edge-agentic-ai-unternehmen-ki-agenten": {
+  "verdict": "source-overflow",
+  "reason": "R-04: the source page overflows the 360 viewport (measure.mjs: cypress scrollWidth 1519, agentic 824) so its text runs on a wider column and the page is shorter; the served page keeps the viewport width (no overflow) — the pixel/height delta is the source defect, clip 0, content 0 missing/hidden",
+  "at": "2026-11-14"
+ },
+ "en-about-us-partner": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 6 visible + 4 edge-clipped; served 6 visible + 2 edge-clipped — same logo/tag set, other phase (gate-all 360 final round)",
+  "at": "2026-11-14"
+ },
+ "en-services-ams": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 3 visible + 1 edge-clipped; served 3 visible + 2 edge-clipped — same logo/tag set, other phase (gate-all 360 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-doerrenberg": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 2 visible + 0 edge-clipped; served 1 visible + 1 edge-clipped — same logo/tag set, other phase (gate-all 360 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-medi": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 2 visible + 0 edge-clipped; served 1 visible + 2 edge-clipped — same logo/tag set, other phase (gate-all 360 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-baby-walz": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 5 visible + 1 edge-clipped; served 4 visible + 2 edge-clipped — same logo/tag set, other phase (gate-all 360 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-vwfs": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 1 visible + 1 edge-clipped; served 1 visible + 1 edge-clipped — same logo/tag set, other phase (gate-all 360 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-terra-canis": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 2 visible + 0 edge-clipped; served 2 visible + 1 edge-clipped — same logo/tag set, other phase (gate-all 360 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-siemens": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 1 visible + 2 edge-clipped; served 2 visible + 1 edge-clipped — same logo/tag set, other phase (gate-all 360 final round)",
+  "at": "2026-11-14"
+ },
+ "en-about-us-customers-postbank": {
+  "verdict": "marquee-phase",
+  "reason": "presence.json session-variable marquee (Swiper autoplay): only HIDDEN links inside the variable region failed; origin 1 visible + 1 edge-clipped; served 1 visible + 1 edge-clipped — same logo/tag set, other phase (gate-all 360 final round)",
+  "at": "2026-11-14"
+ },
+ "en-campaigns-next-gen-crm-pharma": {
+  "verdict": "font-substitution",
+  "reason": "R-03 licensed heading face (GT Planar VF) substituted: heading wraps differ at 360 (hero h1, section heads), text % 16.5 of the 11.54 %; plus the source renders each icon card's copy as an authored table in a white box clipped to one line (source quirk, not replicated — the served card shows the full copy). Real defects fixed this round (h3 headline row 48px, cards tagline h3 ramp: 14.37 → 11.54 %, 1440 6.23 → 2.71 %). clip 0, content 0 missing/hidden, 1440 PASS",
+  "at": "2026-11-14"
+ },
+ "en-insights-events": {
+  "verdict": "font-substitution",
+  "reason": "R-03 licensed heading face substituted: the 40+ event-card titles render in the metric substitute (text % 12.79 of the 10.36 %), Δh 4; clip 0, content 0 missing/hidden; 1440 1.48 % PASS",
+  "at": "2026-11-14"
+ },
+ "en-insights-edge-ifm-ai-product-advisor": {
+  "verdict": "font-substitution",
+  "reason": "R-03 licensed heading face substituted: wrap drift on the article heads and slider cards (text % 15.47 of the 10.49 %), Δh -52 (0.4 %); clip 0, content 0 missing/hidden; 1440 0.8 % PASS; quote padding fixed in the previous round (11.28 → 10.49 %)",
+  "at": "2026-11-14"
+ },
+ "en-insights-edge-vendor-lab-day": {
+  "verdict": "font-substitution",
+  "reason": "R-03 licensed heading face substituted: cumulative wrap drift over a 14 440 px article (text % 15.32 of the 10.37 %; every band 6-9 % until the author card / recommended-reads rail shifted by the drift), Δh 99 (0.7 %); clip 0, content 0 missing/hidden; 1440 6.8 % PASS",
+  "at": "2026-11-14"
+ }
+}

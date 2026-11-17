@@ -1,87 +1,102 @@
 /*
- * Copyright 2020 Adobe. All rights reserved.
- * This file is licensed to you under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License. You may obtain a copy
- * of the License at http://www.apache.org/licenses/LICENSE-2.0
+ * diva-e replica foundation — lifted from stardust/prototypes/canon.css (sections 1-5),
+ * on top of the boilerplate's structural layer (body gate, chrome reservation, sections).
  *
- * Unless required by applicable law or agreed to in writing, software distributed under
- * the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR REPRESENTATIONS
- * OF ANY KIND, either express or implied. See the License for the specific language
- * governing permissions and limitations under the License.
+ * FONT LICENSING: "GT Planar VF" (display face, GrilliType) is licensed commercial type.
+ * It is NOT hosted by this project. --font-display keeps it first so a licensed drop-in
+ * wins; every visitor otherwise renders the Helvetica-class metric substitute
+ * (Liberation Sans / Arimo / Helvetica / Arial). Inter (body) is SIL OFL 1.1, self-hosted.
  */
 
+/* 1 · tokens ------------------------------------------------------------- */
 :root {
-  /* colors */
-  --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  --navy: #081235;
+  --ink-light: #edf0fb;
+  --blue: #1b31ff;
+  --white: #fff;
+  --grey: #cfd3e1;
+  --grey-text: #6b7186;
+  --card-light: #f3f6ff;
+  --card-dark: #141e3f;
+  --hairline: rgb(8 18 53 / 10%);
+  --font-display: "GT Planar VF", "Liberation Sans", arimo, helvetica, arial, sans-serif;
+  --font-body: inter, inter-fallback, sans-serif;
+  --gutter: 24px;
+  --pad-x: 24px;
+  --radius-card: 12px;
+  --ease: 0.25s ease-in-out;
 
-  /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
+  /* sizing model (DESIGN.json extensions.breakpoints: module caps only, no shell cap) */
+  --max-width: 1040px;
 
-  /* body sizes */
-  --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
-  --body-font-size-xs: 17px;
+  /* chrome is an overlay (fixed header over the first section): no in-flow reservation */
+  --nav-height: 0;
 
-  /* heading sizes */
-  --heading-font-size-xxl: 55px;
-  --heading-font-size-xl: 44px;
-  --heading-font-size-l: 34px;
-  --heading-font-size-m: 27px;
-  --heading-font-size-s: 24px;
-  --heading-font-size-xs: 22px;
-
-  /* nav height */
-  --nav-height: 64px;
+  /* boilerplate aliases, kept so stock blocks resolve every token */
+  --background-color: var(--ink-light);
+  --light-color: var(--card-light);
+  --dark-color: var(--card-dark);
+  --text-color: var(--navy);
+  --link-color: var(--navy);
+  --link-hover-color: var(--blue);
+  --body-font-family: var(--font-body);
+  --heading-font-family: var(--font-display);
 }
 
-/* fallback fonts */
-@font-face {
-  font-family: roboto-condensed-fallback;
-  size-adjust: 88.82%;
-  src: local('Arial');
-}
-
-@font-face {
-  font-family: roboto-fallback;
-  size-adjust: 99.529%;
-  src: local('Arial');
-}
-
-@media (width >= 900px) {
+@media (width >= 768px) {
   :root {
-    /* body sizes */
-    --body-font-size-m: 18px;
-    --body-font-size-s: 16px;
-    --body-font-size-xs: 14px;
-
-    /* heading sizes */
-    --heading-font-size-xxl: 45px;
-    --heading-font-size-xl: 36px;
-    --heading-font-size-l: 28px;
-    --heading-font-size-m: 22px;
-    --heading-font-size-s: 20px;
-    --heading-font-size-xs: 18px;
+    --pad-x: 64px;
   }
+}
+
+/* metric-matched first-paint stand-in for Inter (fonts.css lands after first paint);
+   size-adjust from a width probe (Inter 300 vs Arial, same string), ascent/descent
+   are the source's own Inter overrides (90% / 22%) divided by it */
+@font-face {
+  font-family: inter-fallback;
+  src: local("Arial"), local("Liberation Sans"), local("Arimo");
+  size-adjust: 105.56%;
+  ascent-override: 85.26%;
+  descent-override: 20.84%;
+  line-gap-override: 0%;
+}
+
+/* 2 · structural layer (boilerplate) -------------------------------------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  font-synthesis-style: none;
 }
 
 body {
   display: none;
   margin: 0;
-  background-color: var(--background-color);
-  color: var(--text-color);
-  font-family: var(--body-font-family);
-  font-size: var(--body-font-size-m);
-  line-height: 1.6;
+  background-color: var(--ink-light);
+  color: var(--navy);
+  font-family: var(--font-body);
+  font-size: 1.6rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  overflow-x: hidden;
 }
 
 body.appear {
   display: block;
+}
+
+@media (width >= 768px) {
+  body {
+    font-size: 2rem;
+  }
 }
 
 header {
@@ -98,97 +113,448 @@ footer .footer[data-block-status="loaded"] {
   visibility: visible;
 }
 
+main {
+  display: block;
+  overflow-x: clip;
+}
+
+/* sections are full-bleed module bands: every block owns its own grid and caps */
+main > .section {
+  margin: 0;
+  padding: 0;
+}
+
+main > .section > div {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* prose sections (no block) hold the measured module cap; blocks own their own caps */
+main > .section > .default-content-wrapper {
+  width: calc(100% - 2 * var(--pad-x));
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* 3 · base + type --------------------------------------------------------- */
 h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
-  margin-top: 0.8em;
-  margin-bottom: 0.25em;
-  font-family: var(--heading-font-family);
-  font-weight: 600;
-  line-height: 1.25;
-  scroll-margin: 40px;
-}
-
-h1 { font-size: var(--heading-font-size-xxl); }
-h2 { font-size: var(--heading-font-size-xl); }
-h3 { font-size: var(--heading-font-size-l); }
-h4 { font-size: var(--heading-font-size-m); }
-h5 { font-size: var(--heading-font-size-s); }
-h6 { font-size: var(--heading-font-size-xs); }
-
+h6,
 p,
-dl,
-ol,
 ul,
-pre,
-blockquote {
-  margin-top: 0.8em;
-  margin-bottom: 0.25em;
+ol,
+figure {
+  margin: 0;
+  padding: 0;
 }
 
-code,
-pre {
-  font-size: var(--body-font-size-s);
+h1,
+h2,
+h3,
+h4,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.btn,
+.button {
+  font-variation-settings: "slnt" 0;
 }
 
-pre {
-  padding: 16px;
-  border-radius: 8px;
-  background-color: var(--light-color);
-  overflow-x: auto;
-  white-space: pre;
+.slant,
+.btn:hover:not(.btn-link) {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
 }
 
-main > div {
-  margin: 40px 16px;
+ul,
+ol {
+  list-style: none;
 }
 
-input,
-textarea,
-select,
-button {
-  font: inherit;
-}
-
-/* links */
-a:any-link {
-  color: var(--link-color);
+a {
+  color: inherit;
   text-decoration: none;
-  overflow-wrap: break-word;
 }
 
-a:hover {
-  color: var(--link-hover-color);
+/* inline like the source (its reset has no display:block — the descender gap under
+   inline media is part of the measured geometry); height:auto keeps the EDS width/height
+   attributes from stretching (#36) */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: var(--font-body);
+  font-weight: 300;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--navy);
+  cursor: pointer;
+}
+
+fieldset {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+::selection {
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+h1,
+.h1 {
+  font-family: var(--font-display);
+  font-size: 3.6rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 110%;
+  hyphens: auto;
+}
+
+h2,
+.h2 {
+  font-family: var(--font-display);
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 110%;
+  hyphens: auto;
+}
+
+h3,
+.h3 {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+h4,
+.h4 {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 140%;
+  hyphens: auto;
+}
+
+h5,
+h6,
+.h5 {
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 130%;
+  hyphens: auto;
+}
+
+@media (width >= 1200px) {
+  h1,
+  .h1 {
+    font-size: 6.5rem;
+  }
+
+  h2,
+  .h2 {
+    font-size: 5.7rem;
+  }
+
+  h3,
+  .h3 {
+    font-size: 3.9rem;
+  }
+
+  h4,
+  .h4 {
+    font-size: 3.4rem;
+  }
+
+  h5,
+  h6,
+  .h5 {
+    font-size: 2.4rem;
+  }
+}
+
+@media (width >= 1600px) {
+  h1,
+  .h1 {
+    font-size: 8.1rem;
+  }
+
+  h2,
+  .h2 {
+    font-size: 6.7rem;
+  }
+
+  h3,
+  .h3 {
+    font-size: 4.7rem;
+  }
+}
+
+/* the source's "section h2" ramp (simple-text, cards tagline, sliders, form) */
+.h-section {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+@media (width >= 1200px) {
+  .h-section {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  .h-section {
+    font-size: 4.7rem;
+  }
+}
+
+h1 u,
+h2 u,
+h3 u,
+h4 u,
+.h-section u {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+  text-decoration-color: var(--blue);
+}
+
+.h-section u,
+h2.h-section u {
+  padding-bottom: 5px;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 6px;
+}
+
+@media (width >= 1200px) {
+  .h-section u {
+    text-decoration-thickness: 6px;
+    text-underline-offset: 10px;
+  }
+}
+
+p {
+  font-size: 1.6rem;
+  line-height: 150%;
+}
+
+@media (width >= 768px) {
+  p {
+    font-size: 1.8rem;
+  }
+}
+
+@media (width >= 1200px) {
+  p {
+    font-size: 2rem;
+  }
+}
+
+p a {
+  color: inherit;
   text-decoration: underline;
+  text-decoration-color: var(--blue);
+  text-underline-offset: 1px;
+  text-underline-position: under;
 }
 
-/* buttons */
-p.button-wrapper {
-  margin: 12px 0;
+/* stylelint-disable-next-line no-descending-specificity */
+p u {
+  text-decoration-color: var(--blue);
 }
 
+b,
+strong {
+  font-weight: 700;
+}
+
+.text-xxsmall {
+  font-family: var(--font-body);
+  font-size: 1.4rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+}
+
+.dot-blur {
+  display: inline-flex;
+  align-items: center;
+}
+
+.dot-blur::before {
+  content: "";
+  width: 16px;
+  height: 16px;
+  margin-right: 16px;
+  padding-right: 16px;
+  border-radius: 100%;
+  background: var(--blue);
+  filter: blur(4px);
+}
+
+/* 4 · grid (12 columns ≥768, 4 below; 24px gutter; 24/64px side padding) --
+   n-of-N width = n*100%/N − (N−n)*24px/N, exactly the source's calc. */
+.wrap {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 var(--pad-x);
+}
+
+.col-10 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media (width >= 768px) {
+  .col-10 {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+}
+
+/* 5 · buttons: canon .btn and the EDS convention (strong = primary/fill,
+   em = secondary/outline, strong+em = accent/link) share one declaration set */
+/* stylelint-disable-next-line no-descending-specificity */
+.btn,
 a.button:any-link,
 button.button {
-  box-sizing: border-box;
+  position: relative;
+  z-index: 0;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  max-width: 100%;
+  min-height: 64px;
   margin: 0;
-  border: 2px solid transparent;
-  border-radius: 2.4em;
-  padding: 0.5em 1.2em;
-  font: inherit;
-  font-weight: 500;
-  line-height: 1.25;
+  padding: 4px 40px;
+  border: 0;
+  border-radius: 50px;
+  box-shadow: inset 0 0 0 2px var(--navy);
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-size: 20px;
+  text-align: center;
   text-decoration: none;
   cursor: pointer;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  transition: var(--ease);
+}
+
+a.button:any-link:hover,
+button.button:hover {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.btn span {
+  pointer-events: none;
+  transition: transform var(--ease);
+}
+
+.btn-md {
+  min-height: 48px;
+  padding: 4px 28px;
+  font-size: 16px;
+}
+
+.btn-sm {
+  min-height: 42px;
+  padding: 4px 20px;
+  font-size: 14px;
+}
+
+@media (width >= 768px) {
+  .btn-md {
+    min-height: 64px;
+    padding: 4px 40px;
+    font-size: 20px;
+  }
+
+  .btn-sm {
+    min-height: 48px;
+    padding: 4px 28px;
+    font-size: 16px;
+  }
+}
+
+.btn-fill,
+a.button.primary,
+button.button.primary {
+  box-shadow: inset 0 0 0 2px transparent;
+  color: var(--white);
+}
+
+.btn-fill::before,
+a.button.primary::before,
+button.button.primary::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: 50px;
+  background-color: var(--blue);
+  transition: var(--ease);
+}
+
+.btn-fill:hover::before,
+a.button.primary:hover::before,
+button.button.primary:hover::before {
+  filter: blur(4px);
+}
+
+.btn-link,
+a.button.accent {
+  height: auto;
+  min-height: auto;
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none !important;
+  text-decoration: underline;
+  text-decoration-color: var(--blue);
+  text-underline-offset: 1px;
+  text-underline-position: under;
+}
+
+.btn-link:hover {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.btn-menu {
+  height: 48px;
+  min-height: 48px;
+  padding: 0 16px;
+  font-size: 16px;
+}
+
+p.button-wrapper {
+  margin: 0;
 }
 
 a.button[aria-disabled="true"],
@@ -197,129 +563,373 @@ button.button:disabled {
   pointer-events: none;
 }
 
-a.button.primary,
-button.button.primary {
-  border-color: var(--text-color);
-  background-color: var(--text-color);
-  color: var(--background-color);
+/* site-wide custom cursor (observed live: div.circle follows the pointer ≥768, blurs
+   over interactive targets, hides over embeds) — mounted by the header block */
+.cursor-circle {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  display: none;
+  width: 20px;
+  height: 20px;
+  margin: -20px 0 0 -20px;
+  border-radius: 50%;
+  background: var(--blue);
+  pointer-events: none;
+  transition: width 0.3s, height 0.3s, margin 0.3s, transform 0.15s ease-out;
 }
 
-a.button.primary:hover,
-a.button.primary:focus-visible,
-button.button.primary:hover,
-button.button.primary:focus-visible {
-  border-color: var(--dark-color);
-  background-color: var(--dark-color);
-  color: var(--light-color);
+.cursor-circle::before {
+  content: "";
+  opacity: 0;
 }
 
-a.button.primary[aria-disabled="true"],
-a.button.primary[aria-disabled="true"]:hover,
-a.button.primary[aria-disabled="true"]:focus-visible,
-button.button.primary:disabled,
-button.button.primary:disabled:hover,
-button.button.primary:disabled:focus-visible {
-  background-color: var(--light-color);
-  border-color: var(--light-color);
-  color: var(--dark-color);
+.cursor-circle::after {
+  content: "";
+  display: block;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  margin-top: -1px;
+  margin-left: -1px;
+  border-radius: 50%;
+  background: var(--blue);
 }
 
-a.button.secondary,
-button.button.secondary {
-  border-color: var(--text-color);
+.cursor-circle.cursor-blur {
+  z-index: 0;
   background-color: transparent;
-  color: var(--text-color);
 }
 
-a.button.secondary:hover,
-a.button.secondary:focus-visible,
-button.button.secondary:hover,
-button.button.secondary:focus-visible {
-  border-color: var(--dark-color);
-  background-color: var(--light-color);
-  color: var(--dark-color);
+.cursor-circle.cursor-blur::before {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--blue);
+  opacity: 1;
+  filter: blur(4px);
+  transition: transform 0.25s ease-in-out, filter 0.25s ease-in-out;
 }
 
-a.button.secondary[aria-disabled="true"],
-a.button.secondary[aria-disabled="true"]:hover,
-a.button.secondary[aria-disabled="true"]:focus-visible,
-button.button.secondary:disabled,
-button.button.secondary:disabled:hover,
-button.button.secondary:disabled:focus-visible {
-  background-color: var(--light-color);
-  border-color: var(--light-color);
-  color: var(--dark-color);
+.cursor-circle.cursor-blur::after {
+  display: none;
 }
 
-/* high-impact call-to-action */
-a.button.accent,
-button.button.accent {
-  border-color: var(--link-color);
-  background-color: var(--link-color);
-  color: var(--background-color);
+.cursor-circle.cursor-blur.blur-lg::before {
+  transform: scale(2.5);
 }
 
-a.button.accent:hover,
-a.button.accent:focus-visible,
-button.button.accent:hover,
-button.button.accent:focus-visible {
-  border-color: var(--link-hover-color);
-  background-color: var(--link-hover-color);
+.cursor-circle.cursor-hide {
+  opacity: 0;
+  visibility: hidden;
 }
 
-a.button.accent[aria-disabled="true"],
-a.button.accent[aria-disabled="true"]:hover,
-a.button.accent[aria-disabled="true"]:focus-visible,
-button.button.accent:disabled,
-button.button.accent:disabled:hover,
-button.button.accent:disabled:focus-visible {
-  background-color: var(--light-color);
-  border-color: var(--light-color);
-  color: var(--dark-color);
-}
-
-main img {
-  max-width: 100%;
-  width: auto;
-  height: auto;
-}
-
-.icon {
-  display: inline-block;
-  height: 24px;
-  width: 24px;
-}
-
-.icon img {
-  height: 100%;
-  width: 100%;
-}
-
-/* sections */
-main > .section {
-  margin: 40px 0;
-}
-
-main > .section > div {
-  max-width: 1200px;
-  margin: auto;
-  padding: 0 24px;
-}
-
-main > .section:first-of-type {
-  margin-top: 0;
-}
-
-@media (width >= 900px) {
-  main > .section > div {
-    padding: 0 32px;
+@media (width >= 768px) and (hover: hover) and (pointer: fine) {
+  .cursor-circle {
+    display: block;
   }
 }
 
-/* section metadata */
-main .section.light,
-main .section.highlight {
-  background-color: var(--light-color);
-  margin: 0;
-  padding: 40px 0;
+/* Experience Workspace edit mode: repaint CTAs from their authored marks */
+.prosemirror-editor p > :is(strong, em) > a:any-link,
+.prosemirror-editor p > a:any-link:has(> :is(strong, em):only-child) {
+  position: relative;
+  z-index: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 64px;
+  padding: 4px 40px;
+  border-radius: 50px;
+  box-shadow: inset 0 0 0 2px var(--navy);
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.prosemirror-editor p > a:any-link > :is(strong, em) {
+  font-weight: inherit;
+  font-style: inherit;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.prosemirror-editor p > strong > a:any-link,
+.prosemirror-editor p > a:any-link:has(> strong:only-child) {
+  box-shadow: none;
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.prosemirror-editor p > em > a:any-link,
+.prosemirror-editor p > a:any-link:has(> em:only-child) {
+  box-shadow: inset 0 0 0 2px var(--navy);
+  background-color: transparent;
+  color: var(--navy);
+  font-style: normal;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+a .prosemirror-editor a:any-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* the page-metadata section is left empty once the pipeline consumes it */
+main > .section:empty {
+  display: none;
+}
+
+/* stylelint-disable no-descending-specificity -- section rules, independent properties */
+
+/*
+ * SimpleText sections (source SimpleText module, authored as default content with section
+ * metadata `Style: simple-text[, light|dark, headline|body, no-top|no-bottom, lead]`).
+ * Foundation request (archetype-static): pages without hero / cards / form-block / listing
+ * blocks never loaded the block-level copies, so the shared rules live here.
+ */
+main > .section.simple-text {
+  padding: 0 var(--pad-x);
+}
+
+main > .section.simple-text.dark {
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+main > .section.simple-text.dark.headline {
+  padding-top: 64px;
+}
+
+main > .section.simple-text.dark.body {
+  padding-bottom: 64px;
+}
+
+main > .section.simple-text.light {
+  margin: 64px 0;
+}
+
+main > .section.simple-text > .default-content-wrapper {
+  width: 100%;
+  max-width: none;
+  margin: 0 auto;
+}
+
+main > .section.simple-text.headline > .default-content-wrapper {
+  margin-bottom: 48px;
+}
+
+main > .section.simple-text.headline p {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+@media (width >= 768px) {
+  main > .section.simple-text > .default-content-wrapper {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text.headline p {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+@media (width >= 1200px) {
+  main > .section.simple-text.headline p {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  main > .section.simple-text.headline p {
+    font-size: 4.7rem;
+  }
+}
+
+
+main > .section.simple-text.dark:not(.headline, .body) {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+main > .section.simple-text h2 {
+  max-width: 100%;
+  margin-bottom: 48px;
+  font-size: 2.4rem;
+  line-height: 120%;
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text h2 {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+@media (width >= 1200px) {
+  main > .section.simple-text h2 {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  main > .section.simple-text h2 {
+    font-size: 4.7rem;
+  }
+}
+
+/*
+ * simple-text section variants for the program siblings (INTERIM, same queue as above —
+ * stardust/rollout/foundation-requests.md): `no-top` / `no-bottom` drop the source module's
+ * missing top / bottom margin (light) or band padding (dark); `lead` = the source's no-heading
+ * display line authored as the section's first paragraph; inner h3 ramp of the source richtext.
+ * Kept identical in blocks/cards/cards.css and blocks/form-block/form-block.css (one of the two
+ * loads on every program page).
+ */
+main > .section.section.simple-text.light.no-top {
+  margin-top: 0;
+}
+
+main > .section.section.simple-text.light.no-bottom {
+  margin-bottom: 0;
+}
+
+main > .section.section.simple-text.dark.no-top {
+  padding-top: 0;
+}
+
+main > .section.section.simple-text.dark.no-bottom {
+  padding-bottom: 0;
+}
+
+main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+main > .section.simple-text h2 {
+  max-width: 100%;
+  margin-bottom: 48px;
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+/* the source richtext list (.richtext ul/ol): 27px indent, 16px item rhythm, blue 8px dot */
+main > .section.simple-text .default-content-wrapper :is(ul, ol) {
+  padding-left: 27px;
+  text-align: left;
+}
+
+main > .section.simple-text .default-content-wrapper li {
+  position: relative;
+  margin-top: 16px;
+}
+
+main > .section.simple-text .default-content-wrapper ul > li::before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: -24px;
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--blue);
+}
+
+main > .section.simple-text .default-content-wrapper ol {
+  list-style: decimal;
+}
+
+/* the source SimpleText button row (simple-text__btn): 64px above, light outline on dark */
+main > .section.simple-text .default-content-wrapper > p.button-wrapper,
+main > .section.simple-text .default-content-wrapper > p.link-only:last-child {
+  margin-top: 64px;
+}
+
+main > .section.simple-text.dark a.button.secondary:any-link {
+  box-shadow: inset 0 0 0 2px var(--white);
+  color: var(--white);
+}
+
+/* the source has no b/strong rule: bold is `bolder` of the 300 body = 400 (canon sets 700) */
+main > .section.simple-text :is(strong, b) {
+  font-weight: 400;
+}
+
+main > .section.simple-text .default-content-wrapper h3 {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+@media (width >= 768px) {
+  main > .section.simple-text .default-content-wrapper h3 {
+    font-size: 2.4rem;
+  }
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+  main > .section.simple-text h2 {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+@media (width >= 1200px) {
+  main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+  main > .section.simple-text h2 {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  main > .section.simple-text.lead > .default-content-wrapper > p:first-child,
+  main > .section.simple-text h2 {
+    font-size: 4.7rem;
+  }
+
+  main > .section.simple-text .default-content-wrapper h3 {
+    font-size: 3.4rem;
+  }
+}
+
+
+/* the source spaces richtext sub-heads with an <h3><br></h3> spacer the pipeline strips */
+main > .section.simple-text .default-content-wrapper :is(p, ul, ol) + h3 {
+  margin-top: 1.2em;
+}
+
+/* `h3-head`: the source headline row carries an <h3> (simple-text__row-headline: 48px below, 7 of 10) */
+main > .section.simple-text.h3-head .default-content-wrapper > h3:first-child {
+  margin-bottom: 48px;
+}
+
+@media (width >= 950px) {
+  main > .section.simple-text.h3-head .default-content-wrapper > h3:first-child {
+    width: calc(700% / 10 - 3 * 24px / 10);
+  }
+}
+
+/* source simple-text__row-paragraph--medium (8 of 10) / --small (6 of 10) prose measure */
+@media (width >= 950px) {
+  main > .section.simple-text.medium > .default-content-wrapper > :is(p, ul, ol, h3, h4) {
+    width: calc(800% / 10 - 2 * 24px / 10);
+  }
+
+  main > .section.simple-text.small > .default-content-wrapper > :is(p, ul, ol, h3, h4) {
+    width: calc(600% / 10 - 4 * 24px / 10);
+  }
+}
+
+/* Inter ships upright only: the source renders authored emphasis in prose as (synthesised) italic */
+main :is(em, i) {
+  font-synthesis-style: auto;
 }

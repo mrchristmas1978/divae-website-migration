@@ -1,0 +1,3779 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T04:19:10.728Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/loyalty-quiz/",
+  "at": "2026-11-14T04:18:49.560Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3853,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 64,
+    "y": 33,
+    "w": 120,
+    "h": 62,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 230,
+    "y": 42,
+    "w": 94,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 324,
+    "y": 42,
+    "w": 127,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 451,
+    "y": 42,
+    "w": 104,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 555,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 653,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 750,
+    "y": 42,
+    "w": 89,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 839,
+    "y": 42,
+    "w": 91,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__icon-search > a",
+    "x": 979,
+    "y": 53,
+    "w": 23,
+    "h": 22,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li > button.header__lang-item",
+    "x": 1030,
+    "y": 51,
+    "w": 28,
+    "h": 26,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li.active > button.header__lang-item",
+    "x": 1058,
+    "y": 51,
+    "w": 29,
+    "h": 26,
+    "text": "en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__contact > a.btn-default.btn--menu",
+    "x": 1115,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > h1.hero__title",
+    "x": 145,
+    "y": 282,
+    "w": 989,
+    "h": 215,
+    "level": 1,
+    "text": "the loyalty health check: how strong is your customer loyalty program?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__description.richtext > p",
+    "x": 175,
+    "y": 536,
+    "w": 1040,
+    "h": 48,
+    "text": "Take our quiz to discover the current state of your loyalty program. We’ll help "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-wrapper > div.hero__info-container > a.hero__cta.btn",
+    "x": 175,
+    "y": 624,
+    "w": 248,
+    "h": 64,
+    "text": "take the quiz now",
+    "href": "/en/loyalty-quiz/questions/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 940,
+    "w": 43,
+    "h": 30,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 245,
+    "y": 940,
+    "w": 76,
+    "h": 30,
+    "text": "quiz start",
+    "href": "/en/loyalty-quiz/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__media-img > picture > img",
+    "x": 732,
+    "y": 1115,
+    "w": 533,
+    "h": 463,
+    "text": "illustration of a hand tapping a smartphone screen with a sp",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-txt.richtext > p",
+    "x": 175,
+    "y": 1090,
+    "w": 485,
+    "h": 240,
+    "text": "Are you already making optimal use of data and technologies or are you still at "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 202,
+    "y": 1346,
+    "w": 458,
+    "h": 30,
+    "text": "in just 5 minutes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 202,
+    "y": 1392,
+    "w": 458,
+    "h": 30,
+    "text": "for the next steps"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 202,
+    "y": 1438,
+    "w": 458,
+    "h": 30,
+    "text": "with best practices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-link > a.btn-default.btn--sm",
+    "x": 175,
+    "y": 1516,
+    "w": 131,
+    "h": 48,
+    "text": "start now",
+    "href": "/en/loyalty-quiz/questions/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 175,
+    "y": 1684,
+    "w": 755,
+    "h": 47,
+    "text": "How the Quiz Works"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 175,
+    "y": 1779,
+    "w": 1089,
+    "h": 90,
+    "text": "The quiz is divided into 3 categories and features 12 questions designed to asse"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 259,
+    "y": 1989,
+    "w": 180,
+    "h": 180,
+    "text": "platzieren einer schachfigur",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 215,
+    "y": 2193,
+    "w": 267,
+    "h": 24,
+    "text": "Strategy & Structure"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 215,
+    "y": 2241,
+    "w": 267,
+    "h": 96,
+    "text": "How well-defined and strategic is your loyalty program? Is it structured for lon"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 630,
+    "y": 1989,
+    "w": 180,
+    "h": 180,
+    "text": "zwei ovale sind miteinander verbunden und stellen eine verli",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 586,
+    "y": 2193,
+    "w": 267,
+    "h": 24,
+    "text": "Data & Technology"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 586,
+    "y": 2241,
+    "w": 267,
+    "h": 120,
+    "text": "How effectively do you leverage data and technology for personalization, automat"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__billhead > picture.card__billhead-icon > img",
+    "x": 1001,
+    "y": 1989,
+    "w": 180,
+    "h": 180,
+    "text": "doodle einer hand aus der eine pflanze wächst",
+    "file": ""
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--3 > div.card__info > div.card__info-title",
+    "x": 958,
+    "y": 2193,
+    "w": 267,
+    "h": 24,
+    "text": "Innovation & Differentiation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 958,
+    "y": 2241,
+    "w": 267,
+    "h": 96,
+    "text": "How innovative is your loyalty strategy? Do you incorporate elements like gamifi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 175,
+    "y": 2481,
+    "w": 755,
+    "h": 47,
+    "text": "More About Loyalty"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 175,
+    "y": 2576,
+    "w": 1089,
+    "h": 90,
+    "text": "Do you want to inspire your customers and foster long-term loyalty to your brand"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 175,
+    "y": 2690,
+    "w": 210,
+    "h": 64,
+    "text": "find out more",
+    "href": "/en/industries/retail/retail-loyalty/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--link",
+    "x": 409,
+    "y": 2711,
+    "w": 259,
+    "h": 22,
+    "text": "take the loyalty check now!",
+    "href": "/en/loyalty-quiz/questions/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider__header > div.teaser-slider__label > div",
+    "x": 354,
+    "y": 2914,
+    "w": 732,
+    "h": 30,
+    "text": "Our retail customer projects"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -334,
+    "y": 3074,
+    "w": 362,
+    "h": 127,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -305,
+    "y": 3068,
+    "w": 393,
+    "h": 138,
+    "text": "kitesurfer auf dem meer",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -271,
+    "y": 3062,
+    "w": 429,
+    "h": 151,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -229,
+    "y": 3054,
+    "w": 473,
+    "h": 166,
+    "text": "foto von einem mops welpen der auf einen aufgeklappten lapto",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": -29,
+    "y": 3100,
+    "w": 73,
+    "h": 73,
+    "text": "",
+    "file": "diva-e_reference-logos_350x350_fressnapf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -178,
+    "y": 3045,
+    "w": 527,
+    "h": 185,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 44,
+    "y": 3114,
+    "w": 82,
+    "h": 46,
+    "text": "logo des unternehmens babywalz",
+    "file": "babywalz_logo_900x505"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -114,
+    "y": 3033,
+    "w": 594,
+    "h": 209,
+    "text": "kitesurfer auf dem meer",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 137,
+    "y": 3101,
+    "w": 92,
+    "h": 71,
+    "text": "boards & more group logo",
+    "file": "boards_more_group_primary_logo_black_rgb"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": -32,
+    "y": 3017,
+    "w": 682,
+    "h": 239,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 79,
+    "y": 2997,
+    "w": 799,
+    "h": 281,
+    "text": "foto von einem mops welpen der auf einen aufgeklappten lapto",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 417,
+    "y": 3075,
+    "w": 124,
+    "h": 124,
+    "text": "",
+    "file": "diva-e_reference-logos_350x350_fressnapf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 237,
+    "y": 2968,
+    "w": 512,
+    "h": 339,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 419,
+    "y": 3095,
+    "w": 150,
+    "h": 84,
+    "text": "logo des unternehmens babywalz",
+    "file": "babywalz_logo_900x505"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > h4.teaser-headline",
+    "x": 781,
+    "y": 3046,
+    "w": 390,
+    "h": 48,
+    "level": 4,
+    "text": "versandhaus walz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item.teaser-slider-item--dark > div.teaser-slider-item__text > p.teaser-text",
+    "x": 781,
+    "y": 3101,
+    "w": 390,
+    "h": 54,
+    "text": "Four brands successfully brought together on a central digital commerce platform"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 561,
+    "y": 2997,
+    "w": 799,
+    "h": 281,
+    "text": "kitesurfer auf dem meer",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 899,
+    "y": 3089,
+    "w": 124,
+    "h": 96,
+    "text": "boards & more group logo",
+    "file": "boards_more_group_primary_logo_black_rgb"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 790,
+    "y": 3017,
+    "w": 682,
+    "h": 239,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 960,
+    "y": 3033,
+    "w": 594,
+    "h": 209,
+    "text": "foto von einem mops welpen der auf einen aufgeklappten lapto",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 1211,
+    "y": 3091,
+    "w": 92,
+    "h": 92,
+    "text": "",
+    "file": "diva-e_reference-logos_350x350_fressnapf"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 1091,
+    "y": 3045,
+    "w": 527,
+    "h": 185,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 1314,
+    "y": 3114,
+    "w": 82,
+    "h": 46,
+    "text": "logo des unternehmens babywalz",
+    "file": "babywalz_logo_900x505"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 1196,
+    "y": 3054,
+    "w": 473,
+    "h": 166,
+    "text": "kitesurfer auf dem meer",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image-wrapper > div.teaser-slider-item__swiper-icon > img",
+    "x": 1396,
+    "y": 3109,
+    "w": 73,
+    "h": 57,
+    "text": "boards & more group logo",
+    "file": "boards_more_group_primary_logo_black_rgb"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 1281,
+    "y": 3062,
+    "w": 429,
+    "h": 151,
+    "text": "",
+    "file": "907x"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider-item__swiper-image > picture > img",
+    "x": 1352,
+    "y": 3068,
+    "w": 393,
+    "h": 138,
+    "text": "foto von einem mops welpen der auf einen aufgeklappten lapto",
+    "file": "907x"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider__swiper-navigation-container > div.teaser-slider__swiper-arrow-wrapper.btn-arrow > button",
+    "x": 648,
+    "y": 3331,
+    "w": 64,
+    "h": 64,
+    "text": "go to previous slide"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.teaser-slider__swiper-navigation-container > div.teaser-slider__swiper-arrow-wrapper.btn-arrow > button",
+    "x": 728,
+    "y": 3331,
+    "w": 64,
+    "h": 64,
+    "text": "go to next slide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3523,
+    "w": 187,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3553,
+    "w": 125,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3583,
+    "w": 190,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3613,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3643,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 3673,
+    "w": 62,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3523,
+    "w": 103,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3553,
+    "w": 130,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3583,
+    "w": 85,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3613,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3643,
+    "w": 140,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 3673,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 3523,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 3553,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 3583,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 3613,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 175,
+    "y": 3764,
+    "w": 100,
+    "h": 20,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 307,
+    "y": 3764,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 387,
+    "y": 3764,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 524,
+    "y": 3764,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 589,
+    "y": 3764,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__social-media > div.footer__bottom-newsletter.bottom-links > a.btn--link.text-xxsmall",
+    "x": 907,
+    "y": 3764,
+    "w": 214,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1153,
+    "y": 3760,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1201,
+    "y": 3760,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1249,
+    "y": 3760,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 40,
+    "y": 796,
+    "w": 64,
+    "h": 64,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 61,
+    "controls": 45,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/loyalty-quiz",
+  "at": "2026-11-14T04:19:10.542Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3855,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 64,
+    "y": 21,
+    "w": 120,
+    "h": 86,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "label": "open services submenu",
+    "value": "services",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 328,
+    "y": 42,
+    "w": 124,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "label": "open industries submenu",
+    "value": "industries",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 553,
+    "y": 42,
+    "w": 96,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "label": "open about us submenu",
+    "value": "about us",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "label": "open insights submenu",
+    "value": "insights",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 831,
+    "y": 42,
+    "w": 92,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-icon-search.header-icon-search-desktop > p > a",
+    "x": 971,
+    "y": 52,
+    "w": 23,
+    "h": 24,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li > a.header-lang-item",
+    "x": 1022,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li.active > a.header-lang-item",
+    "x": 1052,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-contact > p.button-wrapper > a.btn.btn-fill",
+    "x": 1111,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#the-loyalty-health-checkhow-strong-is-your-customer-loyalty-program",
+    "x": 145,
+    "y": 282,
+    "w": 989,
+    "h": 215,
+    "level": 1,
+    "text": "the loyalty health check: how strong is your customer loyalty program?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-container > div.hero-description > p",
+    "x": 175,
+    "y": 536,
+    "w": 1040,
+    "h": 48,
+    "text": "Take our quiz to discover the current state of your loyalty program. We’ll help "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-actions > p.button-wrapper > a.button.primary",
+    "x": 175,
+    "y": 624,
+    "w": 247,
+    "h": 64,
+    "text": "take the quiz now",
+    "href": "/en/loyalty-quiz/questions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 175,
+    "y": 940,
+    "w": 44,
+    "h": 30,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 248,
+    "y": 940,
+    "w": 72,
+    "h": 30,
+    "text": "quiz start",
+    "href": "/en/loyalty-quiz"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 732,
+    "y": 1120,
+    "w": 533,
+    "h": 463,
+    "text": "illustration of a hand tapping a smartphone screen with a sp",
+    "file": "media_155724a3e012f26992289af1bc6a6694cc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info > div.mixed-media-info-txt > p",
+    "x": 175,
+    "y": 1090,
+    "w": 485,
+    "h": 240,
+    "text": "Are you already making optimal use of data and technologies or are you still at "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > ul > li",
+    "x": 202,
+    "y": 1346,
+    "w": 458,
+    "h": 60,
+    "text": "in just 5 minutes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > ul > li",
+    "x": 202,
+    "y": 1422,
+    "w": 458,
+    "h": 30,
+    "text": "for the next steps"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > ul > li",
+    "x": 202,
+    "y": 1468,
+    "w": 458,
+    "h": 30,
+    "text": "with best practices"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-link > p.button-wrapper > a.button.primary",
+    "x": 175,
+    "y": 1546,
+    "w": 127,
+    "h": 48,
+    "text": "start now",
+    "href": "/en/loyalty-quiz/questions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 1694,
+    "w": 755,
+    "h": 47,
+    "text": "How the Quiz Works"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 1789,
+    "w": 1089,
+    "h": 90,
+    "text": "The quiz is divided into 3 categories and features 12 questions designed to asse"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 259,
+    "y": 1999,
+    "w": 180,
+    "h": 180,
+    "text": "platzieren einer schachfigur",
+    "file": "media_172344d9f1028156b9584c95848c42295a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 215,
+    "y": 2203,
+    "w": 267,
+    "h": 24,
+    "text": "Strategy & Structure"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 215,
+    "y": 2243,
+    "w": 267,
+    "h": 96,
+    "text": "How well-defined and strategic is your loyalty program? Is it structured for lon"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 630,
+    "y": 1999,
+    "w": 180,
+    "h": 180,
+    "text": "zwei ovale sind miteinander verbunden und stellen eine verli",
+    "file": "media_130e41d7e2bc0c180dc51041bada737802"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 586,
+    "y": 2203,
+    "w": 267,
+    "h": 24,
+    "text": "Data & Technology"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 586,
+    "y": 2243,
+    "w": 267,
+    "h": 120,
+    "text": "How effectively do you leverage data and technology for personalization, automat"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-icon > picture > img",
+    "x": 1001,
+    "y": 1999,
+    "w": 180,
+    "h": 180,
+    "text": "doodle einer hand aus der eine pflanze wächst",
+    "file": "media_171b39ce12ffb9f17489d40bca1a5cd41e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 958,
+    "y": 2203,
+    "w": 267,
+    "h": 24,
+    "text": "Innovation & Differentiation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 958,
+    "y": 2243,
+    "w": 267,
+    "h": 96,
+    "text": "How innovative is your loyalty strategy? Do you incorporate elements like gamifi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.lead > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 2483,
+    "w": 755,
+    "h": 47,
+    "text": "More About Loyalty"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.lead > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 2578,
+    "w": 1089,
+    "h": 90,
+    "text": "Do you want to inspire your customers and foster long-term loyalty to your brand"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.button-group-buttons > p.button-wrapper > a.button.primary",
+    "x": 175,
+    "y": 2692,
+    "w": 209,
+    "h": 64,
+    "text": "find out more",
+    "href": "/en/industries/retail/retail-loyalty"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.button-group-buttons > p.button-wrapper > a.button.accent",
+    "x": 408,
+    "y": 2709,
+    "w": 254,
+    "h": 30,
+    "text": "take the loyalty check now!",
+    "href": "/en/loyalty-quiz/questions"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider.label > div.teaser-slider-header > p",
+    "x": 354,
+    "y": 2916,
+    "w": 732,
+    "h": 30,
+    "text": "Our retail customer projects"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -334,
+    "y": 3076,
+    "w": 362,
+    "h": 127,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "media_1fc36b884267e478c35c60005abf8df113"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -305,
+    "y": 3070,
+    "w": 393,
+    "h": 138,
+    "text": "kitesurfer auf dem meer",
+    "file": "media_1827d7a81680ba0dba4de6bc45a246acb1"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -271,
+    "y": 3064,
+    "w": 429,
+    "h": 151,
+    "text": "",
+    "file": "media_1572f729380e80a899b7693968956e67ea"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -229,
+    "y": 3056,
+    "w": 473,
+    "h": 166,
+    "text": "foto von einem mops welpen der auf einen aufgeklappten lapto",
+    "file": "media_1231c76e8e07100a542aeb213c200e83fc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": -29,
+    "y": 3102,
+    "w": 73,
+    "h": 73,
+    "text": "",
+    "file": "media_184827054e57933711a81ec7f415aae448"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -178,
+    "y": 3047,
+    "w": 527,
+    "h": 185,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "media_1fc36b884267e478c35c60005abf8df113"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 44,
+    "y": 3098,
+    "w": 82,
+    "h": 82,
+    "text": "logo des unternehmens babywalz",
+    "file": "media_120f99f7010cbcdd310efba7f8164867f4"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -114,
+    "y": 3035,
+    "w": 594,
+    "h": 209,
+    "text": "kitesurfer auf dem meer",
+    "file": "media_1827d7a81680ba0dba4de6bc45a246acb1"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 137,
+    "y": 3093,
+    "w": 92,
+    "h": 92,
+    "text": "boards & more group logo",
+    "file": "media_14672667820d4ee860a5636606c513866d"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": -32,
+    "y": 3019,
+    "w": 682,
+    "h": 239,
+    "text": "",
+    "file": "media_1572f729380e80a899b7693968956e67ea"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 79,
+    "y": 2999,
+    "w": 799,
+    "h": 281,
+    "text": "foto von einem mops welpen der auf einen aufgeklappten lapto",
+    "file": "media_1231c76e8e07100a542aeb213c200e83fc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 417,
+    "y": 3077,
+    "w": 124,
+    "h": 124,
+    "text": "",
+    "file": "media_184827054e57933711a81ec7f415aae448"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 237,
+    "y": 2970,
+    "w": 512,
+    "h": 339,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "media_1fc36b884267e478c35c60005abf8df113"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 418,
+    "y": 3064,
+    "w": 150,
+    "h": 150,
+    "text": "logo des unternehmens babywalz",
+    "file": "media_120f99f7010cbcdd310efba7f8164867f4"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-headline > h4#versandhaus-walz",
+    "x": 780,
+    "y": 3048,
+    "w": 390,
+    "h": 48,
+    "level": 4,
+    "text": "versandhaus walz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-text > div.teaser-item-body > p",
+    "x": 780,
+    "y": 3103,
+    "w": 390,
+    "h": 54,
+    "text": "Four brands successfully brought together on a central digital commerce platform"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 561,
+    "y": 2999,
+    "w": 799,
+    "h": 281,
+    "text": "kitesurfer auf dem meer",
+    "file": "media_1827d7a81680ba0dba4de6bc45a246acb1"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 899,
+    "y": 3077,
+    "w": 124,
+    "h": 124,
+    "text": "boards & more group logo",
+    "file": "media_14672667820d4ee860a5636606c513866d"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 790,
+    "y": 3019,
+    "w": 682,
+    "h": 239,
+    "text": "",
+    "file": "media_1572f729380e80a899b7693968956e67ea"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 960,
+    "y": 3035,
+    "w": 594,
+    "h": 209,
+    "text": "foto von einem mops welpen der auf einen aufgeklappten lapto",
+    "file": "media_1231c76e8e07100a542aeb213c200e83fc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 1211,
+    "y": 3093,
+    "w": 92,
+    "h": 92,
+    "text": "",
+    "file": "media_184827054e57933711a81ec7f415aae448"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 1091,
+    "y": 3047,
+    "w": 527,
+    "h": 185,
+    "text": "foto von der fassade des versandhauses walz.",
+    "file": "media_1fc36b884267e478c35c60005abf8df113"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 1314,
+    "y": 3098,
+    "w": 82,
+    "h": 82,
+    "text": "logo des unternehmens babywalz",
+    "file": "media_120f99f7010cbcdd310efba7f8164867f4"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 1196,
+    "y": 3056,
+    "w": 473,
+    "h": 166,
+    "text": "kitesurfer auf dem meer",
+    "file": "media_1827d7a81680ba0dba4de6bc45a246acb1"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-icon > picture > img",
+    "x": 1396,
+    "y": 3102,
+    "w": 73,
+    "h": 73,
+    "text": "boards & more group logo",
+    "file": "media_14672667820d4ee860a5636606c513866d"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 1281,
+    "y": 3064,
+    "w": 429,
+    "h": 151,
+    "text": "",
+    "file": "media_1572f729380e80a899b7693968956e67ea"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-item-photo > picture > img",
+    "x": 1352,
+    "y": 3070,
+    "w": 393,
+    "h": 138,
+    "text": "foto von einem mops welpen der auf einen aufgeklappten lapto",
+    "file": "media_1231c76e8e07100a542aeb213c200e83fc"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-nav > div.btn-arrow > button",
+    "x": 648,
+    "y": 3333,
+    "w": 64,
+    "h": 64,
+    "text": "go to previous slide"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.teaser-slider-nav > div.btn-arrow.btn-arrow-next > button",
+    "x": 728,
+    "y": 3333,
+    "w": 64,
+    "h": 64,
+    "text": "go to next slide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3525,
+    "w": 186,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3555,
+    "w": 121,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3585,
+    "w": 185,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3615,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3645,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 3675,
+    "w": 59,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3525,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3555,
+    "w": 127,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3585,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3615,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3645,
+    "w": 134,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 3675,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 3525,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 3555,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 3585,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 3615,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 307,
+    "y": 3766,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 387,
+    "y": 3766,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 524,
+    "y": 3766,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 589,
+    "y": 3766,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-social-media > div.footer-bottom-newsletter > a.btn-link",
+    "x": 903,
+    "y": 3766,
+    "w": 217,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1153,
+    "y": 3762,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1201,
+    "y": 3762,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1249,
+    "y": 3762,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 61,
+    "controls": 44,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "the loyalty health check: how strong is your customer loyalty program?",
+   "variable": false,
+   "origin": {
+    "link": 6,
+    "button": 3,
+    "text": 17,
+    "image": 24
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 0,
+    "button": 2,
+    "buttonHidden": 0,
+    "text": 17,
+    "textHidden": 0,
+    "image": 24,
+    "imageHidden": 5
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"the loyalty health check: how strong is your customer loyalty program?\" (origin y 796) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 246,
+    "y": 55,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 340,
+    "y": 55,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 571,
+    "y": 55,
+    "w": 65,
+    "h": 18
+   },
+   {
+    "x": 669,
+    "y": 55,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 766,
+    "y": 55,
+    "w": 56,
+    "h": 18
+   },
+   {
+    "x": 855,
+    "y": 55,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 1034,
+    "y": 55,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 1062,
+    "y": 55,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "x": 1132,
+    "y": 55,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 279,
+    "w": 807,
+    "h": 76
+   },
+   {
+    "x": 175,
+    "y": 350,
+    "w": 896,
+    "h": 76
+   },
+   {
+    "x": 175,
+    "y": 422,
+    "w": 529,
+    "h": 76
+   },
+   {
+    "x": 175,
+    "y": 539,
+    "w": 1014,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 563,
+    "w": 343,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 644,
+    "w": 168,
+    "h": 23
+   },
+   {
+    "x": 175,
+    "y": 946,
+    "w": 43,
+    "h": 18
+   },
+   {
+    "x": 245,
+    "y": 946,
+    "w": 76,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 1094,
+    "w": 462,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1124,
+    "w": 475,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1154,
+    "w": 476,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1184,
+    "w": 407,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1214,
+    "w": 475,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1244,
+    "w": 436,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1274,
+    "w": 470,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1304,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 202,
+    "y": 1350,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 329,
+    "y": 1350,
+    "w": 165,
+    "h": 22
+   },
+   {
+    "x": 202,
+    "y": 1396,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 462,
+    "y": 1396,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 202,
+    "y": 1442,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 342,
+    "y": 1442,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 1531,
+    "w": 75,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 1684,
+    "w": 363,
+    "h": 45
+   },
+   {
+    "x": 175,
+    "y": 1783,
+    "w": 1052,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1813,
+    "w": 1028,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1843,
+    "w": 514,
+    "h": 22
+   },
+   {
+    "x": 251,
+    "y": 2193,
+    "w": 196,
+    "h": 23
+   },
+   {
+    "x": 215,
+    "y": 2244,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2268,
+    "w": 200,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2292,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2316,
+    "w": 203,
+    "h": 18
+   },
+   {
+    "x": 632,
+    "y": 2193,
+    "w": 177,
+    "h": 23
+   },
+   {
+    "x": 586,
+    "y": 2244,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2268,
+    "w": 186,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2292,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2316,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2340,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 959,
+    "y": 2193,
+    "w": 264,
+    "h": 23
+   },
+   {
+    "x": 958,
+    "y": 2244,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2268,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2292,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2316,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 2481,
+    "w": 355,
+    "h": 45
+   },
+   {
+    "x": 175,
+    "y": 2580,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2610,
+    "w": 1056,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2640,
+    "w": 764,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 2710,
+    "w": 130,
+    "h": 23
+   },
+   {
+    "x": 409,
+    "y": 2710,
+    "w": 259,
+    "h": 23
+   },
+   {
+    "x": 585,
+    "y": 2918,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 781,
+    "y": 3049,
+    "w": 286,
+    "h": 40
+   },
+   {
+    "x": 781,
+    "y": 3104,
+    "w": 374,
+    "h": 20
+   },
+   {
+    "x": 781,
+    "y": 3131,
+    "w": 339,
+    "h": 20
+   },
+   {
+    "x": 175,
+    "y": 3523,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3553,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3583,
+    "w": 190,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3613,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3643,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3673,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3523,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3553,
+    "w": 130,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3583,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3613,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3643,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 3673,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 3523,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 3553,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 3583,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 3613,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 3765,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 3765,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 3765,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 3765,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 3765,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 907,
+    "y": 3765,
+    "w": 214,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 250,
+    "y": 55,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 344,
+    "y": 55,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 569,
+    "y": 55,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 664,
+    "y": 55,
+    "w": 63,
+    "h": 17
+   },
+   {
+    "x": 759,
+    "y": 55,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 847,
+    "y": 55,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 1026,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1056,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1129,
+    "y": 55,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 281,
+    "w": 795,
+    "h": 73
+   },
+   {
+    "x": 175,
+    "y": 352,
+    "w": 894,
+    "h": 73
+   },
+   {
+    "x": 175,
+    "y": 424,
+    "w": 530,
+    "h": 73
+   },
+   {
+    "x": 175,
+    "y": 539,
+    "w": 1014,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 563,
+    "w": 343,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 645,
+    "w": 167,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 946,
+    "w": 44,
+    "h": 17
+   },
+   {
+    "x": 248,
+    "y": 946,
+    "w": 72,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 1094,
+    "w": 462,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1124,
+    "w": 475,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1154,
+    "w": 476,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1184,
+    "w": 407,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1214,
+    "w": 475,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1244,
+    "w": 436,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1274,
+    "w": 470,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1304,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 202,
+    "y": 1380,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 329,
+    "y": 1380,
+    "w": 165,
+    "h": 22
+   },
+   {
+    "x": 202,
+    "y": 1426,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 462,
+    "y": 1426,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 202,
+    "y": 1472,
+    "w": 140,
+    "h": 22
+   },
+   {
+    "x": 342,
+    "y": 1472,
+    "w": 192,
+    "h": 22
+   },
+   {
+    "x": 203,
+    "y": 1561,
+    "w": 71,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 1695,
+    "w": 362,
+    "h": 43
+   },
+   {
+    "x": 175,
+    "y": 1793,
+    "w": 1052,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1823,
+    "w": 1028,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1853,
+    "w": 514,
+    "h": 22
+   },
+   {
+    "x": 250,
+    "y": 2204,
+    "w": 198,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 2246,
+    "w": 261,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2270,
+    "w": 200,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2294,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2318,
+    "w": 203,
+    "h": 18
+   },
+   {
+    "x": 629,
+    "y": 2204,
+    "w": 182,
+    "h": 22
+   },
+   {
+    "x": 586,
+    "y": 2246,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2270,
+    "w": 186,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2294,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2318,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 586,
+    "y": 2342,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 959,
+    "y": 2204,
+    "w": 264,
+    "h": 22
+   },
+   {
+    "x": 958,
+    "y": 2246,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2270,
+    "w": 226,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2294,
+    "w": 252,
+    "h": 18
+   },
+   {
+    "x": 958,
+    "y": 2318,
+    "w": 259,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 2484,
+    "w": 341,
+    "h": 43
+   },
+   {
+    "x": 175,
+    "y": 2582,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2612,
+    "w": 1056,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2642,
+    "w": 764,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 2713,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 408,
+    "y": 2713,
+    "w": 254,
+    "h": 22
+   },
+   {
+    "x": 585,
+    "y": 2920,
+    "w": 271,
+    "h": 22
+   },
+   {
+    "x": 780,
+    "y": 3052,
+    "w": 289,
+    "h": 38
+   },
+   {
+    "x": 780,
+    "y": 3106,
+    "w": 374,
+    "h": 20
+   },
+   {
+    "x": 780,
+    "y": 3133,
+    "w": 339,
+    "h": 20
+   },
+   {
+    "x": 175,
+    "y": 3525,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3555,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3585,
+    "w": 185,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3615,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3645,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3675,
+    "w": 59,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3525,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3555,
+    "w": 127,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3585,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3615,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3645,
+    "w": 134,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 3675,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 3525,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 3555,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 3585,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 3615,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 3767,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 3767,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 3767,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 3767,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 3767,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 903,
+    "y": 3767,
+    "w": 217,
+    "h": 16
+   }
+  ]
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/sma",
+ "at": "2026-11-14T03:27:13.902Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 6,
+  "offPage": 30,
+  "textNodes": 80,
+  "controls": 64,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 4,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li > a",
+   "text": "solutions & experiences",
+   "cutMin": 106,
+   "cutMax": 337
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li > a",
+   "text": "marketing & performance",
+   "cutMin": 41,
+   "cutMax": 110
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 5,
+   "offPage": 39,
+   "textNodes": 84,
+   "controls": 69,
+   "total": 0
+  }
+ }
+}

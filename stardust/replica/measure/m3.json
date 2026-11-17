@@ -1,0 +1,468 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T11:22:38.021Z",
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "widths": [
+      360
+    ],
+    "selectors": [
+      ".teaser-slider h4",
+      ".teaser-slider .btn--sm",
+      ".footer__bottom-navigation li",
+      ".footer__social-media",
+      ".footer__bottom-navigation ul",
+      ".footer__bottom-navigation a"
+    ],
+    "props": [
+      "height",
+      "fontSize",
+      "lineHeight",
+      "padding",
+      "margin",
+      "display"
+    ],
+    "allMatches": false,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    360
+  ],
+  "selectors": [
+    ".teaser-slider h4",
+    ".teaser-slider .btn--sm",
+    ".footer__bottom-navigation li",
+    ".footer__social-media",
+    ".footer__bottom-navigation ul",
+    ".footer__bottom-navigation a"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8250,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8112,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        ".teaser-slider h4": [
+          {
+            "index": 0,
+            "of": 9,
+            "rect": {
+              "x": 48,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "ZEISS",
+            "props": {
+              "height": "33.5938px",
+              "fontSize": "24px",
+              "lineHeight": "33.6px",
+              "padding": "0px",
+              "margin": "0px",
+              "display": "block"
+            }
+          }
+        ],
+        ".teaser-slider .btn--sm": [
+          {
+            "index": 0,
+            "of": 9,
+            "rect": {
+              "x": 48,
+              "y": 4108,
+              "w": 110,
+              "h": 42
+            },
+            "visible": true,
+            "text": "Read more",
+            "props": {
+              "height": "42px",
+              "fontSize": "14px",
+              "lineHeight": "24px",
+              "padding": "4px 20px",
+              "margin": "28px 0px 0px",
+              "display": "inline-flex"
+            }
+          }
+        ],
+        ".footer__bottom-navigation li": [
+          {
+            "index": 0,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 7965,
+              "w": 100,
+              "h": 24
+            },
+            "visible": true,
+            "text": "diva-e © 2026",
+            "props": {
+              "height": "24px",
+              "fontSize": "14px",
+              "lineHeight": "19.6px",
+              "padding": "0px",
+              "margin": "0px",
+              "display": "list-item"
+            }
+          }
+        ],
+        ".footer__social-media": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 8089,
+              "w": 312,
+              "h": 29
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "29px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "padding": "0px",
+              "margin": "56px 0px 0px",
+              "display": "flex"
+            }
+          }
+        ],
+        ".footer__bottom-navigation ul": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7965,
+              "w": 292,
+              "h": 68
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection",
+            "props": {
+              "height": "68px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "padding": "0px",
+              "margin": "0px",
+              "display": "flex"
+            }
+          }
+        ],
+        ".footer__bottom-navigation a": [
+          {
+            "index": 0,
+            "of": 10,
+            "rect": {
+              "x": 156,
+              "y": 7968,
+              "w": 47,
+              "h": 20
+            },
+            "visible": true,
+            "text": "Imprint",
+            "props": {
+              "height": "19.5938px",
+              "fontSize": "14px",
+              "lineHeight": "19.6px",
+              "padding": "0px",
+              "margin": "0px",
+              "display": "inline-flex"
+            }
+          }
+        ]
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        ".teaser-slider h4": [
+          {
+            "index": 0,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "ZEISS",
+            "props": {
+              "height": "auto",
+              "fontSize": "24px",
+              "lineHeight": "33.6px",
+              "padding": "0px",
+              "margin": "0px",
+              "display": "block"
+            }
+          }
+        ],
+        ".teaser-slider .btn--sm": [
+          {
+            "index": 0,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Read more",
+            "props": {
+              "height": "auto",
+              "fontSize": "14px",
+              "lineHeight": "21px",
+              "padding": "4px 20px",
+              "margin": "28px 0px 0px",
+              "display": "inline-flex"
+            }
+          }
+        ],
+        ".footer__bottom-navigation li": [
+          {
+            "index": 0,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 7871,
+              "w": 100,
+              "h": 24
+            },
+            "visible": true,
+            "text": "diva-e © 2026",
+            "props": {
+              "height": "24px",
+              "fontSize": "14px",
+              "lineHeight": "19.6px",
+              "padding": "0px",
+              "margin": "0px",
+              "display": "list-item"
+            }
+          }
+        ],
+        ".footer__social-media": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7951,
+              "w": 312,
+              "h": 29
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "29px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "padding": "0px",
+              "margin": "56px 0px 0px",
+              "display": "flex"
+            }
+          }
+        ],
+        ".footer__bottom-navigation ul": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7871,
+              "w": 312,
+              "h": 24
+            },
+            "visible": true,
+            "text": "diva-e © 2026 Imprint Data protection",
+            "props": {
+              "height": "24px",
+              "fontSize": "16px",
+              "lineHeight": "24px",
+              "padding": "0px",
+              "margin": "0px",
+              "display": "flex"
+            }
+          }
+        ],
+        ".footer__bottom-navigation a": [
+          {
+            "index": 0,
+            "of": 10,
+            "rect": {
+              "x": 148,
+              "y": 7874,
+              "w": 47,
+              "h": 20
+            },
+            "visible": true,
+            "text": "Imprint",
+            "props": {
+              "height": "19.5938px",
+              "fontSize": "14px",
+              "lineHeight": "19.6px",
+              "padding": "0px",
+              "margin": "0px",
+              "display": "inline-flex"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "360": {
+      ".teaser-slider h4": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": -48,
+              "dy": -3943,
+              "dw": -264,
+              "dh": -34
+            },
+            "props": {
+              "height": [
+                "33.5938px",
+                "auto"
+              ]
+            }
+          }
+        ]
+      },
+      ".teaser-slider .btn--sm": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": -48,
+              "dy": -4108,
+              "dw": -110,
+              "dh": -42
+            },
+            "props": {
+              "height": [
+                "42px",
+                "auto"
+              ],
+              "lineHeight": [
+                "24px",
+                "21px"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__bottom-navigation li": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -94,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".footer__social-media": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -138,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".footer__bottom-navigation ul": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -94,
+              "dw": 20,
+              "dh": -44
+            },
+            "props": {
+              "height": [
+                "68px",
+                "24px"
+              ]
+            }
+          }
+        ]
+      },
+      ".footer__bottom-navigation a": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": -8,
+              "dy": -94,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    }
+  },
+  "rootDeltas": {
+    "360": {
+      "scrollWidth": 0,
+      "scrollHeight": -138
+    }
+  }
+}

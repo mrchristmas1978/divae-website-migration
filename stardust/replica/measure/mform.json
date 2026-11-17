@@ -1,0 +1,2090 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T11:24:41.044Z",
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "selectors": [
+      ".page form fieldset",
+      ".page form input[type=submit]",
+      ".page form select",
+      ".page form textarea",
+      ".teaser-slider h4"
+    ],
+    "props": [
+      "height",
+      "display"
+    ],
+    "allMatches": true,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440,
+    360
+  ],
+  "selectors": [
+    ".page form fieldset",
+    ".page form input[type=submit]",
+    ".page form select",
+    ".page form textarea",
+    ".teaser-slider h4"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8250,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7139,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8228,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7167,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        ".page form fieldset": [
+          {
+            "index": 0,
+            "of": 8,
+            "rect": {
+              "x": 24,
+              "y": 6186,
+              "w": 312,
+              "h": 0
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "0px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 1,
+            "of": 8,
+            "rect": {
+              "x": 24,
+              "y": 6186,
+              "w": 312,
+              "h": 87
+            },
+            "visible": true,
+            "text": "Salutation* Mr. Ms. Mx.",
+            "props": {
+              "height": "87px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 2,
+            "of": 8,
+            "rect": {
+              "x": 24,
+              "y": 6273,
+              "w": 312,
+              "h": 160
+            },
+            "visible": true,
+            "text": "First name Last name*",
+            "props": {
+              "height": "160.406px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 3,
+            "of": 8,
+            "rect": {
+              "x": 24,
+              "y": 6434,
+              "w": 312,
+              "h": 160
+            },
+            "visible": true,
+            "text": "E-Mail* Phone",
+            "props": {
+              "height": "160.406px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 4,
+            "of": 8,
+            "rect": {
+              "x": 24,
+              "y": 6594,
+              "w": 312,
+              "h": 80
+            },
+            "visible": true,
+            "text": "Company name*",
+            "props": {
+              "height": "80.2031px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 5,
+            "of": 8,
+            "rect": {
+              "x": 24,
+              "y": 6674,
+              "w": 312,
+              "h": 114
+            },
+            "visible": true,
+            "text": "How did you find out about us? Please S…",
+            "props": {
+              "height": "114.203px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 6,
+            "of": 8,
+            "rect": {
+              "x": 24,
+              "y": 6789,
+              "w": 312,
+              "h": 130
+            },
+            "visible": true,
+            "text": "Your message*",
+            "props": {
+              "height": "130.203px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 7,
+            "of": 8,
+            "rect": {
+              "x": 24,
+              "y": 6919,
+              "w": 312,
+              "h": 385
+            },
+            "visible": true,
+            "text": "diva-e Digital Value Excellence GmbH (h…",
+            "props": {
+              "height": "384.547px",
+              "display": "flex"
+            }
+          }
+        ],
+        ".page form input[type=submit]": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7327,
+              "w": 131,
+              "h": 48
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "48px",
+              "display": "inline-flex"
+            }
+          }
+        ],
+        ".page form select": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 6725,
+              "w": 312,
+              "h": 44
+            },
+            "visible": true,
+            "text": "Please Select Google / AI / Search engi…",
+            "props": {
+              "height": "44px",
+              "display": "inline-block"
+            }
+          }
+        ],
+        ".page form textarea": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 6829,
+              "w": 312,
+              "h": 90
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "90px",
+              "display": "inline-block"
+            }
+          }
+        ],
+        ".teaser-slider h4": [
+          {
+            "index": 0,
+            "of": 9,
+            "rect": {
+              "x": 48,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "ZEISS",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 1,
+            "of": 9,
+            "rect": {
+              "x": 384,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "EDEKA",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 2,
+            "of": 9,
+            "rect": {
+              "x": 720,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "dmTECH",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 3,
+            "of": 9,
+            "rect": {
+              "x": 1056,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "ALDI SÜD",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 4,
+            "of": 9,
+            "rect": {
+              "x": 1392,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "E.ON",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 5,
+            "of": 9,
+            "rect": {
+              "x": 1728,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Weleda",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 6,
+            "of": 9,
+            "rect": {
+              "x": 2064,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Schott",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 7,
+            "of": 9,
+            "rect": {
+              "x": 2400,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "FC Bayern Munich",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 8,
+            "of": 9,
+            "rect": {
+              "x": 2736,
+              "y": 3943,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Viega",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".page form fieldset": [
+          {
+            "index": 0,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5750,
+              "w": 755,
+              "h": 0
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "0px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 1,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5750,
+              "w": 755,
+              "h": 87
+            },
+            "visible": true,
+            "text": "Salutation* Mr. Ms. Mx.",
+            "props": {
+              "height": "87px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 2,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5837,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "First name Last name*",
+            "props": {
+              "height": "80.2031px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 3,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5917,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "E-Mail* Phone",
+            "props": {
+              "height": "80.2031px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 4,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 5997,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "Company name*",
+            "props": {
+              "height": "80.2031px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 5,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6077,
+              "w": 755,
+              "h": 114
+            },
+            "visible": true,
+            "text": "How did you find out about us? Please S…",
+            "props": {
+              "height": "114.203px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 6,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6191,
+              "w": 755,
+              "h": 130
+            },
+            "visible": true,
+            "text": "Your message*",
+            "props": {
+              "height": "130.203px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 7,
+            "of": 8,
+            "rect": {
+              "x": 342,
+              "y": 6322,
+              "w": 755,
+              "h": 248
+            },
+            "visible": true,
+            "text": "diva-e Digital Value Excellence GmbH (h…",
+            "props": {
+              "height": "247.781px",
+              "display": "flex"
+            }
+          }
+        ],
+        ".page form input[type=submit]": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 342,
+              "y": 6593,
+              "w": 131,
+              "h": 48
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "48px",
+              "display": "inline-flex"
+            }
+          }
+        ],
+        ".page form select": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 342,
+              "y": 6127,
+              "w": 755,
+              "h": 44
+            },
+            "visible": true,
+            "text": "Please Select Google / AI / Search engi…",
+            "props": {
+              "height": "44px",
+              "display": "inline-block"
+            }
+          }
+        ],
+        ".page form textarea": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 342,
+              "y": 6232,
+              "w": 755,
+              "h": 90
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "90px",
+              "display": "inline-block"
+            }
+          }
+        ],
+        ".teaser-slider h4": [
+          {
+            "index": 0,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "ZEISS",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 1,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "EDEKA",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 2,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "dmTECH",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 3,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "ALDI SÜD",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 4,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "E.ON",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 5,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Weleda",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 6,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Schott",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 7,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "FC Bayern Munich",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 8,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Viega",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 9,
+            "of": 18,
+            "rect": {
+              "x": 781,
+              "y": 3043,
+              "w": 390,
+              "h": 48
+            },
+            "visible": true,
+            "text": "ZEISS",
+            "props": {
+              "height": "47.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 10,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "EDEKA",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 11,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "dmTECH",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          }
+        ]
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        ".page form fieldset": [
+          {
+            "index": 0,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 6162,
+              "w": 312,
+              "h": 87
+            },
+            "visible": true,
+            "text": "Salutation* Mr. Ms. Mx.",
+            "props": {
+              "height": "87px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 1,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 6249,
+              "w": 312,
+              "h": 160
+            },
+            "visible": true,
+            "text": "First name Last name*",
+            "props": {
+              "height": "160.406px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 2,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 6410,
+              "w": 312,
+              "h": 160
+            },
+            "visible": true,
+            "text": "E-Mail* Phone",
+            "props": {
+              "height": "160.406px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 3,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 6570,
+              "w": 312,
+              "h": 80
+            },
+            "visible": true,
+            "text": "Company name*",
+            "props": {
+              "height": "80.2031px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 4,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 6650,
+              "w": 312,
+              "h": 114
+            },
+            "visible": true,
+            "text": "How did you find out about us? Please S…",
+            "props": {
+              "height": "114.203px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 5,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 6765,
+              "w": 312,
+              "h": 130
+            },
+            "visible": true,
+            "text": "Your message*",
+            "props": {
+              "height": "130.203px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 6,
+            "of": 7,
+            "rect": {
+              "x": 24,
+              "y": 6895,
+              "w": 312,
+              "h": 386
+            },
+            "visible": true,
+            "text": "diva-e Digital Value Excellence GmbH (h…",
+            "props": {
+              "height": "385.734px",
+              "display": "flex"
+            }
+          }
+        ],
+        ".page form input[type=submit]": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 7305,
+              "w": 136,
+              "h": 48
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "48px",
+              "display": "inline-flex"
+            }
+          }
+        ],
+        ".page form select": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 6701,
+              "w": 312,
+              "h": 44
+            },
+            "visible": true,
+            "text": "Please Select Google / AI / Search engi…",
+            "props": {
+              "height": "44px",
+              "display": "block"
+            }
+          }
+        ],
+        ".page form textarea": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 6805,
+              "w": 312,
+              "h": 90
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "90px",
+              "display": "block"
+            }
+          }
+        ],
+        ".teaser-slider h4": [
+          {
+            "index": 0,
+            "of": 18,
+            "rect": {
+              "x": -2976,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "ZEISS",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 1,
+            "of": 18,
+            "rect": {
+              "x": -2640,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "EDEKA",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 2,
+            "of": 18,
+            "rect": {
+              "x": -2304,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "dmTECH",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 3,
+            "of": 18,
+            "rect": {
+              "x": -1968,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "ALDI SÜD",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 4,
+            "of": 18,
+            "rect": {
+              "x": -1632,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "E.ON",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 5,
+            "of": 18,
+            "rect": {
+              "x": -1296,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Weleda",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 6,
+            "of": 18,
+            "rect": {
+              "x": -960,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Schott",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 7,
+            "of": 18,
+            "rect": {
+              "x": -624,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "FC Bayern Munich",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 8,
+            "of": 18,
+            "rect": {
+              "x": -288,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Viega",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 9,
+            "of": 18,
+            "rect": {
+              "x": 48,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "ZEISS",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 10,
+            "of": 18,
+            "rect": {
+              "x": 384,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "EDEKA",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 11,
+            "of": 18,
+            "rect": {
+              "x": 720,
+              "y": 3935,
+              "w": 264,
+              "h": 34
+            },
+            "visible": true,
+            "text": "dmTECH",
+            "props": {
+              "height": "33.5938px",
+              "display": "block"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".page form fieldset": [
+          {
+            "index": 0,
+            "of": 7,
+            "rect": {
+              "x": 342,
+              "y": 5755,
+              "w": 755,
+              "h": 87
+            },
+            "visible": true,
+            "text": "Salutation* Mr. Ms. Mx.",
+            "props": {
+              "height": "87px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 1,
+            "of": 7,
+            "rect": {
+              "x": 342,
+              "y": 5842,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "First name Last name*",
+            "props": {
+              "height": "80.2031px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 2,
+            "of": 7,
+            "rect": {
+              "x": 342,
+              "y": 5922,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "E-Mail* Phone",
+            "props": {
+              "height": "80.2031px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 3,
+            "of": 7,
+            "rect": {
+              "x": 342,
+              "y": 6002,
+              "w": 755,
+              "h": 80
+            },
+            "visible": true,
+            "text": "Company name*",
+            "props": {
+              "height": "80.2031px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 4,
+            "of": 7,
+            "rect": {
+              "x": 342,
+              "y": 6082,
+              "w": 755,
+              "h": 114
+            },
+            "visible": true,
+            "text": "How did you find out about us? Please S…",
+            "props": {
+              "height": "114.203px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 5,
+            "of": 7,
+            "rect": {
+              "x": 342,
+              "y": 6197,
+              "w": 755,
+              "h": 130
+            },
+            "visible": true,
+            "text": "Your message*",
+            "props": {
+              "height": "130.203px",
+              "display": "flex"
+            }
+          },
+          {
+            "index": 6,
+            "of": 7,
+            "rect": {
+              "x": 342,
+              "y": 6327,
+              "w": 755,
+              "h": 269
+            },
+            "visible": true,
+            "text": "diva-e Digital Value Excellence GmbH (h…",
+            "props": {
+              "height": "268.781px",
+              "display": "flex"
+            }
+          }
+        ],
+        ".page form input[type=submit]": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 342,
+              "y": 6620,
+              "w": 137,
+              "h": 48
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "48px",
+              "display": "inline-flex"
+            }
+          }
+        ],
+        ".page form select": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 342,
+              "y": 6133,
+              "w": 755,
+              "h": 44
+            },
+            "visible": true,
+            "text": "Please Select Google / AI / Search engi…",
+            "props": {
+              "height": "44px",
+              "display": "block"
+            }
+          }
+        ],
+        ".page form textarea": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 342,
+              "y": 6237,
+              "w": 755,
+              "h": 90
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "90px",
+              "display": "block"
+            }
+          }
+        ],
+        ".teaser-slider h4": [
+          {
+            "index": 0,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "ZEISS",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 1,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "EDEKA",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 2,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "dmTECH",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 3,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "ALDI SÜD",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 4,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "E.ON",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 5,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Weleda",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 6,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Schott",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 7,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "FC Bayern Munich",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 8,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Viega",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 9,
+            "of": 18,
+            "rect": {
+              "x": 780,
+              "y": 3033,
+              "w": 390,
+              "h": 48
+            },
+            "visible": true,
+            "text": "ZEISS",
+            "props": {
+              "height": "47.5938px",
+              "display": "block"
+            }
+          },
+          {
+            "index": 10,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "EDEKA",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          },
+          {
+            "index": 11,
+            "of": 18,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "dmTECH",
+            "props": {
+              "height": "auto",
+              "display": "block"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "360": {
+      ".page form fieldset": {
+        "status": "ok",
+        "countA": 8,
+        "countB": 7,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -24,
+              "dw": 0,
+              "dh": 87
+            },
+            "props": {
+              "height": [
+                "0px",
+                "87px"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 63,
+              "dw": 0,
+              "dh": 73
+            },
+            "props": {
+              "height": [
+                "87px",
+                "160.406px"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 137,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": 136,
+              "dw": 0,
+              "dh": -80
+            },
+            "props": {
+              "height": [
+                "160.406px",
+                "80.2031px"
+              ]
+            }
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": 0,
+              "dy": 56,
+              "dw": 0,
+              "dh": 34
+            },
+            "props": {
+              "height": [
+                "80.2031px",
+                "114.203px"
+              ]
+            }
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": 0,
+              "dy": 91,
+              "dw": 0,
+              "dh": 16
+            },
+            "props": {
+              "height": [
+                "114.203px",
+                "130.203px"
+              ]
+            }
+          },
+          {
+            "index": 6,
+            "rect": {
+              "dx": 0,
+              "dy": 106,
+              "dw": 0,
+              "dh": 256
+            },
+            "props": {
+              "height": [
+                "130.203px",
+                "385.734px"
+              ]
+            }
+          }
+        ]
+      },
+      ".page form input[type=submit]": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -22,
+              "dw": 5,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".page form select": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -24,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "display": [
+                "inline-block",
+                "block"
+              ]
+            }
+          }
+        ]
+      },
+      ".page form textarea": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -24,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "display": [
+                "inline-block",
+                "block"
+              ]
+            }
+          }
+        ]
+      },
+      ".teaser-slider h4": {
+        "status": "ok",
+        "countA": 9,
+        "countB": 12,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": -3024,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": -3024,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": -3024,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": -3024,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": -3024,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": -3024,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 6,
+            "rect": {
+              "dx": -3024,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 7,
+            "rect": {
+              "dx": -3024,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 8,
+            "rect": {
+              "dx": -3024,
+              "dy": -8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    },
+    "1440": {
+      ".page form fieldset": {
+        "status": "ok",
+        "countA": 8,
+        "countB": 7,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 5,
+              "dw": 0,
+              "dh": 87
+            },
+            "props": {
+              "height": [
+                "0px",
+                "87px"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 92,
+              "dw": 0,
+              "dh": -7
+            },
+            "props": {
+              "height": [
+                "87px",
+                "80.2031px"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 85,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": 85,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": 0,
+              "dy": 85,
+              "dw": 0,
+              "dh": 34
+            },
+            "props": {
+              "height": [
+                "80.2031px",
+                "114.203px"
+              ]
+            }
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": 0,
+              "dy": 120,
+              "dw": 0,
+              "dh": 16
+            },
+            "props": {
+              "height": [
+                "114.203px",
+                "130.203px"
+              ]
+            }
+          },
+          {
+            "index": 6,
+            "rect": {
+              "dx": 0,
+              "dy": 136,
+              "dw": 0,
+              "dh": 139
+            },
+            "props": {
+              "height": [
+                "130.203px",
+                "268.781px"
+              ]
+            }
+          }
+        ]
+      },
+      ".page form input[type=submit]": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 27,
+              "dw": 6,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".page form select": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 6,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "display": [
+                "inline-block",
+                "block"
+              ]
+            }
+          }
+        ]
+      },
+      ".page form textarea": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 5,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "display": [
+                "inline-block",
+                "block"
+              ]
+            }
+          }
+        ]
+      },
+      ".teaser-slider h4": {
+        "status": "ok",
+        "countA": 12,
+        "countB": 12,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 6,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 7,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 8,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 9,
+            "rect": {
+              "dx": -1,
+              "dy": -10,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 10,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 11,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    }
+  },
+  "rootDeltas": {
+    "360": {
+      "scrollWidth": 0,
+      "scrollHeight": -22
+    },
+    "1440": {
+      "scrollWidth": 0,
+      "scrollHeight": 28
+    }
+  }
+}

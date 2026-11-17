@@ -1,0 +1,434 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/en-services-crm-360/vdiff-iter3/
+
+build red flags (advisory): 
+  • FONT MISMATCH: heading "Customer Relationship Management" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Your CRM Strategy – Aligned with" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Our CRM-Services" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Our CRM customer" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Talk to Our Experts" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+  • FONT MISMATCH: heading "Get in touch now!" wants "GT Planar VF" but it did NOT load in build (silent fallback). A named face loaded in the source but not the build — load the missing face.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 5468,
+  "textLen": 3871,
+  "images": [
+   {
+    "src": "0x890",
+    "natural": "1493x890",
+    "rendered": "312x186",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "viega_logo.png",
+    "natural": "0x0",
+    "rendered": "150x150",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "cws_logo.png",
+    "natural": "0x0",
+    "rendered": "150x150",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   },
+   {
+    "src": "puzzel_logo-diva-e.webp",
+    "natural": "0x0",
+    "rendered": "150x150",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": true
+   },
+   {
+    "src": "907x",
+    "natural": "0x0",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": true
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Customer Relationship Management",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Your CRM Strategy – Aligned with",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our CRM-Services",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Our CRM customer",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Talk to Our Experts",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Get in touch now!",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "hero__description",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__headline",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__row-paragraph--large",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "cards-block__tagline--center",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "teaser-slider__label",
+    "width": 312,
+    "left": 24
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 5468,
+  "textLen": 3871,
+  "images": [
+   {
+    "src": "strategic-technology-decisions-with-fore-5246-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "financeguide_en_956x554-6a25-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "lunendonk-startseite-en-d926-600x.png",
+    "natural": "600x338",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "interamt_956x554px-ba20-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "en-security-guide_956x554-c39f-600x.jpg",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "ai-playbook_956x554px-0c00-600x.png",
+    "natural": "600x348",
+    "rendered": "0x0",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "crm_tabelle_en_1490x888px-b4c5-0x890.png",
+    "natural": "1493x890",
+    "rendered": "312x186",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1093678798-f454-500x0.jpg",
+    "natural": "500x333",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "viega_logo-cecb.png",
+    "natural": "1920x1633",
+    "rendered": "150x150",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "gettyimages-1430770883-9e6e-500x0.jpg",
+    "natural": "500x333",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "cws_logo-aa57.png",
+    "natural": "421x120",
+    "rendered": "150x150",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "frau-am-laptop-b4c0-500x0.jpg",
+    "natural": "500x333",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "puzzel_logo-diva-e-b72f.webp",
+    "natural": "1536x768",
+    "rendered": "150x150",
+    "fit": "contain",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "kyowa-news-ad6c-500x0.png",
+    "natural": "500x292",
+    "rendered": "312x197",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Customer Relationship Management",
+    "color": "rgb(255, 255, 255)",
+    "fontSize": "36px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Your CRM Strategy – Aligned with",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Our CRM-Services",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Our CRM customer",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Talk to Our Experts",
+    "color": "rgb(237, 240, 251)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "Get in touch now!",
+    "color": "rgb(8, 18, 53)",
+    "fontSize": "24px",
+    "family": "GT Planar VF",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero__info-title",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "hero__description",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "simple-text__paragraph",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "card__info-txt",
+    "width": 264,
+    "left": 48
+   },
+   {
+    "sel": "teaser-slider__header",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "teaser-item__text",
+    "width": 312,
+    "left": 24
+   },
+   {
+    "sel": "teaser-item__text",
+    "width": 312,
+    "left": 360
+   }
+  ]
+ }
+}

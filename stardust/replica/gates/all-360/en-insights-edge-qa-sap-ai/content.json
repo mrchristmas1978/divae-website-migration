@@ -1,0 +1,4796 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T06:53:07.096Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/insights/edge/QA_SAP_AI/",
+  "at": "2026-11-14T06:52:43.083Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6103,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__img > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "tech meeting",
+    "file": "0x900"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span.hero-banner__box-category",
+    "x": 105,
+    "y": 629,
+    "w": 125,
+    "h": 24,
+    "text": "Total Experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-label.dot-blur--12 > span",
+    "x": 52,
+    "y": 653,
+    "w": 112,
+    "h": 24,
+    "text": "12 Mar 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-headline > h1.h3",
+    "x": 52,
+    "y": 701,
+    "w": 256,
+    "h": 86,
+    "level": 1,
+    "text": "how to use the intelligent q&a sap cx ai toolkit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-banner__box > div.hero-banner__box-subtitle > p",
+    "x": 52,
+    "y": 803,
+    "w": 256,
+    "h": 54,
+    "text": "From Information Overload to Instant Intelligence"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__sidebar > div.intro-side-anchor-text__sidebar-anchor > div.dot-blur--16.no-heading",
+    "x": 24,
+    "y": 962,
+    "w": 130,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1016,
+    "w": 312,
+    "h": 48,
+    "text": "what is the intelligent q&a sap cx ai toolkit and how does joule support it?",
+    "href": "/en/insights/edge/QA_SAP_AI/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1081,
+    "w": 312,
+    "h": 48,
+    "text": "how does joule power intelligent conversations in customer experience?",
+    "href": "/en/insights/edge/QA_SAP_AI/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1146,
+    "w": 312,
+    "h": 48,
+    "text": "how does intelligent q&a handle query resolution effectively?",
+    "href": "/en/insights/edge/QA_SAP_AI/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1211,
+    "w": 312,
+    "h": 48,
+    "text": "what is a practical use case: janna, the sales representative?",
+    "href": "/en/insights/edge/QA_SAP_AI/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1276,
+    "w": 312,
+    "h": 48,
+    "text": "what is the strategic value of intelligent q&a for enterprises?",
+    "href": "/en/insights/edge/QA_SAP_AI/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li.text-small > a.btn.btn--link",
+    "x": 24,
+    "y": 1341,
+    "w": 312,
+    "h": 48,
+    "text": "why do we invest in intelligent cx and the sap cx ai toolkit?",
+    "href": "/en/insights/edge/QA_SAP_AI/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.intro-side-anchor-text__intro > div.intro-side-anchor-text__paragraph.richtext > p",
+    "x": 24,
+    "y": 1437,
+    "w": 312,
+    "h": 243,
+    "text": "In every sales or service interaction, time is the true currency of credibility."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#1 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 1788,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "what is the intelligent q&a sap cx ai toolkit and how does joule support it?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#1 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 1884,
+    "w": 312,
+    "h": 264,
+    "text": "The , powered by , SAP’s AI orchestrator is more than a data provider. It marks "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > a",
+    "x": 105,
+    "y": 2079,
+    "w": 148,
+    "h": 18,
+    "text": "sap’s cx ai toolkit",
+    "href": "/en/insights/edge/guide-so-nutzen-sie-das-sap-cx-ai-toolkit/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#2 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 2176,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "how does joule power intelligent conversations in customer experience?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#2 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2271,
+    "w": 312,
+    "h": 144,
+    "text": "Joule acts as SAP’s super orchestrator, intelligently connecting AI across the e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#2 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 2415,
+    "w": 312,
+    "h": 192,
+    "text": "The applies this capability specifically to customer experience, bridging , , , "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#3 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 2635,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "how does intelligent q&a handle query resolution effectively?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 71,
+    "y": 2730,
+    "w": 265,
+    "h": 72,
+    "text": "“What was the delivery status for Order 345 last week?”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 71,
+    "y": 2818,
+    "w": 265,
+    "h": 144,
+    "text": "The agent scans indexed enterprise content (emails, contracts, orders) using sem"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 71,
+    "y": 2978,
+    "w": 265,
+    "h": 96,
+    "text": "Joule enriches the query with metadata and related business entities."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 71,
+    "y": 3090,
+    "w": 265,
+    "h": 96,
+    "text": "A verified answer is generated, including document references and source links."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ol > li > p",
+    "x": 71,
+    "y": 3202,
+    "w": 265,
+    "h": 96,
+    "text": "All processing follows zero-data retention principles and GDPR-compliant governa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#3 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3298,
+    "w": 312,
+    "h": 120,
+    "text": "Each question is handled independently to ensure precision and prevent conversat"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#4 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 3446,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "what is a practical use case: janna, the sales representative?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3541,
+    "w": 312,
+    "h": 72,
+    "text": "Example: Sales rep Janna spends too much time searching for information before e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3613,
+    "w": 312,
+    "h": 144,
+    "text": "With , Janna simply asks Joule: “Show me the last three interactions with Custom"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#4 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 3757,
+    "w": 312,
+    "h": 120,
+    "text": "Within seconds, she receives a consolidated summary with verified data from , , "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topic-item__content.richtext > p > b",
+    "x": 24,
+    "y": 3904,
+    "w": 123,
+    "h": 18,
+    "text": "Results include:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 71,
+    "y": 3941,
+    "w": 265,
+    "h": 24,
+    "text": "40% faster query resolution"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 71,
+    "y": 3981,
+    "w": 265,
+    "h": 48,
+    "text": "Higher customer satisfaction and first-call resolution"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 71,
+    "y": 4045,
+    "w": 265,
+    "h": 48,
+    "text": "Consistent answers backed by verified source data"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#5 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 4121,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "what is the strategic value of intelligent q&a for enterprises?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 71,
+    "y": 4216,
+    "w": 265,
+    "h": 72,
+    "text": "Reduces manual data lookup and context switching"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 71,
+    "y": 4304,
+    "w": 265,
+    "h": 48,
+    "text": "Every response is traceable to source systems"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 71,
+    "y": 4368,
+    "w": 265,
+    "h": 48,
+    "text": "No new UI, native to SAP and Microsoft environments"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 71,
+    "y": 4432,
+    "w": 265,
+    "h": 72,
+    "text": "Supports multilingual queries and custom knowledge domains"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#5 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 4504,
+    "w": 312,
+    "h": 120,
+    "text": "In essence, the transforms enterprise systems from information repositories into"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-topics__items > div#6 > h2.list-topic-item__title",
+    "x": 24,
+    "y": 4652,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "why do we invest in intelligent cx and the sap cx ai toolkit?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#6 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 4748,
+    "w": 312,
+    "h": 216,
+    "text": "At , we believe the next competitive advantage lies in — systems that not only e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div#6 > div.list-topic-item__content.richtext > p",
+    "x": 24,
+    "y": 4964,
+    "w": 312,
+    "h": 96,
+    "text": "Would you like to learn more about specific use cases and your possibilities?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.button-group__content > div.button-group__buttons > a.btn.btn--fill",
+    "x": 24,
+    "y": 5116,
+    "w": 195,
+    "h": 64,
+    "text": "get in touch",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 5320,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 5320,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 5372,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5473,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5517,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5561,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 5561,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 5561,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5605,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 5605,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5649,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 5649,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 5649,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5693,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 5693,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 5693,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 5737,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 5737,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 5737,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 5818,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 5821,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 5865,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 5942,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 5942,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 5942,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 6003,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 120,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/qa-sap-ai",
+  "at": "2026-11-14T06:53:06.900Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6145,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 792,
+    "text": "tech meeting",
+    "file": "media_1a61e1abc4f1def5ac172174aad78ebb5f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.meta-cats > ul > li",
+    "x": 106,
+    "y": 629,
+    "w": 123,
+    "h": 24,
+    "text": "Total Experience"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-meta.has-cats > div.meta-date > p",
+    "x": 52,
+    "y": 653,
+    "w": 112,
+    "h": 24,
+    "text": "12 Mar 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-title > h1#how-to-use-the-intelligent-qa-sap-cx-ai-toolkit",
+    "x": 52,
+    "y": 701,
+    "w": 256,
+    "h": 86,
+    "level": 1,
+    "text": "how to use the intelligent q&a sap cx ai toolkit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-box > div.hero-subtitle > p",
+    "x": 52,
+    "y": 803,
+    "w": 256,
+    "h": 54,
+    "text": "From Information Overload to Instant Intelligence"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-intro > div.intro-side-paragraph > p",
+    "x": 24,
+    "y": 1479,
+    "w": 312,
+    "h": 243,
+    "text": "In every sales or service interaction, time is the true currency of credibility."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.intro-side-sidebar > div.intro-side-anchor > p.anchor-title",
+    "x": 24,
+    "y": 962,
+    "w": 125,
+    "h": 29,
+    "text": "Content:"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1019,
+    "w": 272,
+    "h": 47,
+    "text": "what is the intelligent q&a sap cx ai toolkit and how does joule support it?",
+    "href": "/en/insights/edge/qa-sap-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1091,
+    "w": 283,
+    "h": 47,
+    "text": "how does joule power intelligent conversations in customer experience?",
+    "href": "/en/insights/edge/qa-sap-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1163,
+    "w": 278,
+    "h": 47,
+    "text": "how does intelligent q&a handle query resolution effectively?",
+    "href": "/en/insights/edge/qa-sap-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1235,
+    "w": 283,
+    "h": 47,
+    "text": "what is a practical use case: janna, the sales representative?",
+    "href": "/en/insights/edge/qa-sap-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1307,
+    "w": 278,
+    "h": 47,
+    "text": "what is the strategic value of intelligent q&a for enterprises?",
+    "href": "/en/insights/edge/qa-sap-ai"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 1379,
+    "w": 300,
+    "h": 47,
+    "text": "why do we invest in intelligent cx and the sap cx ai toolkit?",
+    "href": "/en/insights/edge/qa-sap-ai"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#what-is-the-intelligent-qa-sap-cx-ai-toolkit-and-how-does-joule-support-it",
+    "x": 24,
+    "y": 1830,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "what is the intelligent q&a sap cx ai toolkit and how does joule support it?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 1926,
+    "w": 312,
+    "h": 264,
+    "text": "The , powered by , SAP’s AI orchestrator is more than a data provider. It marks "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > a",
+    "x": 105,
+    "y": 2121,
+    "w": 148,
+    "h": 18,
+    "text": "sap’s cx ai toolkit",
+    "href": "/en/insights/edge/guide-so-nutzen-sie-das-sap-cx-ai-toolkit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#how-does-joule-power-intelligent-conversations-in-customer-experience",
+    "x": 24,
+    "y": 2218,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "how does joule power intelligent conversations in customer experience?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2313,
+    "w": 312,
+    "h": 144,
+    "text": "Joule acts as SAP’s super orchestrator, intelligently connecting AI across the e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 2481,
+    "w": 312,
+    "h": 168,
+    "text": "The applies this capability specifically to customer experience, bridging , , , "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#how-does-intelligent-qa-handle-query-resolution-effectively",
+    "x": 24,
+    "y": 2677,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "how does intelligent q&a handle query resolution effectively?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 71,
+    "y": 2772,
+    "w": 265,
+    "h": 72,
+    "text": "“What was the delivery status for Order 345 last week?”"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 71,
+    "y": 2860,
+    "w": 265,
+    "h": 144,
+    "text": "The agent scans indexed enterprise content (emails, contracts, orders) using sem"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 71,
+    "y": 3020,
+    "w": 265,
+    "h": 96,
+    "text": "Joule enriches the query with metadata and related business entities."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 71,
+    "y": 3132,
+    "w": 265,
+    "h": 96,
+    "text": "A verified answer is generated, including document references and source links."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ol > li",
+    "x": 71,
+    "y": 3244,
+    "w": 265,
+    "h": 96,
+    "text": "All processing follows zero-data retention principles and GDPR-compliant governa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3364,
+    "w": 312,
+    "h": 96,
+    "text": "Each question is handled independently to ensure precision and prevent conversat"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#what-is-a-practical-use-case-janna-the-sales-representative",
+    "x": 24,
+    "y": 3488,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "what is a practical use case: janna, the sales representative?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3583,
+    "w": 312,
+    "h": 72,
+    "text": "Example: Sales rep Janna spends too much time searching for information before e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3679,
+    "w": 312,
+    "h": 120,
+    "text": "With , Janna simply asks Joule: “Show me the last three interactions with Custom"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 3823,
+    "w": 312,
+    "h": 96,
+    "text": "Within seconds, she receives a consolidated summary with verified data from , , "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > p > strong",
+    "x": 24,
+    "y": 3946,
+    "w": 123,
+    "h": 18,
+    "text": "Results include:"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 3983,
+    "w": 265,
+    "h": 24,
+    "text": "40% faster query resolution"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4023,
+    "w": 265,
+    "h": 48,
+    "text": "Higher customer satisfaction and first-call resolution"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4087,
+    "w": 265,
+    "h": 48,
+    "text": "Consistent answers backed by verified source data"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#what-is-the-strategic-value-of-intelligent-qa-for-enterprises",
+    "x": 24,
+    "y": 4163,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "what is the strategic value of intelligent q&a for enterprises?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4258,
+    "w": 265,
+    "h": 72,
+    "text": "Reduces manual data lookup and context switching"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4346,
+    "w": 265,
+    "h": 48,
+    "text": "Every response is traceable to source systems"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4410,
+    "w": 265,
+    "h": 48,
+    "text": "No new UI, native to SAP and Microsoft environments"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-body > ul > li",
+    "x": 71,
+    "y": 4474,
+    "w": 265,
+    "h": 72,
+    "text": "Supports multilingual queries and custom knowledge domains"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4570,
+    "w": 312,
+    "h": 96,
+    "text": "In essence, the transforms enterprise systems from information repositories into"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-title > h2#why-do-we-invest-in-intelligent-cx-and-the-sap-cx-ai-toolkit",
+    "x": 24,
+    "y": 4694,
+    "w": 312,
+    "h": 79,
+    "level": 2,
+    "text": "why do we invest in intelligent cx and the sap cx ai toolkit?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 4790,
+    "w": 312,
+    "h": 216,
+    "text": "At , we believe the next competitive advantage lies in — systems that not only e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic > div.topic-body > p",
+    "x": 24,
+    "y": 5030,
+    "w": 312,
+    "h": 72,
+    "text": "Would you like to learn more about specific use cases and your possibilities?"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.topic-buttons > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 5158,
+    "w": 192,
+    "h": 64,
+    "text": "get in touch",
+    "href": "/en/about-us/partner/sap"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 5362,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 5362,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 5414,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5515,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5559,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5603,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 5603,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 5603,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5647,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 5647,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5691,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 5691,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 5691,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5735,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 5735,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 5735,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5779,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 5779,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 5779,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 5863,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 5907,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 5984,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 5984,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 5984,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 6045,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 118,
+    "controls": 37,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "how to use the intelligent q&a sap cx ai toolkit",
+   "variable": false,
+   "origin": {
+    "link": 6,
+    "button": 1,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "what is the intelligent q&a sap cx ai toolkit and how does joule support it?",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "how does joule power intelligent conversations in customer experience?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "how does intelligent q&a handle query resolution effectively?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "what is a practical use case: janna, the sales representative?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 7,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 7,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "what is the strategic value of intelligent q&a for enterprises?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "why do we invest in intelligent cx and the sap cx ai toolkit?",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"how to use the intelligent q&a sap cx ai toolkit\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 76,
+    "y": 632,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 96,
+    "y": 632,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 105,
+    "y": 632,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 656,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 62,
+    "y": 656,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 701,
+    "w": 170,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 729,
+    "w": 232,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 758,
+    "w": 146,
+    "h": 28
+   },
+   {
+    "x": 52,
+    "y": 806,
+    "w": 255,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 833,
+    "w": 166,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 98,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1043,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1084,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1108,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1149,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1173,
+    "w": 162,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1214,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1238,
+    "w": 153,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1279,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1303,
+    "w": 154,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1344,
+    "w": 305,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1368,
+    "w": 136,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1440,
+    "w": 302,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1467,
+    "w": 227,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1494,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1521,
+    "w": 265,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1548,
+    "w": 274,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1575,
+    "w": 266,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1602,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1629,
+    "w": 237,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1656,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1787,
+    "w": 308,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1814,
+    "w": 298,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1840,
+    "w": 249,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1887,
+    "w": 35,
+    "h": 18
+   },
+   {
+    "x": 59,
+    "y": 1887,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1911,
+    "w": 52,
+    "h": 18
+   },
+   {
+    "x": 76,
+    "y": 1911,
+    "w": 105,
+    "h": 18
+   },
+   {
+    "x": 182,
+    "y": 1911,
+    "w": 42,
+    "h": 18
+   },
+   {
+    "x": 224,
+    "y": 1911,
+    "w": 72,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1935,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1959,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1983,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 205,
+    "y": 1983,
+    "w": 82,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2007,
+    "w": 77,
+    "h": 18
+   },
+   {
+    "x": 101,
+    "y": 2007,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2031,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 95,
+    "y": 2031,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2055,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2079,
+    "w": 81,
+    "h": 18
+   },
+   {
+    "x": 105,
+    "y": 2079,
+    "w": 148,
+    "h": 18
+   },
+   {
+    "x": 253,
+    "y": 2079,
+    "w": 64,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2103,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2127,
+    "w": 157,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2175,
+    "w": 251,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2201,
+    "w": 301,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2227,
+    "w": 248,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2274,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2298,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2322,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2346,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2370,
+    "w": 83,
+    "h": 18
+   },
+   {
+    "x": 107,
+    "y": 2370,
+    "w": 213,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2394,
+    "w": 88,
+    "h": 18
+   },
+   {
+    "x": 112,
+    "y": 2394,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2442,
+    "w": 35,
+    "h": 18
+   },
+   {
+    "x": 59,
+    "y": 2442,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2466,
+    "w": 137,
+    "h": 18
+   },
+   {
+    "x": 161,
+    "y": 2466,
+    "w": 173,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2490,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2514,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 93,
+    "y": 2514,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 203,
+    "y": 2514,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 212,
+    "y": 2514,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2538,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 134,
+    "y": 2538,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 143,
+    "y": 2538,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 265,
+    "y": 2538,
+    "w": 38,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2562,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 252,
+    "y": 2562,
+    "w": 45,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2586,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 126,
+    "y": 2586,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2634,
+    "w": 291,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2660,
+    "w": 264,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 2687,
+    "w": 132,
+    "h": 28
+   },
+   {
+    "x": 71,
+    "y": 2733,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2757,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2781,
+    "w": 177,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2821,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2845,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2869,
+    "w": 195,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2893,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2917,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2941,
+    "w": 105,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2981,
+    "w": 183,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3005,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3029,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3053,
+    "w": 67,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3093,
+    "w": 203,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3117,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3141,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3165,
+    "w": 135,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3205,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3229,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3253,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3277,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3325,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3349,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3373,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3397,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3445,
+    "w": 252,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3471,
+    "w": 242,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3498,
+    "w": 173,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 3544,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3568,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3592,
+    "w": 186,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3640,
+    "w": 40,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 3640,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3664,
+    "w": 52,
+    "h": 18
+   },
+   {
+    "x": 76,
+    "y": 3664,
+    "w": 206,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3688,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3712,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3736,
+    "w": 101,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3784,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3808,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3832,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 104,
+    "y": 3832,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 197,
+    "y": 3832,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 206,
+    "y": 3832,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 268,
+    "y": 3832,
+    "w": 38,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3856,
+    "w": 131,
+    "h": 18
+   },
+   {
+    "x": 155,
+    "y": 3856,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3904,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3944,
+    "w": 219,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3984,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4008,
+    "w": 151,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4048,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4072,
+    "w": 160,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4120,
+    "w": 297,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4147,
+    "w": 244,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4173,
+    "w": 137,
+    "h": 28
+   },
+   {
+    "x": 71,
+    "y": 4219,
+    "w": 99,
+    "h": 18
+   },
+   {
+    "x": 170,
+    "y": 4219,
+    "w": 132,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4243,
+    "w": 189,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4267,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4307,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 151,
+    "y": 4307,
+    "w": 142,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4331,
+    "w": 225,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4371,
+    "w": 76,
+    "h": 18
+   },
+   {
+    "x": 147,
+    "y": 4371,
+    "w": 163,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4395,
+    "w": 258,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4435,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 156,
+    "y": 4435,
+    "w": 168,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4459,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4483,
+    "w": 70,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4531,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 147,
+    "y": 4531,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4555,
+    "w": 73,
+    "h": 18
+   },
+   {
+    "x": 97,
+    "y": 4555,
+    "w": 172,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4579,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4603,
+    "w": 34,
+    "h": 18
+   },
+   {
+    "x": 58,
+    "y": 4603,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 326,
+    "y": 4603,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4651,
+    "w": 222,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4678,
+    "w": 297,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4704,
+    "w": 156,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 4751,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "x": 45,
+    "y": 4751,
+    "w": 142,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 4751,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4775,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4799,
+    "w": 136,
+    "h": 18
+   },
+   {
+    "x": 160,
+    "y": 4799,
+    "w": 156,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4823,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4847,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4871,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4895,
+    "w": 192,
+    "h": 18
+   },
+   {
+    "x": 216,
+    "y": 4895,
+    "w": 76,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4919,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4943,
+    "w": 90,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4991,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5015,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5039,
+    "w": 104,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 5136,
+    "w": 115,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 5320,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 5320,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5371,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5404,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 5473,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5517,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5561,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 5561,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 5561,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5605,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 5605,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5649,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 5649,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 5649,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5693,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 5693,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 5693,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5737,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 5737,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 5737,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5819,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 5822,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5866,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 76,
+    "y": 632,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 632,
+    "w": 123,
+    "h": 17
+   },
+   {
+    "x": 67,
+    "y": 656,
+    "w": 97,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 701,
+    "w": 167,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 729,
+    "w": 222,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 758,
+    "w": 142,
+    "h": 27
+   },
+   {
+    "x": 52,
+    "y": 806,
+    "w": 255,
+    "h": 20
+   },
+   {
+    "x": 52,
+    "y": 833,
+    "w": 166,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1482,
+    "w": 302,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1509,
+    "w": 227,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1536,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1563,
+    "w": 265,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1590,
+    "w": 274,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1617,
+    "w": 266,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1644,
+    "w": 277,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1671,
+    "w": 237,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 1698,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 56,
+    "y": 962,
+    "w": 93,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1019,
+    "w": 272,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1049,
+    "w": 271,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1091,
+    "w": 234,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1121,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1163,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1193,
+    "w": 154,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1235,
+    "w": 283,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1265,
+    "w": 152,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1307,
+    "w": 278,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1337,
+    "w": 149,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1379,
+    "w": 300,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1409,
+    "w": 135,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1829,
+    "w": 294,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1856,
+    "w": 295,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1882,
+    "w": 242,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1929,
+    "w": 35,
+    "h": 18
+   },
+   {
+    "x": 59,
+    "y": 1929,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1953,
+    "w": 52,
+    "h": 18
+   },
+   {
+    "x": 76,
+    "y": 1953,
+    "w": 105,
+    "h": 18
+   },
+   {
+    "x": 182,
+    "y": 1953,
+    "w": 42,
+    "h": 18
+   },
+   {
+    "x": 224,
+    "y": 1953,
+    "w": 72,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1977,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2001,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2025,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 205,
+    "y": 2025,
+    "w": 82,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2049,
+    "w": 77,
+    "h": 18
+   },
+   {
+    "x": 101,
+    "y": 2049,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2073,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 95,
+    "y": 2073,
+    "w": 231,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2097,
+    "w": 278,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2121,
+    "w": 81,
+    "h": 18
+   },
+   {
+    "x": 105,
+    "y": 2121,
+    "w": 148,
+    "h": 18
+   },
+   {
+    "x": 253,
+    "y": 2121,
+    "w": 64,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2145,
+    "w": 294,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2169,
+    "w": 157,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2217,
+    "w": 249,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2243,
+    "w": 290,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2269,
+    "w": 251,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2316,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2340,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2364,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2388,
+    "w": 297,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2412,
+    "w": 83,
+    "h": 18
+   },
+   {
+    "x": 107,
+    "y": 2412,
+    "w": 213,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2436,
+    "w": 88,
+    "h": 18
+   },
+   {
+    "x": 112,
+    "y": 2436,
+    "w": 5,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2484,
+    "w": 35,
+    "h": 18
+   },
+   {
+    "x": 59,
+    "y": 2484,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2508,
+    "w": 137,
+    "h": 18
+   },
+   {
+    "x": 161,
+    "y": 2508,
+    "w": 173,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2532,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2556,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 93,
+    "y": 2556,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 203,
+    "y": 2556,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 212,
+    "y": 2556,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2580,
+    "w": 110,
+    "h": 18
+   },
+   {
+    "x": 134,
+    "y": 2580,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 143,
+    "y": 2580,
+    "w": 122,
+    "h": 18
+   },
+   {
+    "x": 265,
+    "y": 2580,
+    "w": 38,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2604,
+    "w": 228,
+    "h": 18
+   },
+   {
+    "x": 252,
+    "y": 2604,
+    "w": 45,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2628,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 126,
+    "y": 2628,
+    "w": 5,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2676,
+    "w": 280,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2702,
+    "w": 257,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 2729,
+    "w": 123,
+    "h": 27
+   },
+   {
+    "x": 71,
+    "y": 2775,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2799,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2823,
+    "w": 172,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2863,
+    "w": 218,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2887,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2911,
+    "w": 195,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2935,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2959,
+    "w": 260,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 2983,
+    "w": 100,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3023,
+    "w": 183,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3047,
+    "w": 230,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3071,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3095,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3135,
+    "w": 203,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3159,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3183,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3207,
+    "w": 131,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3247,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3271,
+    "w": 249,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3295,
+    "w": 241,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3319,
+    "w": 176,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3367,
+    "w": 310,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3391,
+    "w": 246,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3415,
+    "w": 299,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3439,
+    "w": 306,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3487,
+    "w": 249,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3513,
+    "w": 246,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3540,
+    "w": 170,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 3586,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3610,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3634,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3682,
+    "w": 40,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 3682,
+    "w": 251,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3706,
+    "w": 52,
+    "h": 18
+   },
+   {
+    "x": 76,
+    "y": 3706,
+    "w": 201,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3730,
+    "w": 282,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3754,
+    "w": 303,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3778,
+    "w": 96,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3826,
+    "w": 240,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3850,
+    "w": 276,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3874,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 104,
+    "y": 3874,
+    "w": 93,
+    "h": 18
+   },
+   {
+    "x": 197,
+    "y": 3874,
+    "w": 10,
+    "h": 18
+   },
+   {
+    "x": 206,
+    "y": 3874,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 268,
+    "y": 3874,
+    "w": 38,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3898,
+    "w": 131,
+    "h": 18
+   },
+   {
+    "x": 155,
+    "y": 3898,
+    "w": 5,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 3946,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 3986,
+    "w": 214,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4026,
+    "w": 257,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4050,
+    "w": 146,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4090,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4114,
+    "w": 155,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4162,
+    "w": 290,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4189,
+    "w": 227,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4215,
+    "w": 136,
+    "h": 27
+   },
+   {
+    "x": 71,
+    "y": 4261,
+    "w": 99,
+    "h": 18
+   },
+   {
+    "x": 170,
+    "y": 4261,
+    "w": 132,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4285,
+    "w": 189,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4309,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4349,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 151,
+    "y": 4349,
+    "w": 142,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4373,
+    "w": 220,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4413,
+    "w": 76,
+    "h": 18
+   },
+   {
+    "x": 147,
+    "y": 4413,
+    "w": 163,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4437,
+    "w": 253,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4477,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 156,
+    "y": 4477,
+    "w": 168,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4501,
+    "w": 242,
+    "h": 18
+   },
+   {
+    "x": 71,
+    "y": 4525,
+    "w": 65,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4573,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 147,
+    "y": 4573,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4597,
+    "w": 73,
+    "h": 18
+   },
+   {
+    "x": 97,
+    "y": 4597,
+    "w": 172,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4621,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4645,
+    "w": 34,
+    "h": 18
+   },
+   {
+    "x": 58,
+    "y": 4645,
+    "w": 268,
+    "h": 18
+   },
+   {
+    "x": 326,
+    "y": 4645,
+    "w": 5,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4693,
+    "w": 220,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4720,
+    "w": 292,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4746,
+    "w": 153,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 4793,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "x": 45,
+    "y": 4793,
+    "w": 142,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 4793,
+    "w": 123,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4817,
+    "w": 266,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4841,
+    "w": 136,
+    "h": 18
+   },
+   {
+    "x": 160,
+    "y": 4841,
+    "w": 156,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4865,
+    "w": 301,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4889,
+    "w": 250,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4913,
+    "w": 311,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4937,
+    "w": 192,
+    "h": 18
+   },
+   {
+    "x": 216,
+    "y": 4937,
+    "w": 76,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4961,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 4985,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5033,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5057,
+    "w": 216,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 5081,
+    "w": 99,
+    "h": 18
+   },
+   {
+    "x": 64,
+    "y": 5179,
+    "w": 112,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 5362,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 5362,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5414,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5447,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 5515,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5559,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5603,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 5603,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 5603,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5647,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 5647,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5691,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 5691,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 5691,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5735,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 5735,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 5735,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5779,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 5779,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 5779,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 5861,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 5864,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 5908,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

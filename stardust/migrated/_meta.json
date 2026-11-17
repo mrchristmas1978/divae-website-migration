@@ -1,0 +1,563 @@
+{
+  "slug": "index",
+  "type": "landing",
+  "renderBranch": "A'",
+  "template": "en",
+  "modules": [
+    "hero",
+    "cards",
+    "teaser-slider",
+    "slider-cards",
+    "partners-bar",
+    "form-block"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "hero",
+    "style",
+    "style",
+    "cards",
+    "teaser-slider",
+    "slider-cards",
+    "partners-bar",
+    "cards",
+    "form-block"
+  ],
+  "canonShas": {
+    "header": "850e0cea0dc4",
+    "footer": "eb22b3f55c59",
+    "css": "89712814bf67"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Ihr Digital Experience Partner | diva-e Conclusion",
+    "description": "diva-e Conclusion ist Ihr Partner für digitale Exzellenz: Von Strategie bis Umsetzung bieten wir End-to-End-Lösungen für nachhaltigen Geschäftserfolg.",
+    "canonical": null,
+    "lang": "de"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Ihr Digital Experience Partner | diva-e Conclusion",
+    "description": "diva-e Conclusion ist Ihr Partner für digitale Exzellenz: Von Strategie bis Umsetzung bieten wir End-to-End-Lösungen für nachhaltigen Geschäftserfolg.",
+    "url": "https://www.diva-e.com/"
+  },
+  "migratedAt": "2026-11-13T14:39:03Z",
+  "designMdSha": "4192de5ef972",
+  "designJsonSha": "9768d88354b7",
+  "sourceCurrentSha": "23f786139630",
+  "sourceProposedSha": "9c4040ab23c3",
+  "fidelityTier": "sibling",
+  "archetypeSource": "en",
+  "archetypeSha": "9e07831ac627",
+  "variants": [
+    "text narrow-heading"
+  ],
+  "gatesPassed": [
+    "content-fidelity",
+    "variance-probe",
+    "content-count",
+    "delivery-lint",
+    "media-reconcile"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "content/index.html encoded verbatim from stardust/current/pages/index.html by stardust/.work/rollout/landing-cluster/encode-index.cjs (archetype encoder slotting); variance probe stardust/.work/rollout/landing-cluster/variance.json: height-only deltas (text/cards/teaser/form), no variant",
+    "variance-probe": "sibling-variance en vs / (stardust/.work/rollout/landing-cluster/variance.json, landingc-variance.log): height-only deltas text/cards/teaser-slider/form; no variant from the probe",
+    "content-count": "capture .page vs content/index.html: headings 19/18, hrefs 49/49, paragraphs 17/15, images 41/42 — every drop is the Usercentrics consent wall (contentDeviations[0])",
+    "delivery-lint": "0 P0 · 1 P1 (one-cta-per-p false positive on the hero's inline industry links + strong, same as /en) · 2 P2",
+    "media-reconcile": "42 hosted (media-ledger verified offline), 5 new landing media uploaded (landingc-media.log)"
+  },
+  "contentDeviations": [
+    {
+      "kind": "drop",
+      "source": ".form-block .uc-embedding-container (Usercentrics consent wall: h3 'Wir benötigen Ihre Zustimmung…', 2 p, 2 buttons, powered-by link)",
+      "target": "form-block (HubSpot portal 3937475 form 4d6ce1e5…, German labels/consent copy from the form definition)",
+      "reason": "consent banner placeholder (drop deliberately); the live page renders the HubSpot form once consent is given — variance probe measured .form-block 1235px"
+    }
+  ],
+  "assetsBundled": 11,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/en/search/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/services/digital-marketing/audits/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/digital-business-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/technology-architecture-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/strategic-transformation/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/e-commerce-platform/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/karriereportal/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/gaio/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/omnichannel-marketing/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-security/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cybersecurity/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/marketplace/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/customers/interamt/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/interamt/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/interamt/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/locations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/press/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/news/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/search/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/de/branchen/b2b-manufacturing",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/branchen/automotive",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/branchen/retail",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/branchen/pharma",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/branchen/financial-services",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/services/total-experience",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/services/digital-consulting",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/services/dxp",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/services/digital-marketing",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/services/ams",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/kunden/carl-zeiss-ag",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/kunden/edeka",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/kunden/dmtech",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/kunden/eon",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/news/diva-e-entwickelt-online-shop-fuer-weleda",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/kunden/schott",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/kunden/fc-bayern-muenchen",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/kunden/viega",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/downloads/luenendonk",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/news/sirko-schneppe-wird-neuer-ceo-von-diva-e-conclusion",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/news/diva-e-conclusion-startet-marketplace-fuer-produktisierte-digital-services",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/presse/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/news/diva-e-conclusion-migriert-aumovios-digitale-plattform",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/news/diva-e-conclusion-staerkt-sap-kompetenz-im-internationalen-conclusion-netzwerk",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/presse/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/news/diva-e-conclusion-google-premier-partner-2026",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/news/adobe-platinum-status",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/insights/news/kyowakirin",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/adobe/adobe-experience-cloud",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/spryker",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/salesforce",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/sap",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/microsoft",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/google",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/akeneo",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/commercetools",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/scayle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/vtex",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/stibo-systems",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/bloomreach",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/crownpeak/crownpeak-leistungen",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/storyblok",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/dotcms",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/pimcore",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner/algolia",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns/partner",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns#certificate",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/ueber-uns#certificate",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/de/datenschutz",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/newsletter/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/sap/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/salesforce/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/data-privacy/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/data-privacy/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/newsletter/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "index.html",
+  "outputPathDefault": null,
+  "sidecar": "_meta.json",
+  "driverVersion": "1"
+}

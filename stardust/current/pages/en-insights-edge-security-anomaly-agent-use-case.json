@@ -1,0 +1,875 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T09:57:42.293Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-insights-edge-security-anomaly-agent-use-case",
+  "url": "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T09:57:42.293Z",
+  "finalUrl": "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/",
+  "title": "Security Anomaly Agent – AI-powered Attack Detection & Anomaly Detection | diva-e Conclusion",
+  "description": "The Security Anomaly Agent detects anomalous behavior in Azure environments, correlates security events, and reduces alert overload through AI-powered threat detection.",
+  "og": {
+    "title": "Security Anomaly Agent – AI-powered Attack Detection & Anomaly Detection | diva-e Conclusion",
+    "description": "The Security Anomaly Agent detects anomalous behavior in Azure environments, correlates security events, and reduces alert overload through AI-powered threat detection.",
+    "image": "https://a.storyblok.com/f/194188/800x420/2f253d4b5d/og-image.png",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Security Anomaly Agent – AI-powered attack detection"
+    },
+    {
+      "tag": "h2",
+      "text": "Why traditional SIEM rules are often no longer sufficient"
+    },
+    {
+      "tag": "h2",
+      "text": "Security anomaly detection: identifying anomalies before rules take effect"
+    },
+    {
+      "tag": "h2",
+      "text": "Practical example: a typical attack scenario in Azure environments"
+    },
+    {
+      "tag": "h2",
+      "text": "How the Security Anomaly Agent makes correlations visible"
+    },
+    {
+      "tag": "h2",
+      "text": "From billions of log entries to a few relevant incidents"
+    },
+    {
+      "tag": "h2",
+      "text": "Measurable value for security teams"
+    },
+    {
+      "tag": "h2",
+      "text": "Why AI-based anomaly detection will become the standard"
+    },
+    {
+      "tag": "h2",
+      "text": "Conclusion"
+    }
+  ],
+  "body": [
+    "ServicesDigital ConsultingAuditsDigital Business ConsultingTechnology & Architecture Consultingdiva-e AIStrategic transformation with the 9-Grid modelUser ExperienceData Analytics & Business IntelligenceDigital Experience PlatformsE-Commerce PlatformsContent Management SystemKarriereportalCustomer Data PlatformProduct Information ManagementSystem Integration Customer Relationship ManagementDigital MarketingGAIO / GEOContentSEOPaid AdvertisingOmnichannel MarketingApplication Management ServiceApplication Management ServiceCloud ConsultingCloudsecurityCybersecurityTotal Experience",
+    "Marketplace",
+    "IndustriesTech Guide: Evaluate systems smartlyCompare ROI, TCO and business value with clarityDownload now!Financial Services Guide: Winning Customers SafelyDigital experiences that build trust and strengthen customer loyaltyRead now!AutomotiveB2B ManufacturingRetailFinancial Services",
+    "Partners",
+    "About usdiva-e Conclusion remains market leader in DXSLünendonk once again confirms our role as market leader.DownloadOur Latest Success Story: InteramtOptimized platform, improved UX, modern recruiting toolRead success storyAbout usManagementLocationSuccess StoriesPress",
+    "InsightsCyber Guide: How Firms Stay SafeOpportunities & Risks in CybersecurityDownload now!AI Search Guide: Ensure visibility!Strategic visibility in AI searches!Download now!NewsEvents & WebinarsBlogReferencesDownloads",
+    "Careers",
+    "de",
+    "en",
+    "From alert overload to clear security insights",
+    "Why traditional SIEM rules are often no longer sufficient",
+    "Security anomaly detection: identifying anomalies before rules take effect",
+    "Practical example: a typical attack scenario in Azure environments",
+    "How the Security Anomaly Agent makes correlations visible",
+    "From billions of log entries to a few relevant incidents",
+    "Measurable value for security teams",
+    "Why AI-based anomaly detection will become the standard",
+    "Conclusion",
+    "Many Security Operations teams are all too familiar with the situation: every morning, hundreds of new alerts are waiting for analysts. A large portion of them later turn out to be false positives. At the same time, uncertainty remains as to whether the first indicators of a real security incident are already hidden among thousands of seemingly uncritical events.",
+    "With the increasing shift of applications, data, and identities to the cloud, the volume of security data is growing rapidly. In Azure environments in particular, millions of log entries are generated daily from identity services, applications, firewalls, networks, and cloud services. However, more data does not automatically mean more security.",
+    "On the contrary: the larger the volume of data, the more difficult it becomes to identify relevant patterns and distinguish real threats from everyday system noise.",
+    "This is precisely where modern security anomaly detection is becoming increasingly important.",
+    "SIEM systems form the central data hub of many security architectures. They collect security events from a wide variety of sources, standardize the data base, and correlate individual events. This creates the necessary transparency for security teams.",
+    "However, problems arise when attacks are deliberately designed to bypass existing rules: attackers today know exactly which thresholds many companies have defined. Instead of thousands of login attempts within minutes, they distribute their activities over days or weeks. Instead of a single suspicious source, they use hundreds of different IP addresses. The result: instead of an obvious attack, many small events are generated that appear harmless on their own.",
+    "For rule-based systems, this is a major challenge: what appears unremarkable in isolation may already indicate an ongoing attack in the overall context.",
+    "Another issue is that most security teams do not have unlimited resources. While the number of security events continues to rise, staffing budgets and analyst capacity often remain unchanged.",
+    "The result: overloaded teams, high false-positive rates, and increasing alert fatigue.",
+    "Modern cybersecurity monitoring methods such as the diva-e Conclusion Security Anomaly Agent take a different approach. Instead of only searching for known attack patterns, they continuously analyze the normal behavior within an infrastructure and identify deviations from it. The focus is not on individual events, but on correlations.",
+    "Example: a single login from an unusual region may be completely legitimate. However, if similar activities occur across multiple user accounts, access patterns change, or certain events accumulate over a longer period, a different picture emerges. AI-powered anomaly detection helps make these patterns visible.",
+    "This enables not only the identification of known threats but also new attack techniques for which no fixed rules or signatures exist yet.",
+    "The diva-e Security Anomaly Agent continuously analyzes Azure and JSON log data for behavioral deviations. It does not evaluate individual events in isolation but instead considers relationships across data sources, user accounts, systems, and time periods.",
+    "Rather than reacting solely to defined rules, the agent identifies patterns that deviate from normal operational behavior and may indicate a security incident.",
+    "An internationally operating e-commerce company runs its entire platform on Azure and processes millions of customer requests daily.",
+    "The infrastructure generates more than two billion log entries per month.",
+    "The infrastructure generates more than two billion log entries per month.",
+    "At the same time, the security team consists of only a few specialized analysts who must evaluate several hundred security alerts every day.",
+    "At the same time, the security team consists of only a few specialized analysts who must evaluate several hundred security alerts every day.",
+    "Despite an established SIEM system, employees spend a significant portion of their working time analyzing alerts that later turn out to be non-critical.",
+    "Despite an established SIEM system, employees spend a significant portion of their working time analyzing alerts that later turn out to be non-critical.",
+    "The attack begins inconspicuously, and at first nothing unusual is noticeable.",
+    "A failed login from Spain, a few hours later another attempt from Canada. The next day login activity from South America and Eastern Europe. Each of these events initially appears harmless: no user account exceeds defined thresholds, no IP address generates an unusually high number of requests, and no single event triggers a critical alert.",
+    "What the security team does not yet recognize at this point: an attacker is already conducting a large-scale credential stuffing attack.",
+    "The activities are deliberately spread over several weeks. Different regions, different user accounts, and changing IP addresses ensure that traditional rule sets do not detect a clear correlation.",
+    "While individual login attempts initially appear unremarkable to the SIEM, our Security Anomaly Agent is already able to identify early changes in the overall pattern and recognizes that login behavior patterns of certain user groups are gradually shifting.",
+    "The diva-e Conclusion Security Anomaly Agent analyzes Azure and JSON log data continuously in real time. Instead of viewing each event in isolation, the solution evaluates behavioral patterns holistically and detects deviations from normal operational behavior.",
+    "Each event goes through several analysis phases:",
+    "Data ingestionLog data from Azure Monitor, Entra ID, firewalls, applications, and other sources is centrally processed.",
+    "Data ingestionLog data from Azure Monitor, Entra ID, firewalls, applications, and other sources is centrally processed.",
+    "Behavioral analysisThe agent learns typical activity patterns of users, applications, and systems.",
+    "Behavioral analysisThe agent learns typical activity patterns of users, applications, and systems.",
+    "Anomaly detectionDeviations from normal behavior are automatically identified.",
+    "Anomaly detectionDeviations from normal behavior are automatically identified.",
+    "CorrelationIndividual events are correlated across sources.",
+    "CorrelationIndividual events are correlated across sources.",
+    "PrioritizationRelated events are condensed into a small number of relevant security incidents.",
+    "PrioritizationRelated events are condensed into a small number of relevant security incidents.",
+    "As a result, a large number of individual log entries becomes a clearly prioritized security incident that can be immediately assessed by the security team. In the use case described above, the analysis identifies several anomalies simultaneously:",
+    "a gradual change in login behavior across different user groups",
+    "a gradual change in login behavior across different user groups",
+    "increasing login attempts from previously unknown locations",
+    "increasing login attempts from previously unknown locations",
+    "unusual temporal patterns that had not been observed before",
+    "unusual temporal patterns that had not been observed before",
+    "For a single analyst, these correlations would have required significant manual effort. However, the Security Anomaly Agent automatically correlates the events.",
+    "Information from different sources is combined:",
+    "Azure Entra ID logs",
+    "Azure Entra ID logs",
+    "Azure Monitor data",
+    "Azure Monitor data",
+    "application logs",
+    "application logs",
+    "network events",
+    "network events",
+    "authentication logs",
+    "authentication logs",
+    "other structured JSON log data",
+    "What initially appears to be many independent events is consolidated into a clearly recognizable attack pattern. The potential security incident can therefore be prioritized early and forwarded to the security team.",
+    "One of the biggest challenges in modern SOCs is not detecting events, but prioritizing them. Many organizations collect enormous amounts of data while simultaneously struggling with a flood of security alerts.",
+    "As a result, analysts often spend more time evaluating alerts than performing actual incident response.",
+    "The Security Anomaly Agent directly addresses this issue: instead of generating thousands of individual alerts, related events are automatically consolidated and prioritized.",
+    "The result: several thousand individual login events become a small number of relevant security incidents that can be investigated immediately.",
+    "For the SOC, this means:",
+    "significantly less alert noise",
+    "significantly less alert noise",
+    "fewer false positives",
+    "fewer false positives",
+    "faster analysis processes",
+    "faster analysis processes",
+    "clearer priorities",
+    "clearer priorities",
+    "better visibility of actual risks",
+    "The benefits of the Security Anomaly Agent and modern threat detection go far beyond simple attack detection. In the use case described, the attack can be identified much earlier than with purely rule-based approaches. At the same time, manual analysis effort is significantly reduced.",
+    "This results in several advantages:",
+    "faster response times to security incidents",
+    "faster response times to security incidents",
+    "higher efficiency in the Security Operations Center",
+    "higher efficiency in the Security Operations Center",
+    "better use of available personnel resources",
+    "better use of available personnel resources",
+    "greater transparency regarding critical risks",
+    "greater transparency regarding critical risks",
+    "improved scalability of large Azure environments",
+    "The threat landscape is evolving faster than traditional rule sets can be adapted. At the same time, data volumes, cloud services, and digital business processes continue to grow. This raises a central question for security leaders: how can relevant threats be detected without overwhelming the SOC with ever-increasing alerts?",
+    "AI-powered security anomaly detection provides a convincing answer. It complements existing SIEM and monitoring solutions by adding the ability to identify correlations that would otherwise remain hidden in the daily data noise.",
+    "Modern security teams face the challenge of reliably identifying the truly relevant security events within ever-growing volumes of data. Traditional rule-based approaches are increasingly reaching their limits, as they primarily cover known patterns but are rarely able to detect complex or slow-moving attack scenarios at an early stage.",
+    "The Security Anomaly Agent from diva-e Conclusion extends existing SIEM and monitoring structures with a behavior-based analysis layer. This enables earlier detection of anomalies, automatic correlation of events, and targeted prioritization of security incidents. As a result, large volumes of individual events are transformed into a few clearly assessable incidents – allowing security teams to use their resources more efficiently and effectively.",
+    "Dorothee Haensch has been a Senior Marketing Manager at diva-e since 2023. As an expert for content in the software sector, she gets to the bottom of the requirements of different industries and creates content that helps companies solve current problems and master future challenges.",
+    "Adobe Experience Cloud",
+    "Paid Advertising",
+    "Application Management",
+    "CDP",
+    "CMS",
+    "Content",
+    "Data Analysis",
+    "Online Marketing",
+    "OneProSeo",
+    "PIM",
+    "Monitor Reporting",
+    "SAP",
+    "SEO",
+    "Salesforce",
+    "AI",
+    "UX",
+    "diva-e © 2026",
+    "Imprint",
+    "Data protection",
+    "Jobs",
+    "Whistleblower system"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Services",
+      "href": null
+    },
+    {
+      "label": "Marketplace",
+      "href": "/en/marketplace/"
+    },
+    {
+      "label": "Industries",
+      "href": null
+    },
+    {
+      "label": "Partners",
+      "href": "/en/about-us/partner/"
+    },
+    {
+      "label": "About us",
+      "href": null
+    },
+    {
+      "label": "Insights",
+      "href": null
+    },
+    {
+      "label": "Careers",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop"
+    },
+    {
+      "label": "de",
+      "href": null
+    },
+    {
+      "label": "en",
+      "href": null
+    },
+    {
+      "label": "Contacts",
+      "href": "/en/contact/"
+    },
+    {
+      "label": "Why traditional SIEM rules are often no longer sufficient",
+      "href": "/en/insights/edge/security-anomaly-agent-use-case/#1"
+    },
+    {
+      "label": "Security anomaly detection: identifying anomalies before rules take effect",
+      "href": "/en/insights/edge/security-anomaly-agent-use-case/#2"
+    },
+    {
+      "label": "Practical example: a typical attack scenario in Azure environments",
+      "href": "/en/insights/edge/security-anomaly-agent-use-case/#3"
+    },
+    {
+      "label": "How the Security Anomaly Agent makes correlations visible",
+      "href": "/en/insights/edge/security-anomaly-agent-use-case/#4"
+    },
+    {
+      "label": "From billions of log entries to a few relevant incidents",
+      "href": "/en/insights/edge/security-anomaly-agent-use-case/#5"
+    },
+    {
+      "label": "Measurable value for security teams",
+      "href": "/en/insights/edge/security-anomaly-agent-use-case/#6"
+    },
+    {
+      "label": "Why AI-based anomaly detection will become the standard",
+      "href": "/en/insights/edge/security-anomaly-agent-use-case/#7"
+    },
+    {
+      "label": "Conclusion",
+      "href": "/en/insights/edge/security-anomaly-agent-use-case/#8"
+    },
+    {
+      "label": "SIEM systems form the central data hub of many security architectures",
+      "href": "https://www.diva-e.com/en/insights/edge/siemthe-key-to-cyber-security-of-the-future/"
+    },
+    {
+      "label": "modern SOCs",
+      "href": "https://www.diva-e.com/en/insights/edge/digital-security-without-soc-becomes-risky/"
+    },
+    {
+      "label": "Security Anomaly Agent",
+      "href": "https://www.diva-e.com/de/services/ams/cybersecurity/security-anomaly-agent/"
+    },
+    {
+      "label": "See all articles",
+      "href": "/en/insights/edge/authors/dorothee-haensch/"
+    },
+    {
+      "label": "Adobe Experience Cloud",
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+    },
+    {
+      "label": "Paid Advertising",
+      "href": "/en/services/digital-marketing/paid-advertising/"
+    },
+    {
+      "label": "Application Management",
+      "href": "/en/services/ams/application-management-services/"
+    },
+    {
+      "label": "CDP",
+      "href": "/en/services/dxp/cdp/"
+    },
+    {
+      "label": "CMS",
+      "href": "/en/services/dxp/cms/"
+    },
+    {
+      "label": "Content",
+      "href": "/en/services/digital-marketing/content/"
+    },
+    {
+      "label": "Data Analysis",
+      "href": "/en/services/dxp/data-analytics-bi/"
+    },
+    {
+      "label": "Online Marketing",
+      "href": "/en/services/digital-marketing/"
+    },
+    {
+      "label": "OneProSeo",
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+    },
+    {
+      "label": "PIM",
+      "href": "/en/services/dxp/pim/"
+    },
+    {
+      "label": "Monitor Reporting",
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+    },
+    {
+      "label": "SAP",
+      "href": "/en/about-us/partner/sap/"
+    },
+    {
+      "label": "SEO",
+      "href": "/en/services/digital-marketing/seo/"
+    },
+    {
+      "label": "Salesforce",
+      "href": "/en/about-us/partner/salesforce/"
+    },
+    {
+      "label": "AI",
+      "href": "/en/services/ai/"
+    },
+    {
+      "label": "UX",
+      "href": "/en/services/dxp/system-integration/ux-ui-design/"
+    },
+    {
+      "label": "Imprint",
+      "href": "/en/imprint/"
+    },
+    {
+      "label": "Data protection",
+      "href": "/en/data-privacy/"
+    },
+    {
+      "label": "Jobs",
+      "href": "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop"
+    },
+    {
+      "label": "Whistleblower system",
+      "href": "https://diva-e.interne-meldestelle.de/"
+    },
+    {
+      "label": "Subscribe to diva-e newsletter!",
+      "href": "/en/newsletter/"
+    }
+  ],
+  "links": [
+    "https://www.diva-e.com/en/",
+    "https://www.diva-e.com/en/search/",
+    "https://www.diva-e.com/en/services/digital-consulting/",
+    "https://www.diva-e.com/en/services/digital-marketing/audits/",
+    "https://www.diva-e.com/en/services/digital-consulting/digital-business-consulting/",
+    "https://www.diva-e.com/en/services/digital-consulting/technology-architecture-consulting/",
+    "https://www.diva-e.com/en/services/ai/",
+    "https://www.diva-e.com/en/services/digital-consulting/strategic-transformation/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/ux-ui-design/",
+    "https://www.diva-e.com/en/services/dxp/data-analytics-bi/",
+    "https://www.diva-e.com/en/services/dxp/",
+    "https://www.diva-e.com/en/services/dxp/e-commerce-platform/",
+    "https://www.diva-e.com/en/services/dxp/cms/",
+    "https://www.diva-e.com/en/services/dxp/karriereportal/",
+    "https://www.diva-e.com/en/services/dxp/cdp/",
+    "https://www.diva-e.com/en/services/dxp/pim/",
+    "https://www.diva-e.com/en/services/dxp/system-integration/",
+    "https://www.diva-e.com/en/services/crm/",
+    "https://www.diva-e.com/en/services/digital-marketing/",
+    "https://www.diva-e.com/en/services/digital-marketing/gaio/",
+    "https://www.diva-e.com/en/services/digital-marketing/content/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/",
+    "https://www.diva-e.com/en/services/digital-marketing/paid-advertising/",
+    "https://www.diva-e.com/en/services/digital-marketing/omnichannel-marketing/",
+    "https://www.diva-e.com/en/services/ams/",
+    "https://www.diva-e.com/en/services/ams/application-management-services/",
+    "https://www.diva-e.com/en/services/ams/cloud-consulting/",
+    "https://www.diva-e.com/en/services/ams/cloud-security/",
+    "https://www.diva-e.com/en/services/ams/cybersecurity/",
+    "https://www.diva-e.com/en/services/total-experience/",
+    "https://www.diva-e.com/en/marketplace/",
+    "https://www.diva-e.com/en/insights/downloads/b2b-tech-evaluierung-guide/",
+    "https://www.diva-e.com/en/insights/downloads/financial-services-guide/",
+    "https://www.diva-e.com/en/industries/automotive/",
+    "https://www.diva-e.com/en/industries/b2b-manufacturing/",
+    "https://www.diva-e.com/en/industries/retail/",
+    "https://www.diva-e.com/en/industries/financial-services/",
+    "https://www.diva-e.com/en/about-us/partner/",
+    "https://www.diva-e.com/en/insights/downloads/luenendonk/",
+    "https://www.diva-e.com/en/about-us/customers/interamt/",
+    "https://www.diva-e.com/en/about-us/",
+    "https://www.diva-e.com/en/about-us/management/",
+    "https://www.diva-e.com/en/about-us/locations/",
+    "https://www.diva-e.com/en/about-us/customers/",
+    "https://www.diva-e.com/en/insights/press/",
+    "https://www.diva-e.com/en/insights/downloads/cybersecurity-guide/",
+    "https://www.diva-e.com/en/insights/downloads/ai-search-guide/",
+    "https://www.diva-e.com/en/insights/news/",
+    "https://www.diva-e.com/en/insights/events/",
+    "https://www.diva-e.com/en/insights/edge/",
+    "https://www.diva-e.com/en/insights/downloads/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=navigation&utm_campaign=jobshop",
+    "https://www.diva-e.com/en/contact/",
+    "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/#1",
+    "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/#2",
+    "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/#3",
+    "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/#4",
+    "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/#5",
+    "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/#6",
+    "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/#7",
+    "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/#8",
+    "https://www.diva-e.com/en/insights/edge/siemthe-key-to-cyber-security-of-the-future/",
+    "https://www.diva-e.com/en/insights/edge/digital-security-without-soc-becomes-risky/",
+    "https://www.diva-e.com/de/services/ams/cybersecurity/security-anomaly-agent/",
+    "https://www.linkedin.com/in/dorothee-haensch-223688152/",
+    "https://www.diva-e.com/en/insights/edge/authors/dorothee-haensch/",
+    "https://career.diva-e.com/?utm_source=website&utm_medium=footer&utm_campaign=jobshop",
+    "https://diva-e.interne-meldestelle.de/",
+    "https://www.diva-e.com/en/newsletter/",
+    "https://www.diva-e.com/en/about-us/partner/adobe/adobe-experience-cloud/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/tools/oneproseo/",
+    "https://www.diva-e.com/en/services/digital-marketing/seo/monitoring-reporting/",
+    "https://www.diva-e.com/en/about-us/partner/sap/",
+    "https://www.diva-e.com/en/about-us/partner/salesforce/",
+    "https://www.diva-e.com/en/imprint/",
+    "https://www.diva-e.com/en/data-privacy/",
+    "https://www.instagram.com/divae.gmbh/",
+    "https://www.youtube.com/c/divaenterprise",
+    "https://www.linkedin.com/company/divaedigitalvalueexcellence/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/52464bfea5/strategic-technology-decisions-with-foresight_956x554px.jpg/m/600x",
+        "alt": "Strategic technology decisions with foresight",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/6a25352619/financeguide_en_956x554.jpg/m/600x",
+        "alt": "The Digital Experience Playbook for Financial Service Providers",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/474x267/d926129490/lunendonk-startseite-en.png/m/600x",
+        "alt": "Lünendonk Survey 2026 chart comparing DXS providers by portfolio width, depth, and market relevance, grouped as challengers, chasers, leaders",
+        "w": 600,
+        "h": 338
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/ba20a1b7e5/interamt_956x554px.png/m/600x",
+        "alt": "Smiling person talking with two others, overlayed with \"INTERAMT\" logo in orange and abstract door icon.",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/3824x2216/c39f42621c/en-security-guide_956x554.jpg/m/600x",
+        "alt": "3 Vulnerabilities that put your IT Security at Risk",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/956x554/0c00be16ec/ai-playbook_956x554px.png/m/600x",
+        "alt": "Two tablets display digital content from an \"AI Playbook\" on a blue background. The text reads: \"AI Playbook: Know-how, Tips, and Strategy.\"",
+        "w": 600,
+        "h": 348
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/7680x4050/e21898095b/gettyimages-1489414859.jpg/m/1920x",
+        "alt": "Developer Team",
+        "w": 1920,
+        "h": 1012
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/176x176/0c9ca22530/dorothee-haensch_176x176.jpeg/m/32x",
+        "alt": "Porträt von Dorothee Haensch",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://a.storyblok.com/f/194188/176x176/0c9ca22530/dorothee-haensch_176x176.jpeg/m/176x",
+        "alt": "Porträt von Dorothee Haensch",
+        "w": 176,
+        "h": 176
+      }
+    ],
+    "allImgCount": 9,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--font-slnt-normal": "0",
+    "--font-slnt-30-positive": "30",
+    "--gridColumnNumber": "4",
+    "--swiper-theme-color": "#007aff",
+    "--swiper-navigation-size": "44px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 107198,
+    "realImageCount": 9,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/core/zwbhh7MR",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 188,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/core/zwbhh7MR",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "api.storyblok.com",
+        "path": "/v2/cdn/stories",
+        "query": [
+          "by_uuids",
+          "content_type",
+          "cv",
+          "language",
+          "per_page",
+          "token",
+          "version"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 301,
+        "bytes": 786,
+        "hits": 6,
+        "example": "https://api.storyblok.com/v2/cdn/stories",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "v1.api.service.cmp.usercentrics.eu",
+        "path": "/latest/{n}/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "query": [
+          "isOutsideRegion"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/zwbhh7MR/179.37.251/179.37.251",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "ae",
+          "apvc",
+          "auid",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.ads_data_redaction",
+          "fmt",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google.com/ccm/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/rmkt/collect/{n}/",
+        "query": [
+          "async",
+          "auid",
+          "bg",
+          "cv",
+          "data",
+          "dma",
+          "en",
+          "ept",
+          "fmt",
+          "frm",
+          "fst",
+          "gcd",
+          "gcp",
+          "gtm",
+          "guid",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://www.google.com/rmkt/collect/16967774015/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "data.diva-e.com",
+        "path": "/g/collect",
+        "query": [
+          "_et",
+          "_eu",
+          "_p",
+          "_s",
+          "_tu",
+          "cid",
+          "dl",
+          "dma",
+          "dt",
+          "ecid",
+          "en",
+          "ep.consent_conversion_linker",
+          "ep.consent_google_ads",
+          "ep.consent_google_ads_conversion_tracking",
+          "ep.consent_google_ads_remarketing",
+          "ep.consent_google_analytics_4",
+          "ep.consent_hubspot",
+          "ep.consent_linkedin_insight_tag",
+          "ep.consent_microsoft_advertising",
+          "ep.consent_microsoft_conversion_tracking",
+          "evnid",
+          "frm",
+          "gap.sstd",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ibt",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "richsstsse",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "sst.gch",
+          "sst.lpc",
+          "sst.navt",
+          "sst.rnd",
+          "sst.sw_exp",
+          "sst.tft",
+          "sst.ude",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "up.user_referral_category",
+          "up.user_referral_dest",
+          "up.user_referral_location",
+          "ur",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 200,
+        "bytes": 1779,
+        "hits": 1,
+        "example": "https://data.diva-e.com/g/collect",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "api.hubapi.com",
+        "path": "/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "query": [
+          "portalId"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "forms.hscollectedforms.net",
+        "path": "/collected-forms/v1/config/json",
+        "query": [
+          "portalId",
+          "utk"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://forms.hscollectedforms.net/collected-forms/v1/config/json",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "web.cmp.usercentrics.eu",
+        "count": 9
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "googleads.g.doubleclick.net",
+        "count": 2
+      },
+      {
+        "host": "privacy-proxy.usercentrics.eu",
+        "count": 1
+      },
+      {
+        "host": "js.hs-scripts.com",
+        "count": 1
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 1
+      },
+      {
+        "host": "js.hs-banner.com",
+        "count": 1
+      },
+      {
+        "host": "js.hs-analytics.net",
+        "count": 1
+      },
+      {
+        "host": "js.hsadspixel.net",
+        "count": 1
+      },
+      {
+        "host": "js.hscollectedforms.net",
+        "count": 1
+      },
+      {
+        "host": "js-na1.hs-scripts.com",
+        "count": 1
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [
+      {
+        "id": "__NUXT_DATA__",
+        "type": "application/json",
+        "bytes": 91244,
+        "topLevelKeys": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      }
+    ],
+    "globalState": [
+      "__NUXT__",
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "nuxt"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 0,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 8,
+      "thirdPartyScriptHosts": 12,
+      "inlineDataBlobs": 1,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-insights-edge-security-anomaly-agent-use-case.png",
+  "renderedHtml": "pages/en-insights-edge-security-anomaly-agent-use-case.html"
+}

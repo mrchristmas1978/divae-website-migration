@@ -1,0 +1,12 @@
+{
+ "cache-control": "public,max-age=0,must-revalidate",
+ "content-security-policy": "frame-ancestors 'self' https://*.storyblok.com https://*.diva-e.com http://*.diva-e.com http://diva-e.com http://staffbase.com capacitor://blue.diva-e.com capacitor://staffbase.com;",
+ "permissions-policy": "geolocation=(), microphone=(), camera=()",
+ "referrer-policy": "no-referrer-when-downgrade",
+ "server": "Netlify",
+ "strict-transport-security": "max-age=31536000",
+ "x-content-type-options": "nosniff",
+ "x-frame-options": "SAMEORIGIN",
+ "x-nf-request-id": "01M7AEJNN3M0045147PGYR3G91",
+ "x-powered-by": "Nuxt"
+}

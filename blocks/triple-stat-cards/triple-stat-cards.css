@@ -1,0 +1,181 @@
+/* triple-stat-cards — source TripleStatCards (values from its stylesheet) */
+.triple-stat-cards {
+  padding: 0 var(--pad-x);
+}
+
+.triple-stat-cards:not(.dark-blue).top {
+  margin-top: 40px;
+}
+
+.triple-stat-cards:not(.dark-blue).bottom {
+  margin-bottom: 40px;
+}
+
+.triple-stat-cards.dark-blue {
+  margin: 0;
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+.triple-stat-cards.dark-blue.top {
+  padding-top: 40px;
+}
+
+.triple-stat-cards.dark-blue.bottom {
+  padding-bottom: 40px;
+}
+
+.triple-stat-cards .triple-stat-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.triple-stat-cards .triple-stat-cards-title.is-label p {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.triple-stat-cards .triple-stat-cards-title :is(h2, h3) {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+.triple-stat-cards .dot-blur-16 {
+  display: inline-flex;
+  align-items: center;
+}
+
+.triple-stat-cards .dot-blur-16::before {
+  content: "";
+  flex: none;
+  width: 16px;
+  height: 16px;
+  margin-right: 16px;
+  border-radius: 100%;
+  background: var(--blue);
+  filter: blur(4px);
+}
+
+.triple-stat-cards .triple-stat-cards-cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px 64px;
+  width: 100%;
+  margin-top: 40px;
+}
+
+.triple-stat-cards .triple-stat-cards-card {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px 40px;
+  border-radius: 16px;
+  box-shadow: 0 0 30px #0812351a;
+  text-align: center;
+}
+
+.triple-stat-cards .triple-stat-cards-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  background-color: #0812351a;
+}
+
+.triple-stat-cards.dark-blue .triple-stat-cards-card::before {
+  background-color: #edf0fb1a;
+}
+
+.triple-stat-cards :is(.triple-stat-cards-card-title, .triple-stat-cards-card-text) {
+  position: relative;
+  z-index: 1;
+}
+
+.triple-stat-cards .triple-stat-cards-card-icon {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: flex-end;
+  height: 100%;
+  margin-top: 64px;
+}
+
+.triple-stat-cards .triple-stat-cards-card-icon picture {
+  display: contents;
+}
+
+.triple-stat-cards .triple-stat-cards-card-icon img {
+  max-width: 170px;
+}
+
+@media (width >= 768px) {
+  .triple-stat-cards:not(.dark-blue).top {
+    margin-top: 64px;
+  }
+
+  .triple-stat-cards:not(.dark-blue).bottom {
+    margin-bottom: 64px;
+  }
+
+  .triple-stat-cards.dark-blue.top {
+    padding-top: 64px;
+  }
+
+  .triple-stat-cards.dark-blue.bottom {
+    padding-bottom: 64px;
+  }
+
+  .triple-stat-cards .triple-stat-cards-container {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+}
+
+@media (width >= 950px) {
+  .triple-stat-cards .triple-stat-cards-cards {
+    flex-flow: row wrap;
+    gap: 64px;
+  }
+
+  .triple-stat-cards .triple-stat-cards-card {
+    width: calc(50% - 32px);
+  }
+}
+
+@media (width >= 1200px) {
+  .triple-stat-cards:not(.dark-blue).top {
+    margin-top: 80px;
+  }
+
+  .triple-stat-cards:not(.dark-blue).bottom {
+    margin-bottom: 80px;
+  }
+
+  .triple-stat-cards.dark-blue.top {
+    padding-top: 80px;
+  }
+
+  .triple-stat-cards.dark-blue.bottom {
+    padding-bottom: 80px;
+  }
+
+  .triple-stat-cards .triple-stat-cards-title :is(h2, h3) {
+    font-size: 3.9rem;
+  }
+
+  .triple-stat-cards .triple-stat-cards-card {
+    width: calc(33.3333% - 42.6667px);
+  }
+}

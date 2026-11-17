@@ -1,0 +1,46 @@
+{
+  "a": "stardust/replica/gates/all-1440/en-security-quiz-security-questions/origin.png",
+  "b": "stardust/replica/gates/all-1440/en-security-quiz-security-questions/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 1968,
+    "mode": "overlap"
+  },
+  "heightDelta": 8,
+  "differingPixels": 38357,
+  "pct": 1.35,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/en-security-quiz-security-questions/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 20.59,
+  "textBoxes": 36,
+  "textPixels": 80364,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 1.2
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0.5
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0
+    },
+    {
+      "y0": 1500,
+      "y1": 1968,
+      "pct": 3.9
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--a608424f--aemcoder.aem.page/en/security-quiz/security-questions"
+  }
+}

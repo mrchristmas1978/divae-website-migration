@@ -1,0 +1,80 @@
+{
+  "archetype": "en-insights-edge-ai-radar-october",
+  "liveUrl": "https://www.diva-e.com/en/insights/edge/ai-radar-october/",
+  "prototype": "stardust/prototypes/en-insights-edge-ai-radar-october-proposed.html",
+  "canon": [
+    "stardust/prototypes/canon.css",
+    "stardust/prototypes/canon.js"
+  ],
+  "pageCss": "stardust/prototypes/en-insights-edge-ai-radar-october.css",
+  "pageJs": "stardust/prototypes/en-insights-edge-ai-radar-october.js",
+  "main": ".page",
+  "consent": "built-in (gate dismissOverlays cleared Usercentrics on both captures)",
+  "iterations": {
+    "1440": 3,
+    "360": 3
+  },
+  "confirmationRounds": [
+    "stardust/replica/gates/en-insights-edge-ai-radar-october-1440/verdict-iter3.json (--full)",
+    "stardust/replica/gates/en-insights-edge-ai-radar-october-360/verdict-iter3.json (--full)"
+  ],
+  "gates": {
+    "1440": {
+      "pixel": "0.87%",
+      "heightDelta": 0,
+      "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (1 advisory)",
+      "visualDiff": "12 advisory: FONT MISMATCH (GT Planar → Liberation Sans, register R-03, justified) + STRETCHED IMAGE author avatar 176x154→176x176 (source stretches identically: no object-fit on live, justified)",
+      "clipped": 0,
+      "overflow": "0px (scrollWidth 1440)"
+    },
+    "360": {
+      "pixel": "1.15%",
+      "heightDelta": 0,
+      "contentDiff": "0 🔴 / 0 nothing-lost 🟡 (227 advisory: mega-menu/drawer copy in header, same as landing)",
+      "visualDiff": "12 advisory: FONT MISMATCH (R-03, justified) + STRETCHED IMAGE author avatar (source-faithful, justified)",
+      "clipped": 0,
+      "overflow": "0px (scrollWidth 360)"
+    }
+  },
+  "capProbe": "PASS (2560; iter1 FAIL on a p>b width traced to <b> weight 700 vs source bolder→400, fixed; ≥1600 topics 9-of-10-of-right-aligned-10-of-12 model lifted)",
+  "residuals": [
+    "chrome-parity: 22 (1440) / 20 (360) per-text Δx/Δw ≤8px in canon header/footer — GT Planar substitute metrics (R-03); identical counts to the gated landing; canon not editable here",
+    "list-topics__circle (sticky 'Scroll to Topics' button ≥1024): click observed dead on live (no sampled change) — rendered static, no behaviour wired",
+    "Recommended Reads rail: Swiper at <1200 reproduced as a static overflow-clipped flex track (1.1 per view, 24px gap at <950 — measured); no drag/swipe; 768–1199 per-view count not gated (assumed 2 per view ≥950)",
+    "article-card 'View more' hover cursor (follows pointer) authored static at opacity 0 — hover probe measured no diff on live",
+    "motion MISSING on build: cursor-blur (site-wide custom cursor, chrome/canon level), header langs 'show' (canon header), swiper-slide-active/next bookkeeping classes (no visual change)"
+  ],
+  "captureState": [],
+  "motion": {
+    "observed": [
+      "reading-progress ring .progress-bar stroke-dashoffset on scroll (100ms linear, 401 events)",
+      "swiper-slide-active/next class flips (no movement at 1440)",
+      "body cursor-blur custom cursor",
+      "header langs 'show'"
+    ],
+    "implemented": [
+      "reading-progress ring scroll → stroke-dashoffset (en-insights-edge-ai-radar-october.js, 0.1s linear) — parity 401/401"
+    ],
+    "dead": [
+      "header scroll-morph",
+      "list-topics__circle click (no change)",
+      "article card image hover",
+      "article card title hover",
+      "btn--fill hover (no measured diff)"
+    ],
+    "compare": "stardust/replica/motion/en-insights-edge-ai-radar-october-compare.txt — 1 parity, 4 missing (cursor-blur, show, swiper-slide-active/next: chrome/bookkeeping), 0 extra"
+  },
+  "fonts": {
+    "body": "Inter self-hosted (canon)",
+    "headings": "\"GT Planar VF\" first, Liberation Sans substitute (R-03, canon)"
+  },
+  "unitsFamilies": "none declared (units.json is shared — see canonCandidates)",
+  "passed": true,
+  "canonCandidates": [
+    "b/strong: source leaves <b> at UA 'bolder' (300→400 in Inter body copy); canon sets 700 — scoped here as .topic__body b { font-weight: bolder }",
+    "<i>/<em> in Inter copy: source lets the browser synthesize oblique (Inter ships upright only); canon's global font-synthesis-style:none renders them upright — scoped here as .topic__body i { font-synthesis-style: auto }",
+    ".article-meta (dot-blur--12 label: 12px blurred dot, Inter 16/150%, GT Planar 500 categories) and .article-author (32px avatar + GT Planar 500 name) — shared by article hero, list-article-card and likely the insights listing archetype",
+    ".article-card (list-article-card: 12px-radius 56% media, 20px/130% title with 20px pad, 3-line clamped teaser) — reusable for insights listing / related rails",
+    "units.json family candidate: { \"article-card\": { origin: \".list-article-card\", build: \".article-card\", n: 3, pages: [\"en-insights-edge-ai-radar-october\"] } }"
+  ]
+}

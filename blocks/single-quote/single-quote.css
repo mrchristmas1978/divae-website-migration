@@ -1,0 +1,84 @@
+/* single-quote — source SingleQuote (dark variant on case studies) */
+.single-quote {
+  margin: 0 0 64px;
+  padding: 80px var(--pad-x);
+  overflow: hidden;
+}
+
+.single-quote.dark {
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+/* blue — source single-quote--blue (case studies): blue band, white text */
+.single-quote.blue {
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+.single-quote .single-quote-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 24px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.single-quote .single-quote-text {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0;
+}
+
+.single-quote .single-quote-text p {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: 300;
+  font-variation-settings: "slnt" 30;
+  line-height: 120%;
+}
+
+.single-quote .single-quote-author {
+  width: 100%;
+  margin-top: 32px;
+}
+
+.single-quote .single-quote-author p {
+  display: block;
+  font-size: 1.6rem;
+  line-height: 150%;
+}
+
+.single-quote .single-quote-name p {
+  font-weight: 700;
+}
+
+@media (width >= 768px) {
+  /* substitute compensation (R-03): Liberation Sans Italic sets ~3% narrower than
+     GT Planar slnt 30 light; the tracking restores the live line breaks */
+  .single-quote .single-quote-text p {
+    font-size: 2.4rem;
+    letter-spacing: 0.035em;
+  }
+}
+
+@media (width >= 1024px) {
+  .single-quote .single-quote-container {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+}
+
+@media (width >= 1200px) {
+  .single-quote {
+    margin-bottom: 80px;
+  }
+}
+
+@media (width >= 1600px) {
+  .single-quote .single-quote-text p {
+    font-size: 3.4rem;
+  }
+}

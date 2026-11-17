@@ -1,0 +1,27 @@
+[live-session] waiting to pace live navigations to www.diva-e.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 521 ms
+
+Content diff @ 1440px (profile "generic", roots: .page, header, footer)
+root ".page"
+  source: 112 text nodes — 22 headings, 0 eyebrows, 22 CTAs, 68 body; 29 img
+  build: 112 text nodes — 22 headings, 0 eyebrows, 22 CTAs, 68 body; 29 img
+  editable texts (outermost h*/p/ul/ol): source 54 / build 53
+  attributes (placeholder/aria-label/title): source 55 / build 55; icons: source 4 / build 4
+root "header"
+  source: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  build: 72 text nodes — 0 headings, 4 eyebrows, 58 CTAs, 10 body; 6 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 65 / build 65; icons: source 3 / build 3
+root "footer"
+  source: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  build: 27 text nodes — 0 headings, 0 eyebrows, 26 CTAs, 1 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 3 / build 3
+  attributes (placeholder/aria-label/title): source 30 / build 30; icons: source 4 / build 4
+
+Findings: 6 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 6
+  🟠 FONT FORK [.page]: 5 matched line(s) render a DIFFERENT face: body "*": source GT Planar VF vs build GT Planar VF→sys (-17%); body "*": source GT Planar VF vs build GT Planar VF→sys (-17%); body "*": source GT Planar VF vs build GT Planar VF→sys (-17%); body "*": source GT Planar VF vs build GT Planar VF→sys (-17%); body "*": source GT Planar VF vs build GT Planar VF→sys (-17%). A matched line renders a different typeface. A "→sys" on the source side means it named a font it never loaded; confirm the substitution is intended, else load the missing face.
+  🟡 EDITABLE COUNT [.page]: build has 53 outermost editable element(s) vs 54 in the source — fewer outermost editable elements after decoration usually means authored elements were rebuilt/merged — see deploy SKILL.md § Experience Workspace editability contract (run ew-editability-probe.mjs on the build URL for the per-block verdict).
+  🟡 ICON DIFF [.page]: source image viega_logo.png (56×56) vs build image viega_logo-cecb.png (56×56) at "viega development of the myviega hub as ". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON DIFF [.page]: source image cws_logo.png (61×61) vs build image cws_logo-aa57.png (61×61) at "cws development and implementation of a ". Same anchor, different icon — lift the source's glyph, file or svg (or register the change).
+  🟡 ICON MOVED [.page]: source inline svg 0 0 38 31 / 1 shape(s) (24×24) at "our crm customer viega development of th" is at "go to previous slide" in the build — same icon, paired by order. Same icon, different anchor — usually a text-less host (a <button> with no label anchors as button#n) or moved anchor text; confirm it sits on the right element, and give an unlabeled interactive host an aria-label.
+  🟡 ICON MOVED [.page]: source inline svg 0 0 38 31 / 1 shape(s) (24×24) at "our crm customer viega development of th" is at "go to next slide" in the build — same icon, paired by order. Same icon, different anchor — usually a text-less host (a <button> with no label anchors as button#n) or moved anchor text; confirm it sits on the right element, and give an unlabeled interactive host an aria-label.

@@ -1,0 +1,518 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T11:29:40.558Z",
+    "urls": [
+      "https://www.diva-e.com/en/",
+      "http://localhost:8791/en-proposed.html"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "selectors": [
+      ".cards-block--light",
+      "[class^=\"slider-cards\"]",
+      ".form-block",
+      ".footer"
+    ],
+    "props": [
+      "height"
+    ],
+    "allMatches": false,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440,
+    360
+  ],
+  "selectors": [
+    ".cards-block--light",
+    "[class^=\"slider-cards\"]",
+    ".form-block",
+    ".footer"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8250,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7139,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 8250,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 7172,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/": {
+      "360": {
+        ".cards-block--light": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1993,
+              "w": 360,
+              "h": 1636
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "1636.06px"
+            }
+          }
+        ],
+        "[class^=\"slider-cards\"]": [
+          {
+            "index": 0,
+            "of": 153,
+            "rect": {
+              "x": 0,
+              "y": 4403,
+              "w": 360,
+              "h": 497
+            },
+            "visible": true,
+            "text": "Our stories View More 8 Jan 2026 Kyowa …",
+            "props": {
+              "height": "497.453px"
+            }
+          }
+        ],
+        ".form-block": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6094,
+              "w": 360,
+              "h": 1330
+            },
+            "visible": true,
+            "text": "Get in touch! Salutation* Mr. Ms. Mx. F…",
+            "props": {
+              "height": "1329.77px"
+            }
+          }
+        ],
+        ".footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 7423,
+              "w": 360,
+              "h": 827
+            },
+            "visible": true,
+            "text": "Jobs Whistleblower system Subscribe to …",
+            "props": {
+              "height": "827px"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".cards-block--light": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1946,
+              "w": 1440,
+              "h": 868
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "868px"
+            }
+          }
+        ],
+        "[class^=\"slider-cards\"]": [
+          {
+            "index": 0,
+            "of": 153,
+            "rect": {
+              "x": 0,
+              "y": 3609,
+              "w": 1440,
+              "h": 507
+            },
+            "visible": true,
+            "text": "Our stories View More 8 Jan 2026 Kyowa …",
+            "props": {
+              "height": "507.062px"
+            }
+          }
+        ],
+        ".form-block": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5567,
+              "w": 1440,
+              "h": 1195
+            },
+            "visible": true,
+            "text": "Get in touch! Salutation* Mr. Ms. Mx. F…",
+            "props": {
+              "height": "1194.59px"
+            }
+          }
+        ],
+        ".footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6761,
+              "w": 1440,
+              "h": 378
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "378px"
+            }
+          }
+        ]
+      }
+    },
+    "http://localhost:8791/en-proposed.html": {
+      "360": {
+        ".cards-block--light": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1993,
+              "w": 360,
+              "h": 1636
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "1636.06px"
+            }
+          }
+        ],
+        "[class^=\"slider-cards\"]": [
+          {
+            "index": 0,
+            "of": 10,
+            "rect": {
+              "x": 0,
+              "y": 4403,
+              "w": 360,
+              "h": 497
+            },
+            "visible": true,
+            "text": "Our stories View More 8 Jan 2026 Kyowa …",
+            "props": {
+              "height": "497.453px"
+            }
+          }
+        ],
+        ".form-block": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6094,
+              "w": 360,
+              "h": 1330
+            },
+            "visible": true,
+            "text": "Get in touch! Salutation* Mr. Ms. Mx. F…",
+            "props": {
+              "height": "1329.77px"
+            }
+          }
+        ],
+        ".footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 7423,
+              "w": 360,
+              "h": 827
+            },
+            "visible": true,
+            "text": "Jobs Whistleblower system Subscribe to …",
+            "props": {
+              "height": "827px"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".cards-block--light": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 1946,
+              "w": 1440,
+              "h": 868
+            },
+            "visible": true,
+            "text": "Digital Consulting We bring digital and…",
+            "props": {
+              "height": "868px"
+            }
+          }
+        ],
+        "[class^=\"slider-cards\"]": [
+          {
+            "index": 0,
+            "of": 10,
+            "rect": {
+              "x": 0,
+              "y": 3609,
+              "w": 1440,
+              "h": 538
+            },
+            "visible": true,
+            "text": "Our stories View More 8 Jan 2026 Kyowa …",
+            "props": {
+              "height": "538.266px"
+            }
+          }
+        ],
+        ".form-block": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5598,
+              "w": 1440,
+              "h": 1195
+            },
+            "visible": true,
+            "text": "Get in touch! Salutation* Mr. Ms. Mx. F…",
+            "props": {
+              "height": "1194.59px"
+            }
+          }
+        ],
+        ".footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6793,
+              "w": 1440,
+              "h": 379
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "height": "379px"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "360": {
+      ".cards-block--light": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      "[class^=\"slider-cards\"]": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".form-block": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".footer": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    },
+    "1440": {
+      ".cards-block--light": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      "[class^=\"slider-cards\"]": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 31
+            },
+            "props": {
+              "height": [
+                "507.062px",
+                "538.266px"
+              ]
+            }
+          }
+        ]
+      },
+      ".form-block": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 31,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".footer": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 32,
+              "dw": 0,
+              "dh": 1
+            },
+            "props": {
+              "height": [
+                "378px",
+                "379px"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rootDeltas": {
+    "360": {
+      "scrollWidth": 0,
+      "scrollHeight": 0
+    },
+    "1440": {
+      "scrollWidth": 0,
+      "scrollHeight": 33
+    }
+  }
+}

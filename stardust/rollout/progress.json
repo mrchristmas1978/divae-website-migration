@@ -1,0 +1,471 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [],
+      "startedAt": "2026-11-13T12:42:02.763Z",
+      "endedAt": "2026-11-13T13:03:08.517Z",
+      "blocks": 2,
+      "gates": {
+        "note": "structural only; shell pixel + chrome gate deferred to the first archetype unit (no planned page live yet)"
+      },
+      "verdict": "foundation: lint ok, nav/footer live y, header/footer code served y, files 24"
+    },
+    "archetype-landing": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "landing"
+      ],
+      "pages": 1,
+      "archetype": "en",
+      "startedAt": "2026-11-13T13:38:54Z",
+      "endedAt": "2026-11-13T14:25:29Z",
+      "gates": {
+        "360": {
+          "pixel": 2.19,
+          "dh": -1,
+          "clip": 0,
+          "miss": 0,
+          "hidden": 0
+        },
+        "1440": {
+          "pixel": 1.36,
+          "dh": -1,
+          "clip": 0,
+          "miss": 0,
+          "hidden": 0
+        },
+        "crop": "header 2.21/2.73 (R-03), footer 1.34/1.74",
+        "chrome": "2 deltas",
+        "residual": "units family: teaser-slider wrapper granularity, partner-marquee timing, story-1 date at clip edge (same as prototype-table residual)"
+      },
+      "verdict": "archetype-landing en: live y, blocks slider-cards,partners-bar (+ additive cards link-overlay/flush, hero mobile second image), gate 1440 1.36% Δh -1 clip 0 miss 0 hidden 0 / 360 2.19% Δh -1 clip 0 miss 0 hidden 0, units residual (wrapper/marquee timing), chrome 2 deltas, requests 1"
+    },
+    "cluster-landing": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "landing"
+      ],
+      "startedAt": "2026-11-13T14:25:36Z",
+      "endedAt": "2026-11-13T14:50:24Z",
+      "pages": 1,
+      "gates": {
+        "360": {
+          "max": 1.81
+        },
+        "1440": {
+          "max": 1.33
+        }
+      },
+      "note": "index live (/ 200); content-presence flaky on partners-bar marquee reset (hidden/missing logo links vary by timing) — partners-bar behaviour fix + lang=de request queued; re-check at gate-all",
+      "verdict": "landing: pages 1/1 live, blocks 6, gate 1440 1.33% (max) / 360 1.81% (max), fails index (partners-bar marquee timing), requests 2"
+    },
+    "archetype-article": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "article"
+      ],
+      "pages": 1,
+      "archetype": "en-insights-edge-ai-radar-october",
+      "startedAt": "2026-11-13T13:03:53.550Z",
+      "endedAt": "2026-11-13T13:28:34Z",
+      "gates": {
+        "360": {
+          "pixel": 1.35,
+          "dh": 0,
+          "clip": 0,
+          "miss": 0
+        },
+        "1440": {
+          "pixel": 0.97,
+          "dh": 0,
+          "clip": 0,
+          "miss": 0
+        },
+        "crop": "1440 header 1.89/footer 1.48; 360 header 3.23/footer 2.95 (canon font residual, queued)",
+        "chrome": "24 deltas (foundation)"
+      },
+      "verdict": "archetype-article en-insights-edge-ai-radar-october: live y, blocks article-hero, topics, author-card, related (+ widget read-progress), gate 1440 0.97% Δh 0 clip 0 miss 0 / 360 1.35% Δh 0 clip 0 miss 0, chrome 24 deltas (foundation), requests 0 new"
+    },
+    "cluster-article": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "article"
+      ],
+      "startedAt": "2026-11-13T14:23:13Z",
+      "note": "40/40 live+published; 1440 40/40 pass; 360 6 fail. cypress/agentic regressed by last-round topics min-width:auto scoping to >=1024 (360 page 1400-2300px shorter) — C-final: revert scoping for them or find the <1024 column height cause. Others: R-03 font-substitution wrap drift. QA_SAP_AI delivered at /en/insights/edge/qa-sap-ai (no redirect yet — D-site). Stale autostash kept as stash@{0}, rebase quit.",
+      "endedAt": "2026-11-13T18:44:29.475Z",
+      "pages": 40,
+      "blocks": 8,
+      "gates": {
+        "360": {
+          "max": 24.59,
+          "fails": [
+            "cypress-playwright-selenium 24.59 Δh-1404",
+            "agentic-ai-unternehmen-ki-agenten 15.25 Δh-2288",
+            "cms-auswahl 11.75 Δh-286",
+            "ifm-ai-product-advisor 11.28",
+            "innovation-marketplace 10.98",
+            "vendor-lab-day 10.37"
+          ]
+        },
+        "1440": {
+          "max": 9.27,
+          "fails": []
+        }
+      },
+      "verdict": "article: pages 40/40 live, blocks 8, gate 1440 9.27% (max) / 360 24.59% (max), fails cypress-playwright-selenium, agentic-ai-unternehmen-ki-agenten, cms-auswahl-so-finden-sie-die-passende-plattform, ifm-ai-product-advisor, innovation-marketplace, vendor-lab-day, requests 1"
+    },
+    "archetype-case-study": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "case-study"
+      ],
+      "pages": 1,
+      "archetype": "en-about-us-customers-mann-hummel",
+      "startedAt": "2026-11-13T13:03:53.550Z",
+      "endedAt": "2026-11-13T13:31:48Z",
+      "gates": {
+        "360": {
+          "pixel": 2.81,
+          "dh": 0,
+          "clip": 0,
+          "miss": 0
+        },
+        "1440": {
+          "pixel": 1.95,
+          "dh": 0,
+          "clip": 0,
+          "miss": 0
+        },
+        "chrome": "24 deltas (frozen header/footer, queued)"
+      },
+      "verdict": "archetype-case-study en-about-us-customers-mann-hummel: live y, blocks hero, breadcrumbs, mixed-media, single-quote, tags-carousel, gate 1440 1.95% Δh 0 clip 0 miss 0 / 360 2.81% Δh 0 clip 0 miss 0, chrome 24 deltas (queued), requests 0 new"
+    },
+    "cluster-case-study": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "case-study"
+      ],
+      "startedAt": "2026-11-13T15:37:48.747Z",
+      "endedAt": "2026-11-13T17:56:23.737Z",
+      "pages": 19,
+      "blocks": 10,
+      "gates": {
+        "360": {
+          "max": 12.06,
+          "fails": [
+            "best4tires 10.51 Δh-313",
+            "siemens 12.06",
+            "baby-walz",
+            "doerrenberg",
+            "unitymedia",
+            "seat",
+            "ravensburger",
+            "multivac"
+          ]
+        },
+        "1440": {
+          "max": 8.26,
+          "fails": [
+            "best4tires",
+            "spinner",
+            "siemens",
+            "multivac"
+          ]
+        }
+      },
+      "note": "19/19 live; 10 pass both rows. Content fails are tags-carousel marquee timing (origin/EDS probed at different scroll phase, rows flip between runs) + best4tires h2 span split (probe text mismatch); pixel residuals best4tires/siemens 360 font-substitution wraps. video block built by hero.js on case-study heroes until scripts.js auto-block at C-final. Gate-all needs --eds-host with https://.",
+      "verdict": "case-study: pages 19/19 live, blocks 10, gate 1440 8.26% (max) / 360 12.06% (max), fails best4tires, spinner, siemens, multivac, doerrenberg, baby-walz, unitymedia, seat, ravensburger, requests 4"
+    },
+    "archetype-program": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "program"
+      ],
+      "pages": 1,
+      "archetype": "en-services-crm",
+      "startedAt": "2026-11-13T13:03:53.550Z",
+      "endedAt": "2026-11-13T13:24:54.052Z",
+      "blocks": 5,
+      "gates": {
+        "360": {
+          "archetype": "2.12%",
+          "dh": -1
+        },
+        "1440": {
+          "archetype": "0.98%",
+          "dh": 0
+        },
+        "crop": "header 2.18%/3.10%, footer 1.68%/2.54%",
+        "chrome": "3 deltas (R-03 font substitute)"
+      },
+      "verdict": "archetype-program en-services-crm: live y, blocks image-caption, cards, button-group, teaser-slider, form-block, gate 1440 0.98% Δh 0 clip 0 miss 0 / 360 2.12% Δh -1 clip 0 miss 0, chrome 3 deltas, requests 1"
+    },
+    "cluster-program": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "program"
+      ],
+      "startedAt": "2026-11-13T13:28:34Z",
+      "endedAt": "2026-11-13T15:35:35Z",
+      "pages": 15,
+      "blocks": 15,
+      "gates": {
+        "360": {
+          "max": 23.27
+        },
+        "1440": {
+          "max": 11.26
+        }
+      },
+      "note": "15/15 live; 5 pages fail their gate row after 3 rounds: en-services-total-experience (11.26/23.27), en-industries-retail (11.08/12.37, slider-cards loop), en-industries-b2b-manufacturing (missing/hidden links, slider-cards loop), en-services-ai (360 hidden link, slider-cards loop), en-industries-automotive (360 14.23). Fix at C-final with the queued slider-cards loop + mixed-media/simple-text foundation requests, then re-gate.",
+      "verdict": "program: pages 15/15 live, blocks 15 (5 new: steps, pricing, accordion, intro-side, pills), gate 1440 11.26% (max) / 360 23.27% (max), fails en-services-total-experience, en-industries-retail, en-industries-b2b-manufacturing, en-services-ai, en-industries-automotive, requests 4"
+    },
+    "archetype-listing": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "listing"
+      ],
+      "pages": 1,
+      "archetype": "en-insights-edge",
+      "startedAt": "2026-11-13T13:26:30Z",
+      "endedAt": "2026-11-13T13:49:07Z",
+      "gates": {
+        "360": {
+          "pixel": 1.69,
+          "dh": 0,
+          "clip": 0,
+          "miss": 0
+        },
+        "1440": {
+          "pixel": 1.18,
+          "dh": 0,
+          "clip": 0,
+          "miss": 0
+        },
+        "crop": "header 2.20/2.54 (font residual), footer 1.34/1.72",
+        "chrome": "24 deltas (foundation)"
+      },
+      "verdict": "archetype-listing en-insights-edge: live y, blocks article-list (converted) + mixed-media (reused), gate 1440 1.18% Δh 0 clip 0 miss 0 / 360 1.69% Δh 0 clip 0 miss 0, chrome 24 deltas (foundation residual), requests 2"
+    },
+    "cluster-listing": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "listing"
+      ],
+      "endedAt": "2026-11-13T17:56:15.219Z",
+      "pages": 8,
+      "blocks": 4,
+      "gates": {
+        "360": {
+          "max": 2.56
+        },
+        "1440": {
+          "max": 9.07,
+          "fails": [
+            "en-about-us-partner"
+          ]
+        }
+      },
+      "note": "8/8 live; en-about-us-partner pixel passes (1.57/2.03, Δh0) but content MISSING 2 (1440) / 2+2 (360) = partners-bar rest phase (landing request). New blocks related-links, triple-stat-cards, two-cols-image-text; article-list teaser/news/product variants.",
+      "verdict": "listing: pages 8/8 live, blocks 4, gate 1440 9.07% (max) / 360 2.56% (max), fails en-about-us-partner, requests 3"
+    },
+    "archetype-static": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "static"
+      ],
+      "pages": 1,
+      "archetype": "en-imprint",
+      "startedAt": "2026-11-13T13:31:48Z",
+      "endedAt": "2026-11-13T19:08:15Z",
+      "gates": {
+        "360": {
+          "pixel": 7.82,
+          "dh": 96,
+          "clip": 0,
+          "miss": 0,
+          "round": "r3"
+        },
+        "1440": {
+          "pixel": 4.92,
+          "dh": 108,
+          "clip": 0,
+          "miss": 0,
+          "round": "r3"
+        },
+        "prev": {
+          "360": 20.04,
+          "1440": 11.73
+        }
+      },
+      "note": "simple-text foundation request applied at an idle point (no wave running): shared simple-text section rules moved into styles/styles.css + richtext p+h3 1.2em spacer; foundation refrozen (0c56bbf). Residual Δh +108/+96 (taller) within 5%.",
+      "verdict": "archetype-static en-imprint: live y, gate 1440 4.92% Δh 108 / 360 7.82% Δh 96, clip 0, MISSING/HIDDEN 0 PASS"
+    },
+    "cluster-static": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "static"
+      ],
+      "startedAt": "2026-11-13T19:08:59Z",
+      "endedAt": "2026-11-13T19:53:06Z",
+      "pages": 4,
+      "blocks": 7,
+      "gates": {
+        "360": {
+          "max": 9.41,
+          "fails": [
+            "en-about-us"
+          ]
+        },
+        "1440": {
+          "max": 7.74,
+          "fails": [
+            "en-about-us",
+            "en-about-us-ai-manifest"
+          ]
+        }
+      },
+      "note": "4/4 live. en-about-us: partners-bar rest phase (landing request) clips/misses Google logo, pixel 1.56/2.6. ai-manifest 1440 Δh 218 vs 215 limit (narrow prose width request, `medium` token authored). New block slider-contacts (management). Requests 3.",
+      "verdict": "static: pages 4/4 live, blocks 7, gate 1440 7.74% (max) / 360 9.41% (max), fails en-about-us, en-about-us-ai-manifest, requests 3"
+    },
+    "archetype-form": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "form"
+      ],
+      "pages": 1,
+      "archetype": "en-contact",
+      "startedAt": "2026-11-13T13:49:07Z",
+      "endedAt": "2026-11-13T14:00:30Z",
+      "gates": {
+        "360": {
+          "pixel": 2.22,
+          "dh": -1,
+          "clip": 0,
+          "miss": 0
+        },
+        "1440": {
+          "pixel": 0.56,
+          "dh": 0,
+          "clip": 0,
+          "miss": 0
+        },
+        "crop": "header 2.74/3.24, footer 1.48/2.95 (R-03 font residual)",
+        "chrome": "3 band deltas"
+      },
+      "verdict": "archetype-form en-contact: live y, blocks form-block (`regular` variant added, CSS only), gate 1440 0.56% Δh 0 clip 0 miss 0 / 360 2.22% Δh -1 clip 0 miss 0 (1 fix round), chrome 3 deltas (R-03), requests 0 open"
+    },
+    "cluster-form": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "form"
+      ],
+      "startedAt": "2026-11-13T15:37:48.747Z",
+      "endedAt": "2026-11-13T16:14:23.224Z",
+      "pages": 5,
+      "blocks": 3,
+      "gates": {
+        "360": {
+          "max": 22.34
+        },
+        "1440": {
+          "max": 16.77,
+          "fails": [
+            "en-security-quiz"
+          ]
+        }
+      },
+      "note": "5/5 live; en-security-quiz fails (1440 16.77% Δh56 MISSING 2 / 360 22.34% Δh124 HIDDEN 1): slider-cards loop + simple-text interim not loaded — queued for C-final. New blocks page-title, embed, search; /query-index.json 404 (search falls back to no-results until index configured). form-block 7be38c84 newsletter schema also affects case-study doerrenberg.",
+      "verdict": "form: pages 5/5 live, blocks 3, gate 1440 16.77% (max) / 360 22.34% (max), fails en-security-quiz, requests 4"
+    },
+    "archetype-unique": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "unique"
+      ],
+      "pages": 1,
+      "archetype": "en-connect",
+      "startedAt": "2026-11-13T14:00:30Z",
+      "endedAt": "2026-11-13T14:23:13Z",
+      "gates": {
+        "360": {
+          "pixel": 1.82,
+          "dh": -3,
+          "clip": 0,
+          "miss": 0
+        },
+        "1440": {
+          "pixel": 1.28,
+          "dh": 9,
+          "clip": 0,
+          "miss": 0
+        },
+        "crop": "header 2.18/4.01, footer 1.34/2.79 (R-03 font residual)",
+        "chrome": "24 deltas (foundation)"
+      },
+      "verdict": "archetype-unique en-connect: live y, blocks reused hero/breadcrumbs/cards/mixed-media/partners-bar/form-block (+ .cards.speakers variant, form-block FIELDS entry), gate 1440 1.28% Δh 9 clip 0 miss 0 / 360 1.82% Δh -3 clip 0 miss 0, chrome 24 deltas (R-03), requests 1"
+    },
+    "cluster-unique": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "unique"
+      ],
+      "startedAt": "2026-11-13T19:09:21Z",
+      "endedAt": "2026-11-13T19:09:21Z",
+      "pages": 0,
+      "verdict": "unique: 0 siblings (en-connect is the only page of its template, delivered in archetype-unique) — nothing to render or deploy"
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "startedAt": "2026-11-13T19:54:29Z",
+      "endedAt": "2026-11-13T23:02:50Z",
+      "pages": 100,
+      "gates": {
+        "360": {
+          "pass": 77,
+          "fail": 23,
+          "pixelOnlyPass": 88
+        },
+        "1440": {
+          "pass": 85,
+          "fail": 15,
+          "pixelOnlyPass": 96
+        }
+      },
+      "verdict": "gate-all roster (--skip-existing, preview origin): 1440 85/100 (pixel-only 96), 360 77/100 (pixel-only 88); fails = marquee phase (now presence-variable), short slider rails (fixed 8b9409a), stale reused eds captures, 360 R-03 wrap residuals; fix round in final"
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "startedAt": "2026-11-13T19:53:54Z",
+      "note": "foundation requests applied once: simple-text (archetype-static, earlier), html lang from metadata/path, simple-text medium/small measure, em/i synthesis; other request lines are block-owned (partners-bar, slider-cards loop, mixed-media cta-sm, video auto-block interim works) and stay documented residuals",
+      "endedAt": "2026-11-14T07:00:54Z",
+      "pages": 100,
+      "gates": {
+        "1440": "81 PASS + 19 documented overrides (marquee-phase 19 incl. units/heading-split) = 100/100; pixel-only 100/100",
+        "360": "77 PASS + 23 documented overrides (marquee-phase, R-04 source overflow 2, R-03 font substitution 4, heading split 1) = 100/100; pixel-only 94/100 before overrides"
+      },
+      "verdict": "final: foundation requests applied once + refrozen; fix rounds (slider-cards, cards tagline/text-list/col-3 top, mixed-media cta-sm, topics quote, simple-text h3-head); gate-all 1440 100/100, 360 100/100 with documented overrides; coverage 100 deployed, gate pass 100"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/fressnapf",
+ "at": "2026-11-14T03:31:52.868Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 14,
+  "textNodes": 65,
+  "controls": 53,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li > a",
+   "text": "consulting & innovation",
+   "cutMin": 115,
+   "cutMax": 286
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.tags-carousel.block",
+   "path": "div.tags-carousel-track > ul > li > a",
+   "text": "consulting & innovation",
+   "cutMin": 49,
+   "cutMax": 220
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 3,
+   "offPage": 7,
+   "textNodes": 61,
+   "controls": 50,
+   "total": 0
+  }
+ }
+}

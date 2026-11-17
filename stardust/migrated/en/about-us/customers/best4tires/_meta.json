@@ -1,0 +1,373 @@
+{
+  "slug": "en-about-us-customers-best4tires",
+  "type": "case-study",
+  "renderBranch": "A'",
+  "template": "en-about-us-customers-mann-hummel",
+  "modules": [
+    "hero",
+    "breadcrumbs",
+    "mixed-media",
+    "cards",
+    "image-caption",
+    "pills",
+    "form-block"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "hero",
+    "breadcrumbs",
+    "style",
+    "mixed-media",
+    "style",
+    "cards",
+    "mixed-media",
+    "style",
+    "image-caption",
+    "style",
+    "pills",
+    "mixed-media",
+    "cards",
+    "form-block"
+  ],
+  "canonShas": {
+    "header": "850e0cea0dc4",
+    "footer": "eb22b3f55c59",
+    "css": "89712814bf67"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Successful omnichannel transformation for Walz | diva-e Conclusion",
+    "description": "Mail order company Walz: Omnichannel transformation with SCAYLE technology for improved customer experience and increased sales",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Successful omnichannel transformation for Walz | diva-e Conclusion",
+    "description": "Mail order company Walz: Omnichannel transformation with SCAYLE technology for improved customer experience and increased sales",
+    "url": "https://www.diva-e.com/en/about-us/customers/best4tires/"
+  },
+  "migratedAt": "2026-11-13T16:31:53Z",
+  "designMdSha": "4192de5ef972",
+  "designJsonSha": "9768d88354b7",
+  "sourceCurrentSha": "1ed73b00ad24",
+  "sourceProposedSha": "e62da75f8e4b",
+  "fidelityTier": "sibling",
+  "archetypeSource": "en-about-us-customers-mann-hummel",
+  "archetypeSha": "27336d2a75e3",
+  "variants": [],
+  "gatesPassed": [
+    "content-fidelity",
+    "variance-probe"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "verbatim from stardust/current/pages/en-about-us-customers-best4tires.html via stardust/.work/rollout/case-study/encode.cjs (archetype en-about-us-customers-mann-hummel encoder vocabulary); deviations logged in _meta contentDeviations; gate-all content probe per width",
+    "variance-probe": "stardust/.work/rollout/case-study/variance.json (sibling-variance 1440, exit 2, deltas budgeted as variants: single-quote blue, simple-text display/lead/no-top/no-bottom, video)"
+  },
+  "contentDeviations": [
+    {
+      "kind": "heading-promoted",
+      "source": "div.simple-text__label \"Challenge\"",
+      "target": "h6",
+      "reason": "simple-text label authored as <h6> (the section is default content; a label needs its own element to take the dot-blur label paint); same text, same order"
+    },
+    {
+      "kind": "heading-promoted",
+      "source": "div.simple-text__label \"Implementation\"",
+      "target": "h6",
+      "reason": "simple-text label authored as <h6> (the section is default content; a label needs its own element to take the dot-blur label paint); same text, same order"
+    },
+    {
+      "kind": "heading-promoted",
+      "source": "div.simple-text__label \"Our Services\"",
+      "target": "h6",
+      "reason": "simple-text label authored as <h6> (the section is default content; a label needs its own element to take the dot-blur label paint); same text, same order"
+    }
+  ],
+  "assetsBundled": 12,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/en/services/digital-marketing/audits/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/digital-business-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/technology-architecture-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/strategic-transformation/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/e-commerce-platform/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/karriereportal/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/gaio/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/omnichannel-marketing/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-security/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cybersecurity/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/marketplace/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/locations/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/press/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/news/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/insights/downloads/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/about-us/customers",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.diva-e.com/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.diva-e.com/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.diva-e.com/en/services/dxp/system-integration/frontend/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.diva-e.com/de/datenschutz/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/sap/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/salesforce/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/data-privacy/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "/en/data-privacy/",
+      "reason": "in-inventory-not-migrated"
+    }
+  ],
+  "outputPath": "en/about-us/customers/best4tires/index.html",
+  "outputPathDefault": null,
+  "sidecar": "en/about-us/customers/best4tires/_meta.json",
+  "driverVersion": "1"
+}

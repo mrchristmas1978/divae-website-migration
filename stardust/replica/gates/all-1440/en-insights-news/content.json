@@ -1,0 +1,5903 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T03:19:48.134Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/insights/news/",
+  "at": "2026-11-14T03:19:26.530Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4693,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 64,
+    "y": 33,
+    "w": 120,
+    "h": 62,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 230,
+    "y": 42,
+    "w": 94,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 324,
+    "y": 42,
+    "w": 127,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 451,
+    "y": 42,
+    "w": 104,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 555,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 653,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 750,
+    "y": 42,
+    "w": 89,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 839,
+    "y": 42,
+    "w": 91,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__icon-search > a",
+    "x": 979,
+    "y": 53,
+    "w": 23,
+    "h": 22,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li > button.header__lang-item",
+    "x": 1030,
+    "y": 51,
+    "w": 28,
+    "h": 26,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li.active > button.header__lang-item",
+    "x": 1058,
+    "y": 51,
+    "w": 29,
+    "h": 26,
+    "text": "en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__contact > a.btn-default.btn--menu",
+    "x": 1115,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero-page-title__wrapper > div.hero-page-title__title > h1.hero-page-title__title-text",
+    "x": 175,
+    "y": 329,
+    "w": 1089,
+    "h": 72,
+    "level": 1,
+    "text": "news"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 175,
+    "y": 544,
+    "w": 755,
+    "h": 94,
+    "text": "Welcome to the news section"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 175,
+    "y": 686,
+    "w": 1089,
+    "h": 90,
+    "text": "Discover the latest news and insights from diva-e. Our news section keeps you up"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 175,
+    "y": 776,
+    "w": 1089,
+    "h": 60,
+    "text": "Subscribe to our newsletter to receive regular updates straight to your inbox an"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__btn > a.text-small.color-grey",
+    "x": 175,
+    "y": 901,
+    "w": 262,
+    "h": 30,
+    "text": "subscribe to our newsletter",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.filter-buttons__btn-list.pills > div.filter-buttons__btns-container > button.btn.btn--filter",
+    "x": 122,
+    "y": 1075,
+    "w": 111,
+    "h": 48,
+    "text": "all items"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.filter-buttons__btn-list.pills > div.filter-buttons__btns-container > button.btn.btn--filter",
+    "x": 253,
+    "y": 1075,
+    "w": 202,
+    "h": 48,
+    "text": "awards & certificates"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.filter-buttons__btn-list.pills > div.filter-buttons__btns-container > button.btn.btn--filter",
+    "x": 475,
+    "y": 1075,
+    "w": 229,
+    "h": 48,
+    "text": "customer success stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.filter-buttons__btn-list.pills > div.filter-buttons__btns-container > button.btn.btn--filter",
+    "x": 724,
+    "y": 1075,
+    "w": 102,
+    "h": 48,
+    "text": "partner"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.filter-buttons__btn-list.pills > div.filter-buttons__btns-container > button.btn.btn--filter",
+    "x": 846,
+    "y": 1075,
+    "w": 87,
+    "h": 48,
+    "text": "press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 175,
+    "y": 1203,
+    "w": 310,
+    "h": 223,
+    "text": "",
+    "href": "/en/insights/press/luenendonk-2026/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 175,
+    "y": 1219,
+    "w": 159,
+    "h": 30,
+    "text": "12 Nov 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 175,
+    "y": 1270,
+    "w": 310,
+    "h": 125,
+    "text": "lünendonk 2026: ai and data shape the future of digital customer experiences",
+    "href": "/en/insights/press/luenendonk-2026/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 565,
+    "y": 1203,
+    "w": 310,
+    "h": 223,
+    "text": "",
+    "href": "/en/insights/press/head-of-ai-jasmin-guthmann/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 565,
+    "y": 1219,
+    "w": 159,
+    "h": 30,
+    "text": "29 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 565,
+    "y": 1270,
+    "w": 310,
+    "h": 156,
+    "text": "ai as a leadership responsibility: industry expert jasmin guthmann appointed hea",
+    "href": "/en/insights/press/head-of-ai-jasmin-guthmann/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 955,
+    "y": 1203,
+    "w": 310,
+    "h": 223,
+    "text": "",
+    "href": "/en/insights/press/ifm-ai-search/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 955,
+    "y": 1219,
+    "w": 158,
+    "h": 30,
+    "text": "27 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 955,
+    "y": 1270,
+    "w": 310,
+    "h": 94,
+    "text": "ifm introduces ai-powered product search in its online shop",
+    "href": "/en/insights/press/ifm-ai-search/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 175,
+    "y": 1506,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/sirko-schneppe-wird-neuer-ceo-von-diva-e-conclusion/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 175,
+    "y": 1506,
+    "w": 310,
+    "h": 173,
+    "text": "a person in a blue suit and white shirt stands indoors with ",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 175,
+    "y": 1506,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/sirko-schneppe-wird-neuer-ceo-von-diva-e-conclusion/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 175,
+    "y": 1695,
+    "w": 155,
+    "h": 30,
+    "text": "12 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 175,
+    "y": 1746,
+    "w": 310,
+    "h": 94,
+    "text": "sirko schneppe appointed new ceo of diva-e conclusion",
+    "href": "/en/insights/news/sirko-schneppe-wird-neuer-ceo-von-diva-e-conclusion/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 565,
+    "y": 1506,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/press/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 565,
+    "y": 1506,
+    "w": 310,
+    "h": 173,
+    "text": "logos of stackit and diva-e conclusion with a hand and heart",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 565,
+    "y": 1506,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/press/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 565,
+    "y": 1695,
+    "w": 146,
+    "h": 30,
+    "text": "9 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 565,
+    "y": 1746,
+    "w": 310,
+    "h": 125,
+    "text": "diva-e conclusion and stackit join forces to strengthen european data sovereignt",
+    "href": "/en/insights/press/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 955,
+    "y": 1506,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/diva-e-conclusion-launches-marketplace-for-productized-digital-services/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 955,
+    "y": 1506,
+    "w": 310,
+    "h": 173,
+    "text": "digital marketplace concept with a storefront, icons represe",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 955,
+    "y": 1506,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-conclusion-launches-marketplace-for-productized-digital-services/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 955,
+    "y": 1695,
+    "w": 161,
+    "h": 30,
+    "text": "13 Aug 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 955,
+    "y": 1746,
+    "w": 310,
+    "h": 125,
+    "text": "diva-e conclusion startet marketplace für produktisierte digital services",
+    "href": "/en/insights/news/diva-e-conclusion-launches-marketplace-for-productized-digital-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 175,
+    "y": 1951,
+    "w": 310,
+    "h": 396,
+    "text": "",
+    "href": "/en/insights/news/diva-e-conclusion-migrates-aumovios-digital-platform/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 175,
+    "y": 1951,
+    "w": 310,
+    "h": 173,
+    "text": "logos of diva-e conclusion and aumovio separated by a vertic",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 175,
+    "y": 1951,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-conclusion-migrates-aumovios-digital-platform/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 175,
+    "y": 2140,
+    "w": 139,
+    "h": 30,
+    "text": "7 Jul 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 175,
+    "y": 2191,
+    "w": 310,
+    "h": 94,
+    "text": "diva-e conclusion migrates aumovio's digital platform",
+    "href": "/en/insights/news/diva-e-conclusion-migrates-aumovios-digital-platform/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 565,
+    "y": 1951,
+    "w": 310,
+    "h": 396,
+    "text": "",
+    "href": "/en/insights/news/diva-e-conclusion-staerkt-sap-kompetenz-im-internationalen-conclusion-netzwerk/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 565,
+    "y": 1951,
+    "w": 310,
+    "h": 173,
+    "text": "text \"combined sap expertise\" with sap logo on a dark blue b",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 565,
+    "y": 1951,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-conclusion-staerkt-sap-kompetenz-im-internationalen-conclusion-netzwerk/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 565,
+    "y": 2140,
+    "w": 161,
+    "h": 30,
+    "text": "21 May 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 565,
+    "y": 2191,
+    "w": 310,
+    "h": 125,
+    "text": "diva-e conclusion strengthens sap expertise within the international conclusion ",
+    "href": "/en/insights/news/diva-e-conclusion-staerkt-sap-kompetenz-im-internationalen-conclusion-netzwerk/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 955,
+    "y": 1951,
+    "w": 310,
+    "h": 396,
+    "text": "",
+    "href": "/en/insights/press/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 955,
+    "y": 1951,
+    "w": 310,
+    "h": 173,
+    "text": "modern curved office building with a large \"conclusion\" bann",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 955,
+    "y": 1951,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/press/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 955,
+    "y": 2140,
+    "w": 165,
+    "h": 30,
+    "text": "20 May 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 955,
+    "y": 2191,
+    "w": 310,
+    "h": 156,
+    "text": "diva-e conclusion advances to 6th place in the bvdw internet agency ranking with",
+    "href": "/en/insights/press/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 175,
+    "y": 2427,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/diva-e-conclusion-google-premier-partner-2026/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 175,
+    "y": 2427,
+    "w": 310,
+    "h": 173,
+    "text": "we are google partner premier 2026",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 175,
+    "y": 2427,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-conclusion-google-premier-partner-2026/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 175,
+    "y": 2617,
+    "w": 161,
+    "h": 30,
+    "text": "25 Mar 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 175,
+    "y": 2668,
+    "w": 310,
+    "h": 62,
+    "text": "diva-e conclusion – google premier partner 2026",
+    "href": "/en/insights/news/diva-e-conclusion-google-premier-partner-2026/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 565,
+    "y": 2427,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/adobe-platinum-status/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 565,
+    "y": 2427,
+    "w": 310,
+    "h": 173,
+    "text": "\"adobe solution partner platinum logo with text 'we are' and",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 565,
+    "y": 2427,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/adobe-platinum-status/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 565,
+    "y": 2617,
+    "w": 156,
+    "h": 30,
+    "text": "12 Feb 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 565,
+    "y": 2668,
+    "w": 310,
+    "h": 94,
+    "text": "diva-e conclusion achieves adobe platinum partner status",
+    "href": "/en/insights/news/adobe-platinum-status/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 955,
+    "y": 2427,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/kyowakirin/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 955,
+    "y": 2427,
+    "w": 310,
+    "h": 173,
+    "text": "split image with \"diva-e conclusion\" in white on blue backgr",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 955,
+    "y": 2427,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/kyowakirin/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 955,
+    "y": 2617,
+    "w": 146,
+    "h": 30,
+    "text": "8 Jan 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 955,
+    "y": 2668,
+    "w": 310,
+    "h": 125,
+    "text": "reimagining pharmaceutical sales: from account-centric to customer-centric",
+    "href": "/en/insights/news/kyowakirin/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 175,
+    "y": 2873,
+    "w": 310,
+    "h": 303,
+    "text": "",
+    "href": "/en/insights/press/luenendonk-list-2025-diva-e-conclusion-remains-market-leader/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 175,
+    "y": 2889,
+    "w": 149,
+    "h": 30,
+    "text": "4 Nov 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 175,
+    "y": 2940,
+    "w": 310,
+    "h": 94,
+    "text": "lünendonk® list 2025: diva-e conclusion remains market leader",
+    "href": "/en/insights/press/luenendonk-list-2025-diva-e-conclusion-remains-market-leader/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 565,
+    "y": 2873,
+    "w": 310,
+    "h": 303,
+    "text": "",
+    "href": "/en/insights/news/new-partnership-with-shopware/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 565,
+    "y": 2873,
+    "w": 310,
+    "h": 173,
+    "text": "logos von diva-e conclusion und shopware geben sich die hand",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 565,
+    "y": 2873,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/new-partnership-with-shopware/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 565,
+    "y": 3062,
+    "w": 166,
+    "h": 30,
+    "text": "16 Sept 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 565,
+    "y": 3113,
+    "w": 310,
+    "h": 62,
+    "text": "new partnership with shopware",
+    "href": "/en/insights/news/new-partnership-with-shopware/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 955,
+    "y": 2873,
+    "w": 310,
+    "h": 303,
+    "text": "",
+    "href": "/en/insights/press/diva-e-conclusion-optimizes-digital-visibility-of-dak-gesundheit/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 955,
+    "y": 2889,
+    "w": 153,
+    "h": 30,
+    "text": "11 Jun 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 955,
+    "y": 2940,
+    "w": 310,
+    "h": 94,
+    "text": "diva-e conclusion optimizes digital visibility of dak-gesundheit",
+    "href": "/en/insights/press/diva-e-conclusion-optimizes-digital-visibility-of-dak-gesundheit/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 175,
+    "y": 3256,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/press/conclusion-expands-to-dach-region-and-appoints-tilman-au-as-managing-director/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 175,
+    "y": 3256,
+    "w": 310,
+    "h": 173,
+    "text": "tilman au",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 175,
+    "y": 3256,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/press/conclusion-expands-to-dach-region-and-appoints-tilman-au-as-managing-director/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 175,
+    "y": 3445,
+    "w": 145,
+    "h": 30,
+    "text": "7 Apr 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 175,
+    "y": 3496,
+    "w": 310,
+    "h": 125,
+    "text": "conclusion expands to dach region and appoints tilman au as managing director",
+    "href": "/en/insights/press/conclusion-expands-to-dach-region-and-appoints-tilman-au-as-managing-director/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 565,
+    "y": 3256,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/storyblok_platinum-partner/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 565,
+    "y": 3256,
+    "w": 310,
+    "h": 173,
+    "text": "grafik mit einem pokal und der aufschrift storyblok platinum",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 565,
+    "y": 3256,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/storyblok_platinum-partner/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 565,
+    "y": 3445,
+    "w": 146,
+    "h": 30,
+    "text": "3 Apr 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 565,
+    "y": 3496,
+    "w": 310,
+    "h": 62,
+    "text": "we are a storyblok platinum partner",
+    "href": "/en/insights/news/storyblok_platinum-partner/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 955,
+    "y": 3256,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/we-are-crownpeak-platinum-partner/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 955,
+    "y": 3256,
+    "w": 310,
+    "h": 173,
+    "text": "grafik mit blauem hintergrund auf der das crownpeak logo zu ",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 955,
+    "y": 3256,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/we-are-crownpeak-platinum-partner/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 955,
+    "y": 3445,
+    "w": 160,
+    "h": 30,
+    "text": "27 Mar 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 955,
+    "y": 3496,
+    "w": 310,
+    "h": 62,
+    "text": "diva-e is crownpeak platinum partner",
+    "href": "/en/insights/news/we-are-crownpeak-platinum-partner/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 175,
+    "y": 3701,
+    "w": 310,
+    "h": 334,
+    "text": "",
+    "href": "/en/insights/news/we-are-google-premier-partner/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 175,
+    "y": 3701,
+    "w": 310,
+    "h": 173,
+    "text": "grafik mit diva-e logo und google partner premier 2025",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 175,
+    "y": 3701,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/we-are-google-premier-partner/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 175,
+    "y": 3890,
+    "w": 161,
+    "h": 30,
+    "text": "25 Mar 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 175,
+    "y": 3941,
+    "w": 310,
+    "h": 62,
+    "text": "google premier-partner 2025",
+    "href": "/en/insights/news/we-are-google-premier-partner/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 565,
+    "y": 3701,
+    "w": 310,
+    "h": 334,
+    "text": "",
+    "href": "/en/insights/news/diva-e-achieves-salesforce-summit-partner-status/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 565,
+    "y": 3701,
+    "w": 310,
+    "h": 173,
+    "text": "diva-e ist zertifizierter salesforce summit partner",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 565,
+    "y": 3701,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-achieves-salesforce-summit-partner-status/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 565,
+    "y": 3890,
+    "w": 159,
+    "h": 30,
+    "text": "19 Mar 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 565,
+    "y": 3941,
+    "w": 310,
+    "h": 94,
+    "text": "sky is now the limit: we’ve achieved salesforce summit status!",
+    "href": "/en/insights/news/diva-e-achieves-salesforce-summit-partner-status/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__card-link",
+    "x": 955,
+    "y": 3701,
+    "w": 310,
+    "h": 334,
+    "text": "",
+    "href": "/en/insights/news/diva-e-awarded-as-integration-champion/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img > picture > img",
+    "x": 955,
+    "y": 3701,
+    "w": 310,
+    "h": 173,
+    "text": "integration champion: talonone zeichnet diva-e aus",
+    "file": "750x"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-card__img-container > div.hover-button > a.hover-button__link",
+    "x": 955,
+    "y": 3701,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-awarded-as-integration-champion/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > div.list-card__name.dot-blur--16",
+    "x": 955,
+    "y": 3890,
+    "w": 159,
+    "h": 30,
+    "text": "20 Feb 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.news-list__cards > div.list-card > a.list-card__link",
+    "x": 955,
+    "y": 3941,
+    "w": 310,
+    "h": 62,
+    "text": "diva-e recognized as integration champion",
+    "href": "/en/insights/news/diva-e-awarded-as-integration-champion/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-pagination__pages > div.list-pagination__page.list-pagination__page--active > button.list-pagination__page-link",
+    "x": 62,
+    "y": 4119,
+    "w": 60,
+    "h": 60,
+    "text": "1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-pagination__pages > div.list-pagination__page > button.list-pagination__page-link",
+    "x": 128,
+    "y": 4117,
+    "w": 64,
+    "h": 64,
+    "text": "2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-pagination__pages > div.list-pagination__page > button.list-pagination__page-link",
+    "x": 196,
+    "y": 4117,
+    "w": 64,
+    "h": 64,
+    "text": "3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-pagination.list-pagination--dark > div.list-pagination__nav > button.arrow-right",
+    "x": 1236,
+    "y": 4121,
+    "w": 140,
+    "h": 48,
+    "text": "next →"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.list-pagination.list-pagination--dark > div.list-pagination__nav > button.arrow-left",
+    "x": 1157,
+    "y": 4181,
+    "w": 219,
+    "h": 48,
+    "text": "← previous"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4363,
+    "w": 187,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4393,
+    "w": 125,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4423,
+    "w": 190,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4453,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4483,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 4513,
+    "w": 62,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4363,
+    "w": 103,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4393,
+    "w": 130,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4423,
+    "w": 85,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4453,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4483,
+    "w": 140,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 4513,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 4363,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 4393,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 4423,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 4453,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 175,
+    "y": 4605,
+    "w": 100,
+    "h": 20,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 307,
+    "y": 4605,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 387,
+    "y": 4605,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 524,
+    "y": 4605,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 589,
+    "y": 4605,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__social-media > div.footer__bottom-newsletter.bottom-links > a.btn--link.text-xxsmall",
+    "x": 907,
+    "y": 4605,
+    "w": 214,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1153,
+    "y": 4600,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1201,
+    "y": 4600,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1249,
+    "y": 4600,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 40,
+    "y": 796,
+    "w": 64,
+    "h": 64,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 89,
+    "controls": 106,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/insights/news",
+  "at": "2026-11-14T03:19:47.942Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4629,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 64,
+    "y": 21,
+    "w": 120,
+    "h": 86,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "label": "open services submenu",
+    "value": "services",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 328,
+    "y": 42,
+    "w": 124,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "label": "open industries submenu",
+    "value": "industries",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 553,
+    "y": 42,
+    "w": 96,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "label": "open about us submenu",
+    "value": "about us",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "label": "open insights submenu",
+    "value": "insights",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 831,
+    "y": 42,
+    "w": 92,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-icon-search.header-icon-search-desktop > p > a",
+    "x": 971,
+    "y": 52,
+    "w": 23,
+    "h": 24,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li > a.header-lang-item",
+    "x": 1022,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li.active > a.header-lang-item",
+    "x": 1052,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-contact > p.button-wrapper > a.btn.btn-fill",
+    "x": 1111,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.page-title-wrapper > div.page-title-title > h1#news",
+    "x": 175,
+    "y": 329,
+    "w": 1089,
+    "h": 72,
+    "level": 1,
+    "text": "news"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 544,
+    "w": 755,
+    "h": 94,
+    "text": "Welcome to the news section"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 686,
+    "w": 1089,
+    "h": 90,
+    "text": "Discover the latest news and insights from diva-e. Our news section keeps you up"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.dark > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 776,
+    "w": 1089,
+    "h": 60,
+    "text": "Subscribe to our newsletter to receive regular updates straight to your inbox an"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.link-only > a",
+    "x": 175,
+    "y": 904,
+    "w": 269,
+    "h": 22,
+    "text": "subscribe to our newsletter",
+    "href": "/en/newsletter"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.filter-buttons-pills > ul.filter-buttons-pill-list > li.btn.btn-filter",
+    "x": 122,
+    "y": 1074,
+    "w": 108,
+    "h": 48,
+    "text": "all items"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.filter-buttons-pills > ul.filter-buttons-pill-list > li.btn.btn-filter",
+    "x": 250,
+    "y": 1074,
+    "w": 196,
+    "h": 48,
+    "text": "awards & certificates"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.filter-buttons-pills > ul.filter-buttons-pill-list > li.btn.btn-filter",
+    "x": 466,
+    "y": 1074,
+    "w": 228,
+    "h": 48,
+    "text": "customer success stories"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.filter-buttons-pills > ul.filter-buttons-pill-list > li.btn.btn-filter",
+    "x": 714,
+    "y": 1074,
+    "w": 99,
+    "h": 48,
+    "text": "partner"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.filter-buttons-pills > ul.filter-buttons-pill-list > li.btn.btn-filter",
+    "x": 832,
+    "y": 1074,
+    "w": 87,
+    "h": 48,
+    "text": "press"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 175,
+    "y": 1202,
+    "w": 310,
+    "h": 223,
+    "text": "",
+    "href": "/en/insights/press/luenendonk-2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 207,
+    "y": 1218,
+    "w": 127,
+    "h": 30,
+    "text": "12 Nov 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 175,
+    "y": 1269,
+    "w": 310,
+    "h": 125,
+    "text": "lünendonk 2026: ai and data shape the future of digital customer experiences",
+    "href": "/en/insights/press/luenendonk-2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 565,
+    "y": 1202,
+    "w": 310,
+    "h": 223,
+    "text": "",
+    "href": "/en/insights/press/head-of-ai-jasmin-guthmann"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 597,
+    "y": 1218,
+    "w": 127,
+    "h": 30,
+    "text": "29 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 565,
+    "y": 1269,
+    "w": 310,
+    "h": 156,
+    "text": "ai as a leadership responsibility: industry expert jasmin guthmann appointed hea",
+    "href": "/en/insights/press/head-of-ai-jasmin-guthmann"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 955,
+    "y": 1202,
+    "w": 310,
+    "h": 223,
+    "text": "",
+    "href": "/en/insights/press/ifm-ai-search"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 987,
+    "y": 1218,
+    "w": 126,
+    "h": 30,
+    "text": "27 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 955,
+    "y": 1269,
+    "w": 310,
+    "h": 94,
+    "text": "ifm introduces ai-powered product search in its online shop",
+    "href": "/en/insights/press/ifm-ai-search"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 175,
+    "y": 1505,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/sirko-schneppe-wird-neuer-ceo-von-diva-e-conclusion"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 175,
+    "y": 1505,
+    "w": 310,
+    "h": 173,
+    "text": "a person in a blue suit and white shirt stands indoors with ",
+    "file": "media_110324a08617d14779bb6cfe4314b92ed6"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 175,
+    "y": 1505,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/sirko-schneppe-wird-neuer-ceo-von-diva-e-conclusion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 207,
+    "y": 1694,
+    "w": 123,
+    "h": 30,
+    "text": "12 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 175,
+    "y": 1745,
+    "w": 310,
+    "h": 94,
+    "text": "sirko schneppe appointed new ceo of diva-e conclusion",
+    "href": "/en/insights/news/sirko-schneppe-wird-neuer-ceo-von-diva-e-conclusion"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 565,
+    "y": 1505,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/press/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 565,
+    "y": 1505,
+    "w": 310,
+    "h": 173,
+    "text": "logos of stackit and diva-e conclusion with a hand and heart",
+    "file": "media_1fb984ea7b549c5342a65c84c0d12ddef2"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 565,
+    "y": 1505,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/press/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 597,
+    "y": 1694,
+    "w": 114,
+    "h": 30,
+    "text": "9 Oct 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 565,
+    "y": 1745,
+    "w": 310,
+    "h": 125,
+    "text": "diva-e conclusion and stackit join forces to strengthen european data sovereignt",
+    "href": "/en/insights/press/diva-e-conclusion-und-stackit-buendeln-cloud-kompetenz-fuer-europaeische-daten-souveraenitaet"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 955,
+    "y": 1505,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/diva-e-conclusion-launches-marketplace-for-productized-digital-services"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 955,
+    "y": 1505,
+    "w": 310,
+    "h": 173,
+    "text": "digital marketplace concept with a storefront, icons represe",
+    "file": "media_115b7404ae2739509e71415b7596eb492a"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 955,
+    "y": 1505,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-conclusion-launches-marketplace-for-productized-digital-services"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 987,
+    "y": 1694,
+    "w": 129,
+    "h": 30,
+    "text": "13 Aug 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 955,
+    "y": 1745,
+    "w": 310,
+    "h": 125,
+    "text": "diva-e conclusion startet marketplace für produktisierte digital services",
+    "href": "/en/insights/news/diva-e-conclusion-launches-marketplace-for-productized-digital-services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 175,
+    "y": 1950,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/diva-e-conclusion-migrates-aumovios-digital-platform"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 175,
+    "y": 1950,
+    "w": 310,
+    "h": 173,
+    "text": "logos of diva-e conclusion and aumovio separated by a vertic",
+    "file": "media_1ba62ae9290a7ddcdaeba3dc84b6f698e3"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 175,
+    "y": 1950,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-conclusion-migrates-aumovios-digital-platform"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 207,
+    "y": 2139,
+    "w": 107,
+    "h": 30,
+    "text": "7 Jul 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 175,
+    "y": 2190,
+    "w": 310,
+    "h": 62,
+    "text": "diva-e conclusion migrates aumovio's digital platform",
+    "href": "/en/insights/news/diva-e-conclusion-migrates-aumovios-digital-platform"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 565,
+    "y": 1950,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/diva-e-conclusion-staerkt-sap-kompetenz-im-internationalen-conclusion-netzwerk"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 565,
+    "y": 1950,
+    "w": 310,
+    "h": 173,
+    "text": "text \"combined sap expertise\" with sap logo on a dark blue b",
+    "file": "media_18a1a2b53d4085d3f534678576fb1a47f3"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 565,
+    "y": 1950,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-conclusion-staerkt-sap-kompetenz-im-internationalen-conclusion-netzwerk"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 597,
+    "y": 2139,
+    "w": 129,
+    "h": 30,
+    "text": "21 May 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 565,
+    "y": 2190,
+    "w": 310,
+    "h": 125,
+    "text": "diva-e conclusion strengthens sap expertise within the international conclusion ",
+    "href": "/en/insights/news/diva-e-conclusion-staerkt-sap-kompetenz-im-internationalen-conclusion-netzwerk"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 955,
+    "y": 1950,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/press/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 955,
+    "y": 1950,
+    "w": 310,
+    "h": 173,
+    "text": "modern curved office building with a large \"conclusion\" bann",
+    "file": "media_1e8fe874530dc9355c0824b7a1c664c7c7"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 955,
+    "y": 1950,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/press/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 987,
+    "y": 2139,
+    "w": 133,
+    "h": 30,
+    "text": "20 May 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 955,
+    "y": 2190,
+    "w": 310,
+    "h": 125,
+    "text": "diva-e conclusion advances to 6th place in the bvdw internet agency ranking with",
+    "href": "/en/insights/press/diva-e-conclusion-steigt-mit-conclusion-dach-im-bvdw-internetagenturranking-auf-platz-6"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 175,
+    "y": 2395,
+    "w": 310,
+    "h": 334,
+    "text": "",
+    "href": "/en/insights/news/diva-e-conclusion-google-premier-partner-2026"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 175,
+    "y": 2395,
+    "w": 310,
+    "h": 173,
+    "text": "we are google partner premier 2026",
+    "file": "media_177534e92cf304d8aefee70be56d808114"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 175,
+    "y": 2395,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-conclusion-google-premier-partner-2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 207,
+    "y": 2585,
+    "w": 129,
+    "h": 30,
+    "text": "25 Mar 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 175,
+    "y": 2636,
+    "w": 310,
+    "h": 62,
+    "text": "diva-e conclusion – google premier partner 2026",
+    "href": "/en/insights/news/diva-e-conclusion-google-premier-partner-2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 565,
+    "y": 2395,
+    "w": 310,
+    "h": 334,
+    "text": "",
+    "href": "/en/insights/news/adobe-platinum-status"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 565,
+    "y": 2395,
+    "w": 310,
+    "h": 173,
+    "text": "\"adobe solution partner platinum logo with text 'we are' and",
+    "file": "media_194a0af7853ad60af56bf7700814f3feb5"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 565,
+    "y": 2395,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/adobe-platinum-status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 597,
+    "y": 2585,
+    "w": 124,
+    "h": 30,
+    "text": "12 Feb 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 565,
+    "y": 2636,
+    "w": 310,
+    "h": 94,
+    "text": "diva-e conclusion achieves adobe platinum partner status",
+    "href": "/en/insights/news/adobe-platinum-status"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 955,
+    "y": 2395,
+    "w": 310,
+    "h": 334,
+    "text": "",
+    "href": "/en/insights/news/kyowakirin"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 955,
+    "y": 2395,
+    "w": 310,
+    "h": 173,
+    "text": "split image with \"diva-e conclusion\" in white on blue backgr",
+    "file": "media_167d217f8ae301874fb5652a38cba0fbc7"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 955,
+    "y": 2395,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/kyowakirin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 987,
+    "y": 2585,
+    "w": 114,
+    "h": 30,
+    "text": "8 Jan 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 955,
+    "y": 2636,
+    "w": 310,
+    "h": 94,
+    "text": "reimagining pharmaceutical sales: from account-centric to customer-centric",
+    "href": "/en/insights/news/kyowakirin"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 175,
+    "y": 2809,
+    "w": 310,
+    "h": 303,
+    "text": "",
+    "href": "/en/insights/press/luenendonk-list-2025-diva-e-conclusion-remains-market-leader"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 207,
+    "y": 2825,
+    "w": 117,
+    "h": 30,
+    "text": "4 Nov 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 175,
+    "y": 2876,
+    "w": 310,
+    "h": 94,
+    "text": "lünendonk® list 2025: diva-e conclusion remains market leader",
+    "href": "/en/insights/press/luenendonk-list-2025-diva-e-conclusion-remains-market-leader"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 565,
+    "y": 2809,
+    "w": 310,
+    "h": 303,
+    "text": "",
+    "href": "/en/insights/news/new-partnership-with-shopware"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 565,
+    "y": 2809,
+    "w": 310,
+    "h": 173,
+    "text": "logos von diva-e conclusion und shopware geben sich die hand",
+    "file": "media_1010003ac7d57691c9c5da364f3b0a76b4"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 565,
+    "y": 2809,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/new-partnership-with-shopware"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 597,
+    "y": 2999,
+    "w": 134,
+    "h": 30,
+    "text": "16 Sept 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 565,
+    "y": 3050,
+    "w": 310,
+    "h": 62,
+    "text": "new partnership with shopware",
+    "href": "/en/insights/news/new-partnership-with-shopware"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 955,
+    "y": 2809,
+    "w": 310,
+    "h": 303,
+    "text": "",
+    "href": "/en/insights/press/diva-e-conclusion-optimizes-digital-visibility-of-dak-gesundheit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 987,
+    "y": 2825,
+    "w": 121,
+    "h": 30,
+    "text": "11 Jun 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 955,
+    "y": 2876,
+    "w": 310,
+    "h": 94,
+    "text": "diva-e conclusion optimizes digital visibility of dak-gesundheit",
+    "href": "/en/insights/press/diva-e-conclusion-optimizes-digital-visibility-of-dak-gesundheit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 175,
+    "y": 3192,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/press/conclusion-expands-to-dach-region-and-appoints-tilman-au-as-managing-director"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 175,
+    "y": 3192,
+    "w": 310,
+    "h": 173,
+    "text": "tilman au",
+    "file": "media_1ad2783818f034d753466f651d864c8140"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 175,
+    "y": 3192,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/press/conclusion-expands-to-dach-region-and-appoints-tilman-au-as-managing-director"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 207,
+    "y": 3382,
+    "w": 113,
+    "h": 30,
+    "text": "7 Apr 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 175,
+    "y": 3433,
+    "w": 310,
+    "h": 125,
+    "text": "conclusion expands to dach region and appoints tilman au as managing director",
+    "href": "/en/insights/press/conclusion-expands-to-dach-region-and-appoints-tilman-au-as-managing-director"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 565,
+    "y": 3192,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/storyblok_platinum-partner"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 565,
+    "y": 3192,
+    "w": 310,
+    "h": 173,
+    "text": "grafik mit einem pokal und der aufschrift storyblok platinum",
+    "file": "media_13fc53cda4526c60bda4dc8d801a81207d"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 565,
+    "y": 3192,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/storyblok_platinum-partner"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 597,
+    "y": 3382,
+    "w": 114,
+    "h": 30,
+    "text": "3 Apr 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 565,
+    "y": 3433,
+    "w": 310,
+    "h": 62,
+    "text": "we are a storyblok platinum partner",
+    "href": "/en/insights/news/storyblok_platinum-partner"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 955,
+    "y": 3192,
+    "w": 310,
+    "h": 365,
+    "text": "",
+    "href": "/en/insights/news/we-are-crownpeak-platinum-partner"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 955,
+    "y": 3192,
+    "w": 310,
+    "h": 173,
+    "text": "grafik mit blauem hintergrund auf der das crownpeak logo zu ",
+    "file": "media_162ce99ed01a515e580257d3b019bde012"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 955,
+    "y": 3192,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/we-are-crownpeak-platinum-partner"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 987,
+    "y": 3382,
+    "w": 128,
+    "h": 30,
+    "text": "27 Mar 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 955,
+    "y": 3433,
+    "w": 310,
+    "h": 62,
+    "text": "diva-e is crownpeak platinum partner",
+    "href": "/en/insights/news/we-are-crownpeak-platinum-partner"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 175,
+    "y": 3637,
+    "w": 310,
+    "h": 334,
+    "text": "",
+    "href": "/en/insights/news/we-are-google-premier-partner"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 175,
+    "y": 3637,
+    "w": 310,
+    "h": 173,
+    "text": "grafik mit diva-e logo und google partner premier 2025",
+    "file": "media_13e529f0bd512c9c73b50fbc9a7c7bb2df"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 175,
+    "y": 3637,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/we-are-google-premier-partner"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 207,
+    "y": 3827,
+    "w": 129,
+    "h": 30,
+    "text": "25 Mar 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 175,
+    "y": 3878,
+    "w": 310,
+    "h": 62,
+    "text": "google premier-partner 2025",
+    "href": "/en/insights/news/we-are-google-premier-partner"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 565,
+    "y": 3637,
+    "w": 310,
+    "h": 334,
+    "text": "",
+    "href": "/en/insights/news/diva-e-achieves-salesforce-summit-partner-status"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 565,
+    "y": 3637,
+    "w": 310,
+    "h": 173,
+    "text": "diva-e ist zertifizierter salesforce summit partner",
+    "file": "media_1089fa38da7f82e70f8a7dd451e531db2a"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 565,
+    "y": 3637,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-achieves-salesforce-summit-partner-status"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 597,
+    "y": 3827,
+    "w": 127,
+    "h": 30,
+    "text": "19 Mar 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 565,
+    "y": 3878,
+    "w": 310,
+    "h": 94,
+    "text": "sky is now the limit: we’ve achieved salesforce summit status!",
+    "href": "/en/insights/news/diva-e-achieves-salesforce-summit-partner-status"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-list-cards > div.list-card > a.list-card-card-link",
+    "x": 955,
+    "y": 3637,
+    "w": 310,
+    "h": 334,
+    "text": "",
+    "href": "/en/insights/news/diva-e-awarded-as-integration-champion"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img > picture > img",
+    "x": 955,
+    "y": 3637,
+    "w": 310,
+    "h": 173,
+    "text": "integration champion: talonone zeichnet diva-e aus",
+    "file": "media_1fde8d615450bff30f297e20ca6396fe8a"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-img-container > div.hover-button > a.hover-button-link",
+    "x": 955,
+    "y": 3637,
+    "w": 310,
+    "h": 173,
+    "text": "link",
+    "href": "/en/insights/news/diva-e-awarded-as-integration-champion"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-name.dot-blur-16 > div > p",
+    "x": 987,
+    "y": 3827,
+    "w": 127,
+    "h": 30,
+    "text": "20 Feb 2025"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-card-title > p.link-only > a.list-card-link",
+    "x": 955,
+    "y": 3878,
+    "w": 310,
+    "h": 62,
+    "text": "diva-e recognized as integration champion",
+    "href": "/en/insights/news/diva-e-awarded-as-integration-champion"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.list-pagination-pages > li.list-pagination-page.list-pagination-page-active > button.page-hit",
+    "x": 62,
+    "y": 4055,
+    "w": 60,
+    "h": 60,
+    "text": "button page 1"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.list-pagination-pages > li.list-pagination-page > button.page-hit",
+    "x": 128,
+    "y": 4053,
+    "w": 64,
+    "h": 64,
+    "text": "button page 2"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul.list-pagination-pages > li.list-pagination-page > button.page-hit",
+    "x": 196,
+    "y": 4053,
+    "w": 64,
+    "h": 64,
+    "text": "button page 3"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-pagination.list-pagination-dark > div.list-pagination-nav > button.arrow-right",
+    "x": 1237,
+    "y": 4057,
+    "w": 139,
+    "h": 48,
+    "text": "next →"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.list-pagination.list-pagination-dark > div.list-pagination-nav > button.arrow-left",
+    "x": 1153,
+    "y": 4117,
+    "w": 223,
+    "h": 48,
+    "text": "← previous"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4299,
+    "w": 186,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4329,
+    "w": 121,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4359,
+    "w": 185,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4389,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4419,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 4449,
+    "w": 59,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4299,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4329,
+    "w": 127,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4359,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4389,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4419,
+    "w": 134,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 4449,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 4299,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 4329,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 4359,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 4389,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 307,
+    "y": 4541,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 387,
+    "y": 4541,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 524,
+    "y": 4541,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 589,
+    "y": 4541,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-social-media > div.footer-bottom-newsletter > a.btn-link",
+    "x": 903,
+    "y": 4541,
+    "w": 217,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1153,
+    "y": 4536,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1201,
+    "y": 4536,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1249,
+    "y": 4536,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 89,
+    "controls": 105,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "news",
+   "variable": false,
+   "origin": {
+    "link": 59,
+    "button": 11,
+    "text": 24,
+    "image": 16
+   },
+   "eds": {
+    "link": 59,
+    "linkHidden": 0,
+    "button": 10,
+    "buttonHidden": 0,
+    "text": 24,
+    "textHidden": 0,
+    "image": 16,
+    "imageHidden": 0
+   },
+   "findings": [
+    "EXTRA LINK",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON",
+    "MISSING BUTTON"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"1\" in band \"news\" (origin y 4119) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "1"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"2\" in band \"news\" (origin y 4117) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "2"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"3\" in band \"news\" (origin y 4117) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "3"
+  },
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"news\" (origin y 796) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "×3 \"button page 1\" served in band \"news\", no origin link or button",
+   "band": 1,
+   "n": 3,
+   "text": "button page 1"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 3,
+  "missingButtons": 4,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 5,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 246,
+    "y": 55,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 340,
+    "y": 55,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 571,
+    "y": 55,
+    "w": 65,
+    "h": 18
+   },
+   {
+    "x": 669,
+    "y": 55,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 766,
+    "y": 55,
+    "w": 56,
+    "h": 18
+   },
+   {
+    "x": 855,
+    "y": 55,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 1034,
+    "y": 55,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 1062,
+    "y": 55,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "x": 1132,
+    "y": 55,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 326,
+    "w": 169,
+    "h": 76
+   },
+   {
+    "x": 175,
+    "y": 591,
+    "w": 528,
+    "h": 45
+   },
+   {
+    "x": 175,
+    "y": 690,
+    "w": 1052,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 720,
+    "w": 970,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 750,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 810,
+    "w": 994,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 904,
+    "w": 262,
+    "h": 23
+   },
+   {
+    "x": 146,
+    "y": 1089,
+    "w": 63,
+    "h": 18
+   },
+   {
+    "x": 277,
+    "y": 1089,
+    "w": 154,
+    "h": 18
+   },
+   {
+    "x": 499,
+    "y": 1089,
+    "w": 181,
+    "h": 18
+   },
+   {
+    "x": 748,
+    "y": 1089,
+    "w": 54,
+    "h": 18
+   },
+   {
+    "x": 870,
+    "y": 1089,
+    "w": 39,
+    "h": 18
+   },
+   {
+    "x": 207,
+    "y": 1223,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1271,
+    "w": 273,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 1302,
+    "w": 282,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 1333,
+    "w": 188,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 1364,
+    "w": 135,
+    "h": 28
+   },
+   {
+    "x": 597,
+    "y": 1223,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 1271,
+    "w": 203,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 1302,
+    "w": 266,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 1333,
+    "w": 279,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 1364,
+    "w": 272,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 1395,
+    "w": 200,
+    "h": 28
+   },
+   {
+    "x": 987,
+    "y": 1223,
+    "w": 126,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 1271,
+    "w": 299,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 1302,
+    "w": 234,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 1333,
+    "w": 137,
+    "h": 28
+   },
+   {
+    "x": 207,
+    "y": 1699,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1747,
+    "w": 299,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 1778,
+    "w": 211,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 1809,
+    "w": 124,
+    "h": 28
+   },
+   {
+    "x": 597,
+    "y": 1699,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 1747,
+    "w": 248,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 1778,
+    "w": 260,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 1809,
+    "w": 297,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 1841,
+    "w": 133,
+    "h": 28
+   },
+   {
+    "x": 987,
+    "y": 1699,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 1747,
+    "w": 284,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 1778,
+    "w": 179,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 1809,
+    "w": 239,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 1841,
+    "w": 95,
+    "h": 28
+   },
+   {
+    "x": 207,
+    "y": 2144,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2192,
+    "w": 304,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 2224,
+    "w": 211,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 2255,
+    "w": 98,
+    "h": 28
+   },
+   {
+    "x": 597,
+    "y": 2144,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 2192,
+    "w": 200,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 2224,
+    "w": 300,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 2255,
+    "w": 262,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 2286,
+    "w": 222,
+    "h": 28
+   },
+   {
+    "x": 987,
+    "y": 2144,
+    "w": 133,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 2192,
+    "w": 200,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 2224,
+    "w": 274,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 2255,
+    "w": 297,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 2286,
+    "w": 268,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 2317,
+    "w": 67,
+    "h": 28
+   },
+   {
+    "x": 207,
+    "y": 2621,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2669,
+    "w": 305,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 2700,
+    "w": 242,
+    "h": 28
+   },
+   {
+    "x": 597,
+    "y": 2621,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 2669,
+    "w": 307,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 2700,
+    "w": 270,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 2731,
+    "w": 73,
+    "h": 28
+   },
+   {
+    "x": 987,
+    "y": 2621,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 2669,
+    "w": 135,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 2700,
+    "w": 309,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 2731,
+    "w": 216,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 2762,
+    "w": 199,
+    "h": 28
+   },
+   {
+    "x": 207,
+    "y": 2893,
+    "w": 117,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2941,
+    "w": 256,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 2972,
+    "w": 293,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 3003,
+    "w": 154,
+    "h": 28
+   },
+   {
+    "x": 597,
+    "y": 3066,
+    "w": 134,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 3114,
+    "w": 242,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 3145,
+    "w": 111,
+    "h": 28
+   },
+   {
+    "x": 987,
+    "y": 2893,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 2941,
+    "w": 200,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 2972,
+    "w": 286,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 3003,
+    "w": 217,
+    "h": 28
+   },
+   {
+    "x": 207,
+    "y": 3449,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 3497,
+    "w": 254,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 3528,
+    "w": 296,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 3559,
+    "w": 255,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 3591,
+    "w": 89,
+    "h": 28
+   },
+   {
+    "x": 597,
+    "y": 3449,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 3497,
+    "w": 211,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 3528,
+    "w": 190,
+    "h": 28
+   },
+   {
+    "x": 987,
+    "y": 3449,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 3497,
+    "w": 226,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 3528,
+    "w": 190,
+    "h": 28
+   },
+   {
+    "x": 207,
+    "y": 3894,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 3942,
+    "w": 265,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 3973,
+    "w": 58,
+    "h": 28
+   },
+   {
+    "x": 597,
+    "y": 3894,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 3942,
+    "w": 297,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 3973,
+    "w": 228,
+    "h": 28
+   },
+   {
+    "x": 565,
+    "y": 4005,
+    "w": 184,
+    "h": 28
+   },
+   {
+    "x": 987,
+    "y": 3894,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 3942,
+    "w": 229,
+    "h": 28
+   },
+   {
+    "x": 955,
+    "y": 3973,
+    "w": 241,
+    "h": 28
+   },
+   {
+    "x": 88,
+    "y": 4140,
+    "w": 8,
+    "h": 18
+   },
+   {
+    "x": 156,
+    "y": 4140,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 224,
+    "y": 4140,
+    "w": 9,
+    "h": 18
+   },
+   {
+    "x": 1236,
+    "y": 4119,
+    "w": 140,
+    "h": 51
+   },
+   {
+    "x": 1157,
+    "y": 4179,
+    "w": 219,
+    "h": 51
+   },
+   {
+    "x": 175,
+    "y": 4363,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4393,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4423,
+    "w": 190,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4453,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4483,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4513,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4363,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4393,
+    "w": 130,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4423,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4453,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4483,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 4513,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 4363,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 4393,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 4423,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 4453,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4606,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 4606,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 4606,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 4606,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 4606,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 907,
+    "y": 4606,
+    "w": 214,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 250,
+    "y": 55,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 344,
+    "y": 55,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 569,
+    "y": 55,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 664,
+    "y": 55,
+    "w": 63,
+    "h": 17
+   },
+   {
+    "x": 759,
+    "y": 55,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 847,
+    "y": 55,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 1026,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1056,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1129,
+    "y": 55,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 328,
+    "w": 168,
+    "h": 73
+   },
+   {
+    "x": 175,
+    "y": 592,
+    "w": 517,
+    "h": 43
+   },
+   {
+    "x": 175,
+    "y": 690,
+    "w": 1052,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 720,
+    "w": 970,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 750,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 810,
+    "w": 994,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 904,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 146,
+    "y": 1089,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 274,
+    "y": 1089,
+    "w": 148,
+    "h": 17
+   },
+   {
+    "x": 490,
+    "y": 1089,
+    "w": 180,
+    "h": 17
+   },
+   {
+    "x": 738,
+    "y": 1089,
+    "w": 51,
+    "h": 17
+   },
+   {
+    "x": 856,
+    "y": 1089,
+    "w": 39,
+    "h": 17
+   },
+   {
+    "x": 207,
+    "y": 1222,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1271,
+    "w": 260,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 1302,
+    "w": 270,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 1333,
+    "w": 177,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 1364,
+    "w": 132,
+    "h": 27
+   },
+   {
+    "x": 597,
+    "y": 1222,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 1271,
+    "w": 200,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 1302,
+    "w": 247,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 1333,
+    "w": 271,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 1364,
+    "w": 254,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 1395,
+    "w": 191,
+    "h": 27
+   },
+   {
+    "x": 987,
+    "y": 1222,
+    "w": 126,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 1271,
+    "w": 281,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 1302,
+    "w": 299,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 1333,
+    "w": 56,
+    "h": 27
+   },
+   {
+    "x": 207,
+    "y": 1698,
+    "w": 123,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1747,
+    "w": 283,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 1778,
+    "w": 205,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 1809,
+    "w": 119,
+    "h": 27
+   },
+   {
+    "x": 597,
+    "y": 1698,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 1747,
+    "w": 237,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 1778,
+    "w": 257,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 1809,
+    "w": 286,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 1841,
+    "w": 127,
+    "h": 27
+   },
+   {
+    "x": 987,
+    "y": 1698,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 1747,
+    "w": 264,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 1778,
+    "w": 165,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 1809,
+    "w": 217,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 1841,
+    "w": 92,
+    "h": 27
+   },
+   {
+    "x": 207,
+    "y": 2143,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2192,
+    "w": 289,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 2224,
+    "w": 299,
+    "h": 27
+   },
+   {
+    "x": 597,
+    "y": 2143,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 2192,
+    "w": 191,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 2224,
+    "w": 284,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 2255,
+    "w": 239,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 2286,
+    "w": 209,
+    "h": 27
+   },
+   {
+    "x": 987,
+    "y": 2143,
+    "w": 133,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 2192,
+    "w": 300,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 2224,
+    "w": 268,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 2255,
+    "w": 299,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 2286,
+    "w": 193,
+    "h": 27
+   },
+   {
+    "x": 207,
+    "y": 2589,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2638,
+    "w": 295,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 2669,
+    "w": 229,
+    "h": 27
+   },
+   {
+    "x": 597,
+    "y": 2589,
+    "w": 124,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 2638,
+    "w": 294,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 2669,
+    "w": 255,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 2700,
+    "w": 68,
+    "h": 27
+   },
+   {
+    "x": 987,
+    "y": 2589,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 2638,
+    "w": 305,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 2669,
+    "w": 305,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 2700,
+    "w": 215,
+    "h": 27
+   },
+   {
+    "x": 207,
+    "y": 2829,
+    "w": 117,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2878,
+    "w": 306,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 2909,
+    "w": 231,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 2941,
+    "w": 147,
+    "h": 27
+   },
+   {
+    "x": 597,
+    "y": 3003,
+    "w": 134,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 3052,
+    "w": 227,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 3083,
+    "w": 108,
+    "h": 27
+   },
+   {
+    "x": 987,
+    "y": 2829,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 2878,
+    "w": 299,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 2909,
+    "w": 243,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 2941,
+    "w": 123,
+    "h": 27
+   },
+   {
+    "x": 207,
+    "y": 3386,
+    "w": 113,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 3435,
+    "w": 243,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 3466,
+    "w": 286,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 3497,
+    "w": 250,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 3528,
+    "w": 80,
+    "h": 27
+   },
+   {
+    "x": 597,
+    "y": 3386,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 3435,
+    "w": 304,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 3466,
+    "w": 79,
+    "h": 27
+   },
+   {
+    "x": 987,
+    "y": 3386,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 3435,
+    "w": 217,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 3466,
+    "w": 179,
+    "h": 27
+   },
+   {
+    "x": 207,
+    "y": 3831,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 3880,
+    "w": 255,
+    "h": 27
+   },
+   {
+    "x": 175,
+    "y": 3911,
+    "w": 53,
+    "h": 27
+   },
+   {
+    "x": 597,
+    "y": 3831,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 565,
+    "y": 3880,
+    "w": 284,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 3911,
+    "w": 219,
+    "h": 27
+   },
+   {
+    "x": 565,
+    "y": 3942,
+    "w": 176,
+    "h": 27
+   },
+   {
+    "x": 987,
+    "y": 3831,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 955,
+    "y": 3880,
+    "w": 221,
+    "h": 27
+   },
+   {
+    "x": 955,
+    "y": 3911,
+    "w": 229,
+    "h": 27
+   },
+   {
+    "x": 88,
+    "y": 4076,
+    "w": 9,
+    "h": 17
+   },
+   {
+    "x": 156,
+    "y": 4076,
+    "w": 9,
+    "h": 17
+   },
+   {
+    "x": 224,
+    "y": 4076,
+    "w": 9,
+    "h": 17
+   },
+   {
+    "x": 1237,
+    "y": 4056,
+    "w": 139,
+    "h": 49
+   },
+   {
+    "x": 1153,
+    "y": 4116,
+    "w": 223,
+    "h": 49
+   },
+   {
+    "x": 175,
+    "y": 4299,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4329,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4359,
+    "w": 185,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4389,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4419,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4449,
+    "w": 59,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4299,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4329,
+    "w": 127,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4359,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4389,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4419,
+    "w": 134,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 4449,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 4299,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 4329,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 4359,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 4389,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 4542,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 4542,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 4542,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 4542,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 4542,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 903,
+    "y": 4542,
+    "w": 217,
+    "h": 16
+   }
+  ]
+ }
+}

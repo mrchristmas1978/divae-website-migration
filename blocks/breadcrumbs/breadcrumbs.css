@@ -1,0 +1,94 @@
+/* breadcrumbs — source LayoutBreadcrumbs (light default, dark variant) */
+.breadcrumbs {
+  padding: 40px var(--pad-x) 34px;
+}
+
+.breadcrumbs.dark {
+  background-color: var(--navy);
+}
+
+.breadcrumbs .breadcrumbs-nav {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.breadcrumbs .breadcrumbs-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.breadcrumbs .breadcrumbs-nav li {
+  display: flex;
+  margin: 0 6px 6px 0;
+}
+
+.breadcrumbs .breadcrumbs-nav li + li::before {
+  content: "→";
+  margin: 0 6px 0 0;
+  color: var(--grey-text);
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-variation-settings: "slnt" 0;
+}
+
+/* the source's .btn.btn--link paint, applied by element (EW3: no class on the anchor) */
+.breadcrumbs .breadcrumbs-nav a:any-link {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  min-height: auto;
+  margin: 0;
+  padding: 0;
+  border-bottom-width: 2px;
+  color: var(--grey-text);
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-variation-settings: "slnt" 0;
+  line-height: 130%;
+  text-align: left;
+  text-decoration: underline;
+  text-decoration-color: var(--blue);
+  text-underline-offset: 1px;
+  text-underline-position: under;
+  transition: var(--ease);
+}
+
+.breadcrumbs .breadcrumbs-nav a:any-link:hover {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.breadcrumbs .breadcrumbs-nav a[aria-current="page"] {
+  border: none;
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+  text-decoration: none;
+  pointer-events: none;
+}
+
+.breadcrumbs.dark .breadcrumbs-nav a:any-link,
+.breadcrumbs.dark .breadcrumbs-nav li + li::before {
+  color: var(--ink-light);
+}
+
+@media (width >= 768px) {
+  .breadcrumbs .breadcrumbs-nav {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+
+  .breadcrumbs .breadcrumbs-nav a:any-link {
+    border-bottom-width: 3px;
+    font-size: 1.6rem;
+  }
+}
+
+/* substitute compensation (R-03), case studies below 768px: the fallback face sets the 12px trail
+   ~3% wider than GT Planar, so a trail that fits one line on the source (ravensburger) wraps */
+@media (width < 768px) {
+  main:has(.hero.small) .breadcrumbs .breadcrumbs-nav a:any-link {
+    letter-spacing: -0.02em;
+  }
+}

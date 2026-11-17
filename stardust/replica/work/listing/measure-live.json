@@ -1,0 +1,2046 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-13T12:03:35.154Z",
+    "urls": [
+      "https://www.diva-e.com/en/insights/edge/"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "selectors": [
+      ".page-edge",
+      ".mixed-media",
+      ".mixed-media__media-img",
+      ".mixed-media__info",
+      ".mixed-media__info-title h2",
+      ".mixed-media__info-date",
+      ".mixed-media__info-txt",
+      ".mixed-media__info-link a",
+      ".article-list",
+      ".article-list__headline h2",
+      ".filter-buttons__btns-container",
+      ".btn--filter.active",
+      ".btn--filter:not(.active)",
+      ".filter-buttons__btn-mobile",
+      ".article-list__cards",
+      ".list-article-card",
+      ".list-article-card__label",
+      ".list-article-card__title",
+      ".list-article-card__teaser",
+      ".list-article-card__author",
+      ".list-pagination",
+      ".list-pagination__page--active",
+      ".list-pagination__nav button",
+      "footer.footer"
+    ],
+    "props": [
+      "display",
+      "position",
+      "boxSizing",
+      "width",
+      "height",
+      "maxWidth",
+      "margin",
+      "padding",
+      "gap",
+      "backgroundColor",
+      "backgroundImage",
+      "color",
+      "fontFamily",
+      "fontSize",
+      "fontWeight",
+      "lineHeight",
+      "letterSpacing",
+      "textTransform",
+      "textAlign",
+      "borderRadius",
+      "border",
+      "boxShadow",
+      "opacity",
+      "objectFit"
+    ],
+    "allMatches": false,
+    "failed": [],
+    "warnings": [
+      "https://www.diva-e.com/en/insights/edge/ @360: horizontal overflow +20px (scrollWidth 380 > viewport 360)"
+    ]
+  },
+  "widths": [
+    1440,
+    360
+  ],
+  "selectors": [
+    ".page-edge",
+    ".mixed-media",
+    ".mixed-media__media-img",
+    ".mixed-media__info",
+    ".mixed-media__info-title h2",
+    ".mixed-media__info-date",
+    ".mixed-media__info-txt",
+    ".mixed-media__info-link a",
+    ".article-list",
+    ".article-list__headline h2",
+    ".filter-buttons__btns-container",
+    ".btn--filter.active",
+    ".btn--filter:not(.active)",
+    ".filter-buttons__btn-mobile",
+    ".article-list__cards",
+    ".list-article-card",
+    ".list-article-card__label",
+    ".list-article-card__title",
+    ".list-article-card__teaser",
+    ".list-article-card__author",
+    ".list-pagination",
+    ".list-pagination__page--active",
+    ".list-pagination__nav button",
+    "footer.footer"
+  ],
+  "root": {
+    "https://www.diva-e.com/en/insights/edge/": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 380,
+        "scrollHeight": 11372,
+        "overflowX": 20
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 5335,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.diva-e.com/en/insights/edge/": {
+      "360": {
+        ".page-edge": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 10545
+            },
+            "visible": true,
+            "text": "Agentic AI for your Business 7 Sept 202…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "10544.9px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "86px 0px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 126,
+              "w": 360,
+              "h": 627
+            },
+            "visible": true,
+            "text": "Agentic AI for your Business 7 Sept 202…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "627.031px",
+              "maxWidth": "100%",
+              "margin": "40px 0px",
+              "padding": "0px 24px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__media-img": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "100%",
+              "height": "auto",
+              "maxWidth": "100%",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "12px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 126,
+              "w": 312,
+              "h": 627
+            },
+            "visible": true,
+            "text": "Agentic AI for your Business 7 Sept 202…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "627.031px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info-title h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 126,
+              "w": 312,
+              "h": 58
+            },
+            "visible": true,
+            "text": "Agentic AI for your Business",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "57.5938px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "24px",
+              "fontWeight": "400",
+              "lineHeight": "28.8px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info-date": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 204,
+              "w": 312,
+              "h": 24
+            },
+            "visible": true,
+            "text": "7 Sept 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "24px",
+              "maxWidth": "none",
+              "margin": "0px 0px 24px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info-txt": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 543,
+              "w": 312,
+              "h": 148
+            },
+            "visible": true,
+            "text": "What is Agentic AI and how can business…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "148px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 0px 40px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "27px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info-link a": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 691,
+              "w": 116,
+              "h": 42
+            },
+            "visible": true,
+            "text": "read article",
+            "props": {
+              "display": "inline-flex",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "115.703px",
+              "height": "42px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "4px 20px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "50px",
+              "border": "0px none rgb(255, 255, 255)",
+              "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 2px inset",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".article-list": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 793,
+              "w": 360,
+              "h": 9752
+            },
+            "visible": true,
+            "text": "All articles Filter by View more AI | 5…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "9751.89px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "40px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".article-list__headline h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 833,
+              "w": 121,
+              "h": 29
+            },
+            "visible": true,
+            "text": "All articles",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "120.516px",
+              "height": "28.7969px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "24px",
+              "fontWeight": "400",
+              "lineHeight": "28.8px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".filter-buttons__btns-container": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 40,
+              "y": 123,
+              "w": 280,
+              "h": 494
+            },
+            "visible": false,
+            "text": "",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "280px",
+              "height": "494px",
+              "maxWidth": "none",
+              "margin": "36px 0px 0px",
+              "padding": "0px",
+              "gap": "16px 0px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".btn--filter.active": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 40,
+              "y": 123,
+              "w": 95,
+              "h": 35
+            },
+            "visible": false,
+            "text": "",
+            "props": {
+              "display": "flex",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "94.8125px",
+              "height": "35px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "24px",
+              "fontWeight": "300",
+              "lineHeight": "28.8px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "16px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".btn--filter:not(.active)": [
+          {
+            "index": 0,
+            "of": 9,
+            "rect": {
+              "x": 40,
+              "y": 174,
+              "w": 23,
+              "h": 35
+            },
+            "visible": false,
+            "text": "",
+            "props": {
+              "display": "flex",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "23.1094px",
+              "height": "35px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "24px",
+              "fontWeight": "300",
+              "lineHeight": "28.8px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "16px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".filter-buttons__btn-mobile": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 902,
+              "w": 121,
+              "h": 30
+            },
+            "visible": true,
+            "text": "Filter by",
+            "props": {
+              "display": "inline-block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "120.516px",
+              "height": "30px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "500",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".article-list__cards": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 980,
+              "w": 312,
+              "h": 9391
+            },
+            "visible": true,
+            "text": "View more AI | 5 Nov 2026 Human in the …",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "9391.09px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "24px 0px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 24,
+              "y": 980,
+              "w": 312,
+              "h": 405
+            },
+            "visible": true,
+            "text": "View more AI | 5 Nov 2026 Human in the …",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "404.719px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card__label": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 24,
+              "y": 1171,
+              "w": 312,
+              "h": 24
+            },
+            "visible": true,
+            "text": "AI | 5 Nov 2026",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "24px",
+              "maxWidth": "none",
+              "margin": "16px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card__title": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 24,
+              "y": 1195,
+              "w": 312,
+              "h": 66
+            },
+            "visible": true,
+            "text": "Human in the Loop?",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "66px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "20px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "26px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card__teaser": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 24,
+              "y": 1261,
+              "w": 312,
+              "h": 72
+            },
+            "visible": true,
+            "text": "AI agents need human oversight. But who…",
+            "props": {
+              "display": "flow-root",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "72px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card__author": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 24,
+              "y": 1353,
+              "w": 312,
+              "h": 32
+            },
+            "visible": true,
+            "text": "Jasmin Guthmann",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "312px",
+              "height": "32px",
+              "maxWidth": "none",
+              "margin": "20px 0px 0px",
+              "padding": "0px",
+              "gap": "16px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-pagination": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 24,
+              "y": 10411,
+              "w": 356,
+              "h": 54
+            },
+            "visible": true,
+            "text": "1 2 3 - 11",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "356px",
+              "height": "54px",
+              "maxWidth": "none",
+              "margin": "40px 0px",
+              "padding": "0px 24px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-pagination__page--active": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 84,
+              "y": 10413,
+              "w": 44,
+              "h": 44
+            },
+            "visible": true,
+            "text": "1",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "44px",
+              "height": "44px",
+              "maxWidth": "none",
+              "margin": "2px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "18px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "50%",
+              "border": "2px solid rgb(27, 49, 255)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-pagination__nav button": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 336,
+              "y": 10427,
+              "w": 20,
+              "h": 20
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "display": "block",
+              "position": "absolute",
+              "boxSizing": "border-box",
+              "width": "20px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "44px",
+              "fontWeight": "400",
+              "lineHeight": "48px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        "footer.footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 10545,
+              "w": 360,
+              "h": 827
+            },
+            "visible": true,
+            "text": "Jobs Whistleblower system Subscribe to …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "827px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "40px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(8, 18, 53)",
+              "backgroundImage": "none",
+              "color": "rgb(237, 240, 251)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(237, 240, 251)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".page-edge": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 1440,
+              "h": 4957
+            },
+            "visible": true,
+            "text": "Agentic AI for your Business 7 Sept 202…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1440px",
+              "height": "4957.3px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "86px 0px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 166,
+              "w": 1440,
+              "h": 477
+            },
+            "visible": true,
+            "text": "Agentic AI for your Business 7 Sept 202…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1440px",
+              "height": "476.547px",
+              "maxWidth": "100%",
+              "margin": "80px 0px",
+              "padding": "0px 64px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__media-img": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 678,
+              "y": 146,
+              "w": 639,
+              "h": 516
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "644px",
+              "height": "476.547px",
+              "maxWidth": "100%",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "12px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 120,
+              "y": 166,
+              "w": 533,
+              "h": 434
+            },
+            "visible": true,
+            "text": "Agentic AI for your Business 7 Sept 202…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "532.656px",
+              "height": "433.969px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 48px 0px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info-title h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 120,
+              "y": 166,
+              "w": 485,
+              "h": 94
+            },
+            "visible": true,
+            "text": "Agentic AI for your Business",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "484.656px",
+              "height": "93.5938px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "39px",
+              "fontWeight": "400",
+              "lineHeight": "46.8px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info-date": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 120,
+              "y": 284,
+              "w": 485,
+              "h": 30
+            },
+            "visible": true,
+            "text": "7 Sept 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "484.656px",
+              "height": "30px",
+              "maxWidth": "none",
+              "margin": "0px 0px 24px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info-txt": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 120,
+              "y": 338,
+              "w": 485,
+              "h": 174
+            },
+            "visible": true,
+            "text": "What is Agentic AI and how can business…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "484.656px",
+              "height": "174.375px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 0px 40px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "24px",
+              "fontWeight": "300",
+              "lineHeight": "33.6px",
+              "letterSpacing": "0.48px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".mixed-media__info-link a": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 120,
+              "y": 512,
+              "w": 143,
+              "h": 48
+            },
+            "visible": true,
+            "text": "read article",
+            "props": {
+              "display": "inline-flex",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "142.891px",
+              "height": "48px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "4px 28px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "50px",
+              "border": "0px none rgb(255, 255, 255)",
+              "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 2px inset",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".article-list": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 723,
+              "w": 1440,
+              "h": 4235
+            },
+            "visible": true,
+            "text": "All articles All items AI B2B B2C News …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1440px",
+              "height": "4234.75px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "80px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".article-list__headline h2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 64,
+              "y": 803,
+              "w": 1312,
+              "h": 47
+            },
+            "visible": true,
+            "text": "All articles",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1312px",
+              "height": "46.7969px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "39px",
+              "fontWeight": "400",
+              "lineHeight": "46.8px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".filter-buttons__btns-container": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 64,
+              "y": 889,
+              "w": 1312,
+              "h": 116
+            },
+            "visible": true,
+            "text": "All items AI B2B B2C News & Trends Omni…",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1312px",
+              "height": "116px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "20px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".btn--filter.active": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 64,
+              "y": 889,
+              "w": 111,
+              "h": 48
+            },
+            "visible": true,
+            "text": "All items",
+            "props": {
+              "display": "flex",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "111.188px",
+              "height": "48px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 24px",
+              "gap": "normal",
+              "backgroundColor": "rgb(27, 49, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "19.2px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "6px",
+              "border": "0px none rgb(255, 255, 255)",
+              "boxShadow": "rgb(27, 49, 255) 0px 0px 0px 2px inset",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".btn--filter:not(.active)": [
+          {
+            "index": 0,
+            "of": 9,
+            "rect": {
+              "x": 195,
+              "y": 889,
+              "w": 63,
+              "h": 48
+            },
+            "visible": true,
+            "text": "AI",
+            "props": {
+              "display": "flex",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "63.4062px",
+              "height": "48px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 24px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "19.2px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "6px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "rgb(8, 18, 53) 0px 0px 0px 2px inset",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".filter-buttons__btn-mobile": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "Filter by",
+            "props": {
+              "display": "none",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "100%",
+              "height": "auto",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "500",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".article-list__cards": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 64,
+              "y": 1053,
+              "w": 1312,
+              "h": 3544
+            },
+            "visible": true,
+            "text": "View more AI | 5 Nov 2026 Human in the …",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1312px",
+              "height": "3543.95px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "48px 95px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 64,
+              "y": 1053,
+              "w": 374,
+              "h": 489
+            },
+            "visible": true,
+            "text": "View more AI | 5 Nov 2026 Human in the …",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "373.984px",
+              "height": "489.422px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card__label": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 64,
+              "y": 1279,
+              "w": 374,
+              "h": 24
+            },
+            "visible": true,
+            "text": "AI | 5 Nov 2026",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "373.984px",
+              "height": "24px",
+              "maxWidth": "none",
+              "margin": "16px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card__title": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 64,
+              "y": 1303,
+              "w": 374,
+              "h": 66
+            },
+            "visible": true,
+            "text": "Human in the Loop?",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "373.984px",
+              "height": "66px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "20px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "26px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card__teaser": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 64,
+              "y": 1419,
+              "w": 374,
+              "h": 72
+            },
+            "visible": true,
+            "text": "AI agents need human oversight. But who…",
+            "props": {
+              "display": "flow-root",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "373.984px",
+              "height": "72px",
+              "maxWidth": "none",
+              "margin": "50px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "24px",
+              "letterSpacing": "0.32px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-article-card__author": [
+          {
+            "index": 0,
+            "of": 21,
+            "rect": {
+              "x": 64,
+              "y": 1511,
+              "w": 374,
+              "h": 32
+            },
+            "visible": true,
+            "text": "Jasmin Guthmann",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "373.984px",
+              "height": "32px",
+              "maxWidth": "none",
+              "margin": "20px 0px 0px",
+              "padding": "0px",
+              "gap": "16px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-pagination": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 64,
+              "y": 4677,
+              "w": 1312,
+              "h": 120
+            },
+            "visible": true,
+            "text": "1 2 3 - 11 next → ← previous",
+            "props": {
+              "display": "flex",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "1312px",
+              "height": "120px",
+              "maxWidth": "none",
+              "margin": "80px 0px",
+              "padding": "0px 64px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-pagination__page--active": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 124,
+              "y": 4679,
+              "w": 64,
+              "h": 64
+            },
+            "visible": true,
+            "text": "1",
+            "props": {
+              "display": "flex",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "64px",
+              "height": "64px",
+              "maxWidth": "none",
+              "margin": "2px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "18px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "50%",
+              "border": "2px solid rgb(27, 49, 255)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".list-pagination__nav button": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 1172,
+              "y": 4683,
+              "w": 140,
+              "h": 48
+            },
+            "visible": true,
+            "text": "next →",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "139.828px",
+              "height": "48px",
+              "maxWidth": "none",
+              "margin": "6px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(8, 18, 53)",
+              "fontFamily": "\"GT Planar VF\", Helvetica, \"sans-serif\", cursive",
+              "fontSize": "44px",
+              "fontWeight": "400",
+              "lineHeight": "48px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(8, 18, 53)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        "footer.footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 4957,
+              "w": 1440,
+              "h": 378
+            },
+            "visible": true,
+            "text": "Adobe Experience Cloud Paid Advertising…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1440px",
+              "height": "378px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "40px 0px 64px",
+              "gap": "normal",
+              "backgroundColor": "rgb(8, 18, 53)",
+              "backgroundImage": "none",
+              "color": "rgb(237, 240, 251)",
+              "fontFamily": "Inter, \"sans-serif\"",
+              "fontSize": "20px",
+              "fontWeight": "300",
+              "lineHeight": "30px",
+              "letterSpacing": "0.4px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(237, 240, 251)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

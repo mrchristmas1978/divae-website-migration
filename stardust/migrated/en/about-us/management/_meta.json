@@ -1,0 +1,289 @@
+{
+  "slug": "en-about-us-management",
+  "type": "static",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "hero",
+    "breadcrumbs",
+    "slider-contacts"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "hero",
+    "breadcrumbs",
+    "style",
+    "slider-contacts",
+    "style",
+    "slider-contacts"
+  ],
+  "canonShas": {
+    "header": "850e0cea0dc4",
+    "footer": "eb22b3f55c59",
+    "css": "89712814bf67"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Management &amp; Leadership | diva-e Conclusion",
+    "description": "The diva-e Conclusion management team combines digital expertise with strategic vision - for sustainable growth.",
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Management &amp; Leadership | diva-e Conclusion",
+    "description": "The diva-e Conclusion management team combines digital expertise with strategic vision - for sustainable growth.",
+    "url": "https://www.diva-e.com/en/about-us/management/"
+  },
+  "migratedAt": "2026-11-13T19:17:50Z",
+  "designMdSha": "4192de5ef972",
+  "designJsonSha": "9768d88354b7",
+  "sourceCurrentSha": "d8c2d282b31b",
+  "sourceProposedSha": "7ef7bd234cc7",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [
+    "content-fidelity",
+    "pixel-gate-1440",
+    "pixel-gate-360",
+    "variance-probe",
+    "content-count",
+    "delivery-lint",
+    "media-reconcile"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "encoded verbatim from stardust/current/pages/en-about-us-management.html by stardust/.work/rollout/static/encode.cjs (headings, body, CTAs+hrefs, alt, order; counts.cjs heading/img/link counts equal or higher, deviations logged)",
+    "pixel-gate-1440": "gate-all --only preview 1440: 2.19 %, dh 12, clip 0, M0/H0 PASS (stardust/replica/gates/all-1440/en-about-us-management)",
+    "pixel-gate-360": "gate-all --only preview 360: 1.48 %, dh 0, clip 0, M0/H0 PASS (stardust/replica/gates/all-360/en-about-us-management)",
+    "variance-probe": "sibling-variance 1440 stardust/.work/rollout/static/variance.json: hero (reused, auto no-media), breadcrumbs dark (existing), simple-text dark (foundation) — no new variant beyond slider-contacts block / simple-text medium",
+    "content-count": "stardust/.work/rollout/static/counts.cjs: headings/img/link counts equal or higher vs capture; deviations logged",
+    "delivery-lint": "delivery-lint 0 P0 / 0 P1",
+    "media-reconcile": "media-reconcile: all hosted (media-ledger, scope static)"
+  },
+  "contentDeviations": [
+    {
+      "kind": "dropped-duplicate",
+      "source": "slider-contacts loop repeats (16 and 14 slides)",
+      "target": "2 and 7 authored contacts",
+      "reason": "the source component repeats its list to fill the coverflow; repeats are presentational clones restored by blocks/slider-contacts (aria-hidden)"
+    },
+    {
+      "kind": "attribute-to-text",
+      "source": "social link aria-label (icon-only link)",
+      "target": "authored link text, moved to aria-label by the block",
+      "reason": "an icon-only link has no authorable text in DA; the block restores the icon and the aria-label"
+    }
+  ],
+  "assetsBundled": 11,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/en/services/digital-marketing/audits/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/digital-business-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/technology-architecture-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-consulting/strategic-transformation/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/e-commerce-platform/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/karriereportal/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/gaio/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/omnichannel-marketing/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cloud-security/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/cybersecurity/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/b2b-tech-evaluierung-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/financial-services-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/luenendonk/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/cybersecurity-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/insights/downloads/ai-search-guide/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/adobe/adobe-experience-cloud/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/paid-advertising/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/ams/application-management-services/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cdp/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/cms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/content/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/data-analytics-bi/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/tools/oneproseo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/pim/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/monitoring-reporting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/sap/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/digital-marketing/seo/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/about-us/partner/salesforce/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/en/services/dxp/system-integration/ux-ui-design/",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "en/about-us/management/index.html",
+  "outputPathDefault": null,
+  "sidecar": "en/about-us/management/_meta.json",
+  "driverVersion": "1"
+}

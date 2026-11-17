@@ -1,0 +1,67 @@
+{
+ "url": "https://main--a608424f--aemcoder.aem.page/en/industries/retail",
+ "at": "2026-11-14T03:13:05.184Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 6,
+  "offPage": 33,
+  "textNodes": 129,
+  "controls": 90,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+   "text": "go to whitepaper: digital transformation in the age of ai",
+   "cutMin": 113,
+   "cutMax": 119
+  },
+  {
+   "kind": "CONTROL X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+   "text": "link",
+   "cutMin": 113,
+   "cutMax": 115
+  },
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 2,
+   "clipper": "div.slider-cards-viewport",
+   "path": "div.slider-cards-track > div.story-card > div.story-card-title.h5 > p.link-only",
+   "text": "whitepaper: digital transformation in the age of ai",
+   "cutMin": 106,
+   "cutMax": 116
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 4,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 9,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 0,
+   "offPage": 33,
+   "textNodes": 129,
+   "controls": 91,
+   "total": 13
+  }
+ }
+}

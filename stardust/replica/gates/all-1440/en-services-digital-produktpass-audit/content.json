@@ -1,0 +1,5496 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T03:03:19.758Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/services/digital-produktpass-audit/",
+  "at": "2026-11-14T03:02:53.152Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7466,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 64,
+    "y": 33,
+    "w": 120,
+    "h": 62,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 230,
+    "y": 42,
+    "w": 94,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 324,
+    "y": 42,
+    "w": 127,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 451,
+    "y": 42,
+    "w": 104,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 555,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 653,
+    "y": 42,
+    "w": 98,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--has-submenu.menu-item--top-parent > button.menu-item__link",
+    "x": 750,
+    "y": 42,
+    "w": 89,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__nav-wrapper > li.menu-item--top-parent.menu-item > a.menu-item__link",
+    "x": 839,
+    "y": 42,
+    "w": 91,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__icon-search > a",
+    "x": 979,
+    "y": 53,
+    "w": 23,
+    "h": 22,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li > button.header__lang-item",
+    "x": 1030,
+    "y": 51,
+    "w": 28,
+    "h": 26,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs > li.active > button.header__lang-item",
+    "x": 1058,
+    "y": 51,
+    "w": 29,
+    "h": 26,
+    "text": "en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.header__nav > div.header__contact > a.btn-default.btn--menu",
+    "x": 1115,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__image-container > picture > img.hero__image",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 900,
+    "text": "a futuristic digital network showing data icons, graphs, a m",
+    "file": "1920x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > span.hero__label",
+    "x": 145,
+    "y": 314,
+    "w": 989,
+    "h": 30,
+    "text": "Product Data Transformation Assessment & Workshop"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > h1.hero__title",
+    "x": 145,
+    "y": 368,
+    "w": 989,
+    "h": 72,
+    "level": 1,
+    "text": "digital product passport audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__description.richtext > p",
+    "x": 175,
+    "y": 480,
+    "w": 1040,
+    "h": 72,
+    "text": "Prepare your organization for the upcoming Digital Product Passport (DPP) requir"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-wrapper > div.hero__info-container > a.hero__cta.btn",
+    "x": 175,
+    "y": 592,
+    "w": 202,
+    "h": 64,
+    "text": "request now",
+    "href": "/en/services/digital-produktpass-audit/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 940,
+    "w": 43,
+    "h": 30,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 245,
+    "y": 940,
+    "w": 235,
+    "h": 30,
+    "text": "digital product passport audit",
+    "href": "/en/services/digital-produktpass-audit/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > h2",
+    "x": 175,
+    "y": 1074,
+    "w": 755,
+    "h": 94,
+    "level": 2,
+    "text": "the digital product passport is more than a compliance requirement"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 175,
+    "y": 1216,
+    "w": 1089,
+    "h": 210,
+    "text": "With the introduction of the EU Digital Product Passport (DPP), requirements for"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.cards-block__tagline--left.cards-block__tagline > h2",
+    "x": 175,
+    "y": 1490,
+    "w": 1089,
+    "h": 47,
+    "level": 2,
+    "text": "your benefits at a glance"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__info > div.card__info-title",
+    "x": 215,
+    "y": 1616,
+    "w": 453,
+    "h": 24,
+    "text": "Holistic DPP readiness"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info-txt.richtext > p > span",
+    "x": 215,
+    "y": 1659,
+    "w": 433,
+    "h": 42,
+    "text": "Assessment of your current maturity level, including the early identification of"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__info > div.card__info-title",
+    "x": 772,
+    "y": 1616,
+    "w": 453,
+    "h": 24,
+    "text": "Transparent gap analysis"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info-txt.richtext > p > span",
+    "x": 772,
+    "y": 1659,
+    "w": 446,
+    "h": 42,
+    "text": "Identification of missing product attributes, data sources, processes, and gover"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__info > div.card__info-title",
+    "x": 215,
+    "y": 1808,
+    "w": 453,
+    "h": 24,
+    "text": "Prioritized roadmap"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info-txt.richtext > p > span",
+    "x": 215,
+    "y": 1851,
+    "w": 446,
+    "h": 42,
+    "text": "Actionable recommendations including quick wins as well as medium- and long-term"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__info > div.card__info-title",
+    "x": 772,
+    "y": 1808,
+    "w": 453,
+    "h": 24,
+    "text": "DPP as a strategic opportunity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info > div.card__info-txt.richtext > p",
+    "x": 772,
+    "y": 1848,
+    "w": 453,
+    "h": 72,
+    "text": "Use the Digital Product Passport as the starting point for a sustainable Product"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__info > div.card__info-title",
+    "x": 215,
+    "y": 2024,
+    "w": 453,
+    "h": 24,
+    "text": "System-agnostic approach"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info-txt.richtext > p > span",
+    "x": 215,
+    "y": 2067,
+    "w": 423,
+    "h": 42,
+    "text": "Independent assessment of your existing systems and technologies, regardless of "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card.card--col--2 > div.card__info > div.card__info-title",
+    "x": 772,
+    "y": 2024,
+    "w": 453,
+    "h": 24,
+    "text": "Future-ready product data"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.card__info-txt.richtext > p > span",
+    "x": 772,
+    "y": 2067,
+    "w": 424,
+    "h": 42,
+    "text": "Build the foundation for AI Search, Agentic Commerce, and automated product data"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 175,
+    "y": 2216,
+    "w": 755,
+    "h": 47,
+    "text": "The outcome"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > span",
+    "x": 175,
+    "y": 2315,
+    "w": 1015,
+    "h": 52,
+    "text": "You receive a DPP Readiness Score, an assessment of your Product Data Maturity, "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.steps__container > div.steps__title > h2",
+    "x": 175,
+    "y": 2451,
+    "w": 1089,
+    "h": 47,
+    "level": 2,
+    "text": "our approach"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item.storyblok__outline > div.step-item__content > h3.step-item__title",
+    "x": 340,
+    "y": 2586,
+    "w": 877,
+    "h": 31,
+    "level": 3,
+    "text": "assess your product data landscape"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item__description.richtext > p > span",
+    "x": 340,
+    "y": 2629,
+    "w": 784,
+    "h": 52,
+    "text": "Analysis of your product data sources, systems (PIM, ERP, DAM), data flows, and "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item.storyblok__outline > div.step-item__content > h3.step-item__title",
+    "x": 345,
+    "y": 2797,
+    "w": 872,
+    "h": 31,
+    "level": 3,
+    "text": "evaluate your dpp readiness"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item__description.richtext > p > span",
+    "x": 345,
+    "y": 2840,
+    "w": 838,
+    "h": 52,
+    "text": "Assessment of data quality, completeness, sustainability information, governance"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item.storyblok__outline > div.step-item__content > h3.step-item__title",
+    "x": 344,
+    "y": 3008,
+    "w": 873,
+    "h": 31,
+    "level": 3,
+    "text": "identify improvement areas"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item__description.richtext > p > span",
+    "x": 344,
+    "y": 3052,
+    "w": 859,
+    "h": 52,
+    "text": "Identification of data gaps, process weaknesses, governance deficiencies, and te"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item.storyblok__outline > div.step-item__content > h3.step-item__title",
+    "x": 348,
+    "y": 3220,
+    "w": 869,
+    "h": 31,
+    "level": 3,
+    "text": "define the target state"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item__description.richtext > p > span",
+    "x": 348,
+    "y": 3263,
+    "w": 690,
+    "h": 22,
+    "text": "Development of a future-ready data architecture and operating model."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item.storyblok__outline > div.step-item__content > h3.step-item__title",
+    "x": 344,
+    "y": 3401,
+    "w": 873,
+    "h": 31,
+    "level": 3,
+    "text": "deliver a prioritized roadmap"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.step-item__description.richtext > p > span",
+    "x": 344,
+    "y": 3444,
+    "w": 859,
+    "h": 52,
+    "text": "A structured implementation roadmap with quick wins as well as medium- and long-"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.grid-column-container > div.pricing__title > h2",
+    "x": 175,
+    "y": 3628,
+    "w": 1089,
+    "h": 47,
+    "level": 2,
+    "text": "pricing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pricing-item > div.pricing-item__price-box > div.pricing-item__name",
+    "x": 403,
+    "y": 3763,
+    "w": 634,
+    "h": 30,
+    "text": "Digital Product Passport Audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.pricing-item__price-box > div.pricing-item__price > span.pricing-item__price-value",
+    "x": 403,
+    "y": 3809,
+    "w": 189,
+    "h": 55,
+    "text": "3,500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 435,
+    "y": 3912,
+    "w": 602,
+    "h": 24,
+    "text": "1–2 day workshop"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 435,
+    "y": 3944,
+    "w": 602,
+    "h": 24,
+    "text": "Product data landscape assessment"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 435,
+    "y": 3976,
+    "w": 602,
+    "h": 24,
+    "text": "Digital Product Passport readiness assessment"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 435,
+    "y": 4008,
+    "w": 602,
+    "h": 24,
+    "text": "Product data maturity assessment"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 435,
+    "y": 4040,
+    "w": 602,
+    "h": 24,
+    "text": "Gap analysis"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 435,
+    "y": 4072,
+    "w": 602,
+    "h": 24,
+    "text": "Executive summary"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 435,
+    "y": 4104,
+    "w": 602,
+    "h": 24,
+    "text": "Prioritized roadmap"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > h2",
+    "x": 175,
+    "y": 4264,
+    "w": 755,
+    "h": 94,
+    "level": 2,
+    "text": "get your product data ready for the digital product passport"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > span",
+    "x": 175,
+    "y": 4409,
+    "w": 1014,
+    "h": 52,
+    "text": "The Digital Product Passport is not just a regulatory requirement—it is an oppor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div > p > span",
+    "x": 175,
+    "y": 4499,
+    "w": 1077,
+    "h": 52,
+    "text": "Our Digital Product Passport Audit shows you where you stand today and provides "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__container > div.simple-text__btn > a.text-small.btn--fill",
+    "x": 175,
+    "y": 4619,
+    "w": 206,
+    "h": 64,
+    "text": "request now",
+    "href": "/en/services/digital-produktpass-audit/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__container > div.accordion__title--full.accordion__title > h2",
+    "x": 175,
+    "y": 4763,
+    "w": 1089,
+    "h": 47,
+    "level": 2,
+    "text": "frequently asked questions"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 4851,
+    "w": 1089,
+    "h": 95,
+    "text": "what is the digital product passport audit?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 4947,
+    "w": 1089,
+    "h": 95,
+    "text": "why should we start preparing for the digital product passport now?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 5044,
+    "w": 1089,
+    "h": 95,
+    "text": "is the digital product passport only about compliance?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 5140,
+    "w": 1089,
+    "h": 95,
+    "text": "is our existing pim system sufficient?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 5236,
+    "w": 1089,
+    "h": 95,
+    "text": "which systems are included in the assessment?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 5332,
+    "w": 1089,
+    "h": 95,
+    "text": "what deliverables will we receive?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 5428,
+    "w": 1089,
+    "h": 95,
+    "text": "who is this audit designed for?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 5525,
+    "w": 1089,
+    "h": 95,
+    "text": "how does the audit work?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 5621,
+    "w": 1089,
+    "h": 95,
+    "text": "what are the benefits of a system-agnostic approach?"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.accordion__list > div.accordion-item.accordion-item--light > button.accordion-item__title",
+    "x": 175,
+    "y": 5717,
+    "w": 1089,
+    "h": 95,
+    "text": "what are the possible next steps after the audit?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.form-block__heading > div > h2.form-block__heading-title",
+    "x": 342,
+    "y": 6013,
+    "w": 755,
+    "h": 47,
+    "level": 2,
+    "text": "get in contact now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email_salutation_de_informal_1.hs-email_salutation_de_informal_1 > label#label-email_salutation_de_informal_1-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_18m35 > span",
+    "x": 342,
+    "y": 6101,
+    "w": 58,
+    "h": 14,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 342,
+    "y": 6124,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 416,
+    "y": 6124,
+    "w": 61,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-radio > label.hs-form-radio-display > span",
+    "x": 493,
+    "y": 6124,
+    "w": 61,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_firstname.hs-firstname > label#label-firstname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_18m35 > span",
+    "x": 342,
+    "y": 6188,
+    "w": 59,
+    "h": 14,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_lastname.hs-lastname > label#label-lastname-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_18m35 > span",
+    "x": 740,
+    "y": 6188,
+    "w": 57,
+    "h": 14,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_email.hs-email > label#label-email-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_18m35 > span",
+    "x": 342,
+    "y": 6268,
+    "w": 36,
+    "h": 14,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_phone.hs-phone > label#label-phone-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_18m35 > span",
+    "x": 740,
+    "y": 6268,
+    "w": 36,
+    "h": 14,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_company.hs-company > label#label-company-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_18m35 > span",
+    "x": 342,
+    "y": 6348,
+    "w": 85,
+    "h": 14,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > label#label-wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_18m35 > span",
+    "x": 342,
+    "y": 6429,
+    "w": 176,
+    "h": 14,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_wie_sind_sie_auf_uns_aufmerksam_geworden.hs-wie_sind_sie_auf_uns_aufmerksam_geworden > div.input > select#wie_sind_sie_auf_uns_aufmerksam_geworden-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_18m35",
+    "x": 342,
+    "y": 6454,
+    "w": 755,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_which_services.hs-which_services > label#label-which_services-0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_form_0278b95f-e7bc-4ed4-b2ae-0419a8b48f7a_18m35 > span",
+    "x": 342,
+    "y": 6543,
+    "w": 77,
+    "h": 14,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.legal-consent-container > div.hs-richtext > p",
+    "x": 342,
+    "y": 6680,
+    "w": 755,
+    "h": 118,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > a",
+    "x": 965,
+    "y": 6748,
+    "w": 83,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "label.hs-form-booleancheckbox-display > span > p",
+    "x": 378,
+    "y": 6812,
+    "w": 517,
+    "h": 17,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "li.hs-form-booleancheckbox > label.hs-form-booleancheckbox-display > span",
+    "x": 378,
+    "y": 6841,
+    "w": 406,
+    "h": 16,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs-richtext > p > em",
+    "x": 342,
+    "y": 6878,
+    "w": 96,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hs_submit.hs-submit > div.actions > input.hs-button.primary",
+    "x": 342,
+    "y": 6920,
+    "w": 131,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 7136,
+    "w": 187,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 7166,
+    "w": 125,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 7196,
+    "w": 190,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 7226,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 7256,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 175,
+    "y": 7286,
+    "w": 62,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 7136,
+    "w": 103,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 7166,
+    "w": 130,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 7196,
+    "w": 85,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 7226,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 7256,
+    "w": 140,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 609,
+    "y": 7286,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 7136,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 7166,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 7196,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 993,
+    "y": 7226,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 175,
+    "y": 7378,
+    "w": 100,
+    "h": 20,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 307,
+    "y": 7378,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 387,
+    "y": 7378,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 524,
+    "y": 7378,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-desktop > a.btn--link.text-xxsmall",
+    "x": 589,
+    "y": 7378,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__social-media > div.footer__bottom-newsletter.bottom-links > a.btn--link.text-xxsmall",
+    "x": 907,
+    "y": 7378,
+    "w": 214,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1153,
+    "y": 7373,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1201,
+    "y": 7373,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 1249,
+    "y": 7373,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 40,
+    "y": 796,
+    "w": 64,
+    "h": 64,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 124,
+    "controls": 54,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/services/digital-produktpass-audit",
+  "at": "2026-11-14T03:03:19.521Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7460,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 64,
+    "y": 21,
+    "w": 120,
+    "h": 86,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "text": "services"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 234,
+    "y": 42,
+    "w": 93,
+    "h": 44,
+    "label": "open services submenu",
+    "value": "services",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 328,
+    "y": 42,
+    "w": 124,
+    "h": 44,
+    "text": "marketplace",
+    "href": "/en/marketplace/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "text": "industries"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 451,
+    "y": 42,
+    "w": 101,
+    "h": 44,
+    "label": "open industries submenu",
+    "value": "industries",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 553,
+    "y": 42,
+    "w": 96,
+    "h": 44,
+    "text": "partners",
+    "href": "/en/about-us/partner/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "text": "about us"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 648,
+    "y": 42,
+    "w": 95,
+    "h": 44,
+    "label": "open about us submenu",
+    "value": "about us",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "text": "insights"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-nav-list > li.menu-item.menu-item-top > div.menu-item-link",
+    "x": 743,
+    "y": 42,
+    "w": 87,
+    "h": 44,
+    "label": "open insights submenu",
+    "value": "insights",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li.menu-item.menu-item-top > p.link-only > a.menu-item-link",
+    "x": 831,
+    "y": 42,
+    "w": 92,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-icon-search.header-icon-search-desktop > p > a",
+    "x": 971,
+    "y": 52,
+    "w": 23,
+    "h": 24,
+    "text": "open search",
+    "href": "/en/search/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li > a.header-lang-item",
+    "x": 1022,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-desktop > li.active > a.header-lang-item",
+    "x": 1052,
+    "y": 51,
+    "w": 30,
+    "h": 26,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-contact > p.button-wrapper > a.btn.btn-fill",
+    "x": 1111,
+    "y": 40,
+    "w": 103,
+    "h": 48,
+    "text": "contacts",
+    "href": "/en/contact/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-media > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 900,
+    "text": "a futuristic digital network showing data icons, graphs, a m",
+    "file": "media_1fb832488e08d413d91627e7d86d3127e6"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 175,
+    "y": 314,
+    "w": 959,
+    "h": 30,
+    "text": "Product Data Transformation Assessment & Workshop"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#digital-product-passport-audit",
+    "x": 145,
+    "y": 368,
+    "w": 989,
+    "h": 72,
+    "level": 1,
+    "text": "digital product passport audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-container > div.hero-description > p",
+    "x": 175,
+    "y": 480,
+    "w": 1040,
+    "h": 72,
+    "text": "Prepare your organization for the upcoming Digital Product Passport (DPP) requir"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-actions > p.button-wrapper > a.button.primary",
+    "x": 175,
+    "y": 592,
+    "w": 201,
+    "h": 64,
+    "text": "request now",
+    "href": "/en/services/digital-produktpass-audit"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 175,
+    "y": 940,
+    "w": 44,
+    "h": 30,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 248,
+    "y": 940,
+    "w": 224,
+    "h": 30,
+    "text": "digital product passport audit",
+    "href": "/en/services/digital-produktpass-audit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h2#the-digital-product-passport-is-more-than-a-compliance-requirement",
+    "x": 175,
+    "y": 1074,
+    "w": 755,
+    "h": 94,
+    "level": 2,
+    "text": "the digital product passport is more than a compliance requirement"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 1216,
+    "w": 1089,
+    "h": 210,
+    "text": "With the introduction of the EU Digital Product Passport (DPP), requirements for"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-grid > div.cards-tagline > h2#your-benefits-at-a-glance",
+    "x": 175,
+    "y": 1490,
+    "w": 1089,
+    "h": 47,
+    "level": 2,
+    "text": "your benefits at a glance"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 215,
+    "y": 1616,
+    "w": 453,
+    "h": 24,
+    "text": "Holistic DPP readiness"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 215,
+    "y": 1656,
+    "w": 453,
+    "h": 48,
+    "text": "Assessment of your current maturity level, including the early identification of"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 772,
+    "y": 1616,
+    "w": 453,
+    "h": 24,
+    "text": "Transparent gap analysis"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 772,
+    "y": 1656,
+    "w": 453,
+    "h": 48,
+    "text": "Identification of missing product attributes, data sources, processes, and gover"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 215,
+    "y": 1808,
+    "w": 453,
+    "h": 24,
+    "text": "Prioritized roadmap"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 215,
+    "y": 1848,
+    "w": 453,
+    "h": 48,
+    "text": "Actionable recommendations including quick wins as well as medium- and long-term"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 772,
+    "y": 1808,
+    "w": 453,
+    "h": 24,
+    "text": "DPP as a strategic opportunity"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 772,
+    "y": 1848,
+    "w": 453,
+    "h": 72,
+    "text": "Use the Digital Product Passport as the starting point for a sustainable Product"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 215,
+    "y": 2024,
+    "w": 453,
+    "h": 24,
+    "text": "System-agnostic approach"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 215,
+    "y": 2064,
+    "w": 453,
+    "h": 48,
+    "text": "Independent assessment of your existing systems and technologies, regardless of "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-title > p",
+    "x": 772,
+    "y": 2024,
+    "w": 453,
+    "h": 24,
+    "text": "Future-ready product data"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.card-info > div.card-txt > p",
+    "x": 772,
+    "y": 2064,
+    "w": 453,
+    "h": 48,
+    "text": "Build the foundation for AI Search, Agentic Commerce, and automated product data"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 2216,
+    "w": 755,
+    "h": 47,
+    "text": "The outcome"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 2311,
+    "w": 1089,
+    "h": 60,
+    "text": "You receive a DPP Readiness Score, an assessment of your Product Data Maturity, "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.steps-container > div.steps-title > h2#our-approach",
+    "x": 175,
+    "y": 2451,
+    "w": 1089,
+    "h": 47,
+    "level": 2,
+    "text": "our approach"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > h3#assess-your-product-data-landscape",
+    "x": 294,
+    "y": 2586,
+    "w": 922,
+    "h": 31,
+    "level": 3,
+    "text": "assess your product data landscape"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > p",
+    "x": 294,
+    "y": 2625,
+    "w": 922,
+    "h": 60,
+    "text": "Analysis of your product data sources, systems (PIM, ERP, DAM), data flows, and "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > h3#evaluate-your-dpp-readiness",
+    "x": 294,
+    "y": 2797,
+    "w": 922,
+    "h": 31,
+    "level": 3,
+    "text": "evaluate your dpp readiness"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > p",
+    "x": 294,
+    "y": 2836,
+    "w": 922,
+    "h": 60,
+    "text": "Assessment of data quality, completeness, sustainability information, governance"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > h3#identify-improvement-areas",
+    "x": 294,
+    "y": 3008,
+    "w": 922,
+    "h": 31,
+    "level": 3,
+    "text": "identify improvement areas"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > p",
+    "x": 294,
+    "y": 3048,
+    "w": 922,
+    "h": 60,
+    "text": "Identification of data gaps, process weaknesses, governance deficiencies, and te"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > h3#define-the-target-state",
+    "x": 294,
+    "y": 3220,
+    "w": 922,
+    "h": 31,
+    "level": 3,
+    "text": "define the target state"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > p",
+    "x": 294,
+    "y": 3259,
+    "w": 922,
+    "h": 30,
+    "text": "Development of a future-ready data architecture and operating model."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > h3#deliver-a-prioritized-roadmap",
+    "x": 294,
+    "y": 3401,
+    "w": 922,
+    "h": 31,
+    "level": 3,
+    "text": "deliver a prioritized roadmap"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.step-item > div.step-item-content > p",
+    "x": 294,
+    "y": 3440,
+    "w": 922,
+    "h": 60,
+    "text": "A structured implementation roadmap with quick wins as well as medium- and long-"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-wrap > div.pricing-title > h2#pricing",
+    "x": 175,
+    "y": 3628,
+    "w": 1089,
+    "h": 47,
+    "level": 2,
+    "text": "pricing"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-item > div.pricing-item-price-box > p.pricing-item-name",
+    "x": 403,
+    "y": 3763,
+    "w": 634,
+    "h": 36,
+    "text": "Digital Product Passport Audit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-item > div.pricing-item-price-box > p.pricing-item-price",
+    "x": 403,
+    "y": 3815,
+    "w": 634,
+    "h": 55,
+    "text": "€ 3,500"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-item-content > ul > li",
+    "x": 403,
+    "y": 3918,
+    "w": 634,
+    "h": 24,
+    "text": "1–2 day workshop"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-item-content > ul > li",
+    "x": 403,
+    "y": 3950,
+    "w": 634,
+    "h": 24,
+    "text": "Product data landscape assessment"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-item-content > ul > li",
+    "x": 403,
+    "y": 3982,
+    "w": 634,
+    "h": 24,
+    "text": "Digital Product Passport readiness assessment"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-item-content > ul > li",
+    "x": 403,
+    "y": 4014,
+    "w": 634,
+    "h": 24,
+    "text": "Product data maturity assessment"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-item-content > ul > li",
+    "x": 403,
+    "y": 4046,
+    "w": 634,
+    "h": 24,
+    "text": "Gap analysis"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-item-content > ul > li",
+    "x": 403,
+    "y": 4078,
+    "w": 634,
+    "h": 24,
+    "text": "Executive summary"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pricing-item-content > ul > li",
+    "x": 403,
+    "y": 4110,
+    "w": 634,
+    "h": 24,
+    "text": "Prioritized roadmap"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > h2#get-your-product-data-ready-for-the-digital-product-passport",
+    "x": 175,
+    "y": 4270,
+    "w": 755,
+    "h": 94,
+    "level": 2,
+    "text": "get your product data ready for the digital product passport"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 175,
+    "y": 4411,
+    "w": 1089,
+    "h": 150,
+    "text": "The Digital Product Passport is not just a regulatory requirement—it is an oppor"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.button-wrapper > a.button.primary",
+    "x": 175,
+    "y": 4625,
+    "w": 201,
+    "h": 64,
+    "text": "request now",
+    "href": "/en/services/digital-produktpass-audit"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-container > div.accordion-title > h2#frequently-asked-questions",
+    "x": 175,
+    "y": 4769,
+    "w": 1089,
+    "h": 47,
+    "level": 2,
+    "text": "frequently asked questions"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 4857,
+    "w": 1089,
+    "h": 94,
+    "text": "what is the digital product passport audit?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 4857,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "what is the digital product passport audit?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 4952,
+    "w": 1089,
+    "h": 94,
+    "text": "why should we start preparing for the digital product passport now?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 4952,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "why should we start preparing for the digital product passpo",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5047,
+    "w": 1089,
+    "h": 94,
+    "text": "is the digital product passport only about compliance?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5047,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "is the digital product passport only about compliance?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5142,
+    "w": 1089,
+    "h": 94,
+    "text": "is our existing pim system sufficient?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5142,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "is our existing pim system sufficient?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5237,
+    "w": 1089,
+    "h": 94,
+    "text": "which systems are included in the assessment?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5237,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "which systems are included in the assessment?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5332,
+    "w": 1089,
+    "h": 94,
+    "text": "what deliverables will we receive?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5332,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "what deliverables will we receive?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5427,
+    "w": 1089,
+    "h": 94,
+    "text": "who is this audit designed for?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5427,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "who is this audit designed for?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5522,
+    "w": 1089,
+    "h": 94,
+    "text": "how does the audit work?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5522,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "how does the audit work?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5617,
+    "w": 1089,
+    "h": 94,
+    "text": "what are the benefits of a system-agnostic approach?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5617,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "what are the benefits of a system-agnostic approach?",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5712,
+    "w": 1089,
+    "h": 94,
+    "text": "what are the possible next steps after the audit?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.accordion-list > div.accordion-item > button.accordion-item-title",
+    "x": 175,
+    "y": 5712,
+    "w": 1089,
+    "h": 94,
+    "label": "trigger",
+    "value": "what are the possible next steps after the audit?",
+    "via": "trigger"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.form-block-form > div.form-block-heading > h2#get-in-contact-now",
+    "x": 342,
+    "y": 6007,
+    "w": 755,
+    "h": 47,
+    "level": 2,
+    "text": "get in contact now"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > span#fb-email_salutation-1-lbl",
+    "x": 342,
+    "y": 6094,
+    "w": 755,
+    "h": 16,
+    "text": "Salutation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 342,
+    "y": 6118,
+    "w": 58,
+    "h": 39,
+    "text": "Mr."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 417,
+    "y": 6118,
+    "w": 62,
+    "h": 39,
+    "text": "Ms."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > label.hs-form-radio > span",
+    "x": 494,
+    "y": 6118,
+    "w": 62,
+    "h": 39,
+    "text": "Mx."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 342,
+    "y": 6181,
+    "w": 358,
+    "h": 16,
+    "text": "First name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 740,
+    "y": 6181,
+    "w": 358,
+    "h": 16,
+    "text": "Last name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 342,
+    "y": 6261,
+    "w": 358,
+    "h": 16,
+    "text": "E-Mail"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row.hs-form-row-2 > div.hs-form-field > label.hs-form-label",
+    "x": 740,
+    "y": 6261,
+    "w": 358,
+    "h": 16,
+    "text": "Phone"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 342,
+    "y": 6341,
+    "w": 755,
+    "h": 16,
+    "text": "Company name"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > label.hs-form-label",
+    "x": 342,
+    "y": 6422,
+    "w": 755,
+    "h": 16,
+    "text": "How did you find out about us?"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field > select#fb-wie_sind_sie_auf_uns_aufmerksam_geworden-7",
+    "x": 342,
+    "y": 6448,
+    "w": 755,
+    "h": 44,
+    "label": "how did you find out about us?",
+    "value": "please select",
+    "via": "select"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "fieldset.hs-form-row > div.hs-form-field.hs-form-field-textarea > label.hs-form-label",
+    "x": 342,
+    "y": 6536,
+    "w": 755,
+    "h": 16,
+    "text": "Your message"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-legal > div.hs-form-richtext > p",
+    "x": 342,
+    "y": 6674,
+    "w": 755,
+    "h": 118,
+    "text": "diva-e Digital Value Excellence GmbH (hereinafter \"diva-e\") will use the informa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > a",
+    "x": 965,
+    "y": 6742,
+    "w": 83,
+    "h": 15,
+    "text": "privacy policy",
+    "href": "/en/data-privacy"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 378,
+    "y": 6806,
+    "w": 517,
+    "h": 17,
+    "text": "Important information regarding your request and organizational updates – no mar"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "label.hs-form-checkbox > span.hs-form-check-text > p",
+    "x": 378,
+    "y": 6835,
+    "w": 406,
+    "h": 17,
+    "text": "Updates on projects, events, digital trends, and offerings from diva-e."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hs-form-richtext > p > em",
+    "x": 342,
+    "y": 6872,
+    "w": 96,
+    "h": 14,
+    "text": "*Required fields"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "form.hs-form > div.hs-form-actions > input.hs-form-submit",
+    "x": 342,
+    "y": 6914,
+    "w": 130,
+    "h": 48,
+    "text": "send form"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 7130,
+    "w": 186,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 7160,
+    "w": 121,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 7190,
+    "w": 185,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 7220,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 7250,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 175,
+    "y": 7280,
+    "w": 59,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 7130,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 7160,
+    "w": 127,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 7190,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 7220,
+    "w": 30,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 7250,
+    "w": 134,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 608,
+    "y": 7280,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 7130,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 7160,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 7190,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 990,
+    "y": 7220,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 307,
+    "y": 7372,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 387,
+    "y": 7372,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 524,
+    "y": 7372,
+    "w": 33,
+    "h": 20,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li.footer-bottom-desktop > a.btn.btn-link",
+    "x": 589,
+    "y": 7372,
+    "w": 149,
+    "h": 20,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-social-media > div.footer-bottom-newsletter > a.btn-link",
+    "x": 903,
+    "y": 7372,
+    "w": 217,
+    "h": 20,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1153,
+    "y": 7367,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1201,
+    "y": 7367,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 1249,
+    "y": 7367,
+    "w": 16,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 123,
+    "controls": 53,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "digital product passport audit",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 1,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "MISSING BUTTON"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "the digital product passport is more than a compliance requirement",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "your benefits at a glance",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 14,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 14,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "our approach",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "assess your product data landscape",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "evaluate your dpp readiness",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "identify improvement areas",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "define the target state",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "deliver a prioritized roadmap",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "pricing",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 9,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 9,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "get your product data ready for the digital product passport",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "frequently asked questions",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 10,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 10,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 13,
+   "heading": "get in contact now",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 15,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 15,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"digital product passport audit\" (origin y 796) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 246,
+    "y": 55,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 340,
+    "y": 55,
+    "w": 95,
+    "h": 18
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 71,
+    "h": 18
+   },
+   {
+    "x": 571,
+    "y": 55,
+    "w": 65,
+    "h": 18
+   },
+   {
+    "x": 669,
+    "y": 55,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 766,
+    "y": 55,
+    "w": 56,
+    "h": 18
+   },
+   {
+    "x": 855,
+    "y": 55,
+    "w": 58,
+    "h": 18
+   },
+   {
+    "x": 1034,
+    "y": 55,
+    "w": 20,
+    "h": 18
+   },
+   {
+    "x": 1062,
+    "y": 55,
+    "w": 21,
+    "h": 18
+   },
+   {
+    "x": 1132,
+    "y": 55,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 318,
+    "w": 524,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 365,
+    "w": 951,
+    "h": 76
+   },
+   {
+    "x": 175,
+    "y": 483,
+    "w": 1015,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 507,
+    "w": 1023,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 531,
+    "w": 652,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 612,
+    "w": 122,
+    "h": 23
+   },
+   {
+    "x": 175,
+    "y": 946,
+    "w": 43,
+    "h": 18
+   },
+   {
+    "x": 245,
+    "y": 946,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 1074,
+    "w": 750,
+    "h": 45
+   },
+   {
+    "x": 175,
+    "y": 1121,
+    "w": 473,
+    "h": 45
+   },
+   {
+    "x": 175,
+    "y": 1220,
+    "w": 997,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1250,
+    "w": 1077,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1280,
+    "w": 994,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1340,
+    "w": 1058,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1370,
+    "w": 1018,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1400,
+    "w": 595,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1490,
+    "w": 447,
+    "h": 45
+   },
+   {
+    "x": 215,
+    "y": 1616,
+    "w": 213,
+    "h": 23
+   },
+   {
+    "x": 215,
+    "y": 1659,
+    "w": 433,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1683,
+    "w": 401,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1616,
+    "w": 231,
+    "h": 23
+   },
+   {
+    "x": 772,
+    "y": 1659,
+    "w": 446,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1683,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1808,
+    "w": 184,
+    "h": 23
+   },
+   {
+    "x": 215,
+    "y": 1851,
+    "w": 446,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1875,
+    "w": 295,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1808,
+    "w": 289,
+    "h": 23
+   },
+   {
+    "x": 772,
+    "y": 1851,
+    "w": 442,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1875,
+    "w": 435,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1899,
+    "w": 161,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2024,
+    "w": 250,
+    "h": 23
+   },
+   {
+    "x": 215,
+    "y": 2067,
+    "w": 423,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2091,
+    "w": 351,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 2024,
+    "w": 249,
+    "h": 23
+   },
+   {
+    "x": 772,
+    "y": 2067,
+    "w": 424,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 2091,
+    "w": 337,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 2216,
+    "w": 243,
+    "h": 45
+   },
+   {
+    "x": 175,
+    "y": 2315,
+    "w": 1014,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2345,
+    "w": 1015,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2451,
+    "w": 244,
+    "h": 45
+   },
+   {
+    "x": 223,
+    "y": 2581,
+    "w": 68,
+    "h": 66
+   },
+   {
+    "x": 340,
+    "y": 2587,
+    "w": 406,
+    "h": 28
+   },
+   {
+    "x": 340,
+    "y": 2629,
+    "w": 784,
+    "h": 22
+   },
+   {
+    "x": 340,
+    "y": 2659,
+    "w": 253,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 2792,
+    "w": 73,
+    "h": 66
+   },
+   {
+    "x": 345,
+    "y": 2798,
+    "w": 320,
+    "h": 28
+   },
+   {
+    "x": 345,
+    "y": 2840,
+    "w": 838,
+    "h": 22
+   },
+   {
+    "x": 345,
+    "y": 2870,
+    "w": 495,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 3003,
+    "w": 72,
+    "h": 66
+   },
+   {
+    "x": 344,
+    "y": 3009,
+    "w": 305,
+    "h": 28
+   },
+   {
+    "x": 344,
+    "y": 3052,
+    "w": 859,
+    "h": 22
+   },
+   {
+    "x": 344,
+    "y": 3082,
+    "w": 111,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 3215,
+    "w": 77,
+    "h": 66
+   },
+   {
+    "x": 348,
+    "y": 3221,
+    "w": 256,
+    "h": 28
+   },
+   {
+    "x": 348,
+    "y": 3263,
+    "w": 690,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 3396,
+    "w": 72,
+    "h": 66
+   },
+   {
+    "x": 344,
+    "y": 3402,
+    "w": 324,
+    "h": 28
+   },
+   {
+    "x": 344,
+    "y": 3444,
+    "w": 859,
+    "h": 22
+   },
+   {
+    "x": 344,
+    "y": 3474,
+    "w": 553,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 3628,
+    "w": 124,
+    "h": 45
+   },
+   {
+    "x": 403,
+    "y": 3764,
+    "w": 344,
+    "h": 28
+   },
+   {
+    "x": 403,
+    "y": 3804,
+    "w": 32,
+    "h": 64
+   },
+   {
+    "x": 435,
+    "y": 3804,
+    "w": 157,
+    "h": 64
+   },
+   {
+    "x": 435,
+    "y": 3915,
+    "w": 145,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 3947,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 3979,
+    "w": 374,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 4011,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 4043,
+    "w": 104,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 4075,
+    "w": 157,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 4107,
+    "w": 158,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4264,
+    "w": 640,
+    "h": 45
+   },
+   {
+    "x": 175,
+    "y": 4311,
+    "w": 453,
+    "h": 45
+   },
+   {
+    "x": 175,
+    "y": 4409,
+    "w": 1014,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 4439,
+    "w": 729,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 4499,
+    "w": 1077,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 4529,
+    "w": 382,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 4640,
+    "w": 126,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 4763,
+    "w": 502,
+    "h": 45
+   },
+   {
+    "x": 175,
+    "y": 4884,
+    "w": 473,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 4980,
+    "w": 747,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 5077,
+    "w": 596,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 5173,
+    "w": 404,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 5269,
+    "w": 512,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 5365,
+    "w": 371,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 5461,
+    "w": 335,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 5558,
+    "w": 282,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 5654,
+    "w": 586,
+    "h": 28
+   },
+   {
+    "x": 175,
+    "y": 5750,
+    "w": 531,
+    "h": 28
+   },
+   {
+    "x": 342,
+    "y": 6013,
+    "w": 342,
+    "h": 45
+   },
+   {
+    "x": 342,
+    "y": 6101,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 400,
+    "y": 6101,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 359,
+    "y": 6134,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 433,
+    "y": 6134,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 510,
+    "y": 6134,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 342,
+    "y": 6188,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 740,
+    "y": 6188,
+    "w": 57,
+    "h": 14
+   },
+   {
+    "x": 797,
+    "y": 6188,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6268,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 378,
+    "y": 6268,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 740,
+    "y": 6268,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6348,
+    "w": 85,
+    "h": 14
+   },
+   {
+    "x": 428,
+    "y": 6348,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6429,
+    "w": 176,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6543,
+    "w": 77,
+    "h": 14
+   },
+   {
+    "x": 419,
+    "y": 6543,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6681,
+    "w": 722,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6698,
+    "w": 543,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6731,
+    "w": 733,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6748,
+    "w": 623,
+    "h": 14
+   },
+   {
+    "x": 965,
+    "y": 6748,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1048,
+    "y": 6748,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6782,
+    "w": 376,
+    "h": 14
+   },
+   {
+    "x": 378,
+    "y": 6813,
+    "w": 517,
+    "h": 14
+   },
+   {
+    "x": 895,
+    "y": 6813,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 378,
+    "y": 6842,
+    "w": 406,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6878,
+    "w": 96,
+    "h": 14
+   },
+   {
+    "x": 175,
+    "y": 7136,
+    "w": 187,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 7166,
+    "w": 125,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 7196,
+    "w": 190,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 7226,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 7256,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 7286,
+    "w": 62,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 7136,
+    "w": 103,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 7166,
+    "w": 130,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 7196,
+    "w": 85,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 7226,
+    "w": 30,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 7256,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 609,
+    "y": 7286,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 7136,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 7166,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 7196,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 993,
+    "y": 7226,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 7379,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 7379,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 7379,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 7379,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 7379,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 907,
+    "y": 7379,
+    "w": 214,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 250,
+    "y": 55,
+    "w": 61,
+    "h": 17
+   },
+   {
+    "x": 344,
+    "y": 55,
+    "w": 92,
+    "h": 17
+   },
+   {
+    "x": 467,
+    "y": 55,
+    "w": 69,
+    "h": 17
+   },
+   {
+    "x": 569,
+    "y": 55,
+    "w": 64,
+    "h": 17
+   },
+   {
+    "x": 664,
+    "y": 55,
+    "w": 63,
+    "h": 17
+   },
+   {
+    "x": 759,
+    "y": 55,
+    "w": 55,
+    "h": 17
+   },
+   {
+    "x": 847,
+    "y": 55,
+    "w": 60,
+    "h": 17
+   },
+   {
+    "x": 1026,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1056,
+    "y": 55,
+    "w": 22,
+    "h": 17
+   },
+   {
+    "x": 1129,
+    "y": 55,
+    "w": 66,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 318,
+    "w": 524,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 367,
+    "w": 900,
+    "h": 73
+   },
+   {
+    "x": 175,
+    "y": 483,
+    "w": 1015,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 507,
+    "w": 1023,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 531,
+    "w": 647,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 613,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 946,
+    "w": 44,
+    "h": 17
+   },
+   {
+    "x": 248,
+    "y": 946,
+    "w": 224,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 1075,
+    "w": 738,
+    "h": 43
+   },
+   {
+    "x": 175,
+    "y": 1122,
+    "w": 458,
+    "h": 43
+   },
+   {
+    "x": 175,
+    "y": 1220,
+    "w": 997,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1250,
+    "w": 1077,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1280,
+    "w": 988,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1340,
+    "w": 1058,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1370,
+    "w": 1018,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1400,
+    "w": 589,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 1491,
+    "w": 438,
+    "h": 43
+   },
+   {
+    "x": 215,
+    "y": 1617,
+    "w": 219,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 1659,
+    "w": 433,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1683,
+    "w": 396,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1617,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 772,
+    "y": 1659,
+    "w": 446,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1683,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1809,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 1851,
+    "w": 446,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 1875,
+    "w": 290,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1809,
+    "w": 297,
+    "h": 22
+   },
+   {
+    "x": 772,
+    "y": 1851,
+    "w": 442,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1875,
+    "w": 435,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 1899,
+    "w": 156,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2025,
+    "w": 261,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 2067,
+    "w": 423,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 2091,
+    "w": 346,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 2025,
+    "w": 257,
+    "h": 22
+   },
+   {
+    "x": 772,
+    "y": 2067,
+    "w": 424,
+    "h": 18
+   },
+   {
+    "x": 772,
+    "y": 2091,
+    "w": 332,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 2217,
+    "w": 232,
+    "h": 43
+   },
+   {
+    "x": 175,
+    "y": 2315,
+    "w": 1014,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2345,
+    "w": 1009,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 2452,
+    "w": 243,
+    "h": 43
+   },
+   {
+    "x": 223,
+    "y": 2590,
+    "w": 23,
+    "h": 22
+   },
+   {
+    "x": 294,
+    "y": 2588,
+    "w": 401,
+    "h": 27
+   },
+   {
+    "x": 294,
+    "y": 2629,
+    "w": 784,
+    "h": 22
+   },
+   {
+    "x": 294,
+    "y": 2659,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 2801,
+    "w": 23,
+    "h": 22
+   },
+   {
+    "x": 294,
+    "y": 2799,
+    "w": 324,
+    "h": 27
+   },
+   {
+    "x": 294,
+    "y": 2840,
+    "w": 921,
+    "h": 22
+   },
+   {
+    "x": 294,
+    "y": 2870,
+    "w": 407,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 3012,
+    "w": 23,
+    "h": 22
+   },
+   {
+    "x": 294,
+    "y": 3010,
+    "w": 300,
+    "h": 27
+   },
+   {
+    "x": 294,
+    "y": 3052,
+    "w": 859,
+    "h": 22
+   },
+   {
+    "x": 294,
+    "y": 3082,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 3224,
+    "w": 23,
+    "h": 22
+   },
+   {
+    "x": 294,
+    "y": 3222,
+    "w": 245,
+    "h": 27
+   },
+   {
+    "x": 294,
+    "y": 3263,
+    "w": 684,
+    "h": 22
+   },
+   {
+    "x": 223,
+    "y": 3405,
+    "w": 23,
+    "h": 22
+   },
+   {
+    "x": 294,
+    "y": 3403,
+    "w": 318,
+    "h": 27
+   },
+   {
+    "x": 294,
+    "y": 3444,
+    "w": 859,
+    "h": 22
+   },
+   {
+    "x": 294,
+    "y": 3474,
+    "w": 547,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 3629,
+    "w": 122,
+    "h": 43
+   },
+   {
+    "x": 403,
+    "y": 3767,
+    "w": 330,
+    "h": 27
+   },
+   {
+    "x": 403,
+    "y": 3811,
+    "w": 176,
+    "h": 62
+   },
+   {
+    "x": 435,
+    "y": 3921,
+    "w": 140,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 3953,
+    "w": 284,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 3985,
+    "w": 369,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 4017,
+    "w": 269,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 4049,
+    "w": 99,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 4081,
+    "w": 152,
+    "h": 18
+   },
+   {
+    "x": 435,
+    "y": 4113,
+    "w": 153,
+    "h": 18
+   },
+   {
+    "x": 175,
+    "y": 4271,
+    "w": 743,
+    "h": 43
+   },
+   {
+    "x": 175,
+    "y": 4318,
+    "w": 306,
+    "h": 43
+   },
+   {
+    "x": 175,
+    "y": 4415,
+    "w": 1014,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 4445,
+    "w": 723,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 4505,
+    "w": 1077,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 4535,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 215,
+    "y": 4646,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 4770,
+    "w": 487,
+    "h": 43
+   },
+   {
+    "x": 175,
+    "y": 4893,
+    "w": 381,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 4988,
+    "w": 606,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 5083,
+    "w": 485,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 5178,
+    "w": 329,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 5273,
+    "w": 427,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 5368,
+    "w": 305,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 5463,
+    "w": 274,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 5558,
+    "w": 230,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 5653,
+    "w": 479,
+    "h": 22
+   },
+   {
+    "x": 175,
+    "y": 5748,
+    "w": 429,
+    "h": 22
+   },
+   {
+    "x": 342,
+    "y": 6008,
+    "w": 330,
+    "h": 43
+   },
+   {
+    "x": 342,
+    "y": 6095,
+    "w": 56,
+    "h": 14
+   },
+   {
+    "x": 400,
+    "y": 6095,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 359,
+    "y": 6128,
+    "w": 24,
+    "h": 18
+   },
+   {
+    "x": 434,
+    "y": 6128,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 511,
+    "y": 6128,
+    "w": 28,
+    "h": 18
+   },
+   {
+    "x": 342,
+    "y": 6182,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 740,
+    "y": 6182,
+    "w": 58,
+    "h": 14
+   },
+   {
+    "x": 800,
+    "y": 6182,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6262,
+    "w": 35,
+    "h": 14
+   },
+   {
+    "x": 380,
+    "y": 6262,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 740,
+    "y": 6262,
+    "w": 36,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6342,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 432,
+    "y": 6342,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6423,
+    "w": 172,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6537,
+    "w": 79,
+    "h": 14
+   },
+   {
+    "x": 423,
+    "y": 6537,
+    "w": 5,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6675,
+    "w": 722,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6692,
+    "w": 543,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6725,
+    "w": 733,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6742,
+    "w": 623,
+    "h": 14
+   },
+   {
+    "x": 965,
+    "y": 6742,
+    "w": 83,
+    "h": 14
+   },
+   {
+    "x": 1048,
+    "y": 6742,
+    "w": 4,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6776,
+    "w": 376,
+    "h": 14
+   },
+   {
+    "x": 378,
+    "y": 6807,
+    "w": 517,
+    "h": 14
+   },
+   {
+    "x": 897,
+    "y": 6807,
+    "w": 6,
+    "h": 14
+   },
+   {
+    "x": 378,
+    "y": 6836,
+    "w": 406,
+    "h": 14
+   },
+   {
+    "x": 342,
+    "y": 6872,
+    "w": 96,
+    "h": 14
+   },
+   {
+    "x": 175,
+    "y": 7130,
+    "w": 186,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 7160,
+    "w": 121,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 7190,
+    "w": 185,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 7220,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 7250,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 7280,
+    "w": 59,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 7130,
+    "w": 102,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 7160,
+    "w": 127,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 7190,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 7220,
+    "w": 30,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 7250,
+    "w": 134,
+    "h": 17
+   },
+   {
+    "x": 608,
+    "y": 7280,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 7130,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 7160,
+    "w": 80,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 7190,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 990,
+    "y": 7220,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 175,
+    "y": 7373,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 307,
+    "y": 7373,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 387,
+    "y": 7373,
+    "w": 106,
+    "h": 16
+   },
+   {
+    "x": 524,
+    "y": 7373,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 589,
+    "y": 7373,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 903,
+    "y": 7373,
+    "w": 217,
+    "h": 16
+   }
+  ]
+ }
+}

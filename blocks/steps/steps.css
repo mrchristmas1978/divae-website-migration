@@ -1,0 +1,131 @@
+/* steps — diva-e Steps (source Steps + StepItem) */
+.steps {
+  margin: 40px 0;
+  padding: 0 var(--pad-x);
+}
+
+.steps .steps-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.steps .steps-title {
+  width: 100%;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.steps .steps-title :is(h2, p) {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+.steps .steps-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.steps .step-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 32px;
+  border-radius: 16px;
+  background-color: var(--card-light);
+  box-shadow: 0 0 30px var(--hairline);
+  text-align: center;
+}
+
+.steps .step-item-number {
+  flex-shrink: 0;
+  margin: 0 auto;
+  color: var(--blue);
+  font-family: var(--font-display);
+  font-size: 56px;
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.steps .step-item-number p {
+  margin: 0;
+}
+
+.steps .step-item-content {
+  flex: 1;
+  min-width: 0;
+  font-size: 18px;
+}
+
+.steps .step-item-content .step-item-title {
+  margin: 0 0 8px;
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 130%;
+  hyphens: auto;
+}
+
+.steps .step-item-content p {
+  margin: 0;
+  color: var(--grey-text);
+}
+
+@media (width >= 768px) {
+  .steps {
+    margin: 64px 0;
+  }
+}
+
+@media (width >= 950px) {
+  .steps .steps-title {
+    margin-bottom: 40px;
+    text-align: left;
+  }
+
+  .steps .step-item {
+    flex-direction: row;
+    gap: 48px;
+    padding: 48px;
+    text-align: left;
+  }
+}
+
+@media (width >= 1200px) {
+  .steps {
+    margin: 80px 0;
+  }
+
+  .steps .steps-container {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+  }
+
+  .steps .steps-title :is(h2, p) {
+    font-size: 3.9rem;
+  }
+
+  .steps .step-item-number {
+    font-size: 5.7rem;
+  }
+
+  .steps .step-item-content .step-item-title {
+    font-size: 2.4rem;
+  }
+}
+
+@media (width >= 1600px) {
+  .steps .steps-title :is(h2, p) {
+    font-size: 4.7rem;
+  }
+
+  .steps .step-item-number {
+    font-size: 6.7rem;
+  }
+}

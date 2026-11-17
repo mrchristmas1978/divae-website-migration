@@ -1,0 +1,5 @@
+clip-probe http://localhost:8791/en-proposed.html @ 360px — docH 8566, 118 text nodes, 79 controls (HTTP 200, chrome)
+  🔴 CONTROL CLIPPED        ×4     in div.partners-bar__row.partners-bar__row--top  div.partners-bar__rows > div.partners-bar__row.partners-bar__row--top > div.partners-bar__track > a.partners-bar__item  "go to link"  cut 4–13px
+  🔴 CONTROL CLIPPED        ×4     in div.partners-bar__row.partners-bar__row--bottom  div.partners-bar__rows > div.partners-bar__row.partners-bar__row--bottom > div.partners-bar__track > a.partners-bar__item  "go to link"  cut 4–13px
+Clipped: 8 (text clipped 0, text hidden 0, controls hidden 0, controls clipped 8; advisory: clamped 0, collapsed 0, scroll-hidden 0, horizontal 3)
+json → stardust/replica/gates/en-360/clip-iter1.json

@@ -1,0 +1,1872 @@
+{
+ "_provenance": {
+  "writtenBy": "unit-geometry.mjs",
+  "at": "2026-11-14T04:36:37.558Z",
+  "tol": 4,
+  "n": 5,
+  "width": 360,
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/",
+  "at": "2026-11-13T11:18:32.363Z",
+  "docH": 7139
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en",
+  "at": "2026-11-14T04:36:37.354Z",
+  "docH": 8271
+ },
+ "results": [
+  {
+   "sel": ".cards-block--light .card=.cards-block--light .card, .cards:not(.dark) .card",
+   "family": null,
+   "required": true,
+   "originMatches": 4,
+   "edsMatches": 4,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.col--2.col--aligned > div.cards-block__container-item > div.card.card--col--2"
+     },
+     "eds": {
+      "path": "div.cards.block > div.cards-grid > article.card.card-light"
+     },
+     "rows": [
+      {
+       "key": "link:a.card__link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 533,
+        "h": 382
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 312,
+        "h": 377,
+        "sel": "a.card-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -221,
+       "dh": -5,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:digital consulting",
+       "role": "text",
+       "text": "digital consulting",
+       "edsText": "digital consulting",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 40,
+        "w": 453,
+        "h": 24
+       },
+       "eds": {
+        "x": 24,
+        "y": 32,
+        "w": 264,
+        "h": 22,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": -8,
+       "dw": -189,
+       "dh": -2,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/24/400",
+        "eds": "18/22/300"
+       }
+      },
+      {
+       "key": "text:we bring digital and marketing strategie",
+       "role": "text",
+       "text": "we bring digital and marketing strategies to life! in times ",
+       "edsText": "we bring digital and marketing strategies to life! in times ",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 80,
+        "w": 453,
+        "h": 192
+       },
+       "eds": {
+        "x": 24,
+        "y": 70,
+        "w": 264,
+        "h": 235,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": -10,
+       "dw": -189,
+       "dh": 43,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/300",
+        "eds": "14/20/300"
+       }
+      },
+      {
+       "key": "link:learn more",
+       "role": "link",
+       "text": "learn more",
+       "edsText": "learn more",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 288,
+        "w": 84,
+        "h": 30
+       },
+       "eds": {
+        "x": 24,
+        "y": 321,
+        "w": 75,
+        "h": 24,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": -16,
+       "dy": 33,
+       "dw": -9,
+       "dh": -6,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/30/300",
+        "eds": "14/24/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 175,
+       "y": 1946,
+       "w": 533,
+       "h": 382
+      },
+      "eds": {
+       "x": 24,
+       "y": 1993,
+       "w": 312,
+       "h": 377
+      },
+      "dx": -151,
+      "dy": 47,
+      "dw": -221,
+      "dh": -5
+     },
+     "summary": {
+      "elements": 4,
+      "within": 0,
+      "off": 4,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": true
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.col--2.col--aligned > div.cards-block__container-item > div.card.card--col--2"
+     },
+     "eds": {
+      "path": "div.cards.block > div.cards-grid > article.card.card-light"
+     },
+     "rows": [
+      {
+       "key": "link:a.card__link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 533,
+        "h": 382
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 312,
+        "h": 396,
+        "sel": "a.card-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -221,
+       "dh": 14,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:digital experience platform",
+       "role": "text",
+       "text": "digital experience platform",
+       "edsText": "digital experience platform",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 40,
+        "w": 453,
+        "h": 24
+       },
+       "eds": {
+        "x": 24,
+        "y": 32,
+        "w": 264,
+        "h": 22,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": -8,
+       "dw": -189,
+       "dh": -2,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/24/400",
+        "eds": "18/22/300"
+       }
+      },
+      {
+       "key": "text:with solutions developed in-house or in ",
+       "role": "text",
+       "text": "with solutions developed in-house or in strategic partnershi",
+       "edsText": "with solutions developed in-house or in strategic partnershi",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 80,
+        "w": 453,
+        "h": 216
+       },
+       "eds": {
+        "x": 24,
+        "y": 70,
+        "w": 264,
+        "h": 255,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": -10,
+       "dw": -189,
+       "dh": 39,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/300",
+        "eds": "14/20/300"
+       }
+      },
+      {
+       "key": "link:learn more",
+       "role": "link",
+       "text": "learn more",
+       "edsText": "learn more",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 312,
+        "w": 84,
+        "h": 30
+       },
+       "eds": {
+        "x": 24,
+        "y": 340,
+        "w": 75,
+        "h": 24,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": -16,
+       "dy": 28,
+       "dw": -9,
+       "dh": -6,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/30/300",
+        "eds": "14/24/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 732,
+       "y": 1946,
+       "w": 533,
+       "h": 382
+      },
+      "eds": {
+       "x": 24,
+       "y": 2386,
+       "w": 312,
+       "h": 396
+      },
+      "dx": -708,
+      "dy": 440,
+      "dw": -221,
+      "dh": 14
+     },
+     "summary": {
+      "elements": 4,
+      "within": 0,
+      "off": 4,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": true
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.col--2.col--aligned > div.cards-block__container-item > div.card.card--col--2"
+     },
+     "eds": {
+      "path": "div.cards.block > div.cards-grid > article.card.card-light"
+     },
+     "rows": [
+      {
+       "key": "link:a.card__link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 533,
+        "h": 382
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 312,
+        "h": 416,
+        "sel": "a.card-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -221,
+       "dh": 34,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:digital marketing",
+       "role": "text",
+       "text": "digital marketing",
+       "edsText": "digital marketing",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 40,
+        "w": 453,
+        "h": 24
+       },
+       "eds": {
+        "x": 24,
+        "y": 32,
+        "w": 264,
+        "h": 22,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": -8,
+       "dw": -189,
+       "dh": -2,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/24/400",
+        "eds": "18/22/300"
+       }
+      },
+      {
+       "key": "text:we support you in increasing your online",
+       "role": "text",
+       "text": "we support you in increasing your online presence with our p",
+       "edsText": "we support you in increasing your online presence with our p",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 80,
+        "w": 453,
+        "h": 216
+       },
+       "eds": {
+        "x": 24,
+        "y": 70,
+        "w": 264,
+        "h": 274,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": -10,
+       "dw": -189,
+       "dh": 58,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/300",
+        "eds": "14/20/300"
+       }
+      },
+      {
+       "key": "link:learn more",
+       "role": "link",
+       "text": "learn more",
+       "edsText": "learn more",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 312,
+        "w": 84,
+        "h": 30
+       },
+       "eds": {
+        "x": 24,
+        "y": 360,
+        "w": 75,
+        "h": 24,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": -16,
+       "dy": 48,
+       "dw": -9,
+       "dh": -6,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/30/300",
+        "eds": "14/24/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 175,
+       "y": 2352,
+       "w": 533,
+       "h": 382
+      },
+      "eds": {
+       "x": 24,
+       "y": 2798,
+       "w": 312,
+       "h": 416
+      },
+      "dx": -151,
+      "dy": 446,
+      "dw": -221,
+      "dh": 34
+     },
+     "summary": {
+      "elements": 4,
+      "within": 0,
+      "off": 4,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": true
+     }
+    },
+    {
+     "index": 3,
+     "origin": {
+      "path": "div.col--2.col--aligned > div.cards-block__container-item > div.card.card--col--2"
+     },
+     "eds": {
+      "path": "div.cards.block > div.cards-grid > article.card.card-light"
+     },
+     "rows": [
+      {
+       "key": "link:a.card__link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 533,
+        "h": 382
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 312,
+        "h": 379,
+        "sel": "a.card-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -221,
+       "dh": -3,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:application management service",
+       "role": "text",
+       "text": "application management service",
+       "edsText": "application management service",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 40,
+        "w": 453,
+        "h": 24
+       },
+       "eds": {
+        "x": 24,
+        "y": 32,
+        "w": 264,
+        "h": 43,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": -8,
+       "dw": -189,
+       "dh": 19,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/24/400",
+        "eds": "18/22/300"
+       }
+      },
+      {
+       "key": "text:discover your opportunities with our app",
+       "role": "text",
+       "text": "discover your opportunities with our application management ",
+       "edsText": "discover your opportunities with our application management ",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 80,
+        "w": 453,
+        "h": 192
+       },
+       "eds": {
+        "x": 24,
+        "y": 91,
+        "w": 264,
+        "h": 216,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": 11,
+       "dw": -189,
+       "dh": 24,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/300",
+        "eds": "14/20/300"
+       }
+      },
+      {
+       "key": "link:learn more",
+       "role": "link",
+       "text": "learn more",
+       "edsText": "learn more",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 288,
+        "w": 84,
+        "h": 30
+       },
+       "eds": {
+        "x": 24,
+        "y": 323,
+        "w": 75,
+        "h": 24,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": -16,
+       "dy": 35,
+       "dw": -9,
+       "dh": -6,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/30/300",
+        "eds": "14/24/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 732,
+       "y": 2352,
+       "w": 533,
+       "h": 382
+      },
+      "eds": {
+       "x": 24,
+       "y": 3230,
+       "w": 312,
+       "h": 379
+      },
+      "dx": -708,
+      "dy": 878,
+      "dw": -221,
+      "dh": -3
+     },
+     "summary": {
+      "elements": 4,
+      "within": 0,
+      "off": 4,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": true
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".cards-block--dark .card=.cards-block--dark .card, .cards.dark .card",
+   "family": null,
+   "required": true,
+   "originMatches": 2,
+   "edsMatches": 2,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.col--2.col--aligned > div.cards-block__container-item > div.card.card--col--2"
+     },
+     "eds": {
+      "path": "div.cards.dark > div.cards-grid > article.card.card-dark"
+     },
+     "rows": [
+      {
+       "key": "link:a.card__link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 533,
+        "h": 308
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 312,
+        "h": 282,
+        "sel": "a.card-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -221,
+       "dh": -26,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "image:picture.card__billhead-icon#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 176,
+        "y": 40,
+        "w": 180,
+        "h": 180
+       },
+       "eds": {
+        "x": 66,
+        "y": 32,
+        "w": 180,
+        "h": 180,
+        "sel": "picture",
+        "role": "image"
+       },
+       "dx": -110,
+       "dy": -8,
+       "dw": 0,
+       "dh": 0,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "image:iso 27001 siegel",
+       "role": "image",
+       "text": "iso 27001 siegel",
+       "edsText": "iso 27001 siegel",
+       "byPosition": false,
+       "origin": {
+        "x": 176,
+        "y": 40,
+        "w": 180,
+        "h": 180
+       },
+       "eds": {
+        "x": 66,
+        "y": 32,
+        "w": 180,
+        "h": 180,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": -110,
+       "dy": -8,
+       "dw": 0,
+       "dh": 0,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:iso 27001",
+       "role": "text",
+       "text": "iso 27001",
+       "edsText": "iso 27001",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 244,
+        "w": 453,
+        "h": 24
+       },
+       "eds": {
+        "x": 24,
+        "y": 228,
+        "w": 264,
+        "h": 22,
+        "sel": "p.link-only",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": -16,
+       "dw": -189,
+       "dh": -2,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/24/400",
+        "eds": "18/22/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 175,
+       "y": 5179,
+       "w": 533,
+       "h": 308
+      },
+      "eds": {
+       "x": 24,
+       "y": 5494,
+       "w": 312,
+       "h": 282
+      },
+      "dx": -151,
+      "dy": 315,
+      "dw": -221,
+      "dh": -26
+     },
+     "summary": {
+      "elements": 4,
+      "within": 0,
+      "off": 4,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": true
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.col--2.col--aligned > div.cards-block__container-item > div.card.card--col--2"
+     },
+     "eds": {
+      "path": "div.cards.dark > div.cards-grid > article.card.card-dark"
+     },
+     "rows": [
+      {
+       "key": "link:a.card__link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 533,
+        "h": 308
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 312,
+        "h": 282,
+        "sel": "a.card-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -221,
+       "dh": -26,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "image:picture.card__billhead-icon#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 176,
+        "y": 40,
+        "w": 180,
+        "h": 180
+       },
+       "eds": {
+        "x": 66,
+        "y": 32,
+        "w": 180,
+        "h": 180,
+        "sel": "picture",
+        "role": "image"
+       },
+       "dx": -110,
+       "dy": -8,
+       "dw": 0,
+       "dh": 0,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "image:tisax siegel",
+       "role": "image",
+       "text": "tisax siegel",
+       "edsText": "tisax siegel",
+       "byPosition": false,
+       "origin": {
+        "x": 176,
+        "y": 40,
+        "w": 180,
+        "h": 180
+       },
+       "eds": {
+        "x": 66,
+        "y": 32,
+        "w": 180,
+        "h": 180,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": -110,
+       "dy": -8,
+       "dw": 0,
+       "dh": 0,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:tisax",
+       "role": "text",
+       "text": "tisax",
+       "edsText": "tisax",
+       "byPosition": false,
+       "origin": {
+        "x": 40,
+        "y": 244,
+        "w": 453,
+        "h": 24
+       },
+       "eds": {
+        "x": 24,
+        "y": 228,
+        "w": 264,
+        "h": 22,
+        "sel": "p.link-only",
+        "role": "text"
+       },
+       "dx": -16,
+       "dy": -16,
+       "dw": -189,
+       "dh": -2,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/24/400",
+        "eds": "18/22/300"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 732,
+       "y": 5179,
+       "w": 533,
+       "h": 308
+      },
+      "eds": {
+       "x": 24,
+       "y": 5792,
+       "w": 312,
+       "h": 282
+      },
+      "dx": -708,
+      "dy": 613,
+      "dw": -221,
+      "dh": -26
+     },
+     "summary": {
+      "elements": 4,
+      "within": 0,
+      "off": 4,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": true
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".teaser-slider .swiper-slide-active=.teaser-slider .teaser-item.is-active",
+   "family": null,
+   "required": true,
+   "originMatches": 1,
+   "edsMatches": 1,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.swiper.swiper-coverflow > div#swiper-wrapper-c58c1dcf8d57dbf9 > div.swiper-slide.swiper-slide-visible"
+     },
+     "eds": {
+      "path": "div.teaser-slider-swiper > div.teaser-slider-track > div.teaser-item.is-active"
+     },
+     "rows": [
+      {
+       "key": "box:div.teaser-slider-item.teaser-slider-item--dark#1",
+       "role": "box",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 966,
+        "h": 396
+       },
+       "eds": {
+        "x": 0,
+        "y": 197,
+        "w": 312,
+        "h": 256,
+        "sel": "div.teaser-item-text",
+        "role": "box"
+       },
+       "dx": 0,
+       "dy": 197,
+       "dw": -654,
+       "dh": -140,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "image:img#1",
+       "role": "image",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 396
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 312,
+        "h": 197,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -200,
+       "dh": -199,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "heading:zeiss",
+       "role": "heading",
+       "text": "zeiss",
+       "edsText": "zeiss",
+       "byPosition": false,
+       "origin": {
+        "x": 544,
+        "y": 78,
+        "w": 390,
+        "h": 48
+       },
+       "eds": {
+        "x": 24,
+        "y": 221,
+        "w": 264,
+        "h": 34,
+        "sel": "h4#zeiss",
+        "role": "heading"
+       },
+       "dx": -520,
+       "dy": 143,
+       "dw": -126,
+       "dh": -14,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "34/48/400",
+        "eds": "24/34/400"
+       }
+      },
+      {
+       "key": "text:development of the zeiss visustore digit",
+       "role": "text",
+       "text": "development of the zeiss visustore digital b2b platform to e",
+       "edsText": "development of the zeiss visustore digital b2b platform to e",
+       "byPosition": false,
+       "origin": {
+        "x": 544,
+        "y": 134,
+        "w": 390,
+        "h": 108
+       },
+       "eds": {
+        "x": 24,
+        "y": 262,
+        "w": 264,
+        "h": 96,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -520,
+       "dy": 128,
+       "dw": -126,
+       "dh": -12,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "18/27/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "link:read more",
+       "role": "link",
+       "text": "read more",
+       "edsText": "read more",
+       "byPosition": false,
+       "origin": {
+        "x": 544,
+        "y": 270,
+        "w": 136,
+        "h": 48
+       },
+       "eds": {
+        "x": 24,
+        "y": 386,
+        "w": 112,
+        "h": 42,
+        "sel": "a",
+        "role": "link"
+       },
+       "dx": -520,
+       "dy": 116,
+       "dw": -24,
+       "dh": -6,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/30/300",
+        "eds": "14/24/300"
+       }
+      }
+     ],
+     "missing": [
+      {
+       "role": "box",
+       "tag": "div",
+       "sel": "div.teaser-slider-item__swiper-image",
+       "text": "",
+       "boxed": true,
+       "x": 0,
+       "y": 0,
+       "w": 512,
+       "h": 396,
+       "absY": 2965,
+       "hidden": false,
+       "fs": 20,
+       "lh": 30,
+       "fw": "300",
+       "color": "rgb(237, 240, 251)",
+       "bg": null,
+       "position": "relative",
+       "key": "box:div.teaser-slider-item__swiper-image#1"
+      },
+      {
+       "role": "box",
+       "tag": "div",
+       "sel": "div.teaser-slider-item__text",
+       "text": "",
+       "boxed": true,
+       "x": 512,
+       "y": 0,
+       "w": 454,
+       "h": 396,
+       "absY": 2965,
+       "hidden": false,
+       "fs": 20,
+       "lh": 30,
+       "fw": "300",
+       "color": "rgb(8, 18, 53)",
+       "bg": "rgb(255, 255, 255)",
+       "position": "static",
+       "key": "box:div.teaser-slider-item__text#1"
+      }
+     ],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 237,
+       "y": 2965,
+       "w": 966,
+       "h": 396
+      },
+      "eds": {
+       "x": 24,
+       "y": 3742,
+       "w": 312,
+       "h": 452
+      },
+      "dx": -213,
+      "dy": 777,
+      "dw": -654,
+      "dh": 56
+     },
+     "summary": {
+      "elements": 7,
+      "within": 0,
+      "off": 5,
+      "hidden": 0,
+      "missing": 2,
+      "extra": 0,
+      "unitOff": true
+     }
+    }
+   ]
+  },
+  {
+   "sel": ".slider-cards-copy .swiper-slide=.slider-cards .story-card",
+   "family": null,
+   "required": true,
+   "originMatches": 20,
+   "edsMatches": 20,
+   "units": [
+    {
+     "index": 0,
+     "origin": {
+      "path": "div.swiper.swiper-initialized > div#swiper-wrapper-e910103a61068ad9c8e > div.swiper-slide.swiper-slide-prev"
+     },
+     "eds": {
+      "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card"
+     },
+     "rows": [
+      {
+       "key": "link:a.slider-cards-copy-item__overlay-link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 326,
+        "h": 371
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 275,
+        "sel": "a.story-card-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -107,
+       "dh": -96,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "image:split image with \"diva-e conclusion\" in ",
+       "role": "image",
+       "text": "split image with \"diva-e conclusion\" in white on blue backgr",
+       "edsText": "split image with \"diva-e conclusion\" in white on blue backgr",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 186
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 123,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -100,
+       "dh": -63,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "link:a.hover-button__link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 186
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 123,
+        "sel": "a.story-card-hover-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -100,
+       "dh": -63,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:8 jan 2026",
+       "role": "text",
+       "text": "8 jan 2026",
+       "edsText": "8 jan 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 39,
+        "y": 198,
+        "w": 89,
+        "h": 27
+       },
+       "eds": {
+        "x": 32,
+        "y": 139,
+        "w": 88,
+        "h": 24,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -7,
+       "dy": -59,
+       "dw": -1,
+       "dh": -3,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "16/24/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:kyowa kirin – rethinking pharmaceutical ",
+       "role": "text",
+       "text": "kyowa kirin – rethinking pharmaceutical sales: from account ",
+       "edsText": "kyowa kirin – rethinking pharmaceutical sales: from account ",
+       "byPosition": false,
+       "origin": {
+        "x": 8,
+        "y": 235,
+        "w": 317,
+        "h": 136
+       },
+       "eds": {
+        "x": 0,
+        "y": 182,
+        "w": 219,
+        "h": 94,
+        "sel": "p.link-only",
+        "role": "text"
+       },
+       "dx": -8,
+       "dy": -53,
+       "dw": -98,
+       "dh": -42,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "24/31/400",
+        "eds": "18/23/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": -115,
+       "y": 3724,
+       "w": 326,
+       "h": 371
+      },
+      "eds": {
+       "x": -214,
+       "y": 4502,
+       "w": 219,
+       "h": 275
+      },
+      "dx": -99,
+      "dy": 778,
+      "dw": -107,
+      "dh": -96
+     },
+     "summary": {
+      "elements": 5,
+      "within": 0,
+      "off": 5,
+      "hidden": 5,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": true
+     }
+    },
+    {
+     "index": 1,
+     "origin": {
+      "path": "div.swiper.swiper-initialized > div#swiper-wrapper-e910103a61068ad9c8e > div.swiper-slide.swiper-slide-active"
+     },
+     "eds": {
+      "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card.is-active"
+     },
+     "rows": [
+      {
+       "key": "link:a.slider-cards-copy-item__overlay-link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 325,
+        "h": 340
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 275,
+        "sel": "a.story-card-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -106,
+       "dh": -65,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "image:lünendonk survey 2026 chart comparing dx",
+       "role": "image",
+       "text": "lünendonk survey 2026 chart comparing dxs providers by portf",
+       "edsText": "lünendonk survey 2026 chart comparing dxs providers by portf",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 186
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 123,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -100,
+       "dh": -63,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "link:a.hover-button__link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 186
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 123,
+        "sel": "a.story-card-hover-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -100,
+       "dh": -63,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:6 nov 2026",
+       "role": "text",
+       "text": "6 nov 2026",
+       "edsText": "6 nov 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 39,
+        "y": 198,
+        "w": 92,
+        "h": 27
+       },
+       "eds": {
+        "x": 32,
+        "y": 139,
+        "w": 91,
+        "h": 24,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -7,
+       "dy": -59,
+       "dw": -1,
+       "dh": -3,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:lünendonk® survey 2025: diva-e conclusio",
+       "role": "text",
+       "text": "lünendonk® survey 2025: diva-e conclusion remains market lea",
+       "edsText": "lünendonk® survey 2025: diva-e conclusion remains market lea",
+       "byPosition": false,
+       "origin": {
+        "x": 8,
+        "y": 235,
+        "w": 316,
+        "h": 104
+       },
+       "eds": {
+        "x": 0,
+        "y": 182,
+        "w": 219,
+        "h": 94,
+        "sel": "p.link-only",
+        "role": "text"
+       },
+       "dx": -8,
+       "dy": -53,
+       "dw": -97,
+       "dh": -10,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "24/31/400",
+        "eds": "18/23/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 222,
+       "y": 3712,
+       "w": 325,
+       "h": 340
+      },
+      "eds": {
+       "x": 29,
+       "y": 4502,
+       "w": 219,
+       "h": 275
+      },
+      "dx": -193,
+      "dy": 790,
+      "dw": -106,
+      "dh": -65
+     },
+     "summary": {
+      "elements": 5,
+      "within": 0,
+      "off": 5,
+      "hidden": 0,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": true
+     }
+    },
+    {
+     "index": 2,
+     "origin": {
+      "path": "div.swiper.swiper-initialized > div#swiper-wrapper-e910103a61068ad9c8e > div.swiper-slide.swiper-slide-next"
+     },
+     "eds": {
+      "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card"
+     },
+     "rows": [
+      {
+       "key": "link:a.slider-cards-copy-item__overlay-link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 325,
+        "h": 340
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 252,
+        "sel": "a.story-card-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -106,
+       "dh": -88,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "image:a person in a blue suit and white shirt ",
+       "role": "image",
+       "text": "a person in a blue suit and white shirt stands indoors with ",
+       "edsText": "a person in a blue suit and white shirt stands indoors with ",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 186
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 123,
+        "sel": "img",
+        "role": "image"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -100,
+       "dh": -63,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "link:a.hover-button__link#1",
+       "role": "link",
+       "text": "",
+       "edsText": "",
+       "byPosition": false,
+       "origin": {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 186
+       },
+       "eds": {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 123,
+        "sel": "a.story-card-hover-link",
+        "role": "link"
+       },
+       "dx": 0,
+       "dy": 0,
+       "dw": -100,
+       "dh": -63,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "20/30/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:12 oct 2026",
+       "role": "text",
+       "text": "12 oct 2026",
+       "edsText": "12 oct 2026",
+       "byPosition": false,
+       "origin": {
+        "x": 39,
+        "y": 198,
+        "w": 96,
+        "h": 27
+       },
+       "eds": {
+        "x": 32,
+        "y": 139,
+        "w": 95,
+        "h": 24,
+        "sel": "p",
+        "role": "text"
+       },
+       "dx": -7,
+       "dy": -59,
+       "dw": -1,
+       "dh": -3,
+       "off": true,
+       "hidden": false,
+       "type": {
+        "origin": "16/24/300",
+        "eds": "16/24/300"
+       }
+      },
+      {
+       "key": "text:sirko schneppe appointed new ceo of diva",
+       "role": "text",
+       "text": "sirko schneppe appointed new ceo of diva-e conclusion",
+       "edsText": "sirko schneppe appointed new ceo of diva-e conclusion",
+       "byPosition": false,
+       "origin": {
+        "x": 8,
+        "y": 235,
+        "w": 316,
+        "h": 104
+       },
+       "eds": {
+        "x": 0,
+        "y": 182,
+        "w": 219,
+        "h": 70,
+        "sel": "p.link-only",
+        "role": "text"
+       },
+       "dx": -8,
+       "dy": -53,
+       "dw": -97,
+       "dh": -34,
+       "off": true,
+       "hidden": true,
+       "type": {
+        "origin": "24/31/400",
+        "eds": "18/23/400"
+       }
+      }
+     ],
+     "missing": [],
+     "extra": [],
+     "unit": {
+      "origin": {
+       "x": 559,
+       "y": 3700,
+       "w": 325,
+       "h": 340
+      },
+      "eds": {
+       "x": 272,
+       "y": 4502,
+       "w": 219,
+       "h": 252
+      },
+      "dx": -287,
+      "dy": 802,
+      "dw": -106,
+      "dh": -88
+     },
+     "summary": {
+      "elements": 5,
+      "within": 0,
+      "off": 5,
+      "hidden": 4,
+      "missing": 0,
+      "extra": 0,
+      "unitOff": true
+     }
+    }
+   ]
+  }
+ ],
+ "verdict": {
+  "units": 10,
+  "within": 0,
+  "off": 44,
+  "hidden": 9,
+  "missing": 2,
+  "errors": 0,
+  "requiredOff": 55
+ }
+}

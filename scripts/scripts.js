@@ -10,6 +10,7 @@ import {
   loadSections,
   loadCSS,
   buildBlock,
+  getMetadata,
 } from './aem.js';
 
 if (window.trustedTypes && window.trustedTypes.createPolicy) {
@@ -121,6 +122,9 @@ function decorateButtons(main) {
       if (new URL(a.href).href === new URL(text, window.location).href) return;
     } catch { /* continue */ }
 
+    // a paragraph that is only a link (the source SimpleText button row when unformatted)
+    p.classList.add('link-only');
+
     // require authored formatting for buttonization
     const strong = a.closest('strong');
     const em = a.closest('em');
@@ -160,7 +164,11 @@ export function decorateMain(main) {
  * @param {Element} doc The container element
  */
 async function loadEager(doc) {
-  document.documentElement.lang = 'en';
+  import('./martech.js').then((m) => m.loadConsent());
+  // the German root `/` (source /de/) serves lang="de"; everything under /en is English
+  const { pathname } = window.location;
+  document.documentElement.lang = getMetadata('language')
+    || (pathname === '/' || pathname.startsWith('/de/') ? 'de' : 'en');
   decorateTemplateAndTheme();
   const main = doc.querySelector('main');
   if (main) {
@@ -204,6 +212,7 @@ async function loadLazy(doc) {
  * without impacting the user experience.
  */
 function loadDelayed() {
+  import('./martech.js').then((m) => m.loadTags());
   import('./consent-check.js');
   // load anything that can be postponed to the latest here
 }

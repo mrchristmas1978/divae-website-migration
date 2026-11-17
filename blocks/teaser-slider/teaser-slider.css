@@ -1,0 +1,505 @@
+/* teaser-slider — diva-e TeaserSlider, project coverflow (canon § 9-10) */
+.teaser-slider {
+  padding: 40px 0;
+  background-color: var(--navy);
+  color: var(--ink-light);
+}
+
+.teaser-slider .teaser-slider-header {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 var(--pad-x);
+  text-align: center;
+}
+
+.teaser-slider .teaser-slider-header :is(h2, h3) {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+}
+
+.teaser-slider .teaser-slider-header p {
+  margin-top: 16px;
+}
+
+.teaser-slider .teaser-slider-swiper {
+  position: relative;
+  margin: 0 24px;
+  padding: 24px 0;
+  overflow-x: clip;
+}
+
+.teaser-slider .teaser-slider-track {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  column-gap: 24px;
+  transition: transform 0.6s;
+  transform: translate3d(calc(-1 * var(--active, 0) * (100% + 24px)), 0, 0);
+}
+
+.teaser-slider .teaser-item {
+  width: 100%;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+
+.teaser-slider .teaser-item-inner {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border-radius: 12px;
+}
+
+.teaser-slider .teaser-item-image {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.teaser-slider .teaser-item-image::before {
+  content: "";
+  display: block;
+  padding-bottom: 63%;
+}
+
+.teaser-slider .teaser-item-icon img {
+  display: block;
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
+
+.teaser-slider .teaser-item-photo img {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+  mix-blend-mode: color;
+}
+
+.teaser-slider .teaser-item.is-active .teaser-item-photo img {
+  mix-blend-mode: normal;
+}
+
+.teaser-slider .teaser-item-image::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  display: none;
+  background-color: #081235a1;
+  transition: opacity 1s ease-out;
+}
+
+.teaser-slider .teaser-item.is-active .teaser-item-image::after {
+  opacity: 0.4;
+}
+
+.teaser-slider .teaser-item-icon {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 24px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.teaser-slider .teaser-item.is-active .teaser-item-icon {
+  opacity: 1;
+}
+
+.teaser-slider .teaser-item-text {
+  display: block;
+  padding: 24px;
+  border-radius: 0 0 12px 12px;
+  background-color: var(--white);
+  color: var(--navy);
+}
+
+.teaser-slider .teaser-item-headline :is(h2, h3, h4, h5) {
+  font-size: 2.4rem;
+}
+
+.teaser-slider .teaser-item-body {
+  margin-top: 8px;
+}
+
+.teaser-slider .teaser-item-cta p {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.teaser-slider .teaser-item-cta a:any-link {
+  position: relative;
+  z-index: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  margin-top: 28px;
+  padding: 4px 20px;
+  border-radius: 50px;
+  box-shadow: inset 0 0 0 2px var(--navy);
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: var(--ease);
+}
+
+.teaser-slider .teaser-item-cta a:any-link:hover {
+  font-style: italic;
+  font-variation-settings: "slnt" 30;
+}
+
+.teaser-slider .teaser-slider-bullets {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 29px;
+  margin-top: 24px;
+}
+
+.teaser-slider .teaser-slider-bullet {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: rgb(255 255 255 / 30%);
+  cursor: pointer;
+}
+
+.teaser-slider .teaser-slider-bullet.is-active {
+  background-color: var(--blue);
+}
+
+.teaser-slider .teaser-slider-nav {
+  display: none;
+}
+
+.teaser-slider .btn-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background-color: var(--navy);
+}
+
+.teaser-slider .btn-arrow button {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  border: 2px solid var(--blue);
+  border-radius: 50%;
+  transition: filter 0.3s ease-out;
+}
+
+.teaser-slider .btn-arrow svg {
+  position: absolute;
+  z-index: 1;
+  width: 20px;
+  height: 20px;
+}
+
+.teaser-slider .btn-arrow-next svg {
+  transform: rotate(180deg);
+}
+
+.teaser-slider .btn-arrow:hover {
+  background-color: transparent;
+}
+
+.teaser-slider .btn-arrow:hover button {
+  border-color: transparent;
+  background-color: var(--blue);
+}
+
+@media (width >= 768px) {
+  .teaser-slider {
+    padding: 64px 0;
+  }
+
+  .teaser-slider .teaser-item-inner {
+    flex-direction: row;
+  }
+
+  .teaser-slider .teaser-item-image {
+    box-shadow: 0 0 30px var(--hairline);
+  }
+
+  .teaser-slider .teaser-item-image::before {
+    padding-bottom: 300px;
+  }
+
+  .teaser-slider .teaser-item-image::after {
+    display: block;
+  }
+
+  .teaser-slider .teaser-item-icon {
+    z-index: 2;
+    opacity: 1;
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-image,
+  .teaser-slider .teaser-item.is-active .teaser-item-photo img {
+    border-radius: 12px 0 0 12px;
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-image {
+    box-shadow: 0 4px 30px #08123540;
+  }
+
+  .teaser-slider .teaser-item-text {
+    max-width: 380px;
+    padding: 78px 32px;
+    border-radius: 0 12px 12px 0;
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-text {
+    margin-left: -1px;
+  }
+
+  .teaser-slider .teaser-item-body p {
+    font-size: 1.8rem;
+  }
+
+  .teaser-slider .teaser-item-cta a:any-link {
+    min-height: 48px;
+    padding: 4px 28px;
+    font-size: 16px;
+  }
+
+  .teaser-slider .teaser-slider-bullets {
+    display: none;
+  }
+
+  .teaser-slider .teaser-slider-nav {
+    display: flex;
+    justify-content: center;
+    column-gap: 16px;
+    padding: 0 var(--pad-x);
+  }
+}
+
+/* >=950: Swiper coverflow, reproduced statically. Slide k sits at k*(W - shift) on x and
+   -|k|*depth on z inside a 1200px perspective, the transform Swiper computes at rest. */
+@media (width >= 950px) {
+  .teaser-slider .teaser-slider-swiper {
+    --w: 822px;
+    --shift: 575px;
+    --depth: 250px;
+
+    margin: 0;
+    padding: 24px calc(50% - 411px);
+    overflow-x: clip;
+    perspective: 1200px;
+  }
+
+  .teaser-slider .teaser-slider-track {
+    display: block;
+    width: var(--w);
+    transform: none;
+    transform-style: preserve-3d;
+  }
+
+  .teaser-slider .teaser-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: calc(-1 * var(--ak, 0));
+    display: block;
+    width: var(--w);
+    height: 100%;
+    transform: translate3d(calc(var(--k) * (var(--w) - var(--shift))), 0, calc(-1 * var(--ak, 0) * var(--depth)));
+    transition: transform 0.6s;
+  }
+
+  .teaser-slider .teaser-item.is-active {
+    position: relative;
+    z-index: 1;
+    background-color: var(--white);
+    transform: none;
+  }
+
+  .teaser-slider .teaser-item-text {
+    display: none;
+    flex-shrink: 0;
+    width: 0;
+    max-width: 0;
+    padding: 0;
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-text {
+    z-index: 1;
+    display: block;
+    width: 100%;
+    max-width: 380px;
+    padding: 78px 32px;
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-image {
+    flex-shrink: 0;
+  }
+
+  .teaser-slider .btn-arrow,
+  .teaser-slider .btn-arrow button {
+    width: 64px;
+    height: 64px;
+  }
+
+  .teaser-slider .btn-arrow svg {
+    width: 32px;
+    height: 32px;
+  }
+}
+
+@media (width >= 1200px) {
+  .teaser-slider {
+    padding: 80px 0;
+  }
+
+  .teaser-slider .teaser-slider-header :is(h2, h3) {
+    font-size: 3.9rem;
+  }
+
+  .teaser-slider .teaser-slider-swiper {
+    --w: 866px;
+    --shift: 600px;
+
+    padding: 24px calc(50% - 433px);
+  }
+
+  .teaser-slider .teaser-item-image::before {
+    padding-bottom: 339px;
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-image {
+    max-width: 442px;
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-text {
+    max-width: 424px;
+  }
+
+  .teaser-slider .teaser-item-headline :is(h2, h3, h4, h5) {
+    font-size: 3.4rem;
+  }
+}
+
+@media (width >= 1366px) {
+  .teaser-slider .teaser-slider-swiper {
+    --w: 966px;
+    --shift: 675px;
+
+    padding: 24px calc(50% - 483px);
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-image {
+    max-width: 512px;
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-text {
+    max-width: 454px;
+  }
+}
+
+@media (width >= 1500px) {
+  .teaser-slider .teaser-slider-swiper {
+    --shift: 612.5px;
+  }
+}
+
+@media (width >= 1600px) {
+  .teaser-slider .teaser-slider-header :is(h2, h3) {
+    font-size: 4.7rem;
+  }
+}
+
+@media (width >= 1800px) {
+  .teaser-slider .teaser-slider-swiper {
+    --w: 1036px;
+
+    padding: 24px calc(50% - 518px);
+  }
+
+  .teaser-slider .teaser-item-image::before {
+    padding-bottom: 369px;
+  }
+
+  .teaser-slider .teaser-item.is-active .teaser-item-image {
+    max-width: 582px;
+  }
+}
+
+@media (width >= 1920px) {
+  .teaser-slider .teaser-slider-swiper {
+    --shift: 575px;
+  }
+}
+
+/* stylelint-disable no-descending-specificity -- variant overrides */
+
+/* variant light — source teaser-slider--bg-light: page-ground band, navy item cards */
+.teaser-slider.light {
+  background-color: var(--ink-light);
+  color: var(--navy);
+}
+
+.teaser-slider.light .teaser-item-text {
+  background-color: var(--navy);
+  color: var(--white);
+}
+
+.teaser-slider.light .teaser-item-cta a:any-link {
+  box-shadow: inset 0 0 0 2px var(--white);
+  color: var(--white);
+}
+
+.teaser-slider.light .teaser-item-image::after {
+  background-color: #edf0fba1;
+}
+
+.teaser-slider.light .teaser-slider-bullet {
+  background-color: rgb(8 18 53 / 30%);
+}
+
+.teaser-slider.light .teaser-slider-bullet.is-active {
+  background-color: var(--blue);
+}
+
+.teaser-slider.light .btn-arrow {
+  background-color: var(--ink-light);
+}
+
+.teaser-slider.light .btn-arrow svg path {
+  fill: var(--navy);
+}
+
+@media (width >= 768px) {
+  .teaser-slider.light .teaser-item.is-active {
+    background-color: var(--navy);
+  }
+}
+
+/* label (additive variant, cluster form): the source head is a plain TeaserSlider label
+   (body text, no heading) — authored as a lone <p>, no gap above it */
+.teaser-slider.label .teaser-slider-header p:first-child {
+  margin-top: 0;
+}

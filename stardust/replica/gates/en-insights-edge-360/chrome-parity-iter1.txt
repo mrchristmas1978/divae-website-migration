@@ -1,0 +1,32 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.diva-e.com/en/insights/edge/
+  build: http://localhost:8791/en-insights-edge-proposed.html
+
+■ header: 10 delta(s) — 9 paired of 9/9 texts, 1/1 icons
+  REGION BOX   Δy +9441px (0→9441)
+  PAIR         "de"  Δy +9441px (18→9459); Δw +2px (50→52)
+  PAIR         "en"  Δx +2px (214→216); Δy +9441px (18→9459); Δw +2px (50→52)
+  PAIR         "Services"  Δy +9441px (105→9546); Δw -235px (296→61)
+  PAIR         "Marketplace"  Δy +9440px (156→9596)
+  PAIR         "Industries"  Δy +9439px (208→9647); Δw -227px (296→69)
+  PAIR         "Partners"  Δy +9438px (259→9697)
+  PAIR         "About us"  Δy +9437px (311→9748); Δw -233px (296→63)
+  PAIR         "Insights"  Δy +9436px (362→9798); Δw -241px (296→55)
+  PAIR         "Careers"  Δy +9435px (413→9848)
+
+■ footer: 12 delta(s) — 22 paired of 22/22 texts, 4/4 icons
+  OFFSET       the region and its 10 paired text(s) sit Δy -29px from live as one block — content identical; the page above is a different height (fix that, or a live feed rendered another length)
+  PAIR         "Subscribe to diva-e newsletter!"  fontStyle normal → italic; Δy -29px (10641→10612)
+  PAIR         "Paid Advertising"  Δy -29px (10786→10757); Δw -4px (124→120)
+  PAIR         "Application Management"  Δy -29px (10830→10801); Δw -5px (188→183)
+  PAIR         "CDP"  Δx -5px (236→231); Δy -29px (10830→10801); Δw +2px (33→35)
+  PAIR         "CMS"  Δx -3px (293→290); Δy -29px (10830→10801)
+  PAIR         "Content"  Δy -29px (10874→10845); Δw -3px (61→58)
+  PAIR         "Data Analysis"  Δx -3px (109→106); Δy -29px (10874→10845)
+  PAIR         "Online Marketing"  Δy -29px (10918→10889); Δw -2px (128→126)
+  PAIR         "OneProSeo"  Δx -2px (176→174); Δy -29px (10918→10889); Δw +3px (84→87)
+  PAIR         "Monitor Reporting"  Δy -29px (10962→10933); Δw -6px (139→133)
+  PAIR         "SAP"  Δx -6px (187→181); Δy -29px (10962→10933)
+  PAIR         "SEO"  Δx -4px (242→238); Δy -29px (10962→10933); Δw +3px (32→35)
+
+✗ 22 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

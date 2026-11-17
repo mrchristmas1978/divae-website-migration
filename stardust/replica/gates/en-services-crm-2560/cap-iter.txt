@@ -1,0 +1,14 @@
+cap-probe  base 1440 → probe 2560 (from stardust/current/DESIGN.json)
+live   https://www.diva-e.com/en/services/crm/
+  modules  3 sections: capped 1040 ×1 · full-bleed ×2
+  contentMaxWidth 1040px (module) · shellMaxWidth fluid · root body
+build  http://localhost:8791/en-services-crm-proposed.html
+  modules  9 sections: capped 1040 ×2, 345 ×1, 306 ×1 · full-bleed ×5
+  contentMaxWidth 1040px (module) · shellMaxWidth fluid · root body > main.page
+rows
+  ✓ content cap: live 1040px = build 1040px (±20, shared module cap)
+  ⚠ sections: live 3 vs build 9 top-level sections — module rows compared by order up to the shorter side, advisory until the structure matches
+  ⚠ module 1/3: live full-bleed (body > div > div > header.header) → build 1040px (section.hero.hero--dark-blue > div.hero__info > div.hero__info-container > div.hero__description.richtext)
+  ⚠ module 2/3: live 1040px (div.hero__info > div.hero__info-wrapper > div.hero__info-container > div.hero__description.richtext) → build full-bleed (body > main.page > nav.breadcrumbs)
+  ✓ module 3/3: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 5 rows failed (evidence stardust/replica/gates/en-services-crm-2560/cap-iter.json)

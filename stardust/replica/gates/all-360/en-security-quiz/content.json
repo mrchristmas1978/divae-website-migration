@@ -1,0 +1,2784 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-14T04:40:11.059Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.diva-e.com/en/security-quiz/",
+  "at": "2026-11-14T04:39:51.321Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3212,
+  "root": null,
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__logo > a",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li > button.header__lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "de"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul.header__langs.show > li.active > button.header__lang-item",
+    "x": 214,
+    "y": 18,
+    "w": 50,
+    "h": 50,
+    "text": "en"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.header__container > div.header__mobile-wrapper > button.header__btn-burger",
+    "x": 279,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > span.hero__label",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 24,
+    "text": "Security Quiz"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__info-title > h1.hero__title",
+    "x": 24,
+    "y": 170,
+    "w": 312,
+    "h": 119,
+    "level": 1,
+    "text": "application security: how fit are you really?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-container > div.hero__description.richtext > p",
+    "x": 24,
+    "y": 305,
+    "w": 312,
+    "h": 360,
+    "text": "Websites and e-commerce platforms are the digital heart of many companies - and "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.hero__info-wrapper > div.hero__info-container > a.hero__cta.btn",
+    "x": 24,
+    "y": 681,
+    "w": 312,
+    "h": 48,
+    "text": "start the quiz now!",
+    "href": "/en/security-quiz/security-questions/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 805,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 83,
+    "y": 805,
+    "w": 77,
+    "h": 24,
+    "text": "security quiz",
+    "href": "/en/security-quiz/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-headline > div.simple-text__headline > div.no-heading",
+    "x": 24,
+    "y": 933,
+    "w": 312,
+    "h": 86,
+    "text": "How secure is your platform really? Find out - in just 3 minutes."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.simple-text__row-paragraph--large.simple-text__row-paragraph > div > p",
+    "x": 24,
+    "y": 1067,
+    "w": 312,
+    "h": 120,
+    "text": "Test your knowledge in our short security quiz!"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info-img-wrapper > picture > img",
+    "x": 24,
+    "y": 1251,
+    "w": 312,
+    "h": 271,
+    "text": "foto einer mann und frau, die auf einen bildschirm schauen",
+    "file": "933x"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 1559,
+    "w": 285,
+    "h": 48,
+    "text": "Identify the biggest security gaps in your systems."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 1623,
+    "w": 285,
+    "h": 48,
+    "text": "Find out where there is potential for improvement on your platform."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 51,
+    "y": 1687,
+    "w": 285,
+    "h": 72,
+    "text": "Receive specific and individual recommendations for action based on your quiz re"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.mixed-media__info > div.mixed-media__info-link > a.btn-default.btn--sm",
+    "x": 24,
+    "y": 1807,
+    "w": 168,
+    "h": 42,
+    "text": "start the quiz now!",
+    "href": "/en/security-quiz/security-questions/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy__header-wrapper > div.slider-cards-copy__header-container > div.slider-cards-copy__headline.no-heading",
+    "x": 24,
+    "y": 1909,
+    "w": 312,
+    "h": 58,
+    "text": "Exciting articles on the topic"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+    "x": -214,
+    "y": 2016,
+    "w": 219,
+    "h": 185,
+    "text": "go to digital security: it's risky without a soc",
+    "href": "/en/insights/edge/digital-security-without-soc-becomes-risky/"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item__img-wrapper > picture > img",
+    "x": -214,
+    "y": 2016,
+    "w": 219,
+    "h": 123,
+    "text": "a man in a blue shirt uses a tablet in a dimly lit office, w",
+    "file": "500x0"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__title.h5",
+    "x": -214,
+    "y": 2155,
+    "w": 219,
+    "h": 47,
+    "text": "Digital security: it's risky without a SOC"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+    "x": 29,
+    "y": 2016,
+    "w": 219,
+    "h": 185,
+    "text": "go to detect cyber threats in complex it environments",
+    "href": "/en/insights/edge/cyber-threats-in-complex-it-environments/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item__img-wrapper > picture > img",
+    "x": 29,
+    "y": 2016,
+    "w": 219,
+    "h": 123,
+    "text": "a person sits at a desk with multiple monitors displaying co",
+    "file": "500x0"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__title.h5",
+    "x": 29,
+    "y": 2155,
+    "w": 219,
+    "h": 47,
+    "text": "Detect cyber threats in complex IT environments"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+    "x": 272,
+    "y": 2016,
+    "w": 219,
+    "h": 209,
+    "text": "go to why application security and cloud security must not be a blind spot",
+    "href": "/en/insights/edge/cyber-security-gap/"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item__img-wrapper > picture > img",
+    "x": 272,
+    "y": 2016,
+    "w": 219,
+    "h": 123,
+    "text": "two people wearing glasses focus on computer screens in a di",
+    "file": "500x0"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__title.h5",
+    "x": 272,
+    "y": 2155,
+    "w": 219,
+    "h": 70,
+    "text": "Why application security and cloud security must not be a blind spot"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy__navigation-wrapper > div.slider-cards-copy__navigation-container > button.slider-cards-copy__prev",
+    "x": 100,
+    "y": 2265,
+    "w": 80,
+    "h": 80,
+    "text": "go to previous slide"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "div.slider-cards-copy__navigation-wrapper > div.slider-cards-copy__navigation-container > button.slider-cards-copy__next",
+    "x": 180,
+    "y": 2265,
+    "w": 80,
+    "h": 80,
+    "text": "go to next slide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 2429,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 2429,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__container > div.footer__newsletter > a.btn.btn--link",
+    "x": 24,
+    "y": 2481,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 2582,
+    "w": 185,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 2626,
+    "w": 124,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 2670,
+    "w": 188,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 236,
+    "y": 2670,
+    "w": 33,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 293,
+    "y": 2670,
+    "w": 36,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 2714,
+    "w": 61,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 109,
+    "y": 2714,
+    "w": 102,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 2758,
+    "w": 128,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 176,
+    "y": 2758,
+    "w": 84,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 285,
+    "y": 2758,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 2802,
+    "w": 139,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 187,
+    "y": 2802,
+    "w": 32,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 242,
+    "y": 2802,
+    "w": 32,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 24,
+    "y": 2846,
+    "w": 80,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 128,
+    "y": 2846,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn--link",
+    "x": 168,
+    "y": 2846,
+    "w": 22,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "nav.bottom-links.footer__bottom-nav > ul > li.text-xxsmall",
+    "x": 24,
+    "y": 2927,
+    "w": 100,
+    "h": 24,
+    "text": "diva-e © 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 156,
+    "y": 2930,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "ul > li.footer__bottom-navigation-mobile > a.btn.btn--link",
+    "x": 24,
+    "y": 2974,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 24,
+    "y": 3051,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 166,
+    "y": 3051,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__bottom-navigation > div.footer__social-media > a",
+    "x": 308,
+    "y": 3051,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": true,
+    "path": "div.footer__wrapper > div.footer__btn-to-top > button",
+    "x": 150,
+    "y": 3112,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": null,
+    "inChrome": false,
+    "path": "aside#usercentrics-cmp-ui > div#uc-main-dialog > button#uc-privacy-button",
+    "x": 24,
+    "y": 832,
+    "w": 44,
+    "h": 44,
+    "text": "privacy settings"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 3,
+    "offPage": 19,
+    "textNodes": 51,
+    "controls": 48,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-prev > div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+     "text": "go to digital security: it's risky without a soc",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > a.slider-cards-copy-item__overlay-link",
+     "text": "go to why application security and cloud security must not b",
+     "cutMin": 131,
+     "cutMax": 131
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.swiper.swiper-initialized",
+     "path": "div.swiper-slide.swiper-slide-next > div.slider-cards-copy-item > div.slider-cards-copy-item__inner--clickable.slider-cards-copy-item__inner > div.slider-cards-copy-item__title.h5",
+     "text": "why application security and cloud security must not be a bl",
+     "cutMin": 121,
+     "cutMax": 121
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--a608424f--aemcoder.aem.page/en/security-quiz",
+  "at": "2026-11-14T04:40:10.872Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3183,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > p > a.header-logo",
+    "x": 24,
+    "y": 17,
+    "w": 77,
+    "h": 52,
+    "text": "go to homepage",
+    "href": "/en/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li > a.header-lang-item",
+    "x": 164,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "de",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.header-langs.header-langs-mobile > li.active > a.header-lang-item",
+    "x": 216,
+    "y": 18,
+    "w": 52,
+    "h": 50,
+    "text": "en",
+    "href": "/en/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "text": "open main navigation"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.header-bar > div.header-mobile > button.header-btn-burger",
+    "x": 284,
+    "y": 13,
+    "w": 60,
+    "h": 60,
+    "label": "open main navigation",
+    "value": "open main navigation",
+    "via": "trigger"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-label > p",
+    "x": 24,
+    "y": 122,
+    "w": 312,
+    "h": 24,
+    "text": "Security Quiz"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-title > div.hero-headline > h1#application-security-how-fit-are-you-really",
+    "x": 24,
+    "y": 170,
+    "w": 312,
+    "h": 119,
+    "level": 1,
+    "text": "application security: how fit are you really?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-info-container > div.hero-description > p",
+    "x": 24,
+    "y": 305,
+    "w": 312,
+    "h": 360,
+    "text": "Websites and e-commerce platforms are the digital heart of many companies - and "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-actions > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 681,
+    "w": 312,
+    "h": 48,
+    "text": "start the quiz now!",
+    "href": "/en/security-quiz/security-questions"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 24,
+    "y": 805,
+    "w": 33,
+    "h": 24,
+    "text": "home",
+    "href": "/en"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 86,
+    "y": 805,
+    "w": 76,
+    "h": 24,
+    "text": "security quiz",
+    "href": "/en/security-quiz"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 933,
+    "w": 312,
+    "h": 86,
+    "text": "How secure is your platform really? Find out - in just 3 minutes."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.simple-text.light > div.default-content-wrapper > p",
+    "x": 24,
+    "y": 1067,
+    "w": 312,
+    "h": 120,
+    "text": "Test your knowledge in our short security quiz!"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-img > picture > img",
+    "x": 24,
+    "y": 1251,
+    "w": 312,
+    "h": 271,
+    "text": "foto einer mann und frau, die auf einen bildschirm schauen",
+    "file": "media_18992f1ddbcebb5c09ef44e03aca080878"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > ul > li",
+    "x": 51,
+    "y": 1559,
+    "w": 285,
+    "h": 48,
+    "text": "Identify the biggest security gaps in your systems."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > ul > li",
+    "x": 51,
+    "y": 1623,
+    "w": 285,
+    "h": 48,
+    "text": "Find out where there is potential for improvement on your platform."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-txt > ul > li",
+    "x": 51,
+    "y": 1687,
+    "w": 285,
+    "h": 72,
+    "text": "Receive specific and individual recommendations for action based on your quiz re"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.mixed-media-info-link > p.button-wrapper > a.button.primary",
+    "x": 24,
+    "y": 1807,
+    "w": 162,
+    "h": 42,
+    "text": "start the quiz now!",
+    "href": "/en/security-quiz/security-questions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-header > div.slider-cards-headline > h2#exciting-articles-on-the-topic",
+    "x": 24,
+    "y": 1909,
+    "w": 312,
+    "h": 29,
+    "level": 2,
+    "text": "exciting articles on the topic"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-track > div.story-card > a.story-card-link",
+    "x": -214,
+    "y": 1987,
+    "w": 219,
+    "h": 185,
+    "text": "go to digital security: it's risky without a soc",
+    "href": "/en/insights/edge/digital-security-without-soc-becomes-risky"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-media > picture > img",
+    "x": -214,
+    "y": 1987,
+    "w": 219,
+    "h": 123,
+    "text": "a man in a blue shirt uses a tablet in a dimly lit office, w",
+    "file": "media_1447c7c54b2d7b3d5963289f71696aa819"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+    "x": -214,
+    "y": 1987,
+    "w": 219,
+    "h": 123,
+    "text": "link",
+    "href": "/en/insights/edge/digital-security-without-soc-becomes-risky"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card > div.story-card-title.h5 > p.link-only",
+    "x": -214,
+    "y": 2126,
+    "w": 219,
+    "h": 47,
+    "text": "Digital security: it's risky without a SOC"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-track > div.story-card.is-active > a.story-card-link",
+    "x": 29,
+    "y": 1987,
+    "w": 219,
+    "h": 185,
+    "text": "go to detect cyber threats in complex it environments",
+    "href": "/en/insights/edge/cyber-threats-in-complex-it-environments"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-media > picture > img",
+    "x": 29,
+    "y": 1987,
+    "w": 219,
+    "h": 123,
+    "text": "a person sits at a desk with multiple monitors displaying co",
+    "file": "media_121eb7cd4578984d79c689879a7b094c55"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+    "x": 29,
+    "y": 1987,
+    "w": 219,
+    "h": 123,
+    "text": "link",
+    "href": "/en/insights/edge/cyber-threats-in-complex-it-environments"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card.is-active > div.story-card-title.h5 > p.link-only",
+    "x": 29,
+    "y": 2126,
+    "w": 219,
+    "h": 47,
+    "text": "Detect cyber threats in complex IT environments"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-track > div.story-card > a.story-card-link",
+    "x": 272,
+    "y": 1987,
+    "w": 219,
+    "h": 209,
+    "text": "go to why application security and cloud security must not be a blind spot",
+    "href": "/en/insights/edge/cyber-security-gap"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-media > picture > img",
+    "x": 272,
+    "y": 1987,
+    "w": 219,
+    "h": 123,
+    "text": "two people wearing glasses focus on computer screens in a di",
+    "file": "media_1d73d34aee80b21d8fba4cfb2267192f5d"
+   },
+   {
+    "kind": "link",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+    "x": 272,
+    "y": 1987,
+    "w": 219,
+    "h": 123,
+    "text": "link",
+    "href": "/en/insights/edge/cyber-security-gap"
+   },
+   {
+    "kind": "text",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.story-card > div.story-card-title.h5 > p.link-only",
+    "x": 272,
+    "y": 2126,
+    "w": 219,
+    "h": 70,
+    "text": "Why application security and cloud security must not be a blind spot"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-nav > div.slider-cards-nav-inner > button.slider-cards-arrow",
+    "x": 100,
+    "y": 2236,
+    "w": 80,
+    "h": 80,
+    "text": "go to previous slide"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.slider-cards-nav > div.slider-cards-nav-inner > button.slider-cards-arrow.slider-cards-arrow-next",
+    "x": 180,
+    "y": 2236,
+    "w": 80,
+    "h": 80,
+    "text": "go to next slide"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 24,
+    "y": 2400,
+    "w": 33,
+    "h": 16,
+    "text": "jobs",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.text-xxsmall",
+    "x": 89,
+    "y": 2400,
+    "w": 149,
+    "h": 16,
+    "text": "whistleblower system",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-newsletter > p.link-only > a.btn.footer-newsletter-link",
+    "x": 24,
+    "y": 2452,
+    "w": 312,
+    "h": 66,
+    "text": "subscribe to diva-e newsletter!",
+    "href": "/en/newsletter/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 2553,
+    "w": 184,
+    "h": 18,
+    "text": "adobe experience cloud",
+    "href": "/en/about-us/partner/adobe/adobe-experience-cloud/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 2597,
+    "w": 120,
+    "h": 18,
+    "text": "paid advertising",
+    "href": "/en/services/digital-marketing/paid-advertising/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 2641,
+    "w": 183,
+    "h": 18,
+    "text": "application management",
+    "href": "/en/services/ams/application-management-services/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 231,
+    "y": 2641,
+    "w": 35,
+    "h": 18,
+    "text": "cdp",
+    "href": "/en/services/dxp/cdp/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 290,
+    "y": 2641,
+    "w": 37,
+    "h": 18,
+    "text": "cms",
+    "href": "/en/services/dxp/cms/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 2685,
+    "w": 58,
+    "h": 18,
+    "text": "content",
+    "href": "/en/services/digital-marketing/content/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 106,
+    "y": 2685,
+    "w": 101,
+    "h": 18,
+    "text": "data analysis",
+    "href": "/en/services/dxp/data-analytics-bi/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 2729,
+    "w": 126,
+    "h": 18,
+    "text": "online marketing",
+    "href": "/en/services/digital-marketing/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 174,
+    "y": 2729,
+    "w": 87,
+    "h": 18,
+    "text": "oneproseo",
+    "href": "/en/services/digital-marketing/seo/tools/oneproseo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 285,
+    "y": 2729,
+    "w": 29,
+    "h": 18,
+    "text": "pim",
+    "href": "/en/services/dxp/pim/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 2773,
+    "w": 133,
+    "h": 18,
+    "text": "monitor reporting",
+    "href": "/en/services/digital-marketing/seo/monitoring-reporting/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 181,
+    "y": 2773,
+    "w": 33,
+    "h": 18,
+    "text": "sap",
+    "href": "/en/about-us/partner/sap/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 238,
+    "y": 2773,
+    "w": 35,
+    "h": 18,
+    "text": "seo",
+    "href": "/en/services/digital-marketing/seo/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 2817,
+    "w": 79,
+    "h": 18,
+    "text": "salesforce",
+    "href": "/en/about-us/partner/salesforce/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 127,
+    "y": 2817,
+    "w": 16,
+    "h": 18,
+    "text": "ai",
+    "href": "/en/services/ai/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 167,
+    "y": 2817,
+    "w": 23,
+    "h": 18,
+    "text": "ux",
+    "href": "/en/services/dxp/system-integration/ux-ui-design/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 156,
+    "y": 2901,
+    "w": 47,
+    "h": 20,
+    "text": "imprint",
+    "href": "/en/imprint/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.btn.btn-link",
+    "x": 24,
+    "y": 2945,
+    "w": 106,
+    "h": 20,
+    "text": "data protection",
+    "href": "/en/data-privacy/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 24,
+    "y": 3022,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e instagram",
+    "href": "/divae.gmbh/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 166,
+    "y": 3022,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e youtube",
+    "href": "/c/divaenterprise"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer-bottom-navigation > div.footer-social-media > a.footer-social",
+    "x": 308,
+    "y": 3022,
+    "w": 28,
+    "h": 29,
+    "text": "go to diva-e linkedin",
+    "href": "/company/divaedigitalvalueexcellence/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer.block > div.footer-btn-to-top > button",
+    "x": 150,
+    "y": 3083,
+    "w": 60,
+    "h": 60,
+    "text": "scroll to top"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 5,
+    "offPage": 37,
+    "textNodes": 54,
+    "controls": 65,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+     "text": "go to digital security: it's risky without a soc",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+     "text": "link",
+     "cutMin": null,
+     "cutMax": null
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+     "text": "go to why application security and cloud security must not b",
+     "cutMin": 131,
+     "cutMax": 131
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+     "text": "link",
+     "cutMin": 131,
+     "cutMax": 131
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.slider-cards-viewport",
+     "path": "div.slider-cards-track > div.story-card > div.story-card-title.h5 > p.link-only",
+     "text": "why application security and cloud security must not be a bl",
+     "cutMin": 114,
+     "cutMax": 114
+    }
+   ],
+   "findings": [
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+     "text": "go to digital security: it's risky without a soc",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": -214,
+      "t": 1987,
+      "r": 5,
+      "b": 2173,
+      "w": 219,
+      "h": 185
+     },
+     "clip": {
+      "l": 24,
+      "t": 1987,
+      "r": 360,
+      "b": 2196,
+      "w": 336,
+      "h": 209
+     }
+    },
+    {
+     "kind": "CONTROL X-HIDDEN",
+     "advisory": true,
+     "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+     "text": "link",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": -214,
+      "t": 1987,
+      "r": 5,
+      "b": 2110,
+      "w": 219,
+      "h": 123
+     },
+     "clip": {
+      "l": 24,
+      "t": 1987,
+      "r": 360,
+      "b": 2196,
+      "w": 336,
+      "h": 209
+     }
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 131,
+     "path": "div.slider-cards-viewport > div.slider-cards-track > div.story-card > a.story-card-link",
+     "text": "go to why application security and cloud security must not b",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": 272,
+      "t": 1987,
+      "r": 491,
+      "b": 2196,
+      "w": 219,
+      "h": 209
+     },
+     "clip": {
+      "l": 24,
+      "t": 1987,
+      "r": 360,
+      "b": 2196,
+      "w": 336,
+      "h": 209
+     }
+    },
+    {
+     "kind": "CONTROL X-CUT",
+     "advisory": true,
+     "cut": 131,
+     "path": "div.story-card > div.story-card-img > div.story-card-hover > a.story-card-hover-link",
+     "text": "link",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": 272,
+      "t": 1987,
+      "r": 491,
+      "b": 2110,
+      "w": 219,
+      "h": 123
+     },
+     "clip": {
+      "l": 24,
+      "t": 1987,
+      "r": 360,
+      "b": 2196,
+      "w": 336,
+      "h": 209
+     }
+    },
+    {
+     "kind": "TEXT X-CUT",
+     "advisory": true,
+     "cut": 114,
+     "path": "div.slider-cards-track > div.story-card > div.story-card-title.h5 > p.link-only",
+     "text": "why application security and cloud security must not be a bl",
+     "clipper": "div.slider-cards-viewport",
+     "rect": {
+      "l": 272,
+      "t": 2127,
+      "r": 474,
+      "b": 2147,
+      "w": 202,
+      "h": 20
+     },
+     "clip": {
+      "l": 24,
+      "t": 1987,
+      "r": 360,
+      "b": 2196,
+      "w": 336,
+      "h": 209
+     },
+     "lines": 3
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "application security: how fit are you really?",
+   "variable": false,
+   "origin": {
+    "link": 5,
+    "button": 3,
+    "text": 8,
+    "image": 2
+   },
+   "eds": {
+    "link": 6,
+    "linkHidden": 4,
+    "button": 2,
+    "buttonHidden": 0,
+    "text": 7,
+    "textHidden": 2,
+    "image": 2,
+    "imageHidden": 2
+   },
+   "findings": [
+    "EXTRA LINK",
+    "MISSING BUTTON"
+   ]
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "MISSING BUTTON",
+   "msg": "\"privacy settings\" in band \"application security: how fit are you really?\" (origin y 832) not on the served page",
+   "band": 1,
+   "n": 1,
+   "text": "privacy settings"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA HEADING",
+   "msg": "served h2 \"exciting articles on the topic\" (y 1909) has no origin heading",
+   "text": "exciting articles on the topic"
+  },
+  {
+   "sev": "🟡",
+   "kind": "EXTRA LINK",
+   "msg": "\"link\" served in band \"application security: how fit are you really?\", no origin link or button",
+   "band": 1,
+   "n": 1,
+   "text": "link"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 1,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 1,
+  "missingButtons": 1,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 3,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 176,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 226,
+    "y": 31,
+    "w": 26,
+    "h": 23
+   },
+   {
+    "x": 24,
+    "y": 125,
+    "w": 106,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 169,
+    "w": 196,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 209,
+    "w": 287,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 248,
+    "w": 243,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 308,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 332,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 356,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 380,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 404,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 428,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 452,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 476,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 500,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 524,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 232,
+    "y": 524,
+    "w": 92,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 548,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 572,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 596,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 620,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 644,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 108,
+    "y": 696,
+    "w": 145,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 809,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 83,
+    "y": 809,
+    "w": 77,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 933,
+    "w": 312,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 962,
+    "w": 282,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 990,
+    "w": 95,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1070,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1094,
+    "w": 109,
+    "h": 18
+   },
+   {
+    "x": 133,
+    "y": 1094,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1118,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1142,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1166,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1562,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1586,
+    "w": 108,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1626,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1650,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1690,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1714,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1738,
+    "w": 157,
+    "h": 18
+   },
+   {
+    "x": 44,
+    "y": 1819,
+    "w": 128,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 1909,
+    "w": 256,
+    "h": 28
+   },
+   {
+    "x": 24,
+    "y": 1937,
+    "w": 57,
+    "h": 28
+   },
+   {
+    "x": 29,
+    "y": 2156,
+    "w": 195,
+    "h": 21
+   },
+   {
+    "x": 29,
+    "y": 2179,
+    "w": 209,
+    "h": 21
+   },
+   {
+    "x": 272,
+    "y": 2156,
+    "w": 209,
+    "h": 21
+   },
+   {
+    "x": 272,
+    "y": 2179,
+    "w": 201,
+    "h": 21
+   },
+   {
+    "x": 272,
+    "y": 2203,
+    "w": 159,
+    "h": 21
+   },
+   {
+    "x": 24,
+    "y": 2429,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 2429,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 2480,
+    "w": 271,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 2513,
+    "w": 161,
+    "h": 35
+   },
+   {
+    "x": 24,
+    "y": 2582,
+    "w": 185,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2626,
+    "w": 124,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2670,
+    "w": 188,
+    "h": 18
+   },
+   {
+    "x": 236,
+    "y": 2670,
+    "w": 33,
+    "h": 18
+   },
+   {
+    "x": 293,
+    "y": 2670,
+    "w": 36,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2714,
+    "w": 61,
+    "h": 18
+   },
+   {
+    "x": 109,
+    "y": 2714,
+    "w": 102,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2758,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 176,
+    "y": 2758,
+    "w": 84,
+    "h": 18
+   },
+   {
+    "x": 285,
+    "y": 2758,
+    "w": 29,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2802,
+    "w": 139,
+    "h": 18
+   },
+   {
+    "x": 187,
+    "y": 2802,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 242,
+    "y": 2802,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2846,
+    "w": 80,
+    "h": 18
+   },
+   {
+    "x": 128,
+    "y": 2846,
+    "w": 16,
+    "h": 18
+   },
+   {
+    "x": 168,
+    "y": 2846,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 2928,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 2931,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 2975,
+    "w": 106,
+    "h": 16
+   }
+  ],
+  "eds": [
+   {
+    "x": 176,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 228,
+    "y": 32,
+    "w": 28,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 125,
+    "w": 106,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 169,
+    "w": 184,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 209,
+    "w": 266,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 248,
+    "w": 247,
+    "h": 41
+   },
+   {
+    "x": 24,
+    "y": 308,
+    "w": 289,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 332,
+    "w": 223,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 356,
+    "w": 293,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 380,
+    "w": 286,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 404,
+    "w": 229,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 428,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 452,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 476,
+    "w": 308,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 500,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 524,
+    "w": 208,
+    "h": 18
+   },
+   {
+    "x": 232,
+    "y": 524,
+    "w": 92,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 548,
+    "w": 307,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 572,
+    "w": 302,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 596,
+    "w": 235,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 620,
+    "w": 236,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 644,
+    "w": 74,
+    "h": 18
+   },
+   {
+    "x": 111,
+    "y": 696,
+    "w": 139,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 809,
+    "w": 33,
+    "h": 14
+   },
+   {
+    "x": 86,
+    "y": 809,
+    "w": 76,
+    "h": 14
+   },
+   {
+    "x": 24,
+    "y": 933,
+    "w": 306,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 962,
+    "w": 277,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 990,
+    "w": 93,
+    "h": 27
+   },
+   {
+    "x": 24,
+    "y": 1070,
+    "w": 255,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1094,
+    "w": 109,
+    "h": 18
+   },
+   {
+    "x": 133,
+    "y": 1094,
+    "w": 182,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1118,
+    "w": 281,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1142,
+    "w": 283,
+    "h": 18
+   },
+   {
+    "x": 24,
+    "y": 1166,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1562,
+    "w": 280,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1586,
+    "w": 108,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1626,
+    "w": 279,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1650,
+    "w": 238,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1690,
+    "w": 239,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1714,
+    "w": 270,
+    "h": 18
+   },
+   {
+    "x": 51,
+    "y": 1738,
+    "w": 157,
+    "h": 18
+   },
+   {
+    "x": 44,
+    "y": 1820,
+    "w": 122,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 1909,
+    "w": 307,
+    "h": 27
+   },
+   {
+    "x": 29,
+    "y": 2127,
+    "w": 187,
+    "h": 20
+   },
+   {
+    "x": 29,
+    "y": 2150,
+    "w": 208,
+    "h": 20
+   },
+   {
+    "x": 272,
+    "y": 2127,
+    "w": 202,
+    "h": 20
+   },
+   {
+    "x": 272,
+    "y": 2150,
+    "w": 196,
+    "h": 20
+   },
+   {
+    "x": 272,
+    "y": 2174,
+    "w": 153,
+    "h": 20
+   },
+   {
+    "x": 24,
+    "y": 2400,
+    "w": 33,
+    "h": 16
+   },
+   {
+    "x": 89,
+    "y": 2400,
+    "w": 149,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 2452,
+    "w": 263,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 2485,
+    "w": 149,
+    "h": 33
+   },
+   {
+    "x": 24,
+    "y": 2553,
+    "w": 184,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2597,
+    "w": 120,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2641,
+    "w": 183,
+    "h": 17
+   },
+   {
+    "x": 231,
+    "y": 2641,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 290,
+    "y": 2641,
+    "w": 37,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2685,
+    "w": 58,
+    "h": 17
+   },
+   {
+    "x": 106,
+    "y": 2685,
+    "w": 101,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2729,
+    "w": 126,
+    "h": 17
+   },
+   {
+    "x": 174,
+    "y": 2729,
+    "w": 87,
+    "h": 17
+   },
+   {
+    "x": 285,
+    "y": 2729,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2773,
+    "w": 133,
+    "h": 17
+   },
+   {
+    "x": 181,
+    "y": 2773,
+    "w": 33,
+    "h": 17
+   },
+   {
+    "x": 238,
+    "y": 2773,
+    "w": 35,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2817,
+    "w": 79,
+    "h": 17
+   },
+   {
+    "x": 127,
+    "y": 2817,
+    "w": 16,
+    "h": 17
+   },
+   {
+    "x": 167,
+    "y": 2817,
+    "w": 23,
+    "h": 17
+   },
+   {
+    "x": 24,
+    "y": 2899,
+    "w": 100,
+    "h": 16
+   },
+   {
+    "x": 156,
+    "y": 2902,
+    "w": 47,
+    "h": 16
+   },
+   {
+    "x": 24,
+    "y": 2946,
+    "w": 106,
+    "h": 16
+   }
+  ]
+ }
+}

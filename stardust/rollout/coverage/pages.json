@@ -1,0 +1,4869 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-13T12:36:11.746Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-14T07:17:16.351Z",
+  "pages": [
+    {
+      "slug": "en",
+      "path": "/en",
+      "title": "Your digital experience partner | diva-e Conclusion",
+      "templateId": "en",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/index.html",
+        "metaJson": "stardust/migrated/en/_meta.json",
+        "sourceHash": "sha256:2b7c012f3aa0a6a11a078bd14a38f9a587f86259e77f458841dece3e6bf143bf",
+        "sourceUrl": "https://www.diva-e.com/en/"
+      },
+      "blocks": [
+        "hero",
+        "cards",
+        "teaser-slider",
+        "slider-cards",
+        "partners-bar",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en",
+        "deployedAt": "2026-11-13T14:25:15.441Z",
+        "verifiedAt": "2026-11-14T07:17:12.977Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.73,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 2,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": [
+              ".partners-bar__partner-container=.partners-bar-rows"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 2",
+            "units off 44 hidden 9 missing 2"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us",
+      "path": "/en/about-us",
+      "title": "About us: Your partner for digital transformation | diva-e Conclusion",
+      "templateId": "en-imprint",
+      "representative": "en-imprint",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:642517951473e5deea151d9e539fd460b8f80b01fda3eb7a9d197a7a77284853",
+        "currentStatePath": "stardust/current/pages/en-about-us.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/"
+      },
+      "blocks": [
+        "breadcrumbs"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us",
+        "deployedAt": "2026-11-13T19:52:20.607Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.57,
+          "heightDelta": -2,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 2,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 7,
+            "variable": [
+              ".partners-bar__partner-container=.partners-bar-rows"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 2"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-ai-manifest",
+      "path": "/en/about-us/ai-manifest",
+      "title": "AI Manifest – Empowering the Evolution of Experience | diva-e Conclusion",
+      "templateId": "en-imprint",
+      "representative": "en-imprint",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b5e6abba95c4a6d2f4eed54470bb405cdc56bf087fd347a81888c888df8ddf66",
+        "currentStatePath": "stardust/current/pages/en-about-us-ai-manifest.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/ai-manifest/"
+      },
+      "blocks": [
+        "breadcrumbs"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/ai-manifest",
+        "deployedAt": "2026-11-13T19:52:20.908Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.56,
+          "heightDelta": -53,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers",
+      "path": "/en/about-us/customers",
+      "title": "Our customers - success stories | diva-e Conclusion",
+      "templateId": "en-insights-edge",
+      "representative": "en-insights-edge",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:256c25e2f269ad13b3fe08a2d914527b6f5b4bc20898a9492c4ca6ff93fcea29",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/"
+      },
+      "blocks": [
+        "mixed-media",
+        "article-list"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers",
+        "deployedAt": "2026-11-13T17:54:43.063Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.47,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 5,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-baby-walz",
+      "path": "/en/about-us/customers/baby-walz",
+      "title": "Successful omnichannel transformation for Walz | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a6060dfede06fab4add273540eb9e010cae9f6da9d62c2b3ae3bf4feb01eeef5",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-baby-walz.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/baby-walz/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/baby-walz",
+        "deployedAt": "2026-11-13T17:55:16.671Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.37,
+          "heightDelta": -12,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 2,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 2"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-best4tires",
+      "path": "/en/about-us/customers/best4tires",
+      "title": "Successful omnichannel transformation for Walz | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:9b46f613bef81825adbc26fed5ba31f1a8f16932b831e2863d9f1c1641a2a5d9",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-best4tires.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/best4tires/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/best4tires",
+        "deployedAt": "2026-11-13T17:55:16.978Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.84,
+          "heightDelta": 11,
+          "clipped": 0,
+          "content": {
+            "missing": 1,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [
+            "content MISSING 1 / HIDDEN 0"
+          ],
+          "override": "heading-split",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-doerrenberg",
+      "path": "/en/about-us/customers/doerrenberg",
+      "title": "Doerrenberg: Digital Solutions for Industry | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ed1e5535690d1df0163bc0fea1e6577fdf857cf73b1b3f3f9bfd2731ddf66e0e",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-doerrenberg.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/doerrenberg/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/doerrenberg",
+        "deployedAt": "2026-11-13T17:55:15.849Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.53,
+          "heightDelta": 12,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-fressnapf",
+      "path": "/en/about-us/customers/fressnapf",
+      "title": "Fressnapf: Optimized approach through CDP | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:02d4ebe9254d1508272be9d93c31f59dc64a832e2bdd5a5f3e781c0567b085de",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-fressnapf.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/fressnapf/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/fressnapf",
+        "deployedAt": "2026-11-13T17:55:18.474Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.43,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-hd-plus",
+      "path": "/en/about-us/customers/hd-plus",
+      "title": "HD+: A new foundation for a modern e-commerce platform | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e10bdbf312d6e73092e6940e71fb6a4cb543ed1f15e7b3a07cd3a6c0da188dce",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-hd-plus.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/hd-plus/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/hd-plus",
+        "deployedAt": "2026-11-13T17:55:17.220Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.46,
+          "heightDelta": -45,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-interamt",
+      "path": "/en/about-us/customers/interamt",
+      "title": "INTERAMT Case Study – Digital Career Portal for the Public Sector | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:066a7235376eaef8266f30d7ee8a9ae3152525b6fea30947485a4f7314826987",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-interamt.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/interamt/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/interamt",
+        "deployedAt": "2026-11-13T17:55:17.677Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.73,
+          "heightDelta": 19,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-mann-hummel",
+      "path": "/en/about-us/customers/mann-hummel",
+      "title": "MANN+HUMMEL: Digital success story | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/about-us/customers/mann-hummel/index.html",
+        "metaJson": "stardust/migrated/en/about-us/customers/mann-hummel/_meta.json",
+        "sourceHash": "sha256:682e703c319695e8b4ffe41fe1f3e72ba4a359784249adb22da0f6e557488e01",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/mann-hummel/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/mann-hummel",
+        "deployedAt": "2026-11-13T13:31:17.287Z",
+        "verifiedAt": "2026-11-14T07:17:13.074Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.47,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-medi",
+      "path": "/en/about-us/customers/medi",
+      "title": "medi: E-commerce in the cloud | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0a26158f725b47e1501fcbb531fe9f29e399c24336ca1a6315adc78b1feb14a3",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-medi.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/medi/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/medi",
+        "deployedAt": "2026-11-13T17:55:16.347Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.45,
+          "heightDelta": 36,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 2,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 2"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-multivac",
+      "path": "/en/about-us/customers/multivac",
+      "title": "IoT platform for MULTIVAC | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:39eee89e77afb10f3a2b22a257cd1a62103afa5834bce0bedd50d5567b1cd393",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-multivac.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/multivac/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/multivac",
+        "deployedAt": "2026-11-13T17:55:20.592Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.4,
+          "heightDelta": 24,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 2,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 2"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-postbank",
+      "path": "/en/about-us/customers/postbank",
+      "title": "Postbank Themenwelten: Diva-e’s Digital Finance Magazine | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:9169cafeeccf1067f55869606f78d64b5ca3eb405564bedf256910e3af4bef71",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-postbank.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/postbank/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/postbank",
+        "deployedAt": "2026-11-13T17:55:20.320Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.47,
+          "heightDelta": 1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-ravensburger",
+      "path": "/en/about-us/customers/ravensburger",
+      "title": "Optimization of digital marketing performance | diva-e | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:d2b11bb807ff129d3584306e4dfac9e07bb7f10c1d693e451385503fd906a68f",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-ravensburger.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/ravensburger/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/ravensburger",
+        "deployedAt": "2026-11-13T17:55:20.013Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.35,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-seat",
+      "path": "/en/about-us/customers/seat",
+      "title": "SEAT: Optimized content creation | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e3f839f89be04f56170221a9c37f7d0b09922291871fbe42982a0ed008b4aa8c",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-seat.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/seat/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/seat",
+        "deployedAt": "2026-11-13T17:55:19.777Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.61,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-siemens",
+      "path": "/en/about-us/customers/siemens",
+      "title": "Agile AEM projects increase efficiency at Siemens | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:8a880a2bf681fb37ce75ee7c7f95173dfd5d4f5ed019e7e7f2166d0e348cc8e8",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-siemens.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/siemens/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/siemens",
+        "deployedAt": "2026-11-13T17:55:19.575Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.64,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-sma",
+      "path": "/en/about-us/customers/sma",
+      "title": "SMA: Customer platform with Spryker & Angular | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:2b5a0e095a41476b9427ecf93adc6a92af7785bd0db78bfded1d9cdefd810989",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-sma.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/sma/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/sma",
+        "deployedAt": "2026-11-13T17:55:17.952Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.69,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-spinner",
+      "path": "/en/about-us/customers/spinner",
+      "title": "Innovative B2B e-commerce platform for SPINNER | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a8bab2e1fc1a8e09ed947311944389092a2106e5f6d43bb7456825909cd05320",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-spinner.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/spinner/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/spinner",
+        "deployedAt": "2026-11-13T17:55:19.284Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.14,
+          "heightDelta": 29,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-telefonica",
+      "path": "/en/about-us/customers/telefonica",
+      "title": "Optimization of customer data at Telefónica | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:83b519ad2d32aa506f093551e0173b9068d6143f7b35af69ab552478bb7439f7",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-telefonica.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/telefonica/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/telefonica",
+        "deployedAt": "2026-11-13T17:55:20.447Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.59,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-terra-canis",
+      "path": "/en/about-us/customers/terra-canis",
+      "title": "Relaunch: Terra Canis online store with Magento | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:22242705f06af8f5812f2c6f63c5881410f889089eb2675ac99191877d474f50",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-terra-canis.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/terra-canis/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/terra-canis",
+        "deployedAt": "2026-11-13T17:55:19.046Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.2,
+          "heightDelta": 28,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-unitymedia",
+      "path": "/en/about-us/customers/unitymedia",
+      "title": "Website optimization and consulting for Unitymedia | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b44ed8776ef7660ef1fb8dd0e0635e272719e4f7c521c9b562b4c20f95a62430",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-unitymedia.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/unitymedia/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/unitymedia",
+        "deployedAt": "2026-11-13T17:55:18.756Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.21,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-vwfs",
+      "path": "/en/about-us/customers/vwfs",
+      "title": "Volkswagen Financial Services: Secure AEM Legacy Decommissioning | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:29bbc87aab4eb873fe4a169f779f1fec682d79bec2f47f7eb882d6ff25f7845f",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-vwfs.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/vwfs/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/vwfs",
+        "deployedAt": "2026-11-13T17:55:18.611Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.06,
+          "heightDelta": 28,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-customers-wilo",
+      "path": "/en/about-us/customers/wilo",
+      "title": "Developing an innovative B2B store solution for Wilo | diva-e Conclusion",
+      "templateId": "en-about-us-customers-mann-hummel",
+      "representative": "en-about-us-customers-mann-hummel",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b11f4ad19e99c07e3e2220dd040037a6f6ae70ca26d9c634fa6fdc51677ff87b",
+        "currentStatePath": "stardust/current/pages/en-about-us-customers-wilo.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/customers/wilo/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "mixed-media",
+        "single-quote",
+        "tags-carousel"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/customers/wilo",
+        "deployedAt": "2026-11-13T17:55:18.311Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.89,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".tags-carousel__container=.tags-carousel-container"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-locations",
+      "path": "/en/about-us/locations",
+      "title": "Our locations in Europe & USA | diva-e Conclusion",
+      "templateId": "en-insights-edge",
+      "representative": "en-insights-edge",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a2e8c54051875b0f85236c8c7fa0882ef73f1a6fd559711142045db0303736a9",
+        "currentStatePath": "stardust/current/pages/en-about-us-locations.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/locations/"
+      },
+      "blocks": [
+        "mixed-media",
+        "article-list"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/locations",
+        "deployedAt": "2026-11-13T17:54:43.867Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.49,
+          "heightDelta": -2,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-management",
+      "path": "/en/about-us/management",
+      "title": "Management & Leadership | diva-e Conclusion",
+      "templateId": "en-imprint",
+      "representative": "en-imprint",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:9061c0a1996330e06c1726ce3787382a0877ea0cdf082b9d43cd9016b63cd825",
+        "currentStatePath": "stardust/current/pages/en-about-us-management.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/management/"
+      },
+      "blocks": [
+        "breadcrumbs"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/management",
+        "deployedAt": "2026-11-13T19:52:21.066Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.48,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-partner",
+      "path": "/en/about-us/partner",
+      "title": "Our technology partners - successful together | diva-e Conclusion",
+      "templateId": "en-insights-edge",
+      "representative": "en-insights-edge",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0f1c48563c3e1d1754dc703d9e76fafdb4dcea939a775bc1ebbf61fc8bda14c0",
+        "currentStatePath": "stardust/current/pages/en-about-us-partner.json",
+        "sourceUrl": "https://www.diva-e.com/en/about-us/partner/"
+      },
+      "blocks": [
+        "mixed-media",
+        "article-list"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/about-us/partner",
+        "deployedAt": "2026-11-13T17:54:43.343Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.95,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 2,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".partners-bar__partner-container=.partners-bar-rows"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 2"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-campaigns-next-gen-crm-pharma",
+      "path": "/en/campaigns/next-gen-crm-pharma",
+      "title": "Next-Gen CRM for Pharma – Compliant & Scalable | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ffa796793607aa9213f89f181623dc54aef9432dad3d28e53f32fa2796fbfcf8",
+        "currentStatePath": "stardust/current/pages/en-campaigns-next-gen-crm-pharma.json",
+        "sourceUrl": "https://www.diva-e.com/en/campaigns/next-gen-crm-pharma/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/campaigns/next-gen-crm-pharma",
+        "deployedAt": "2026-11-13T15:09:29.119Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 11.54,
+          "heightDelta": 88,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 11.54% > 10%"
+          ],
+          "override": "font-substitution",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-campaigns-pim-voucher",
+      "path": "/en/campaigns/pim-voucher",
+      "title": "Free PIM check - secure an analysis voucher | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:d8f25dd7b4cd2b6e84e4d07e7a4302acd8f3a5d18adaffe579cebe0655735061",
+        "currentStatePath": "stardust/current/pages/en-campaigns-pim-voucher.json",
+        "sourceUrl": "https://www.diva-e.com/en/campaigns/pim-voucher/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/campaigns/pim-voucher",
+        "deployedAt": "2026-11-13T15:09:33.960Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.03,
+          "heightDelta": 24,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-connect",
+      "path": "/en/connect",
+      "title": "Conclusion Connect: Turning AI Vision into Business Value | diva-e Conclusion",
+      "templateId": "en-connect",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/connect/index.html",
+        "metaJson": "stardust/migrated/en/connect/_meta.json",
+        "sourceHash": "sha256:246680424cdabe6fcc3da41bd0c1e1fd5a644465b967d23520f1d74234e73ded",
+        "sourceUrl": "https://www.diva-e.com/en/connect/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "cards",
+        "mixed-media",
+        "partners-bar",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/connect",
+        "deployedAt": "2026-11-13T14:06:25.667Z",
+        "verifiedAt": "2026-11-14T07:17:13.169Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.71,
+          "heightDelta": -3,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": [
+              ".partners-bar__partner-container=.partners-bar-rows"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-contact",
+      "path": "/en/contact",
+      "title": "Get in touch with us | diva-e Conclusion",
+      "templateId": "en-contact",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/contact/index.html",
+        "metaJson": "stardust/migrated/en/contact/_meta.json",
+        "sourceHash": "sha256:e965a9bf2bd2be2b777eda6cce03010f365d7353de35eab0da75ff353db2439b",
+        "sourceUrl": "https://www.diva-e.com/en/contact/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/contact",
+        "deployedAt": "2026-11-13T14:00:04.168Z",
+        "verifiedAt": "2026-11-14T07:17:13.265Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.22,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-data-privacy",
+      "path": "/en/data-privacy",
+      "title": "Privacy policy: Security & transparency | diva-e Conclusion",
+      "templateId": "en-imprint",
+      "representative": "en-imprint",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:22bbc451544b83e7060b1daa0424e52dfa432aee3bc49693a621edcf93c26e30",
+        "currentStatePath": "stardust/current/pages/en-data-privacy.json",
+        "sourceUrl": "https://www.diva-e.com/en/data-privacy/"
+      },
+      "blocks": [
+        "breadcrumbs"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/data-privacy",
+        "deployedAt": "2026-11-13T19:52:20.761Z",
+        "verifiedAt": "2026-11-14T07:17:13.758Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.41,
+          "heightDelta": -1613,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-imprint",
+      "path": "/en/imprint",
+      "title": "Imprint | diva-e Conclusion",
+      "templateId": "en-imprint",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/imprint/index.html",
+        "metaJson": "stardust/migrated/en/imprint/_meta.json",
+        "sourceHash": "sha256:535e808b06cd823eb44a15e7eb3d01474c343fb54c33ff740c6fb45619d275f7",
+        "sourceUrl": "https://www.diva-e.com/en/imprint/"
+      },
+      "blocks": [
+        "breadcrumbs"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/imprint",
+        "deployedAt": "2026-11-13T13:35:00.427Z",
+        "verifiedAt": "2026-11-14T07:17:13.354Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.82,
+          "heightDelta": 96,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-industries-automotive",
+      "path": "/en/industries/automotive",
+      "title": "Automotive - digital challenges | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:6c9c5be18eab1b976d095f5eda5bd6216b772870b408d9757f21597f9133ce13",
+        "currentStatePath": "stardust/current/pages/en-industries-automotive.json",
+        "sourceUrl": "https://www.diva-e.com/en/industries/automotive/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/industries/automotive",
+        "deployedAt": "2026-11-13T15:09:32.974Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.7,
+          "heightDelta": 23,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-industries-b2b-manufacturing",
+      "path": "/en/industries/b2b-manufacturing",
+      "title": "B2B - Manufacturing & E-Commerce in Transition | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:7e7ceb5eb30ef88378e62c85c4da6728ec7eff32c6594bee5e340b673d99445d",
+        "currentStatePath": "stardust/current/pages/en-industries-b2b-manufacturing.json",
+        "sourceUrl": "https://www.diva-e.com/en/industries/b2b-manufacturing/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/industries/b2b-manufacturing",
+        "deployedAt": "2026-11-13T15:09:31.707Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.96,
+          "heightDelta": 48,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-industries-financial-services",
+      "path": "/en/industries/financial-services",
+      "title": "Digital Transformation for Banks & Insurers | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0111c0fe6d62c08e9447ce34fa5784c2eba3b349d91c6401886f525674d58ec4",
+        "currentStatePath": "stardust/current/pages/en-industries-financial-services.json",
+        "sourceUrl": "https://www.diva-e.com/en/industries/financial-services/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/industries/financial-services",
+        "deployedAt": "2026-11-13T15:09:37.734Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.32,
+          "heightDelta": 31,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-industries-pharma",
+      "path": "/en/industries/pharma",
+      "title": "Digital Pharma Solutions for Market, Patients & Processes | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a5949f15a6fc71e28f335e5dbdae57bb7580c2e002bc7252d1bee98a4e5da710",
+        "currentStatePath": "stardust/current/pages/en-industries-pharma.json",
+        "sourceUrl": "https://www.diva-e.com/en/industries/pharma/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/industries/pharma",
+        "deployedAt": "2026-11-13T15:09:36.084Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.89,
+          "heightDelta": 15,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-industries-pharma-and-healthcare",
+      "path": "/en/industries/pharma-and-healthcare",
+      "title": "Pharmaceutical Industry & Healthcare - Digitalization and Change | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:cfcdfc468e0cf971b8d76c92e62bd025a1135d35aeea0272706912f371c6d211",
+        "currentStatePath": "stardust/current/pages/en-industries-pharma-and-healthcare.json",
+        "sourceUrl": "https://www.diva-e.com/en/industries/pharma-and-healthcare/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/industries/pharma-and-healthcare",
+        "deployedAt": "2026-11-13T15:09:36.503Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.93,
+          "heightDelta": -98,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-industries-retail",
+      "path": "/en/industries/retail",
+      "title": "Retail transformation through digital strategies | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a9692447c5f362dc11964f5c8fc2de4f54a44001bcad9942673c8bc0fc370114",
+        "currentStatePath": "stardust/current/pages/en-industries-retail.json",
+        "sourceUrl": "https://www.diva-e.com/en/industries/retail/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/industries/retail",
+        "deployedAt": "2026-11-13T15:09:34.613Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.5,
+          "heightDelta": 5,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-downloads",
+      "path": "/en/insights/downloads",
+      "title": "Downloads: Whitepapers, guides & studies | diva-e Conclusion",
+      "templateId": "en-insights-edge",
+      "representative": "en-insights-edge",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ccd67371d61d62b5a61f13449af90ae91e7e6bc70fdd6b8d1c18cecd1afbddfe",
+        "currentStatePath": "stardust/current/pages/en-insights-downloads.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/downloads/"
+      },
+      "blocks": [
+        "mixed-media",
+        "article-list"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/downloads",
+        "deployedAt": "2026-11-13T17:54:44.144Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.83,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 3,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge",
+      "path": "/en/insights/edge",
+      "title": "edge - Our blog with updates, trends &amp; news | diva-e Conclusion",
+      "templateId": "en-insights-edge",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/insights/edge/index.html",
+        "metaJson": "stardust/migrated/en/insights/edge/_meta.json",
+        "sourceHash": "sha256:df9a6c572b0ba6d29a906b672884f381f1a130b7f42c235e2b11208f61cf8db1",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/"
+      },
+      "blocks": [
+        "mixed-media",
+        "article-list"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge",
+        "deployedAt": "2026-11-13T13:48:40.381Z",
+        "verifiedAt": "2026-11-14T07:17:13.453Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.69,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 5,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum",
+      "path": "/en/insights/edge/5-anzeichen-digitale-plattform-bremst-wachstum",
+      "title": "5 Signs Your Digital Platform Is Limiting Growth | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:eed2ae2a7304265c1603996f689e7b12daed4f6a77b4c365ebae12b9e8c7a96c",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-5-anzeichen-digitale-plattform-bremst-wachstum.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/5-anzeichen-digitale-plattform-bremst-wachstum/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/5-anzeichen-digitale-plattform-bremst-wachstum",
+        "deployedAt": "2026-11-13T18:34:31.698Z",
+        "verifiedAt": "2026-11-14T07:17:13.854Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.58,
+          "heightDelta": -34,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-5-fragen-plattformentscheidung",
+      "path": "/en/insights/edge/5-fragen-plattformentscheidung",
+      "title": "5 Questions Every CIO Should Ask Before Choosing a Platform | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:6c96acf4e523ac8d9febb37686367130227a1ddcd11ff512c8cc4fbd0c9518c7",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-5-fragen-plattformentscheidung.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/5-fragen-plattformentscheidung/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/5-fragen-plattformentscheidung",
+        "deployedAt": "2026-11-13T18:34:30.534Z",
+        "verifiedAt": "2026-11-14T07:17:13.952Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.68,
+          "heightDelta": -45,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+      "path": "/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+      "title": "Accessibility Audit – Systematically Assess and Improve Digital Accessibility | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:3b3ef5b4d1564e9509094ffcaadfe8b1f10b490a05788d99251d274a6a19fa43",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/accessibility-audit-wie-barrierefrei-ist-ihre-website-wirklich",
+        "deployedAt": "2026-11-13T18:34:30.828Z",
+        "verifiedAt": "2026-11-14T07:17:14.047Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.5,
+          "heightDelta": -14,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-agentic-ai-unternehmen-ki-agenten",
+      "path": "/en/insights/edge/agentic-ai-unternehmen-ki-agenten",
+      "title": "Agentic AI for businesses: Strategically deploying AI agents | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:083486708d31a93876115ca299eb10349799f855e50325fbf3ab7aa2e87ac729",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-agentic-ai-unternehmen-ki-agenten.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/agentic-ai-unternehmen-ki-agenten/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/agentic-ai-unternehmen-ki-agenten",
+        "deployedAt": "2026-11-13T18:34:28.686Z",
+        "verifiedAt": "2026-11-14T07:17:14.166Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.25,
+          "heightDelta": -2288,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.25% > 10%",
+            "Δh -2288px > 5% of 16336"
+          ],
+          "override": "source-overflow",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-agentic-commerce",
+      "path": "/en/insights/edge/agentic-commerce",
+      "title": "Agentic Commerce: The Future of Autonomous Online Shopping | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:80c54d6cfe63a68eb6e8a6fe2105fe6f6823f419c63682e5c3361353e40dda39",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-agentic-commerce.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/agentic-commerce/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/agentic-commerce",
+        "deployedAt": "2026-11-13T18:34:33.287Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.56,
+          "heightDelta": 30,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-ai-foundation",
+      "path": "/en/insights/edge/ai-foundation",
+      "title": "Build an AI Foundation for Scalable AI | diva-e Conclusion | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f537aabed71117c86afcc4b63a0636f7c04d1986a6c3ce76f8052f5b798a13f9",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-ai-foundation.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/ai-foundation/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ai-foundation",
+        "deployedAt": "2026-11-13T18:34:29.391Z",
+        "verifiedAt": "2026-11-14T07:17:14.252Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.23,
+          "heightDelta": 17,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-ai-product-advisor-smart-search",
+      "path": "/en/insights/edge/ai-product-advisor-smart-search",
+      "title": "Smart Product Search for Complex Catalogs | Product Advisor | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:77a4cf964a51dee1b026443734e3b29189324b284d9a6b619d700f2e368b250c",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-ai-product-advisor-smart-search.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/ai-product-advisor-smart-search/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ai-product-advisor-smart-search",
+        "deployedAt": "2026-11-13T18:34:30.938Z",
+        "verifiedAt": "2026-11-14T07:17:14.323Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.75,
+          "heightDelta": -28,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-human-in-the-loop",
+      "path": "/en/insights/edge/ai-radar-human-in-the-loop",
+      "title": "Human in the Loop: When Human Oversight Becomes a Checkbox | AI Radar | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:3d24a317e97ad1fcf9bea2c1b1bc3623d34435e548b59c5668bc1b37e3e430fa",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-ai-radar-human-in-the-loop.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/ai-radar-human-in-the-loop/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ai-radar-human-in-the-loop",
+        "deployedAt": "2026-11-13T18:34:31.462Z",
+        "verifiedAt": "2026-11-14T07:17:14.411Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.16,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-october",
+      "path": "/en/insights/edge/ai-radar-october",
+      "title": "Agentic Enterprise: Why Software Licensing Is Changing | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/insights/edge/ai-radar-october/index.html",
+        "metaJson": "stardust/migrated/en/insights/edge/ai-radar-october/_meta.json",
+        "sourceHash": "sha256:81fb564e72b6b5991d42aed40077d3769834dd3b7ac1c191b673a5c19a86c149",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/ai-radar-october/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ai-radar-october",
+        "deployedAt": "2026-11-13T13:28:13.861Z",
+        "verifiedAt": "2026-11-14T07:17:13.539Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.35,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-pilots",
+      "path": "/en/insights/edge/ai-radar-pilots",
+      "title": "AI Radar: The Reality of Agentic AI | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:092a3b2171e86f9f2795ee955487c99588250d0a59bf1b2ac30d1d8820f731f2",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-ai-radar-pilots.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/ai-radar-pilots/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ai-radar-pilots",
+        "deployedAt": "2026-11-13T18:34:31.271Z",
+        "verifiedAt": "2026-11-14T07:17:14.534Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.25,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-ai-radar-september",
+      "path": "/en/insights/edge/ai-radar-september",
+      "title": "AI Radar: The Reality of Agentic AI | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:3dc896191289e4bc4555c3328a5bd66462ae133b1e4a2c9b4aec02d88c9987bc",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-ai-radar-september.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/ai-radar-september/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ai-radar-september",
+        "deployedAt": "2026-11-13T18:34:31.596Z",
+        "verifiedAt": "2026-11-14T07:17:14.628Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.26,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-cdp-evaluation",
+      "path": "/en/insights/edge/cdp-evaluation",
+      "title": "How to Choose a Customer Data Platform (CDP): 10 Criteria | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0a9f4a107c7f1de3d04f04c413068d4acb3de689ef00ee490bbe47d2e2dc70a7",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-cdp-evaluation.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/cdp-evaluation/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/cdp-evaluation",
+        "deployedAt": "2026-11-13T18:34:29.869Z",
+        "verifiedAt": "2026-11-14T07:17:14.719Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.29,
+          "heightDelta": -28,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform",
+      "path": "/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform",
+      "title": "Choosing a CMS: How to Find the Right Platform | diva-e Conclusion | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:d97da811a061c34479801d0e2fda37bf0a7f6e7281c560617aeaa085a8d8f1d7",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-cms-auswahl-so-finden-sie-die-passende-plattform.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/cms-auswahl-so-finden-sie-die-passende-plattform",
+        "deployedAt": "2026-11-13T18:34:30.135Z",
+        "verifiedAt": "2026-11-14T07:17:14.809Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.61,
+          "heightDelta": -43,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-commerce-platform-evaluation",
+      "path": "/en/insights/edge/commerce-platform-evaluation",
+      "title": "How to Choose a Commerce Platform: 9 Key Criteria | diva-e | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0a641a6604c10e8b4c8ea4a45ca66f04e37a06c9f5959693f84853f115cd21a3",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-commerce-platform-evaluation.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/commerce-platform-evaluation/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/commerce-platform-evaluation",
+        "deployedAt": "2026-11-13T18:34:30.289Z",
+        "verifiedAt": "2026-11-14T07:17:14.891Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.38,
+          "heightDelta": 55,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-conclusion-connect-recap",
+      "path": "/en/insights/edge/conclusion-connect-recap",
+      "title": "Conclusion Connect 2026 Recap: From AI Vision to Business Value | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:872cfef17a7364bbaea373c2b3b1b384a358215b61104f42b6a514132ca75301",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-conclusion-connect-recap.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/conclusion-connect-recap/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/conclusion-connect-recap",
+        "deployedAt": "2026-11-13T18:34:29.545Z",
+        "verifiedAt": "2026-11-14T07:17:14.988Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.41,
+          "heightDelta": -28,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-crm-auswaehlen-leitfaden",
+      "path": "/en/insights/edge/crm-auswaehlen-leitfaden",
+      "title": "How to Choose the Right CRM: Finding the Best Solution for Your Business | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:aac5b561fbad3d0f3b5d97c1abc5bfd90da69f3c598f101d7d656fba6e0ba160",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-crm-auswaehlen-leitfaden.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/crm-auswaehlen-leitfaden/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/crm-auswaehlen-leitfaden",
+        "deployedAt": "2026-11-13T18:34:29.774Z",
+        "verifiedAt": "2026-11-14T07:17:15.075Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.43,
+          "heightDelta": -24,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-cypress-playwright-selenium",
+      "path": "/en/insights/edge/cypress-playwright-selenium",
+      "title": "Cypress, Playwright or Selenium? | Framework Comparison | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b525863fdc750023d4395c9d832ae41cab7ff9b4fa178b20e936db93a03b2b40",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-cypress-playwright-selenium.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/cypress-playwright-selenium/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/cypress-playwright-selenium",
+        "deployedAt": "2026-11-13T18:34:29.272Z",
+        "verifiedAt": "2026-11-14T07:17:15.174Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 24.59,
+          "heightDelta": -1404,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 24.59% > 10%",
+            "Δh -1404px > 5% of 6352"
+          ],
+          "override": "source-overflow",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-digital-product-passport-dpp-readiness-audit",
+      "path": "/en/insights/edge/digital-product-passport-dpp-readiness-audit",
+      "title": "Digital Product Passport: Are You DPP-Ready? | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:4785029fa0830963d8cfce722514270034905346f5c7cd475142ea5cb36dbbde",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-digital-product-passport-dpp-readiness-audit.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/digital-product-passport-dpp-readiness-audit/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/digital-product-passport-dpp-readiness-audit",
+        "deployedAt": "2026-11-13T18:34:29.652Z",
+        "verifiedAt": "2026-11-14T07:17:15.270Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.02,
+          "heightDelta": 11,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-from-data-silos-to-digital-commerce",
+      "path": "/en/insights/edge/from-data-silos-to-digital-commerce",
+      "title": "From Data Silos to Digital Commerce | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b3285cf9b25ab5bf46f13567bdbfb4afc37b3536b8f903f358a5b985094cde7a",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-from-data-silos-to-digital-commerce.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/from-data-silos-to-digital-commerce/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/from-data-silos-to-digital-commerce",
+        "deployedAt": "2026-11-13T18:34:32.289Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.64,
+          "heightDelta": 535,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-geo-gaio-gaps",
+      "path": "/en/insights/edge/geo-gaio-gaps",
+      "title": "AI Visibility 2026: The 5 Biggest GEO/GAIO Gaps Brands Must Fix | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:9694345ad706f94e86b832a5988ca6ff6efd7721011e6c4f952540a27bd60162",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-geo-gaio-gaps.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/geo-gaio-gaps/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/geo-gaio-gaps",
+        "deployedAt": "2026-11-13T18:34:33.140Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.99,
+          "heightDelta": 1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-geo-ymyl",
+      "path": "/en/insights/edge/geo-ymyl",
+      "title": "From Rankings to Recommendations: AI Search & YMYL Businesses | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:7add611d78d32cf9c42795c719a8f9d849046bd7ac8de91501eeeb065945596f",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-geo-ymyl.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/geo-ymyl/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/geo-ymyl",
+        "deployedAt": "2026-11-13T18:34:32.081Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.67,
+          "heightDelta": 15,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-greenwashing-retail",
+      "path": "/en/insights/edge/greenwashing-retail",
+      "title": "Greenwashing: New Rules Effective September 2026 | Content Governance | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b522394d488218ae493af9d0d145b2daa2808a79e8cdb5fe6c72a63554254162",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-greenwashing-retail.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/greenwashing-retail/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/greenwashing-retail",
+        "deployedAt": "2026-11-13T18:34:31.122Z",
+        "verifiedAt": "2026-11-14T07:17:15.391Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.68,
+          "heightDelta": -21,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-ifm-ai-product-advisor",
+      "path": "/en/insights/edge/ifm-ai-product-advisor",
+      "title": "AI Application Assistant for Product Search: The ifm Case | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:bb65bbd83bc0f117d73c9414131536ed09c9a3e33ca60683ecfb92a11dbd3b78",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-ifm-ai-product-advisor.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/ifm-ai-product-advisor/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ifm-ai-product-advisor",
+        "deployedAt": "2026-11-13T18:34:30.006Z",
+        "verifiedAt": "2026-11-14T07:17:15.510Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.49,
+          "heightDelta": -52,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.49% > 10%"
+          ],
+          "override": "font-substitution",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-industry-trends-2026",
+      "path": "/en/insights/edge/industry-trends-2026",
+      "title": "Industry Trends 2026: Technology, AI and CX | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:5dc4c53dabd138f124e214834c6898c673f044a0349df7979d4483eb2ba8147c",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-industry-trends-2026.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/industry-trends-2026/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/industry-trends-2026",
+        "deployedAt": "2026-11-13T18:34:32.990Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.98,
+          "heightDelta": 74,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-innovation-marketplace",
+      "path": "/en/insights/edge/innovation-marketplace",
+      "title": "The New IT Project Paradigm: Innovation Through Standardization | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ecf004f143de5074ade11744c743babd6aeee630cadefa4553e815b5a75e7c13",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-innovation-marketplace.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/innovation-marketplace/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/innovation-marketplace",
+        "deployedAt": "2026-11-13T18:34:31.965Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.42,
+          "heightDelta": -27,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-ki-agenten-fertigung-dreamforce-2026",
+      "path": "/en/insights/edge/ki-agenten-fertigung-dreamforce-2026",
+      "title": "AI Agents in Manufacturing: What Dreamforce 2026 Shows | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a26f53d1d5a13d4ec4b1987a2a9f732a8b7f21238966d1cf69f53a6797b12540",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-ki-agenten-fertigung-dreamforce-2026.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/ki-agenten-fertigung-dreamforce-2026/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ki-agenten-fertigung-dreamforce-2026",
+        "deployedAt": "2026-11-13T18:34:28.559Z",
+        "verifiedAt": "2026-11-14T07:17:15.641Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.7,
+          "heightDelta": 16,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-ki-in-der-qualitaetssicherung",
+      "path": "/en/insights/edge/ki-in-der-qualitaetssicherung",
+      "title": "AI in QA: Speed Meets Human Experience | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:54fde19ce68fc34948fcc71bfc4d7c2551fc65b51dbe6ed692cd10d6e1050fad",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-ki-in-der-qualitaetssicherung.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/ki-in-der-qualitaetssicherung/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/ki-in-der-qualitaetssicherung",
+        "deployedAt": "2026-11-13T18:34:33.663Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.86,
+          "heightDelta": -7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-lead-to-cash-in-sap",
+      "path": "/en/insights/edge/lead-to-cash-in-sap",
+      "title": "AI Use Cases in SAP Lead-to-Cash: How to Prioritize | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:bf24a886a74a0121ff5a48e3f16f26cd0ac9859eaf63b69a6da431984dc8c30e",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-lead-to-cash-in-sap.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/lead-to-cash-in-sap/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/lead-to-cash-in-sap",
+        "deployedAt": "2026-11-13T18:34:28.806Z",
+        "verifiedAt": "2026-11-14T07:17:15.775Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.05,
+          "heightDelta": 19,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit",
+      "path": "/en/insights/edge/millionenstrafe-wegen-fehlender-barrierefreiheit",
+      "title": "Millions in fines for lack of digital accessibility in e-commerce | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:5f063aa304b35bec8531c290d7a21de788a21e2e8ef5da070c50bdd6fcd8f30d",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-millionenstrafe-wegen-fehlender-barrierefreiheit.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/millionenstrafe-wegen-fehlender-barrierefreiheit/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/millionenstrafe-wegen-fehlender-barrierefreiheit",
+        "deployedAt": "2026-11-13T18:34:32.395Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.59,
+          "heightDelta": -31,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden",
+      "path": "/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden",
+      "title": "How to Choose the Right PIM System for Your Business | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:66366c776c0de37a58de5d3278a87017bb4ffbcd98ffa9ee923b0a747bfd2d4a",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-pim-system-auswaehlen-richtige-pim-loesung-finden.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/pim-system-auswaehlen-richtige-pim-loesung-finden",
+        "deployedAt": "2026-11-13T18:34:30.399Z",
+        "verifiedAt": "2026-11-14T07:17:15.914Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.42,
+          "heightDelta": 6,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-projekt-recap-aus-der-praxis",
+      "path": "/en/insights/edge/projekt-recap-aus-der-praxis",
+      "title": "Strong Delivery, Weak Impact? | A Real Project Recap | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1d25492c414d7e6891fcf6d22a37910d3f417592f47034f5c11cb7073e3d3987",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-projekt-recap-aus-der-praxis.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/projekt-recap-aus-der-praxis/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/projekt-recap-aus-der-praxis",
+        "deployedAt": "2026-11-13T18:34:32.608Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.41,
+          "heightDelta": -7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-qa-sap-ai",
+      "path": "/en/insights/edge/qa-sap-ai",
+      "title": "Intelligent Q&A SAP CX AI Toolkit | AI for Customer Experience | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:13bd2536238393421793d37b5e7b3b40de8206f4957db38053f879e7f523663b",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-qa-sap-ai.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/QA_SAP_AI/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/qa-sap-ai",
+        "deployedAt": "2026-11-13T18:34:33.546Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.99,
+          "heightDelta": -42,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-salesforce-marketing-cloud-engagement-gartner",
+      "path": "/en/insights/edge/salesforce-marketing-cloud-engagement-gartner",
+      "title": "Salesforce Marketing Cloud Engagement Named Leader in Gartner Magic Quadrant | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a8cd14d7e38c8d9e535a5a4b8a6f217f40a2266b3a64f9e511ac7c54a7aa06ea",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-salesforce-marketing-cloud-engagement-gartner.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/salesforce-marketing-cloud-engagement-gartner/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/salesforce-marketing-cloud-engagement-gartner",
+        "deployedAt": "2026-11-13T18:34:33.405Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.27,
+          "heightDelta": -55,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-salesforce-partner-day-recap",
+      "path": "/en/insights/edge/salesforce-partner-day-recap",
+      "title": "Salesforce Partner Day Recap: Why Marketing Cloud Next is a Gamechanger | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a1f4a3f6fb4deac7dc240aff18f6edc274747124390d2d7ef50e1e49e540a014",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-salesforce-partner-day-recap.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/salesforce-partner-day-recap/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/salesforce-partner-day-recap",
+        "deployedAt": "2026-11-13T18:34:32.874Z",
+        "verifiedAt": "2026-11-14T07:17:16.017Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.46,
+          "heightDelta": -35,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-sap-joule-und-die-business-data-cloud",
+      "path": "/en/insights/edge/sap-joule-und-die-business-data-cloud",
+      "title": "SAP Joule and Business Data Cloud: The Core of the Intelligent Enterprise | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e05582c15fca691eca9819b125e0d55f35296e7b80b177465451d2403aff967b",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-sap-joule-und-die-business-data-cloud.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/sap-joule-und-die-business-data-cloud/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/sap-joule-und-die-business-data-cloud",
+        "deployedAt": "2026-11-13T18:34:32.740Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.33,
+          "heightDelta": 91,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-security-anomaly-agent-use-case",
+      "path": "/en/insights/edge/security-anomaly-agent-use-case",
+      "title": "Security Anomaly Agent – AI-powered Attack Detection & Anomaly Detection | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:5eb9d007c45fd242df1f0dcc45228cb2b3e9e904777807e05adb6102e35faebc",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-security-anomaly-agent-use-case.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/security-anomaly-agent-use-case/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/security-anomaly-agent-use-case",
+        "deployedAt": "2026-11-13T18:34:31.858Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.46,
+          "heightDelta": -16,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-tech-evaluation-short-list",
+      "path": "/en/insights/edge/tech-evaluation-short-list",
+      "title": "How to Reduce 1,000+ Tools to a Shortlist of 3 | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0ada49f5dac2b9db393ff0ee226f4b4840451b8ac37f7925f8571c013d3fb300",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-tech-evaluation-short-list.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/tech-evaluation-short-list/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/tech-evaluation-short-list",
+        "deployedAt": "2026-11-13T18:34:32.193Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.25,
+          "heightDelta": -78,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-ai",
+      "path": "/en/insights/edge/tech-reality-check-ai",
+      "title": "AI in the Enterprise: Efficiency Instead of Transformation | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b9e7f609e0799d9d0e0075fad15d80cfd512d5ea523c0bccf9b89bdc3f90ebea",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-tech-reality-check-ai.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/tech-reality-check-ai/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/tech-reality-check-ai",
+        "deployedAt": "2026-11-13T18:34:28.964Z",
+        "verifiedAt": "2026-11-14T07:17:16.136Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.63,
+          "heightDelta": -7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-tech-reality-check-technical-debt",
+      "path": "/en/insights/edge/tech-reality-check-technical-debt",
+      "title": "Technical Debt: Why It Is Missing in Investments | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:9e000284b3c1ab0f90e4e69ee5d8025a50feefc5615d3c47484c422a36a8f7db",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-tech-reality-check-technical-debt.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/tech-reality-check-technical-debt/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/tech-reality-check-technical-debt",
+        "deployedAt": "2026-11-13T18:34:29.139Z",
+        "verifiedAt": "2026-11-14T07:17:16.250Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.44,
+          "heightDelta": -21,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026",
+      "path": "/en/insights/edge/the-electronic-withdrawal-button-is-coming-in-june-2026",
+      "title": "The Electronic Withdrawal Button Is Coming in June 2026: What Online Retailers Need to Know | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1a0c7e310174b60ee4fa45456c9500618f51b866b31736b34d7050772653ee2b",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-the-electronic-withdrawal-button-is-coming-in-june-2026.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/the-electronic-withdrawal-button-is-coming-in-june-2026/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/the-electronic-withdrawal-button-is-coming-in-june-2026",
+        "deployedAt": "2026-11-13T18:34:32.488Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.16,
+          "heightDelta": -79,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-edge-vendor-lab-day",
+      "path": "/en/insights/edge/vendor-lab-day",
+      "title": "Tech Evaluation Lab Day: Test Platform Fit, Not Just Features | diva-e Conclusion",
+      "templateId": "en-insights-edge-ai-radar-october",
+      "representative": "en-insights-edge-ai-radar-october",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:4ac5d7e19df19262685d9e43bba6fa2a0ef3d504f2decabba87e5b8a0afa9f23",
+        "currentStatePath": "stardust/current/pages/en-insights-edge-vendor-lab-day.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/edge/vendor-lab-day/"
+      },
+      "blocks": [
+        "read-progress",
+        "article-hero",
+        "topics",
+        "author-card",
+        "related"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/edge/vendor-lab-day",
+        "deployedAt": "2026-11-13T18:34:30.716Z",
+        "verifiedAt": "2026-11-14T07:17:16.351Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.37,
+          "heightDelta": 99,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.37% > 10%"
+          ],
+          "override": "font-substitution",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-events",
+      "path": "/en/insights/events",
+      "title": "Current events & webinars | diva-e Conclusion",
+      "templateId": "en-insights-edge",
+      "representative": "en-insights-edge",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:134d0e3717c26b02e0b1053ef27e9c59dbc9dc407cd0f062d50c687bc9f94f09",
+        "currentStatePath": "stardust/current/pages/en-insights-events.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/events/"
+      },
+      "blocks": [
+        "mixed-media",
+        "article-list"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/events",
+        "deployedAt": "2026-11-13T17:54:43.581Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.36,
+          "heightDelta": 4,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 4,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.36% > 10%"
+          ],
+          "override": "font-substitution",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-news",
+      "path": "/en/insights/news",
+      "title": "Latest news | diva-e Conclusion",
+      "templateId": "en-insights-edge",
+      "representative": "en-insights-edge",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:498e36638bc02842d2e4ba5da721e7d2e471990f3ef79b67311ba5c0d24d3051",
+        "currentStatePath": "stardust/current/pages/en-insights-news.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/news/"
+      },
+      "blocks": [
+        "mixed-media",
+        "article-list"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/news",
+        "deployedAt": "2026-11-13T17:54:44.627Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.56,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 4,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-insights-press",
+      "path": "/en/insights/press",
+      "title": "Press: Latest news & newsroom | diva-e Conclusion",
+      "templateId": "en-insights-edge",
+      "representative": "en-insights-edge",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:3acd9d1768f5b97ad56f4eed6be7896012875bd4a4250ca7d50f00cfd9af3879",
+        "currentStatePath": "stardust/current/pages/en-insights-press.json",
+        "sourceUrl": "https://www.diva-e.com/en/insights/press/"
+      },
+      "blocks": [
+        "mixed-media",
+        "article-list"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/insights/press",
+        "deployedAt": "2026-11-13T17:54:44.362Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.82,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-loyalty-quiz",
+      "path": "/en/loyalty-quiz",
+      "title": "Loyalty Health Check: Test & Optimize | diva-e | diva-e Conclusion",
+      "templateId": "en-contact",
+      "representative": "en-contact",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:da41a9a15b8929888689290b5f638b4768cdbecb4b11996198e59b2e13a53deb",
+        "currentStatePath": "stardust/current/pages/en-loyalty-quiz.json",
+        "sourceUrl": "https://www.diva-e.com/en/loyalty-quiz/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/loyalty-quiz",
+        "deployedAt": "2026-11-13T16:13:08.843Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.89,
+          "heightDelta": -2,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-marketplace",
+      "path": "/en/marketplace",
+      "title": "Ready-Made Digital Solutions for Real Business Challenges | diva-e Conclusion",
+      "templateId": "en-insights-edge",
+      "representative": "en-insights-edge",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0c761acbcda6971c8a6fe9b4727904cc92c022828ca4e51dbb7f7353d976f4fb",
+        "currentStatePath": "stardust/current/pages/en-marketplace.json",
+        "sourceUrl": "https://www.diva-e.com/en/marketplace/"
+      },
+      "blocks": [
+        "mixed-media",
+        "article-list"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/marketplace",
+        "deployedAt": "2026-11-13T17:54:42.709Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.24,
+          "heightDelta": 31,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 4,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-newsletter",
+      "path": "/en/newsletter",
+      "title": "Newsletter: expert knowledge straight to your inbox | diva-e Conclusion",
+      "templateId": "en-contact",
+      "representative": "en-contact",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:400459032f18fdc39470095ac9361de7b78918e2f3a75ef5d629a7d3d8c76db1",
+        "currentStatePath": "stardust/current/pages/en-newsletter.json",
+        "sourceUrl": "https://www.diva-e.com/en/newsletter/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/newsletter",
+        "deployedAt": "2026-11-13T16:13:09.557Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.2,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-search",
+      "path": "/en/search",
+      "title": "Search content & services | diva-e Conclusion",
+      "templateId": "en-contact",
+      "representative": "en-contact",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1ac0db6e5a40663ca106da055cdfb1fac6b73fb360fea668183af4ae0ae87c82",
+        "currentStatePath": "stardust/current/pages/en-search.json",
+        "sourceUrl": "https://www.diva-e.com/en/search/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/search",
+        "deployedAt": "2026-11-13T16:13:10.021Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.31,
+          "heightDelta": -4,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-security-quiz",
+      "path": "/en/security-quiz",
+      "title": "Security Quiz – Test Your Cybersecurity Skills | diva-e Conclusion",
+      "templateId": "en-contact",
+      "representative": "en-contact",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:cc9b46d49815f14aa4bde6ad1e3bbcbc8b9c190d35d87f3a69e800e0d95c4532",
+        "currentStatePath": "stardust/current/pages/en-security-quiz.json",
+        "sourceUrl": "https://www.diva-e.com/en/security-quiz/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/security-quiz",
+        "deployedAt": "2026-11-13T16:13:09.083Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.77,
+          "heightDelta": 29,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-security-quiz-security-questions",
+      "path": "/en/security-quiz/security-questions",
+      "title": "Security Quiz – Test Your Cybersecurity Skills | diva-e Conclusion",
+      "templateId": "en-contact",
+      "representative": "en-contact",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:2ea0b1160d39e9b26d8ec0db9a95f92f9cb47870653b8c42e8757d96e8bb5ebf",
+        "currentStatePath": "stardust/current/pages/en-security-quiz-security-questions.json",
+        "sourceUrl": "https://www.diva-e.com/en/security-quiz/security-questions/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/security-quiz/security-questions",
+        "deployedAt": "2026-11-13T16:13:10.741Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.75,
+          "heightDelta": 7,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-services-ai",
+      "path": "/en/services/ai",
+      "title": "AI Solutions for Measurable Business Impact | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:2ecd16a57355871ffb3213f99d8145c13b0b60339064d2ed74b198aeec6f4c0b",
+        "currentStatePath": "stardust/current/pages/en-services-ai.json",
+        "sourceUrl": "https://www.diva-e.com/en/services/ai/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/services/ai",
+        "deployedAt": "2026-11-13T15:09:27.342Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.21,
+          "heightDelta": -25,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-services-ams",
+      "path": "/en/services/ams",
+      "title": "Professional AMS support for companies | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:7d5b08a47877411d291440c82dc9e91f6f96eccb5190a57330934819e7c1a592",
+        "currentStatePath": "stardust/current/pages/en-services-ams.json",
+        "sourceUrl": "https://www.diva-e.com/en/services/ams/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/services/ams",
+        "deployedAt": "2026-11-13T15:09:29.695Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.33,
+          "heightDelta": 12,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 2,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".partners-bar__partner-container=.partners-bar-rows"
+            ]
+          },
+          "reasons": [
+            "content MISSING 0 / HIDDEN 2"
+          ],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-services-crm",
+      "path": "/en/services/crm",
+      "title": "CRM Services for Stronger Customer Relationships | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/services/crm/index.html",
+        "metaJson": "stardust/migrated/en/services/crm/_meta.json",
+        "sourceHash": "sha256:c525b7ed29b0f115190223aeed3fbfbbf0345b0fb93242a15c87c9cc03ae1187",
+        "sourceUrl": "https://www.diva-e.com/en/services/crm/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/services/crm",
+        "deployedAt": "2026-11-13T13:24:31.730Z",
+        "verifiedAt": "2026-11-14T07:17:13.658Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.09,
+          "heightDelta": -1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-services-digital-consulting",
+      "path": "/en/services/digital-consulting",
+      "title": "Digital Consulting & Analytics Success | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0c4904da7d513b7c796ef15bf4e1deaf64f3812ee58b994aa7b02b5735bed600",
+        "currentStatePath": "stardust/current/pages/en-services-digital-consulting.json",
+        "sourceUrl": "https://www.diva-e.com/en/services/digital-consulting/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/services/digital-consulting",
+        "deployedAt": "2026-11-13T15:09:27.765Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 4.1,
+          "heightDelta": -6,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-services-digital-marketing",
+      "path": "/en/services/digital-marketing",
+      "title": "SEO, content & paid at a glance | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:70fe37317015f71f9e9071aeb9b0e9158dfd84c9ba25c188d9eab0cca9cbf09c",
+        "currentStatePath": "stardust/current/pages/en-services-digital-marketing.json",
+        "sourceUrl": "https://www.diva-e.com/en/services/digital-marketing/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/services/digital-marketing",
+        "deployedAt": "2026-11-13T15:09:35.426Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.12,
+          "heightDelta": 44,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-services-digital-produktpass-audit",
+      "path": "/en/services/digital-produktpass-audit",
+      "title": "Digital Product Passport Audit | DPP Readiness | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:45cf35f813356e29eb3ae886346cddae5e251481d495efb40134b8c198431d17",
+        "currentStatePath": "stardust/current/pages/en-services-digital-produktpass-audit.json",
+        "sourceUrl": "https://www.diva-e.com/en/services/digital-produktpass-audit/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/services/digital-produktpass-audit",
+        "deployedAt": "2026-11-13T15:09:28.280Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.76,
+          "heightDelta": 146,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-services-dxp",
+      "path": "/en/services/dxp",
+      "title": "Scalable digital experience platforms | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:435f9960598864dda0c017eb0fc7e6a167ece60bffa38bb2afe8721811741f42",
+        "currentStatePath": "stardust/current/pages/en-services-dxp.json",
+        "sourceUrl": "https://www.diva-e.com/en/services/dxp/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/services/dxp",
+        "deployedAt": "2026-11-13T15:09:28.711Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.38,
+          "heightDelta": -24,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "en-services-total-experience",
+      "path": "/en/services/total-experience",
+      "title": "Total Experience (TX) – Your Strategy for Digital Excellence | diva-e Conclusion",
+      "templateId": "en-services-crm",
+      "representative": "en-services-crm",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:d733f9d1e62515f23145194e4762bd5afc97ec67459db8a03b9420cb79246021",
+        "currentStatePath": "stardust/current/pages/en-services-total-experience.json",
+        "sourceUrl": "https://www.diva-e.com/en/services/total-experience/"
+      },
+      "blocks": [
+        "hero",
+        "breadcrumbs",
+        "image-caption",
+        "cards",
+        "button-group",
+        "teaser-slider",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/en/services/total-experience",
+        "deployedAt": "2026-11-13T15:09:30.539Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.61,
+          "heightDelta": 40,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    },
+    {
+      "slug": "index",
+      "path": "/",
+      "title": "Ihr Digital Experience Partner | diva-e Conclusion",
+      "templateId": "en",
+      "representative": "en",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:175929031db3652df00d96e6dea69b47bd5e8988ecb67378f31b3218a696b13d",
+        "currentStatePath": "stardust/current/pages/index.json",
+        "sourceUrl": "https://www.diva-e.com/"
+      },
+      "blocks": [
+        "hero",
+        "cards",
+        "teaser-slider",
+        "slider-cards",
+        "partners-bar",
+        "form-block"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--a608424f--aemcoder.aem.page/",
+        "deployedAt": "2026-11-13T14:49:34.617Z",
+        "verifiedAt": "2026-11-14T07:15:45.709Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.72,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 1,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": [
+              ".partners-bar__partner-container=.partners-bar-rows"
+            ]
+          },
+          "reasons": [],
+          "override": "marquee-phase",
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-14T07:00:37.540Z"
+        }
+      }
+    }
+  ]
+}

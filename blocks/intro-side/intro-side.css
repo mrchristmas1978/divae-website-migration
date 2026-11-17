@@ -1,0 +1,289 @@
+/* intro-side — diva-e IntroSideContainer */
+.intro-side {
+  padding: 0 var(--pad-x);
+}
+
+.intro-side.top {
+  margin-top: 40px;
+}
+
+.intro-side.bottom {
+  margin-bottom: 40px;
+}
+
+.intro-side .intro-side-column {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 44px 24px;
+  width: 100%;
+}
+
+.intro-side .intro-side-intro {
+  width: 100%;
+}
+
+.intro-side .intro-side-headline {
+  margin-bottom: 40px;
+}
+
+.intro-side .intro-side-headline :is(h2, h3) {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+.intro-side .intro-side-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  width: 100%;
+}
+
+.intro-side .intro-side-anchor {
+  padding-top: 40px;
+  border-top: 1px solid var(--hairline);
+}
+
+.intro-side .intro-side-anchor .anchor-title {
+  font-weight: 700;
+}
+
+.intro-side .intro-side-anchor ul {
+  margin-top: 4px;
+  padding: 0;
+  list-style: none;
+}
+
+.intro-side .intro-side-anchor li {
+  position: relative;
+  display: block;
+  margin-top: 16px;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.intro-side .intro-side-anchor li::before {
+  content: none;
+}
+
+.intro-side .intro-side-anchor li a:any-link {
+  border-bottom: 0;
+  color: var(--navy);
+  text-align: left;
+  text-decoration: underline;
+  text-decoration-color: var(--blue);
+  text-underline-position: under;
+}
+
+@media (width >= 768px) {
+  .intro-side.top {
+    margin-top: 64px;
+  }
+
+  .intro-side.bottom {
+    margin-bottom: 64px;
+  }
+
+  .intro-side .intro-side-column {
+    justify-content: space-between;
+    width: calc(1100% / 12 - 1 * 24px / 12);
+    margin-left: calc(100% / 12 - 11 * 24px / 12 + 24px);
+  }
+}
+
+@media (width >= 950px) {
+  .intro-side .intro-side-intro {
+    width: calc(600% / 11 - 5 * 24px / 11);
+  }
+
+  .intro-side .intro-side-sidebar {
+    align-self: flex-end;
+    width: calc(400% / 11 - 7 * 24px / 11);
+  }
+}
+
+@media (width >= 1200px) {
+  .intro-side.bottom {
+    margin-bottom: 80px;
+  }
+
+  .intro-side .intro-side-headline :is(h2, h3) {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  .intro-side .intro-side-headline :is(h2, h3) {
+    font-size: 4.7rem;
+  }
+}
+
+/* variant `toc` — the source's IntroSideAnchorText (article intro): a "Content:" anchor list
+   (authored second, painted first) beside an 8-of-12 lead paragraph column */
+.intro-side.toc {
+  margin: 40px 0;
+  padding-bottom: 40px;
+}
+
+.intro-side.toc .intro-side-column {
+  gap: 48px 24px;
+}
+
+.intro-side.toc .intro-side-sidebar {
+  order: -1;
+  gap: 44px;
+}
+
+.intro-side.toc .intro-side-anchor {
+  padding-top: 24px;
+}
+
+.intro-side.toc .intro-side-anchor .anchor-title {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  font-weight: 400;
+  font-variation-settings: "slnt" 0;
+  line-height: 120%;
+  hyphens: auto;
+}
+
+.intro-side.toc .intro-side-anchor .anchor-title::before {
+  content: "";
+  width: 16px;
+  height: 16px;
+  margin-right: 16px;
+  padding-right: 16px;
+  border-radius: 100%;
+  background: var(--blue);
+  filter: blur(4px);
+}
+
+.intro-side.toc .intro-side-anchor ul {
+  margin-top: 20px;
+}
+
+/* the source's anchor items are text-small: 20px / 150% below 768 (the link inside stays 16px) */
+.intro-side.toc .intro-side-anchor li {
+  margin-top: 12px;
+  font-size: 2rem;
+  line-height: 150%;
+}
+
+.intro-side.toc .intro-side-anchor li a:any-link {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 400;
+  font-variation-settings: "slnt" 0;
+  letter-spacing: 0;
+  line-height: 150%;
+}
+
+.intro-side.toc .intro-side-paragraph p {
+  font-size: 1.8rem;
+  letter-spacing: 0;
+  line-height: 150%;
+}
+
+/* the source leaves <b> at the UA's bolder, not the foundation's 700 */
+.intro-side.toc .intro-side-paragraph :is(b, strong) {
+  font-weight: bolder;
+}
+
+/* Inter ships upright only; the source lets the browser oblique <i>/<em> */
+.intro-side.toc .intro-side-paragraph :is(i, em) {
+  font-synthesis-style: auto;
+}
+
+@media (width >= 768px) {
+  .intro-side.toc {
+    margin: 64px 0;
+    padding-bottom: 0;
+  }
+
+  .intro-side.toc .intro-side-column {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .intro-side.toc .intro-side-anchor ul {
+    max-width: 540px;
+  }
+
+  .intro-side.toc .intro-side-anchor li {
+    margin-top: 16px;
+    font-size: inherit;
+    line-height: inherit;
+  }
+}
+
+@media (width >= 950px) {
+  .intro-side.toc .intro-side-column {
+    justify-content: flex-start;
+  }
+
+  .intro-side.toc .intro-side-intro {
+    width: calc(800% / 12 - 4 * 24px / 12);
+  }
+
+  .intro-side.toc .intro-side-sidebar {
+    align-self: auto;
+    width: calc(400% / 12 - 8 * 24px / 12);
+  }
+
+  .intro-side.toc .intro-side-anchor {
+    padding-top: 40px;
+  }
+
+  .intro-side.toc .intro-side-paragraph p {
+    font-size: 2rem;
+  }
+}
+
+@media (width >= 1024px) {
+  .intro-side.toc .intro-side-paragraph {
+    padding-left: 40px;
+  }
+}
+
+@media (width >= 1200px) {
+  .intro-side.toc {
+    margin: 80px 0;
+  }
+
+  .intro-side.toc .intro-side-anchor .anchor-title {
+    font-size: 3.9rem;
+  }
+}
+
+@media (width >= 1600px) {
+  .intro-side.toc .intro-side-column {
+    width: calc(1000% / 12 - 2 * 24px / 12);
+    margin: 0 auto;
+  }
+
+  .intro-side.toc .intro-side-intro {
+    width: calc(600% / 10 - 4 * 24px / 10);
+  }
+
+  .intro-side.toc .intro-side-sidebar {
+    width: calc(400% / 10 - 6 * 24px / 10);
+  }
+
+  .intro-side.toc .intro-side-anchor .anchor-title {
+    font-size: 4.7rem;
+  }
+
+  .intro-side.toc .intro-side-anchor li a:any-link {
+    font-size: 2rem;
+  }
+
+  .intro-side.toc .intro-side-paragraph p {
+    font-size: 2.4rem;
+    letter-spacing: 0.02em;
+    line-height: 140%;
+  }
+}

@@ -1,0 +1,34 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.diva-e.com/en/ (live side from cache stardust/replica/gates/en-360/chrome-live.json, probed 2026-11-13T11:18:05.798Z — delete the file to re-probe)
+  build: http://localhost:8791/en-proposed.html
+
+■ header: 9 delta(s) — 9 paired of 9/9 texts, 1/1 icons
+  PAIR         "de"  fontWeight 400 → 300; letterSpacing normal → 0.32px
+  PAIR         "en"  fontWeight 400 → 300; letterSpacing normal → 0.32px; Δw +2px (50→52)
+  PAIR         "Services"  letterSpacing normal → 0.32px; paddingTop 16px → 13px; paddingRight 0px → 16px; paddingBottom 16px → 13px; paddingLeft 0px → 16px; textDecorationLine none → underline; Δw -197px (296→99); Δh -7px (51→44)
+  PAIR         "Marketplace"  paddingTop 16px → 13px; paddingRight 0px → 16px; paddingBottom 16px → 13px; paddingLeft 0px → 16px; textDecorationLine none → underline; Δy -7px (156→149); Δh -7px (51→44)
+  PAIR         "Industries"  letterSpacing normal → 0.32px; paddingTop 16px → 13px; paddingRight 0px → 16px; paddingBottom 16px → 13px; paddingLeft 0px → 16px; textDecorationLine none → underline; Δy -14px (208→194); Δw -187px (296→109); Δh -7px (51→44)
+  PAIR         "Partners"  paddingTop 16px → 13px; paddingRight 0px → 16px; paddingBottom 16px → 13px; paddingLeft 0px → 16px; textDecorationLine none → underline; Δy -21px (259→238); Δh -7px (51→44)
+  PAIR         "About us"  letterSpacing normal → 0.32px; paddingTop 16px → 13px; paddingRight 0px → 16px; paddingBottom 16px → 13px; paddingLeft 0px → 16px; textDecorationLine none → underline; Δy -28px (311→283); Δw -195px (296→101); Δh -7px (51→44)
+  PAIR         "Insights"  letterSpacing normal → 0.32px; paddingTop 16px → 13px; paddingRight 0px → 16px; paddingBottom 16px → 13px; paddingLeft 0px → 16px; textDecorationLine none → underline; Δy -35px (362→327); Δw -203px (296→93); Δh -7px (51→44)
+  PAIR         "Careers"  paddingTop 16px → 13px; paddingRight 0px → 16px; paddingBottom 16px → 13px; paddingLeft 0px → 16px; textDecorationLine none → underline; Δy -42px (413→371); Δh -7px (51→44)
+
+■ footer: 15 delta(s) — 22 paired of 22/22 texts, 4/4 icons
+  OFFSET       the region and its 7 paired text(s) sit Δy +17px from live as one block — content identical; the page above is a different height (fix that, or a live feed rendered another length)
+  PAIR         "Subscribe to diva-e newsletter!"  fontStyle normal → italic; Δy +17px (7539→7556)
+  PAIR         "Adobe Experience Cloud"  Δy +17px (7640→7657); Δw +7px (185→192)
+  PAIR         "Paid Advertising"  Δy +17px (7684→7701); Δw +3px (124→127)
+  PAIR         "Application Management"  Δy +17px (7728→7745); Δw +5px (188→193)
+  PAIR         "CDP"  Δx +5px (236→241); Δy +17px (7728→7745)
+  PAIR         "CMS"  Δx +6px (293→299); Δy +17px (7728→7745)
+  PAIR         "Content"  Δy +17px (7772→7789); Δw +2px (61→63)
+  PAIR         "Data Analysis"  Δx +2px (109→111); Δy +17px (7772→7789); Δw +3px (102→105)
+  PAIR         "Online Marketing"  Δy +17px (7816→7833); Δw +3px (128→131)
+  PAIR         "OneProSeo"  Δx +3px (176→179); Δy +17px (7816→7833); Δw +3px (84→87)
+  PAIR         "PIM"  Δx +6px (285→291); Δy +17px (7816→7833)
+  PAIR         "SEO"  Δx +2px (242→244); Δy +17px (7860→7877)
+  PAIR         "Salesforce"  Δy +17px (7904→7921); Δw +2px (80→82)
+  PAIR         "AI"  Δx +2px (128→130); Δy +17px (7904→7921)
+  PAIR         "Imprint"  Δx -8px (156→148); Δy +17px (7988→8005)
+
+✗ 24 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

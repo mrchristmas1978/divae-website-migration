@@ -1,0 +1,29 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.diva-e.com/en/about-us/customers/mann-hummel/ (live side from cache stardust/replica/gates/en-about-us-customers-mann-hummel-360/chrome-live.json, probed 2026-11-13T12:00:59.870Z — delete the file to re-probe)
+  build: http://localhost:8791/en-about-us-customers-mann-hummel-proposed.html
+
+■ header: 8 delta(s) — 9 paired of 9/9 texts, 1/1 icons
+  PAIR         "de"  Δw +2px (50→52)
+  PAIR         "en"  Δx +2px (214→216); Δw +2px (50→52)
+  PAIR         "Services"  Δw -235px (296→61)
+  PAIR         "Industries"  Δy -2px (208→206); Δw -227px (296→69)
+  PAIR         "Partners"  Δy -3px (259→256)
+  PAIR         "About us"  Δy -4px (311→307); Δw -233px (296→63)
+  PAIR         "Insights"  Δy -5px (362→357); Δw -241px (296→55)
+  PAIR         "Careers"  Δy -6px (413→407)
+
+■ footer: 12 delta(s) — 22 paired of 22/22 texts, 4/4 icons
+  PAIR         "Subscribe to diva-e newsletter!"  fontStyle normal → italic
+  PAIR         "Paid Advertising"  Δw -4px (124→120)
+  PAIR         "Application Management"  Δw -5px (188→183)
+  PAIR         "CDP"  Δx -5px (236→231); Δw +2px (33→35)
+  PAIR         "CMS"  Δx -3px (293→290)
+  PAIR         "Content"  Δw -3px (61→58)
+  PAIR         "Data Analysis"  Δx -3px (109→106)
+  PAIR         "Online Marketing"  Δw -2px (128→126)
+  PAIR         "OneProSeo"  Δx -2px (176→174); Δw +3px (84→87)
+  PAIR         "Monitor Reporting"  Δw -6px (139→133)
+  PAIR         "SAP"  Δx -6px (187→181)
+  PAIR         "SEO"  Δx -4px (242→238); Δw +3px (32→35)
+
+✗ 20 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.
